@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T07:44:57+0000",
+  "timestamp": "2026-05-11T08:15:04+0000",
   "articles": [
     {
       "title": "Chris Mason: Another crunch moment beckons for Starmer",
@@ -12,7 +12,7 @@
     {
       "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
       "link": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 11 May 2026 07:44:27 GMT",
+      "published": "Mon, 11 May 2026 08:06:27 GMT",
       "description": "The passengers landed in the UK on Sunday and none have reported symptoms, but they will will be monitored in hospital for 72 hours.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Bappenas terima laporan pemeriksaan kinerja ketahanan pangan dari BPK",
-      "link": "https://www.antaranews.com/berita/5563016/bappenas-terima-laporan-pemeriksaan-kinerja-ketahanan-pangan-dari-bpk",
-      "published": "Mon, 11 May 2026 14:40:30 +0700",
-      "description": "Menteri Perencanaan Pembangunan Nasional/Kepala Badan Perencanaan Pembangunan Nasional (PPN/Bappenas) Rachmat Pambudy ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hammer Fight Series 3 pecahkan dua rekor MURI dalam sehari di Jakarta",
-      "link": "https://www.antaranews.com/berita/5563015/hammer-fight-series-3-pecahkan-dua-rekor-muri-dalam-sehari-di-jakarta",
-      "published": "Mon, 11 May 2026 14:36:27 +0700",
-      "description": "Ajang Hammer Fight Series 3 mencetak sejarah dengan memecahkan dua rekor MURI yakni jumlah partai pertandingan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kakorlantas Polri tekankan pentingnya digitalisasi dan pelayanan humanis",
-      "link": "https://www.antaranews.com/berita/5563012/kakorlantas-polri-tekankan-pentingnya-digitalisasi-dan-pelayanan-humanis",
-      "published": "Mon, 11 May 2026 14:36:10 +0700",
-      "description": "Kepala Korps Lalu Lintas (Korlantas) Polri Irjen Polisi Agus Suryonugroho menekankan pentingnya digitalisasi, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Polda Jatim bongkar jaringan penipuan penjualan mobil daring nasional",
-      "link": "https://www.antaranews.com/berita/5563008/polda-jatim-bongkar-jaringan-penipuan-penjualan-mobil-daring-nasional",
-      "published": "Mon, 11 May 2026 14:35:14 +0700",
-      "description": "Direktorat Reserse Siber Kepolisian Daerah Jawa Timur membongkar jaringan penipuan penjualan mobil secara daring ...",
+      "error": "no element found: line 665, column 0",
       "source": "Antara News",
       "category": "Indonesia"
     }
