@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-11T18:48:01+0000",
+  "timestamp": "2026-05-11T19:18:09+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 100.0,
     "cores": 4,
     "load_avg": [
-      4.04,
+      4.15,
       2.71,
-      1.42
+      1.44
     ]
   },
   "memory": {
@@ -25,9 +25,9 @@
   },
   "uptime": {
     "days": 6,
-    "hours": 2,
-    "minutes": 36,
-    "total_seconds": 527785.77
+    "hours": 3,
+    "minutes": 6,
+    "total_seconds": 529593.77
   },
   "top_processes": [
     {
@@ -38,13 +38,7 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "14.2",
+      "cpu": "12.5",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -59,6 +53,12 @@
       "cpu": "0.4",
       "mem": "0.5",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "ollama",
+      "cpu": "0.3",
+      "mem": "0.0",
+      "command": "redis-server *:6379"
     }
   ]
 }
