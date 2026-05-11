@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T08:15:04+0000",
+  "timestamp": "2026-05-11T08:45:13+0000",
   "articles": [
     {
       "title": "Chris Mason: Another crunch moment beckons for Starmer",
@@ -12,7 +12,7 @@
     {
       "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
       "link": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 11 May 2026 08:06:27 GMT",
+      "published": "Mon, 11 May 2026 08:31:15 GMT",
       "description": "The passengers landed in the UK on Sunday and none have reported symptoms, but they will will be monitored in hospital for 72 hours.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 665, column 0",
+      "title": "Menkop: Presiden bakal luncurkan operasional 1.000 Kopdes pada Mei",
+      "link": "https://www.antaranews.com/berita/5563112/menkop-presiden-bakal-luncurkan-operasional-1000-kopdes-pada-mei",
+      "published": "Mon, 11 May 2026 15:43:37 +0700",
+      "description": "Menteri Koperasi Ferry Juliantono menyampaikan bahwa pemerintah merencanakan peluncuran operasional 1.000 Koperasi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Megawati resmi gabung Hyundai Hillstate untuk  musim 2026/2027",
+      "link": "https://www.antaranews.com/berita/5563108/megawati-resmi-gabung-hyundai-hillstate-untuk-musim-2026-2027",
+      "published": "Mon, 11 May 2026 15:42:36 +0700",
+      "description": "Bintang voli putri Indonesia Megawati Hangestri Pertiwi dipastikan kembali berkarier di Liga Voli Korea Selatan setelah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Hanya Simpan Bukti Struk! Tol Serang Panimbang Bagi-Bagi Hadiah untuk Pengguna yang Liburan ke Banten!",
+      "link": "https://www.antaranews.com/berita/5563105/hanya-simpan-bukti-struk-tol-serang-panimbang-bagi-bagi-hadiah-untuk-pengguna-yang-liburan-ke-banten",
+      "published": "Mon, 11 May 2026 15:42:21 +0700",
+      "description": "Lebak (ANTARA) &ndash; Dalam rangka menyambut momentum long weekend periode 14&ndash;17 Mei 2026 serta libur sekolah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Seorang warga AS penumpang kapal pesiar positif terinfeksi hantavirus",
+      "link": "https://www.antaranews.com/berita/5563101/seorang-warga-as-penumpang-kapal-pesiar-positif-terinfeksi-hantavirus",
+      "published": "Mon, 11 May 2026 15:39:28 +0700",
+      "description": "Seorang penumpang asal Amerika Serikat (AS) dari kapal pesiar Belanda yang terpapar wabah hantavirus dinyatakan positif ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
