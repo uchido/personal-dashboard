@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-11T13:46:28+0000",
+  "timestamp": "2026-05-11T14:16:36+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 100.0,
     "cores": 4,
     "load_avg": [
-      4.16,
-      2.16,
-      1.18
+      3.98,
+      2.24,
+      1.21
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 0.5,
-    "available": 10.9,
-    "used": 12.5,
-    "percent": 53.4
+    "free": 0.4,
+    "available": 10.7,
+    "used": 12.7,
+    "percent": 54.3
   },
   "disk": {
     "total": "193G",
@@ -25,9 +25,9 @@
   },
   "uptime": {
     "days": 5,
-    "hours": 21,
-    "minutes": 34,
-    "total_seconds": 509692.04
+    "hours": 22,
+    "minutes": 5,
+    "total_seconds": 511500.15
   },
   "top_processes": [
     {
@@ -38,13 +38,13 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "9.0",
+      "cpu": "14.2",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "root",
-      "cpu": "1.0",
+      "cpu": "0.8",
       "mem": "4.0",
       "command": "node -r dotenv/config dist/server.mjs"
     },
