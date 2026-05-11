@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T18:17:56+0000",
+  "timestamp": "2026-05-11T18:48:04+0000",
   "locations": [
     {
       "name": "Palu",
@@ -8,11 +8,11 @@
       "country": "Indonesia",
       "temp_c": "19",
       "feels_like_c": "19",
-      "humidity": "97",
+      "humidity": "96",
       "wind_speed_kmh": "4",
       "wind_dir": "SSE",
       "visibility_km": "10",
-      "pressure_mb": "1011",
+      "pressure_mb": "1010",
       "condition": "Light rain shower",
       "condition_code": "353",
       "uv_index": "0",

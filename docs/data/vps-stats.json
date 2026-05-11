@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-11T18:17:53+0000",
+  "timestamp": "2026-05-11T18:48:01+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 100.0,
     "cores": 4,
     "load_avg": [
-      4.08,
-      2.59,
-      1.37
+      4.04,
+      2.71,
+      1.42
     ]
   },
   "memory": {
@@ -26,8 +26,8 @@
   "uptime": {
     "days": 6,
     "hours": 2,
-    "minutes": 6,
-    "total_seconds": 525977.77
+    "minutes": 36,
+    "total_seconds": 527785.77
   },
   "top_processes": [
     {
@@ -35,6 +35,12 @@
       "cpu": "387",
       "mem": "34.7",
       "command": "/usr/local/bin/ollama runner --ollama-engine --mod"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
     },
     {
       "user": "ubuntu",
@@ -53,12 +59,6 @@
       "cpu": "0.4",
       "mem": "0.5",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
-    },
-    {
-      "user": "root",
-      "cpu": "0.3",
-      "mem": "4.0",
-      "command": "node -r dotenv/config dist/server.mjs"
     }
   ]
 }
