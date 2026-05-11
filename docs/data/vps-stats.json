@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-11T04:13:54+0000",
+  "timestamp": "2026-05-11T04:44:03+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.24,
-      0.12,
-      0.03
+      0.14,
+      0.1,
+      0.05
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 4.6,
-    "available": 18.5,
-    "used": 4.9,
-    "percent": 20.9
+    "free": 4.5,
+    "available": 18.4,
+    "used": 5.0,
+    "percent": 21.4
   },
   "disk": {
     "total": "193G",
@@ -26,21 +26,27 @@
   "uptime": {
     "days": 5,
     "hours": 12,
-    "minutes": 2,
-    "total_seconds": 475338.58
+    "minutes": 32,
+    "total_seconds": 477147.01
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "15.3",
+      "cpu": "14.2",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "2.2",
+      "mem": "2.6",
       "command": "openclaw-gateway"
+    },
+    {
+      "user": "root",
+      "cpu": "0.4",
+      "mem": "0.5",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     },
     {
       "user": "ubuntu",
@@ -50,15 +56,9 @@
     },
     {
       "user": "root",
-      "cpu": "0.4",
+      "cpu": "0.3",
       "mem": "3.2",
       "command": "node -r dotenv/config dist/server.mjs"
-    },
-    {
-      "user": "root",
-      "cpu": "0.4",
-      "mem": "0.5",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
