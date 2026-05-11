@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-11T05:14:14+0000",
+  "timestamp": "2026-05-11T05:44:27+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 2.4,
+    "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.11,
-      0.12,
-      0.04
+      0.08,
+      0.08,
+      0.08
     ]
   },
   "memory": {
@@ -26,8 +26,8 @@
   "uptime": {
     "days": 5,
     "hours": 13,
-    "minutes": 2,
-    "total_seconds": 478958.66
+    "minutes": 32,
+    "total_seconds": 480771.45
   },
   "top_processes": [
     {
@@ -49,16 +49,16 @@
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     },
     {
-      "user": "ubuntu",
-      "cpu": "0.3",
-      "mem": "1.1",
-      "command": "/home/ubuntu/.hermes/hermes-agent/venv/bin/python "
-    },
-    {
       "user": "ollama",
       "cpu": "0.3",
       "mem": "0.0",
       "command": "redis-server *:6379"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "0.3",
+      "mem": "1.1",
+      "command": "/home/ubuntu/.hermes/hermes-agent/venv/bin/python "
     }
   ]
 }
