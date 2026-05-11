@@ -296,6 +296,11 @@ body::before{
 </div>
 
 <script>
+// === API Config ===
+// Auto-detect: if served from our VPS, use relative path; otherwise absolute
+const API_BASE = (window.location.hostname === '168.110.195.174' || window.location.port === '8080')
+  ? '/api' : 'http://168.110.195.174:8080/api';
+
 // === State ===
 let chartInstances = {};
 
@@ -336,7 +341,7 @@ function formatCurrency(n){
 // === Weather ===
 async function loadWeather(){
   const el=document.getElementById('weatherContent');
-  const d=await fetchJSON('data/weather.json');
+  const d=await fetchJSON(API_BASE + '/weather');
   if(!d||!d.locations||d.locations.length===0){el.innerHTML='<div class="error-state">⚠️ Data cuaca tidak tersedia</div>';return;}
   let html='<div class="weather-grid">';
   for(const loc of d.locations){
@@ -406,7 +411,7 @@ function weatherEmoji(code){
 // === Market ===
 async function loadMarket(){
   const el=document.getElementById('marketContent');
-  const d=await fetchJSON('data/crypto.json');
+  const d=await fetchJSON(API_BASE + '/crypto');
   if(!d||!d.assets){el.innerHTML='<div class="error-state">⚠️ Data pasar tidak tersedia</div>';return;}
   const symbols={'BTC':'₿','XAU':'🥇'};
   let html='<div class="market-grid">';
@@ -429,7 +434,7 @@ async function loadMarket(){
 // === VPS Stats ===
 async function loadVPS(){
   const el=document.getElementById('vpsContent');
-  const d=await fetchJSON('data/vps-stats.json');
+  const d=await fetchJSON(API_BASE + '/vps-stats');
   if(!d||d.error){el.innerHTML='<div class="error-state">⚠️ Data VPS tidak tersedia</div>';return;}
   const cpu=d.cpu,mem=d.memory,disk=d.disk,up=d.uptime;
   const cpuP=parseFloat(cpu.percent)||0;
@@ -472,7 +477,7 @@ async function loadVPS(){
 // === Processes ===
 async function loadProcesses(){
   const el=document.getElementById('processContent');
-  const d=await fetchJSON('data/vps-stats.json');
+  const d=await fetchJSON(API_BASE + '/vps-stats');
   if(!d||!d.top_processes||d.top_processes.length===0){
     el.innerHTML='<div class="loading">Tidak ada data proses</div>';return;
   }
@@ -491,7 +496,7 @@ async function loadProcesses(){
 // === News ===
 async function loadNews(){
   const el=document.getElementById('newsContent');
-  const d=await fetchJSON('data/news.json');
+  const d=await fetchJSON(API_BASE + '/news');
   if(!d||!d.articles||d.articles.length===0){
     el.innerHTML='<div class="error-state">⚠️ Berita tidak tersedia</div>';return;
   }
@@ -509,7 +514,7 @@ async function loadNews(){
 
 // === Quote ===
 async function loadQuote(){
-  const d=await fetchJSON('data/quote.json');
+  const d=await fetchJSON(API_BASE + '/quote');
   if(d&&d.quote&&d.quote.content){
     document.getElementById('quoteText').textContent=d.quote.content;
     document.getElementById('quoteAuthor').textContent='— '+d.quote.author;

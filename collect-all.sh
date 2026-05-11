@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-# Master data collector — run from cron to update all dashboard data
+# Master data collector — run from cron to update all dashboard data.
+# Data is served LIVE via the FastAPI server (port 8080).
+# Git push is optional (backup for GitHub Pages).
 set -e
 
 REPO_DIR="$HOME/personal-dashboard"
@@ -24,15 +26,17 @@ python3 scripts/collect-news.py
 echo "=== Collecting Quote ==="
 python3 scripts/collect-quote.py
 
-# Commit and push
-echo "=== Committing data ==="
-git add docs/data/
-if git diff --cached --quiet; then
-    echo "No changes to commit"
-else
-    git commit -m "Update dashboard data: $(date '+%Y-%m-%d %H:%M')"
-    git push origin main
-    echo "Data pushed successfully"
-fi
+# Optional: push to GitHub for Pages backup
+# Uncomment if you still want GitHub Pages to stay updated:
+# echo "=== Committing data ==="
+# git add docs/data/
+# if git diff --cached --quiet; then
+#     echo "No changes to commit"
+# else
+#     git commit -m "Update dashboard data: $(date '+%Y-%m-%d %H:%M')"
+#     git push origin main
+#     echo "Data pushed successfully"
+# fi
 
 echo "=== Done ==="
+echo "Data served live at http://$(curl -s ifconfig.me 2>/dev/null || echo 'localhost'):8080/dashboard/"
