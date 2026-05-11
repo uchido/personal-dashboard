@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-11T04:44:03+0000",
+  "timestamp": "2026-05-11T05:14:14+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 0.0,
+    "percent": 2.4,
     "cores": 4,
     "load_avg": [
-      0.14,
-      0.1,
-      0.05
+      0.11,
+      0.12,
+      0.04
     ]
   },
   "memory": {
@@ -25,14 +25,14 @@
   },
   "uptime": {
     "days": 5,
-    "hours": 12,
-    "minutes": 32,
-    "total_seconds": 477147.01
+    "hours": 13,
+    "minutes": 2,
+    "total_seconds": 478958.66
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "14.2",
+      "cpu": "15.3",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -50,15 +50,15 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "0.4",
+      "cpu": "0.3",
       "mem": "1.1",
       "command": "/home/ubuntu/.hermes/hermes-agent/venv/bin/python "
     },
     {
-      "user": "root",
+      "user": "ollama",
       "cpu": "0.3",
-      "mem": "3.2",
-      "command": "node -r dotenv/config dist/server.mjs"
+      "mem": "0.0",
+      "command": "redis-server *:6379"
     }
   ]
 }
