@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-11T12:46:13+0000",
+  "timestamp": "2026-05-11T13:16:20+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 100.0,
     "cores": 4,
     "load_avg": [
-      3.92,
-      3.16,
-      3.27
+      3.98,
+      2.1,
+      1.43
     ]
   },
   "memory": {
@@ -25,40 +25,40 @@
   },
   "uptime": {
     "days": 5,
-    "hours": 20,
-    "minutes": 34,
-    "total_seconds": 506077.47
+    "hours": 21,
+    "minutes": 4,
+    "total_seconds": 507884.57
   },
   "top_processes": [
     {
       "user": "ollama",
-      "cpu": "383",
-      "mem": "34.5",
+      "cpu": "384",
+      "mem": "34.6",
       "command": "/usr/local/bin/ollama runner --ollama-engine --mod"
     },
     {
       "user": "ubuntu",
-      "cpu": "100",
+      "cpu": "5.2",
       "mem": "0.0",
       "command": "ps aux --sort=-%cpu --no-headers"
     },
     {
       "user": "ubuntu",
-      "cpu": "20.0",
+      "cpu": "4.5",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "root",
-      "cpu": "2.7",
+      "cpu": "1.5",
       "mem": "4.0",
       "command": "node -r dotenv/config dist/server.mjs"
     },
     {
-      "user": "root",
+      "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "0.2",
-      "command": "traefik traefik"
+      "mem": "2.6",
+      "command": "openclaw-gateway"
     }
   ]
 }
