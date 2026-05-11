@@ -15,7 +15,7 @@ Dashboard personal yang nampilin info VPS, crypto/gold, cuaca, berita, dan kutip
 
 ```
 ┌──────────────────────────────────────────────────┐
-│  VPS (168.110.195.174:8080)                      │
+│  VPS (168.110.195.174:6767)                      │
 │                                                  │
 │  FastAPI Server ── background refresh tiap 10m   │
 │  ├── /api/health                                 │
@@ -32,7 +32,7 @@ Dashboard personal yang nampilin info VPS, crypto/gold, cuaca, berita, dan kutip
 
 ## API Endpoints
 
-Base URL: `http://168.110.195.174:8080`
+Base URL: `http://168.110.195.174:6767`
 
 | Endpoint        | Method | Description                      |
 |-----------------|--------|----------------------------------|
@@ -47,7 +47,7 @@ Base URL: `http://168.110.195.174:8080`
 
 ## Frontend
 
-Akses dashboard: **http://168.110.195.174:8080/dashboard/**
+Akses dashboard: **http://168.110.195.174:6767/dashboard/**
 
 Frontend otomatis refresh data tiap 5 menit dari API. Ada juga tombol **⟳ Refresh** manual.
 

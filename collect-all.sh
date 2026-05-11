@@ -39,4 +39,4 @@ python3 scripts/collect-quote.py
 # fi
 
 echo "=== Done ==="
-echo "Data served live at http://$(curl -s ifconfig.me 2>/dev/null || echo 'localhost'):8080/dashboard/"
+echo "Data served live at http://$(curl -s ifconfig.me 2>/dev/null || echo 'localhost'):6767/dashboard/"
