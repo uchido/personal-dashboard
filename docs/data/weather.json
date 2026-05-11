@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-11T03:13:41+0000",
+  "timestamp": "2026-05-11T03:43:49+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Tatura",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "31",
       "feels_like_c": "35",
-      "humidity": "61",
+      "humidity": "60",
       "wind_speed_kmh": "4",
-      "wind_dir": "NNE",
+      "wind_dir": "NNW",
       "visibility_km": "10",
-      "pressure_mb": "1011",
-      "condition": "Sunny",
-      "condition_code": "113",
-      "uv_index": "8",
+      "pressure_mb": "1010",
+      "condition": "Patchy rain nearby",
+      "condition_code": "176",
+      "uv_index": "10",
       "forecast": [
         {
           "date": "2026-05-11",
@@ -28,15 +28,15 @@
         {
           "date": "2026-05-12",
           "max_temp": "31",
-          "min_temp": "18",
-          "condition": "Patchy light drizzle",
+          "min_temp": "19",
+          "condition": "Light rain shower",
           "sunrise": "05:55 AM",
           "sunset": "05:59 PM"
         },
         {
           "date": "2026-05-13",
           "max_temp": "32",
-          "min_temp": "18",
+          "min_temp": "19",
           "condition": "Light rain shower",
           "sunrise": "05:55 AM",
           "sunset": "05:59 PM"
@@ -48,16 +48,16 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "28",
-      "feels_like_c": "31",
-      "humidity": "74",
-      "wind_speed_kmh": "4",
-      "wind_dir": "SE",
+      "temp_c": "29",
+      "feels_like_c": "33",
+      "humidity": "69",
+      "wind_speed_kmh": "5",
+      "wind_dir": "SSE",
       "visibility_km": "10",
       "pressure_mb": "1011",
-      "condition": "Partly cloudy",
-      "condition_code": "116",
-      "uv_index": "5",
+      "condition": "Patchy rain nearby",
+      "condition_code": "176",
+      "uv_index": "8",
       "forecast": [
         {
           "date": "2026-05-11",
@@ -79,7 +79,7 @@
           "date": "2026-05-13",
           "max_temp": "30",
           "min_temp": "24",
-          "condition": "Patchy rain nearby",
+          "condition": "Clear ",
           "sunrise": "05:42 AM",
           "sunset": "05:28 PM"
         }
