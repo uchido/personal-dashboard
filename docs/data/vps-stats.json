@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-12T07:22:10+0000",
+  "timestamp": "2026-05-12T07:52:22+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 2.4,
+    "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.0,
-      0.04,
-      0.03
+      0.01,
+      0.06,
+      0.02
     ]
   },
   "memory": {
@@ -26,8 +26,8 @@
   "uptime": {
     "days": 6,
     "hours": 15,
-    "minutes": 10,
-    "total_seconds": 573034.21
+    "minutes": 40,
+    "total_seconds": 574846.04
   },
   "top_processes": [
     {
@@ -45,7 +45,7 @@
     {
       "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "2.7",
+      "mem": "2.4",
       "command": "openclaw-gateway"
     },
     {
