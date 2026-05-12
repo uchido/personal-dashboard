@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-05-12T12:54:03+0000",
+  "timestamp": "2026-05-12T13:24:10+0000",
   "articles": [
     {
       "title": "Henry Zeffman: PM puts himself back in the game for now",
       "link": "https://www.bbc.com/news/articles/clypl327620o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 12 May 2026 11:39:19 GMT",
       "description": "The prime minister told the Cabinet a leadership contest had not been triggered, and that he wouldn't be resigning.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Jess Phillips' resignation letter in full",
+      "link": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 12 May 2026 12:22:38 GMT",
+      "description": "The prominent Labour MP has resigned as safeguarding minister over Sir Keir Starmer's leadership.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "UK borrowing costs hit highest for 18 years as uncertainty over PM continues",
+      "link": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 12 May 2026 12:44:54 GMT",
+      "description": "The possibility of a change of leadership in the UK has unsettled some investors and sent bond yields higher.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,23 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "No sign of larger hantavirus outbreak, says UN health agency",
-      "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 12 May 2026 09:35:32 GMT",
-      "description": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Ablasi kateter jadi metode efektif penanganan atrial fibrilasi",
+      "link": "https://www.antaranews.com/berita/5565381/ablasi-kateter-jadi-metode-efektif-penanganan-atrial-fibrilasi",
+      "published": "Tue, 12 May 2026 20:23:27 +0700",
+      "description": "Dokter spesialis jantung dan pembuluh darah subspesialis aritmia lulusan Universitas Indonesia dr. Dony Yugo Hermanto ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "title": "Green Party admits Polanski may have failed to pay council tax",
-      "link": "https://www.bbc.com/news/articles/cy02wdzrg6jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 12 May 2026 09:18:19 GMT",
-      "description": "The Green Party admits that its leader has, until recently, been living on a houseboat in London and may have failed to pay council tax.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Pemkot Bogor awasi ketat kecurangan jalur domisili SPMB 2026",
+      "link": "https://www.antaranews.com/video/5565311/pemkot-bogor-awasi-ketat-kecurangan-jalur-domisili-spmb-2026",
+      "published": "Tue, 12 May 2026 20:22:25 +0700",
+      "description": "ANTARA - Pemerintah Kota Bogor memperketat pengawasan jalur domisili pada Sistem Penerimaan Murid Baru atau SPMB 2026 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 662, column 2",
+      "title": "Oxford United pertahankan Ole Romeny dan Marselino Ferdinan",
+      "link": "https://www.antaranews.com/berita/5565377/oxford-united-pertahankan-ole-romeny-dan-marselino-ferdinan",
+      "published": "Tue, 12 May 2026 20:19:27 +0700",
+      "description": "Klub Inggris&nbsp;Oxford United&nbsp;resmi mempertahankan dua pemain tim nasional Indonesia Ole&nbsp;Romeny dan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Petani Aceh sulap lahan tidur jadi kebun hidroponik bernilai ekonomi",
+      "link": "https://www.antaranews.com/video/5565145/petani-aceh-sulap-lahan-tidur-jadi-kebun-hidroponik-bernilai-ekonomi",
+      "published": "Tue, 12 May 2026 20:17:39 +0700",
+      "description": "ANTARA - Salah seorang petani di Aceh Besar, Aceh, berhasil mengubah lahan tidur menjadi sumber penghasilan yang ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
