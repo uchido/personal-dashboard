@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-12T08:52:39+0000",
+  "timestamp": "2026-05-12T09:22:50+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 0.0,
+    "percent": 2.4,
     "cores": 4,
     "load_avg": [
-      0.12,
-      0.06,
-      0.18
+      0.01,
+      0.03,
+      0.04
     ]
   },
   "memory": {
     "total": 23.4,
     "free": 8.7,
-    "available": 18.7,
-    "used": 4.7,
-    "percent": 20.1
+    "available": 18.8,
+    "used": 4.6,
+    "percent": 19.7
   },
   "disk": {
     "total": "193G",
@@ -25,9 +25,9 @@
   },
   "uptime": {
     "days": 6,
-    "hours": 16,
-    "minutes": 41,
-    "total_seconds": 578463.5
+    "hours": 17,
+    "minutes": 11,
+    "total_seconds": 580273.9
   },
   "top_processes": [
     {
