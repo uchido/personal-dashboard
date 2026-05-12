@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-12T21:56:48+0000",
+  "timestamp": "2026-05-12T22:26:56+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 2.5,
+    "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.0,
-      0.58,
-      0.92
+      0.03,
+      0.61,
+      0.93
     ]
   },
   "memory": {
@@ -25,9 +25,9 @@
   },
   "uptime": {
     "days": 7,
-    "hours": 5,
-    "minutes": 45,
-    "total_seconds": 625511.92
+    "hours": 6,
+    "minutes": 15,
+    "total_seconds": 627320.3
   },
   "top_processes": [
     {
