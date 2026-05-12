@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-12T07:52:22+0000",
+  "timestamp": "2026-05-12T08:22:29+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 0.0,
+    "percent": 10.0,
     "cores": 4,
     "load_avg": [
-      0.01,
-      0.06,
-      0.02
+      0.35,
+      1.69,
+      1.12
     ]
   },
   "memory": {
@@ -25,11 +25,17 @@
   },
   "uptime": {
     "days": 6,
-    "hours": 15,
-    "minutes": 40,
-    "total_seconds": 574846.04
+    "hours": 16,
+    "minutes": 10,
+    "total_seconds": 576653.36
   },
   "top_processes": [
+    {
+      "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
     {
       "user": "ubuntu",
       "cpu": "14.2",
@@ -45,7 +51,7 @@
     {
       "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "2.4",
+      "mem": "2.6",
       "command": "openclaw-gateway"
     },
     {
@@ -53,12 +59,6 @@
       "cpu": "0.3",
       "mem": "0.0",
       "command": "redis-server *:6379"
-    },
-    {
-      "user": "ollama",
-      "cpu": "0.2",
-      "mem": "0.6",
-      "command": "mysqld"
     }
   ]
 }
