@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-12T12:23:53+0000",
+  "timestamp": "2026-05-12T12:54:03+0000",
   "articles": [
     {
       "title": "Henry Zeffman: PM puts himself back in the game for now",
       "link": "https://www.bbc.com/news/articles/clypl327620o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 12 May 2026 11:39:19 GMT",
-      "description": "The prime minister has told the Cabinet a leadership contest had not been triggered, and that he wouldn't be resigning.",
+      "description": "The prime minister told the Cabinet a leadership contest had not been triggered, and that he wouldn't be resigning.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "WNA kontak erat Hantavirus masih dikarantina di RSPI Sulianti Saroso",
-      "link": "https://www.antaranews.com/video/5565188/wna-kontak-erat-hantavirus-masih-dikarantina-di-rspi-sulianti-saroso",
-      "published": "Tue, 12 May 2026 19:22:52 +0700",
-      "description": "ANTARA -&nbsp;Kemenkes masih mengkarantina seorang WNA kontak erat pasien hantavirus di MV Hondius meski hasil PCR ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menlu Sugiono: 780 personel TNI dikirim kembali untuk misi UNIFIL",
-      "link": "https://www.antaranews.com/video/5565239/menlu-sugiono-780-personel-tni-dikirim-kembali-untuk-misi-unifil",
-      "published": "Tue, 12 May 2026 19:21:10 +0700",
-      "description": "ANTARA - Menteri Luar Negeri RI Sugiono menyampaikan Indonesia akan mengirimkan 780 personel TNI sebagai pasukan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pengamat: Kontribusi BUMN kerek laju pertumbuhan ekonomi RI",
-      "link": "https://www.antaranews.com/berita/5565263/pengamat-kontribusi-bumn-kerek-laju-pertumbuhan-ekonomi-ri",
-      "published": "Tue, 12 May 2026 19:20:36 +0700",
-      "description": "Managing Partner BUMN Research Group LM FEB Universitas Indonesia (UI) Toto Pranoto mengatakan kontribusi BUMN mengerek ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Wakil Ketum AFI Novel Leonardo siap optimalkan ekosistem futsal",
-      "link": "https://www.antaranews.com/berita/5565259/wakil-ketum-afi-novel-leonardo-siap-optimalkan-ekosistem-futsal",
-      "published": "Tue, 12 May 2026 19:20:23 +0700",
-      "description": "Wakil Ketua Umum I Asosiasi Futsal Indonesia (AFI) Novel Leonardo yang baru ditunjuk untuk jabatan tersebut pada ...",
+      "error": "unclosed token: line 662, column 2",
       "source": "Antara News",
       "category": "Indonesia"
     }
