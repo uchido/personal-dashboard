@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-12T13:54:16+0000",
+  "timestamp": "2026-05-12T14:24:24+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Talise",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "21",
-      "feels_like_c": "21",
+      "temp_c": "20",
+      "feels_like_c": "20",
       "humidity": "96",
       "wind_speed_kmh": "4",
       "wind_dir": "SE",
