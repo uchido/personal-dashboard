@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-12T17:25:21+0000",
+  "timestamp": "2026-05-12T17:55:30+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.01,
-      0.8,
+      0.06,
+      0.79,
       1.03
     ]
   },
@@ -26,13 +26,13 @@
   "uptime": {
     "days": 7,
     "hours": 1,
-    "minutes": 13,
-    "total_seconds": 609225.7
+    "minutes": 43,
+    "total_seconds": 611033.9
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "16.6",
+      "cpu": "14.2",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
