@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-13T04:28:43+0000",
+  "timestamp": "2026-05-13T04:58:52+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 2.5,
+    "percent": 2.4,
     "cores": 4,
     "load_avg": [
-      0.1,
-      0.08,
+      0.02,
+      0.05,
       0.02
     ]
   },
@@ -26,8 +26,8 @@
   "uptime": {
     "days": 7,
     "hours": 12,
-    "minutes": 17,
-    "total_seconds": 649027.43
+    "minutes": 47,
+    "total_seconds": 650836.05
   },
   "top_processes": [
     {
@@ -38,21 +38,21 @@
     },
     {
       "user": "root",
-      "cpu": "1.3",
+      "cpu": "1.1",
       "mem": "0.3",
       "command": "traefik traefik"
-    },
-    {
-      "user": "opc",
-      "cpu": "0.6",
-      "mem": "1.2",
-      "command": "node /usr/local/bin/n8n"
     },
     {
       "user": "root",
       "cpu": "0.5",
       "mem": "0.5",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "opc",
+      "cpu": "0.5",
+      "mem": "1.2",
+      "command": "node /usr/local/bin/n8n"
     },
     {
       "user": "ubuntu",
