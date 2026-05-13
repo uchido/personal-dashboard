@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-12T23:57:24+0000",
+  "timestamp": "2026-05-13T00:27:32+0000",
   "articles": [
     {
-      "title": "Starmer to meet Streeting on Wednesday as leadership crisis divides Labour",
+      "title": "Starmer to meet Streeting as leadership crisis divides Labour",
       "link": "https://www.bbc.com/news/articles/cx21jkmxd42o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 12 May 2026 22:00:51 GMT",
-      "description": "The meeting comes as four ministers resigned and more than 80 Labour MPs called for Sir Keir to go.",
+      "description": "The meeting comes after four ministers resigned and more than 80 Labour MPs called for Sir Keir to go.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Starmer prepares for King's Speech as he faces leadership crisis",
+      "link": "https://www.bbc.com/news/articles/c4gvd81681qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 12 May 2026 21:31:21 GMT",
+      "description": "King Charles III will attend Parliament to deliver the speech outlining the government's agenda.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,12 @@
       "category": "Global"
     },
     {
-      "title": "All the Labour MPs who have come out against Starmer, and the ones who want him to stay",
-      "link": "https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 12 May 2026 19:48:25 GMT",
-      "description": "A growing number of Labour MPs are coming out against the prime minister.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Rabu, BMKG prakirakan mayoritas kota besar alami hujan ringan",
+      "link": "https://www.antaranews.com/berita/5565763/rabu-bmkg-prakirakan-mayoritas-kota-besar-alami-hujan-ringan",
+      "published": "Wed, 13 May 2026 07:01:16 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengeluarkan peringatan dini berupa potensi hujan ringan, sedang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Yamaha masih pelajari pasar motor listrik di Indonesia",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5565757/daftar-lengkap-harga-emas-pegadaian-yang-serempak-naik-rabu-pagi-ini",
       "published": "Wed, 13 May 2026 06:53:25 +0700",
       "description": "Harga emas di laman Sahabat Pegadaian dikutip dari Jakarta, Rabu, 06.07 WIB, menunjukkan UBS, Antam, dan Galeri24 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemenkum Kalsel kolaborasi 47 perguruan tinggi bangun ekosistem KI",
-      "link": "https://www.antaranews.com/berita/5565755/kemenkum-kalsel-kolaborasi-47-perguruan-tinggi-bangun-ekosistem-ki",
-      "published": "Wed, 13 May 2026 06:52:51 +0700",
-      "description": "Kantor Wilayah Kementerian Hukum (Kemenkum) Kalimantan Selatan (Kalsel) berkolaborasi dengan 47 perguruan tinggi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
