@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-13T16:02:14+0000",
+  "timestamp": "2026-05-13T16:32:20+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 4.8,
+    "percent": 2.5,
     "cores": 4,
     "load_avg": [
-      0.06,
-      0.27,
-      0.68
+      0.03,
+      0.23,
+      0.67
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 8.5,
-    "available": 18.2,
-    "used": 5.2,
-    "percent": 22.2
+    "free": 8.7,
+    "available": 18.6,
+    "used": 4.8,
+    "percent": 20.5
   },
   "disk": {
     "total": "193G",
@@ -24,10 +24,10 @@
     "percent": "41%"
   },
   "uptime": {
-    "days": 7,
-    "hours": 23,
-    "minutes": 50,
-    "total_seconds": 690638.44
+    "days": 8,
+    "hours": 0,
+    "minutes": 20,
+    "total_seconds": 692444.03
   },
   "top_processes": [
     {
@@ -35,12 +35,6 @@
       "cpu": "15.3",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "5.9",
-      "mem": "0.0",
-      "command": "python3 /home/ubuntu/personal-dashboard/scripts/co"
     },
     {
       "user": "root",
@@ -51,7 +45,7 @@
     {
       "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "2.7",
+      "mem": "2.4",
       "command": "openclaw-gateway"
     },
     {
@@ -59,6 +53,12 @@
       "cpu": "0.3",
       "mem": "0.0",
       "command": "redis-server *:6379"
+    },
+    {
+      "user": "root",
+      "cpu": "0.2",
+      "mem": "0.3",
+      "command": "traefik traefik"
     }
   ]
 }
