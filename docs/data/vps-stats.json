@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-13T06:29:17+0000",
+  "timestamp": "2026-05-13T06:59:25+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 0.0,
+    "percent": 2.5,
     "cores": 4,
     "load_avg": [
-      0.31,
-      0.15,
-      0.08
+      0.0,
+      0.49,
+      0.78
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 4.6,
-    "available": 18.5,
-    "used": 4.9,
-    "percent": 20.9
+    "free": 8.5,
+    "available": 18.6,
+    "used": 4.8,
+    "percent": 20.5
   },
   "disk": {
     "total": "193G",
@@ -26,8 +26,8 @@
   "uptime": {
     "days": 7,
     "hours": 14,
-    "minutes": 17,
-    "total_seconds": 656261.46
+    "minutes": 47,
+    "total_seconds": 658069.67
   },
   "top_processes": [
     {
@@ -44,20 +44,20 @@
     },
     {
       "user": "root",
-      "cpu": "0.8",
+      "cpu": "0.7",
       "mem": "0.3",
       "command": "traefik traefik"
     },
     {
       "user": "root",
       "cpu": "0.5",
-      "mem": "0.5",
+      "mem": "0.4",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     },
     {
       "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "2.8",
+      "mem": "2.4",
       "command": "openclaw-gateway"
     }
   ]
