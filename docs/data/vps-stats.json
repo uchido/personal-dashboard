@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-05-13T07:29:33+0000",
+  "timestamp": "2026-05-13T07:59:42+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.11,
-      0.07,
-      0.14
+      0.0,
+      0.01,
+      0.04
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 8.4,
+    "free": 8.3,
     "available": 18.5,
     "used": 4.9,
     "percent": 20.9
@@ -26,8 +26,8 @@
   "uptime": {
     "days": 7,
     "hours": 15,
-    "minutes": 17,
-    "total_seconds": 659877.81
+    "minutes": 48,
+    "total_seconds": 661685.88
   },
   "top_processes": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "user": "root",
-      "cpu": "0.6",
+      "cpu": "0.5",
       "mem": "0.3",
       "command": "traefik traefik"
     },
