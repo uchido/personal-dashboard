@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-13T20:03:44+0000",
+  "timestamp": "2026-05-13T20:34:00+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.14,
-      0.26,
-      0.66
+      0.06,
+      0.21,
+      0.62
     ]
   },
   "memory": {
@@ -25,14 +25,14 @@
   },
   "uptime": {
     "days": 8,
-    "hours": 3,
-    "minutes": 52,
-    "total_seconds": 705128.3
+    "hours": 4,
+    "minutes": 22,
+    "total_seconds": 706944.52
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "14.2",
+      "cpu": "15.3",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -55,10 +55,10 @@
       "command": "redis-server *:6379"
     },
     {
-      "user": "root",
+      "user": "ollama",
       "cpu": "0.2",
-      "mem": "0.3",
-      "command": "traefik traefik"
+      "mem": "0.4",
+      "command": "mysqld"
     }
   ]
 }
