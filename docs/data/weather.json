@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T08:29:52+0000",
+  "timestamp": "2026-05-13T09:00:00+0000",
   "locations": [
     {
       "name": "Palu",
@@ -50,18 +50,18 @@
       "country": "Indonesia",
       "temp_c": "28",
       "feels_like_c": "32",
-      "humidity": "76",
-      "wind_speed_kmh": "18",
+      "humidity": "77",
+      "wind_speed_kmh": "19",
       "wind_dir": "SSE",
-      "visibility_km": "10",
-      "pressure_mb": "1007",
+      "visibility_km": "9",
+      "pressure_mb": "1006",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "5",
+      "uv_index": "2",
       "forecast": [
         {
           "date": "2026-05-13",
-          "max_temp": "29",
+          "max_temp": "30",
           "min_temp": "23",
           "condition": "Partly Cloudy ",
           "sunrise": "05:42 AM",
@@ -78,7 +78,7 @@
         {
           "date": "2026-05-15",
           "max_temp": "30",
-          "min_temp": "24",
+          "min_temp": "23",
           "condition": "Mist",
           "sunrise": "05:42 AM",
           "sunset": "05:28 PM"
