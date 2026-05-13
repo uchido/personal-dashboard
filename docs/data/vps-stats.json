@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-13T06:59:25+0000",
+  "timestamp": "2026-05-13T07:29:33+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 2.5,
+    "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.0,
-      0.49,
-      0.78
+      0.11,
+      0.07,
+      0.14
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 8.5,
-    "available": 18.6,
-    "used": 4.8,
-    "percent": 20.5
+    "free": 8.4,
+    "available": 18.5,
+    "used": 4.9,
+    "percent": 20.9
   },
   "disk": {
     "total": "193G",
@@ -25,17 +25,11 @@
   },
   "uptime": {
     "days": 7,
-    "hours": 14,
-    "minutes": 47,
-    "total_seconds": 658069.67
+    "hours": 15,
+    "minutes": 17,
+    "total_seconds": 659877.81
   },
   "top_processes": [
-    {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
     {
       "user": "ubuntu",
       "cpu": "14.2",
@@ -44,7 +38,7 @@
     },
     {
       "user": "root",
-      "cpu": "0.7",
+      "cpu": "0.6",
       "mem": "0.3",
       "command": "traefik traefik"
     },
@@ -57,8 +51,14 @@
     {
       "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "2.4",
+      "mem": "2.8",
       "command": "openclaw-gateway"
+    },
+    {
+      "user": "ollama",
+      "cpu": "0.3",
+      "mem": "0.0",
+      "command": "redis-server *:6379"
     }
   ]
 }
