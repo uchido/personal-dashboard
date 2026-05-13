@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-13T03:28:25+0000",
+  "timestamp": "2026-05-13T03:58:33+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 2.4,
+    "percent": 2.5,
     "cores": 4,
     "load_avg": [
-      0.05,
-      0.04,
-      0.07
+      0.13,
+      0.09,
+      0.06
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 4.6,
-    "available": 18.4,
-    "used": 5.0,
-    "percent": 21.4
+    "free": 4.7,
+    "available": 18.6,
+    "used": 4.8,
+    "percent": 20.5
   },
   "disk": {
     "total": "193G",
@@ -26,16 +26,10 @@
   "uptime": {
     "days": 7,
     "hours": 11,
-    "minutes": 16,
-    "total_seconds": 645408.91
+    "minutes": 46,
+    "total_seconds": 647217.14
   },
   "top_processes": [
-    {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
     {
       "user": "ubuntu",
       "cpu": "14.2",
@@ -44,13 +38,13 @@
     },
     {
       "user": "root",
-      "cpu": "2.6",
-      "mem": "0.3",
+      "cpu": "1.6",
+      "mem": "0.4",
       "command": "traefik traefik"
     },
     {
       "user": "opc",
-      "cpu": "1.6",
+      "cpu": "0.9",
       "mem": "1.1",
       "command": "node /usr/local/bin/n8n"
     },
@@ -59,6 +53,12 @@
       "cpu": "0.5",
       "mem": "0.5",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "0.5",
+      "mem": "2.5",
+      "command": "openclaw-gateway"
     }
   ]
 }
