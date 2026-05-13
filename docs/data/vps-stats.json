@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-13T10:30:26+0000",
+  "timestamp": "2026-05-13T11:00:34+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 2.5,
+    "percent": 2.4,
     "cores": 4,
     "load_avg": [
       0.0,
-      0.02,
-      0.03
+      0.03,
+      0.01
     ]
   },
   "memory": {
@@ -26,8 +26,8 @@
   "uptime": {
     "days": 7,
     "hours": 18,
-    "minutes": 18,
-    "total_seconds": 670730.39
+    "minutes": 48,
+    "total_seconds": 672538.35
   },
   "top_processes": [
     {
@@ -45,12 +45,12 @@
     {
       "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "2.8",
+      "mem": "2.9",
       "command": "openclaw-gateway"
     },
     {
       "user": "root",
-      "cpu": "0.4",
+      "cpu": "0.3",
       "mem": "0.3",
       "command": "traefik traefik"
     },
