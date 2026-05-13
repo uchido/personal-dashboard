@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-05-13T05:29:00+0000",
+  "timestamp": "2026-05-13T05:59:09+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 0.0,
     "cores": 4,
     "load_avg": [
       0.03,
-      0.08,
-      0.03
+      0.1,
+      0.05
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 4.6,
+    "free": 4.7,
     "available": 18.5,
     "used": 4.9,
     "percent": 20.9
@@ -26,19 +26,19 @@
   "uptime": {
     "days": 7,
     "hours": 13,
-    "minutes": 17,
-    "total_seconds": 652644.11
+    "minutes": 47,
+    "total_seconds": 654453.04
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "15.3",
+      "cpu": "23.0",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "root",
-      "cpu": "1.0",
+      "cpu": "0.9",
       "mem": "0.3",
       "command": "traefik traefik"
     },
@@ -51,7 +51,7 @@
     {
       "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "2.9",
+      "mem": "2.5",
       "command": "openclaw-gateway"
     },
     {
