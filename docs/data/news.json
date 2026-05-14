@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T06:07:04+0000",
+  "timestamp": "2026-05-14T06:37:13+0000",
   "articles": [
     {
       "title": "Chris Mason: Big moment ahead for Streeting to decide whether to go for it",
@@ -10,15 +10,7 @@
       "category": "Global"
     },
     {
-      "title": "Angela Rayner says she has been cleared by HMRC over tax affairs",
-      "link": "https://www.bbc.com/news/articles/cx219y4qy0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 14 May 2026 06:01:11 GMT",
-      "description": "Rayner stood down as deputy prime minister in September 2025 after admitting underpaying stamp duty.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Higher Europe air fares inevitable, says industry head",
+      "title": "Higher Europe air fares inevitable due to Iran war, says industry lead",
       "link": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 13 May 2026 23:03:15 GMT",
       "description": "Flying by air will get more expensive as oil prices remain high, says international industry body boss.",
@@ -34,7 +26,42 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 664, column 6",
+      "title": "Met Police prepares armoured vehicles and 4,000 officers for dual London protests",
+      "link": "https://www.bbc.com/news/articles/c172n5e0prko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 18:07:58 GMT",
+      "description": "It comes as a Unite the Kingdom rally is taking place in central London on the same day as the annual Nakba march.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Persib Bandung berduka atas wafatnya ibunda pelatih Bojan Hodak",
+      "link": "https://www.antaranews.com/berita/5567741/persib-bandung-berduka-atas-wafatnya-ibunda-pelatih-bojan-hodak",
+      "published": "Thu, 14 May 2026 13:33:01 +0700",
+      "description": "Keluarga besar Persib Bandung menyampaikan duka cita atas wafatnya ibunda pelatih Bojan Hodak, Jelica Hodak pada Rabu ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Brimob - Basarnas Nias tingkatkan kesiapsiagaan hadapi situasi darurat",
+      "link": "https://www.antaranews.com/berita/5567739/brimob-basarnas-nias-tingkatkan-kesiapsiagaan-hadapi-situasi-darurat",
+      "published": "Thu, 14 May 2026 13:32:41 +0700",
+      "description": "Satuan Brimob Kompi 4 Batalyon C Kepulauan Nias Satuan Brimob Kepolisian Daerah Sumatera Utara bersama Basarnas Nias ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ugreen rilis monitor portabel tipis untuk gaming dan produktivitas",
+      "link": "https://www.antaranews.com/berita/5567735/ugreen-rilis-monitor-portabel-tipis-untuk-gaming-dan-produktivitas",
+      "published": "Thu, 14 May 2026 13:28:34 +0700",
+      "description": "Ugreen meluncurkan monitor portabel terbaru AP16 di China yang hadir dengan layar 16 inci beresolusi 2.5K dan refresh ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Perkuat dukungan, BNI antar generasi baru bersinar di Thailand Open",
+      "link": "https://www.antaranews.com/berita/5567731/perkuat-dukungan-bni-antar-generasi-baru-bersinar-di-thailand-open",
+      "published": "Thu, 14 May 2026 13:27:38 +0700",
+      "description": "PT Bank Negara Indonesia (Persero) Tbk atau BNI memperkuat dukungan terhadap kemajuan bulu tangkis Indonesia dengan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
