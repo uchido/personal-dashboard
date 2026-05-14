@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-05-14T05:36:55+0000",
+  "timestamp": "2026-05-14T06:07:04+0000",
   "articles": [
-    {
-      "title": "Starmer warns of 'chaos' amid speculation about challenge",
-      "link": "https://www.bbc.com/news/articles/cvgzv4eqdrno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 21:39:37 GMT",
-      "description": "Health Secretary Wes Streeting is thought to be plotting a Labour leadership challenge as early as Thursday.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Chris Mason: Big moment ahead for Streeting to decide whether to go for it",
       "link": "https://www.bbc.com/news/articles/c392djn3zzdo?at_medium=RSS&at_campaign=rss",
@@ -20,48 +12,29 @@
     {
       "title": "Angela Rayner says she has been cleared by HMRC over tax affairs",
       "link": "https://www.bbc.com/news/articles/cx219y4qy0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 14 May 2026 05:27:07 GMT",
+      "published": "Thu, 14 May 2026 06:01:11 GMT",
       "description": "Rayner stood down as deputy prime minister in September 2025 after admitting underpaying stamp duty.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Higher Europe air fares 'inevitable', says industry head",
+      "title": "Higher Europe air fares inevitable, says industry head",
       "link": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 13 May 2026 23:03:15 GMT",
-      "description": "Flying by air will get more expensive as oil prices remain high after the US and Israel's conflict with Iran.",
+      "description": "Flying by air will get more expensive as oil prices remain high, says international industry body boss.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "KPK periksa mantan Direktur Kemenkeu sebagai Komisaris Karabha Digdaya",
-      "link": "https://www.antaranews.com/berita/5567660/kpk-periksa-mantan-direktur-kemenkeu-sebagai-komisaris-karabha-digdaya",
-      "published": "Thu, 14 May 2026 12:34:34 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) mengungkapkan bahwa memeriksa mantan Direktur Lelang Kementerian Keuangan Joko ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
+      "link": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 23:22:07 GMT",
+      "description": "Despite continuing Israeli attacks and occupation, many people in the south still believe the armed group is the only force capable of defending them.",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Tradisi Pindapata di Kota Denpasar, Bali",
-      "link": "https://www.antaranews.com/foto/5567656/tradisi-pindapata-di-kota-denpasar-bali",
-      "published": "Thu, 14 May 2026 12:34:09 +0700",
-      "description": "Umat Islam turut memberikan persembahan makanan dan minuman kepada Bhikkhu saat Tradisi Pindapata di sepanjang jalan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hari Pertama Long Weekend, KAI Layani 196.302 Pelanggan",
-      "link": "https://www.antaranews.com/berita/5567655/hari-pertama-long-weekend-kai-layani-196302-pelanggan",
-      "published": "Thu, 14 May 2026 12:33:55 +0700",
-      "description": "Suasana long weekend Kenaikan Yesus Kristus mulai terlihat di berbagai stasiun sejak Rabu, 13 Mei 2026. Pergerakan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BPBD Aceh Barat evakuasi ular piton panjang 5 meter dari rumah warga",
-      "link": "https://www.antaranews.com/berita/5567653/bpbd-aceh-barat-evakuasi-ular-piton-panjang-5-meter-dari-rumah-warga",
-      "published": "Thu, 14 May 2026 12:32:01 +0700",
-      "description": "Badan Penanggulangan Bencana Daerah (BPBD) Aceh Barat berhasil mengevakuasi seekor ular piton sepanjang lima meter, ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
