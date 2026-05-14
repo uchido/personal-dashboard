@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-14T12:38:53+0000",
+  "timestamp": "2026-05-14T13:09:05+0000",
   "articles": [
     {
-      "title": "Wes Streeting resigns as health secretary - his letter in full",
+      "title": "'Where we need vision, we have a vacuum' - read Streeting's resignation letter in full",
       "link": "https://www.bbc.com/news/articles/ce8p7p83vdzo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 14 May 2026 12:18:58 GMT",
       "description": "Health Secretary Wes Streeting has announced his resignation from government.",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "How would a Labour leadership contest work?",
+      "link": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 12:50:12 GMT",
+      "description": "How could MPs who want to see Sir Keir Starmer replaced force a leadership contest?",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "The potential challengers to Keir Starmer",
       "link": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 14 May 2026 12:29:26 GMT",
@@ -26,42 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Watch: What now for Angela Rayner?",
-      "link": "https://www.bbc.com/news/videos/c5yepj79n04o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 14 May 2026 07:31:11 GMT",
-      "description": "BBC chief political correspondent Henry Zeffman explains what this could mean for a potential Labour leadership contest.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Astra komitmen perkuat pengembangan kepemimpinan perempuan",
-      "link": "https://www.antaranews.com/berita/5568076/astra-komitmen-perkuat-pengembangan-kepemimpinan-perempuan",
-      "published": "Thu, 14 May 2026 19:37:27 +0700",
-      "description": "Direktur Astra Gita Tiffani Boer menyatakan komitmen memperkuat pengembangan kepemimpinan perempuan di lingkungan Grup ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kakorlantas pastikan jajaran bersiaga saat libur “long weekend”",
-      "link": "https://www.antaranews.com/berita/5568072/kakorlantas-pastikan-jajaran-bersiaga-saat-libur-long-weekend",
-      "published": "Thu, 14 May 2026 19:35:55 +0700",
-      "description": "Kepala Korps Lalu Lintas (Kakorlantas) Polri Irjen Pol. Agus Suryonugroho memastikan bahwa jajarannya bersiaga saat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Disdikbud Kalsel perkuat museum inklusif lewat edukasi bahasa isyarat",
-      "link": "https://www.antaranews.com/berita/5568071/disdikbud-kalsel-perkuat-museum-inklusif-lewat-edukasi-bahasa-isyarat",
-      "published": "Thu, 14 May 2026 19:34:19 +0700",
-      "description": "Dinas Pendidikan dan Kebudayaan Provinsi Kalimantan Selatan (Kalsel) memperkuat pengembangan museum inklusif melalui ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemenag Ponorogo beri pelatihan Juru Sembelih Halal ke ratusan peserta",
-      "link": "https://www.antaranews.com/video/5568056/kemenag-ponorogo-beri-pelatihan-juru-sembelih-halal-ke-ratusan-peserta",
-      "published": "Thu, 14 May 2026 19:33:57 +0700",
-      "description": "ANTARA - Kantor Kementerian Agama (Kemenag) Ponorogo menggelar pelatihan &ldquo;Juru Sembelih Halal&rdquo; (Juleha) ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
