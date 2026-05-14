@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-05-14T03:06:13+0000",
+  "timestamp": "2026-05-14T03:36:19+0000",
   "assets": [
     {
-      "price": 79411,
-      "change_24h": -1.97,
+      "price": 79331,
+      "change_24h": -2.19,
       "symbol": "BTC",
       "name": "Bitcoin"
     },
     {
-      "price": 4677.66,
-      "change_24h": -0.19,
+      "price": 4677.97,
+      "change_24h": -0.29,
       "symbol": "XAU",
       "name": "Gold"
     }
