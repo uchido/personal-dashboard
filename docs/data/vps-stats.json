@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-15T11:16:01+0000",
+  "timestamp": "2026-05-15T11:46:08+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 25.0,
+    "percent": 26.8,
     "cores": 4,
     "load_avg": [
-      0.44,
       0.32,
-      0.29
+      0.29,
+      0.27
     ]
   },
   "memory": {
@@ -26,10 +26,16 @@
   "uptime": {
     "days": 9,
     "hours": 19,
-    "minutes": 4,
-    "total_seconds": 846265.52
+    "minutes": 34,
+    "total_seconds": 848072.11
   },
   "top_processes": [
+    {
+      "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
     {
       "user": "root",
       "cpu": "99.3",
@@ -53,12 +59,6 @@
       "cpu": "0.5",
       "mem": "3.1",
       "command": "openclaw-gateway"
-    },
-    {
-      "user": "ollama",
-      "cpu": "0.3",
-      "mem": "0.0",
-      "command": "redis-server *:6379"
     }
   ]
 }
