@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-05-16T10:53:23+0000",
+  "timestamp": "2026-05-16T11:23:32+0000",
   "articles": [
+    {
+      "title": "Tens of thousands descend on London for rival protests",
+      "link": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 16 May 2026 11:18:53 GMT",
+      "description": "A heavy police operation is in place to police the Unite the Kingdom march, organised by Tommy Robinson, and a separate pro-Palestinian protest.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "The race to replace Starmer is on - but he still faces a momentous choice",
       "link": "https://www.bbc.com/news/articles/cx213m1d82lo?at_medium=RSS&at_campaign=rss",
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Thousands of officers deployed as crowds gather for London protests",
-      "link": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 10:52:02 GMT",
-      "description": "The Metropolitan Police has called the operation to police rival marches, one organised by Tommy Robinson and a separate pro-Palestinian protest, as one of the most significant in recent years.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
       "link": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 15 May 2026 23:04:33 GMT",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 670, column 145",
+      "title": "Presiden menyapa masyarakat saat resmikan Koperasi Desa/Merah Merah Putih",
+      "link": "https://www.antaranews.com/foto/5569800/presiden-menyapa-masyarakat-saat-resmikan-koperasi-desa-merah-merah-putih",
+      "published": "Sat, 16 May 2026 18:17:01 +0700",
+      "description": "Presiden Prabowo Subianto menyapa warga saat peresmian Koperasi Desa/Kelurahan Merah Putih (KDMP/KKMP) di Nglawak, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Presiden puji inovasi pertanian, berkelakar bisa ditiru negara lain",
+      "link": "https://www.antaranews.com/berita/5569799/presiden-puji-inovasi-pertanian-berkelakar-bisa-ditiru-negara-lain",
+      "published": "Sat, 16 May 2026 18:13:22 +0700",
+      "description": "Presiden Prabowo Subianto menyampaikan apresiasi atas serangkaian implementasi inovasi yang sudah dilakukan di sektor ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Persib harus kerja keras untuk kalahkan PSM Makassar",
+      "link": "https://www.antaranews.com/berita/5569796/persib-harus-kerja-keras-untuk-kalahkan-psm-makassar",
+      "published": "Sat, 16 May 2026 18:10:16 +0700",
+      "description": "Bek sayap Persib Bandung Kakang Rudianto mengatakan timnya harus bekerja keras untuk mengalahkan&nbsp;PSM Makassar pada ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menkop sebut KDKMP bukti pemerintah bangun ekonomi rakyat",
+      "link": "https://www.antaranews.com/berita/5569792/menkop-sebut-kdkmp-bukti-pemerintah-bangun-ekonomi-rakyat",
+      "published": "Sat, 16 May 2026 18:07:30 +0700",
+      "description": "Menteri Koperasi (Menkop) Ferry Juliantono menyebut kehadiran Koperasi Desa/Kelurahan Merah Putih (KDKMP) merupakan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
