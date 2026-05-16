@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-05-16T23:27:38+0000",
+  "timestamp": "2026-05-16T23:57:46+0000",
   "articles": [
+    {
+      "title": "Is it harder than ever to be prime minister?",
+      "link": "https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 16 May 2026 23:26:41 GMT",
+      "description": "Discontent with the political class is greater than ever - has the UK become ungovernable?",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Streeting says he would join leadership race as Burnham vows to 'save' Labour",
       "link": "https://www.bbc.com/news/articles/c17297n77z1o?at_medium=RSS&at_campaign=rss",
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Riot police deal with 'serious disorder' as Celtic fans celebrate Premiership title win",
-      "link": "https://www.bbc.com/news/articles/c5yegmxv883o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 22:00:13 GMT",
-      "description": "Hoops fans gathered in Glasgow's east end after a 3-1 win put paid to Hearts' dream of lifting the trophy.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Kekerasan di daycare, alarm keras sistem pengasuhan anak",
+      "link": "https://www.antaranews.com/berita/5570152/kekerasan-di-daycare-alarm-keras-sistem-pengasuhan-anak",
+      "published": "Sun, 17 May 2026 06:47:19 +0700",
+      "description": "Kasus kekerasan terhadap anak di daycare yang belakangan mencuat di Banda Aceh dan Yogyakarta seakan membuka kotak ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Xpeng sedang dalam pembicaraan untuk beli pabrik Volkswagen di Eropa",
+      "link": "https://otomotif.antaranews.com/berita/5570149/xpeng-sedang-dalam-pembicaraan-untuk-beli-pabrik-volkswagen-di-eropa",
+      "published": "Sun, 17 May 2026 06:39:00 +0700",
+      "description": "Perusahaan otomotif asal China, Xpeng, diwartakan sedang dalam pembicaraan untuk membeli pabrik milik&nbsp;Volkswagen ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Paceklik gelar Ronaldo lanjut setelah Al-Nassr ditaklukkan Osaka 0-1",
+      "link": "https://www.antaranews.com/berita/5570145/paceklik-gelar-ronaldo-lanjut-setelah-al-nassr-ditaklukkan-osaka-0-1",
+      "published": "Sun, 17 May 2026 06:33:08 +0700",
+      "description": "Al-Nassr harus mengubur mimpi meraih trofi setelah takluk 0-1 kepeada Gamba Osaka dari Jepang dalam final Liga ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Kane hattrick saat Bayern tutup musim dengan pesta gol di gawang Koln",
       "link": "https://www.antaranews.com/berita/5570143/kane-hattrick-saat-bayern-tutup-musim-dengan-pesta-gol-di-gawang-koln",
       "published": "Sun, 17 May 2026 06:25:20 +0700",
       "description": "Bayern Muenchen menutup musim 2025/2026 dengan pesta lima gol banding satu gol ke gawang FC Koln pada laga pekan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Minggu, layanan SIM keliling tersedia di dua lokasi DKI Jakarta",
-      "link": "https://www.antaranews.com/berita/5570139/minggu-layanan-sim-keliling-tersedia-di-dua-lokasi-dki-jakarta",
-      "published": "Sun, 17 May 2026 06:24:29 +0700",
-      "description": "Direktorat Lalu Lintas Polda Metro Jaya membuka lokasi layanan Surat Izin Mengemudi (SIM) Keliling bagi masyarakat yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Daftar terbaru harga tiga jenama emas di Pegadaian Minggu pagi ini",
-      "link": "https://www.antaranews.com/berita/5570136/daftar-terbaru-harga-tiga-jenama-emas-di-pegadaian-minggu-pagi-ini",
-      "published": "Sun, 17 May 2026 06:22:12 +0700",
-      "description": "Harga emas di laman Sahabat Pegadaian dikutip di Jakarta, Minggu pukul 06.11 WIB, menunjukkan untuk UBS, Antam, dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DKI sepekan, CFD Rasuna Said hingga pilah sampah",
-      "link": "https://www.antaranews.com/berita/5570135/dki-sepekan-cfd-rasuna-said-hingga-pilah-sampah",
-      "published": "Sun, 17 May 2026 06:17:16 +0700",
-      "description": "Sejumlah peristiwa berkaitan dengan pemerintah menghiasi Jakarta yang terjadi pada sepekan terakhir, mulai dari CFD ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
