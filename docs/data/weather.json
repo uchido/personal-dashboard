@@ -1,43 +1,43 @@
 {
-  "timestamp": "2026-05-16T08:22:36+0000",
+  "timestamp": "2026-05-16T08:52:45+0000",
   "locations": [
     {
       "name": "Palu",
       "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "28",
-      "feels_like_c": "34",
-      "humidity": "87",
-      "wind_speed_kmh": "6",
+      "temp_c": "27",
+      "feels_like_c": "32",
+      "humidity": "91",
+      "wind_speed_kmh": "5",
       "wind_dir": "WNW",
-      "visibility_km": "10",
+      "visibility_km": "9",
       "pressure_mb": "1007",
-      "condition": "Light rain shower",
-      "condition_code": "353",
-      "uv_index": "5",
+      "condition": "Patchy light rain",
+      "condition_code": "293",
+      "uv_index": "2",
       "forecast": [
         {
           "date": "2026-05-16",
           "max_temp": "31",
           "min_temp": "19",
-          "condition": "Patchy light drizzle",
+          "condition": "Mist",
           "sunrise": "05:55 AM",
           "sunset": "05:59 PM"
         },
         {
           "date": "2026-05-17",
-          "max_temp": "29",
+          "max_temp": "30",
           "min_temp": "19",
-          "condition": "Light rain shower",
+          "condition": "Patchy light drizzle",
           "sunrise": "05:55 AM",
           "sunset": "05:59 PM"
         },
         {
           "date": "2026-05-18",
-          "max_temp": "24",
+          "max_temp": "28",
           "min_temp": "19",
-          "condition": "Patchy light drizzle",
+          "condition": "Patchy light rain",
           "sunrise": "05:55 AM",
           "sunset": "05:59 PM"
         }
@@ -48,16 +48,16 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "28",
-      "feels_like_c": "32",
-      "humidity": "76",
-      "wind_speed_kmh": "17",
+      "temp_c": "27",
+      "feels_like_c": "31",
+      "humidity": "78",
+      "wind_speed_kmh": "14",
       "wind_dir": "SSE",
-      "visibility_km": "10",
+      "visibility_km": "5",
       "pressure_mb": "1007",
-      "condition": "Light rain shower",
-      "condition_code": "353",
-      "uv_index": "5",
+      "condition": "Patchy light drizzle",
+      "condition_code": "263",
+      "uv_index": "2",
       "forecast": [
         {
           "date": "2026-05-16",
@@ -69,17 +69,17 @@
         },
         {
           "date": "2026-05-17",
-          "max_temp": "28",
+          "max_temp": "29",
           "min_temp": "23",
-          "condition": "Mist",
+          "condition": "Partly Cloudy ",
           "sunrise": "05:42 AM",
           "sunset": "05:27 PM"
         },
         {
           "date": "2026-05-18",
-          "max_temp": "28",
+          "max_temp": "27",
           "min_temp": "23",
-          "condition": "Mist",
+          "condition": "Patchy rain nearby",
           "sunrise": "05:43 AM",
           "sunset": "05:27 PM"
         }
