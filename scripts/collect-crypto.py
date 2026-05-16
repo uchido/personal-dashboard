@@ -23,62 +23,66 @@ def fetch_json(url, timeout=15):
         return {"error": str(e)}
 
 
-def get_btc_price():
-    """Get BTC price from CoinGecko."""
+def fetch_asset_prices():
+    """Fetch BTC & Gold prices in USD and IDR from CoinGecko (single request)."""
     data = fetch_json(
-        "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true"
+        "https://api.coingecko.com/api/v3/simple/price"
+        "?ids=bitcoin,pax-gold&vs_currencies=usd,idr&include_24hr_change=true"
     )
     if "error" in data:
-        # Fallback: try alternative API
-        data2 = fetch_json("https://api.coindesk.com/v1/bpi/currentprice.json")
-        if "error" not in data2:
-            price = data2.get("bpi", {}).get("USD", {}).get("rate_float", 0)
-            return {
-                "price": round(price, 2),
-                "change_24h": None,
-                "symbol": "BTC",
-                "name": "Bitcoin",
-            }
-        return {"error": data["error"], "symbol": "BTC"}
-    
+        return {"btc": {"error": data["error"]}, "gold": {"error": data["error"]}}
+
+    result = {}
+
+    # BTC
     btc = data.get("bitcoin", {})
-    return {
-        "price": round(btc.get("usd", 0), 2),
-        "change_24h": round(btc.get("usd_24h_change", 0), 2) if btc.get("usd_24h_change") else None,
-        "symbol": "BTC",
-        "name": "Bitcoin",
-    }
+    if btc.get("usd"):
+        result["btc"] = {
+            "price": round(btc["usd"], 2),
+            "price_idr": round(btc["idr"], 0) if btc.get("idr") else None,
+            "change_24h": round(btc.get("usd_24h_change", 0), 2) if btc.get("usd_24h_change") else None,
+            "change_24h_idr": round(btc.get("idr_24h_change", 0), 2) if btc.get("idr_24h_change") else None,
+            "symbol": "BTC",
+            "name": "Bitcoin",
+        }
+    else:
+        result["btc"] = {"error": "No BTC price data", "symbol": "BTC"}
 
+    # Gold (via PAXG)
+    paxg = data.get("pax-gold", {})
+    if paxg.get("usd"):
+        result["gold"] = {
+            "price": round(paxg["usd"], 2),
+            "price_idr": round(paxg["idr"], 0) if paxg.get("idr") else None,
+            "change_24h": round(paxg.get("usd_24h_change", 0), 2) if paxg.get("usd_24h_change") else None,
+            "change_24h_idr": round(paxg.get("idr_24h_change", 0), 2) if paxg.get("idr_24h_change") else None,
+            "symbol": "XAU",
+            "name": "Gold",
+        }
+    else:
+        result["gold"] = {"error": "Could not fetch gold price", "symbol": "XAU", "name": "Gold"}
 
-def get_gold_price():
-    """Get gold price via PAXG (PAX Gold token) from CoinGecko."""
-    data = fetch_json(
-        "https://api.coingecko.com/api/v3/simple/price?ids=pax-gold&vs_currencies=usd&include_24hr_change=true"
-    )
-    if "error" not in data:
-        paxg = data.get("pax-gold", {})
-        if paxg.get("usd"):
-            return {
-                "price": round(paxg["usd"], 2),
-                "change_24h": round(paxg.get("usd_24h_change", 0), 2) if paxg.get("usd_24h_change") else None,
-                "symbol": "XAU",
-                "name": "Gold",
-            }
-    
-    return {"error": "Could not fetch gold price", "symbol": "XAU", "name": "Gold"}
+    return result
 
 
 def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     
-    btc = get_btc_price()
-    gold = get_gold_price()
-    
+    prices = fetch_asset_prices()
+    btc = prices.get("btc", {})
+    gold = prices.get("gold", {})
+
+    assets = []
+    if "error" not in btc:
+        assets.append(btc)
+    if "error" not in gold:
+        assets.append(gold)
+
     data = {
         "timestamp": time.strftime("%Y-%m-%dT%H:%M:%S%z"),
-        "assets": [btc, gold],
+        "assets": assets,
     }
-    
+
     OUTPUT_FILE.write_text(json.dumps(data, indent=2))
     print(f"Crypto/gold data written to {OUTPUT_FILE}")
     if "error" in btc:
