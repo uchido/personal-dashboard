@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T05:51:55+0000",
+  "timestamp": "2026-05-16T06:22:04+0000",
   "articles": [
     {
       "title": "How Rayner, Streeting and Burnham weakened PM in 12 hours of political drama",
@@ -12,7 +12,7 @@
     {
       "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
       "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 03:30:57 GMT",
+      "published": "Sat, 16 May 2026 05:53:41 GMT",
       "description": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Serangan udara Israel di Gaza tewaskan tujuh warga Palestina",
-      "link": "https://www.antaranews.com/foto/5569536/serangan-udara-israel-di-gaza-tewaskan-tujuh-warga-palestina",
-      "published": "Sat, 16 May 2026 12:48:56 +0700",
-      "description": "Warga memeriksa kerusakan pada sebuah gedung apartemen setelah serangan udara Israel di al-Rimal, Gaza, Palestina, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Perjuangan Tirto Adhi Soerjo, sang jurnalis pribumi",
-      "link": "https://www.antaranews.com/berita/5569535/perjuangan-tirto-adhi-soerjo-sang-jurnalis-pribumi",
-      "published": "Sat, 16 May 2026 12:48:49 +0700",
-      "description": "Nama Tirto Adhi Soerjo (1880 &ndash; 1918) masih bisa dikenang, setidaknya melalui dua penanda Pertama pada seruas nama ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Erupsi Gunung Marapi semburkan abu vulkanik setinggi 500 meter",
-      "link": "https://www.antaranews.com/berita/5569531/erupsi-gunung-marapi-semburkan-abu-vulkanik-setinggi-500-meter",
-      "published": "Sat, 16 May 2026 12:46:36 +0700",
-      "description": "Pos Gunung Api (PGA) Gunung Marapi melaporkan erupsi gunung api yang berada di Kabupaten Agam dan Kabupaten Tanah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pertamina Hulu Indonesia catat produksi minyak 120 persen dari target",
-      "link": "https://www.antaranews.com/berita/5569529/pertamina-hulu-indonesia-catat-produksi-minyak-120-persen-dari-target",
-      "published": "Sat, 16 May 2026 12:40:32 +0700",
-      "description": "PT Pertamina Hulu Indonesia (PHI), bagian Subholding Upstream PT Pertamina (Persero), selama triwulan I 2026 ...",
+      "error": "no element found: line 653, column 466",
       "source": "Antara News",
       "category": "Indonesia"
     }
