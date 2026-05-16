@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T10:23:10+0000",
+  "timestamp": "2026-05-16T10:53:23+0000",
   "articles": [
     {
       "title": "The race to replace Starmer is on - but he still faces a momentous choice",
@@ -20,7 +20,7 @@
     {
       "title": "Thousands of officers deployed as crowds gather for London protests",
       "link": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 10:19:02 GMT",
+      "published": "Sat, 16 May 2026 10:52:02 GMT",
       "description": "The Metropolitan Police has called the operation to police rival marches, one organised by Tommy Robinson and a separate pro-Palestinian protest, as one of the most significant in recent years.",
       "source": "BBC News",
       "category": "Global"
@@ -32,6 +32,11 @@
       "description": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 670, column 145",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
