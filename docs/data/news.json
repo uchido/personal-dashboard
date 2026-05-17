@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-17T00:28:43+0000",
+  "timestamp": "2026-05-17T00:58:50+0000",
   "articles": [
     {
       "title": "Bangaranga! Bulgaria wins Eurovision - but UK comes last",
       "link": "https://www.bbc.com/news/articles/c8d87v9v660o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 17 May 2026 00:06:40 GMT",
-      "description": "Bulgarian singer Dara is a surprise winner, while the UK's Look Mum No Computer gets just one point.",
+      "description": "Bulgarian singer Dara is a surprise winner beating Israel in second place, while the UK's Look Mum No Computer gets just one point.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "'Look Mum, one point': Why does the UK keep getting Eurovision wrong?",
+      "link": "https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 17 May 2026 00:52:54 GMT",
+      "description": "After four years of flops, the BBC has to think hard about how it approaches Eurovision in 2027.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "The race to replace Starmer is on - but he still faces a momentous choice",
-      "link": "https://www.bbc.com/news/articles/cx213m1d82lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 15:57:33 GMT",
-      "description": "Labour is consumed by drama, but the PM still faces big decisions - and what could be his final choice.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "OpenAI hadirkan alat keuangan pribadi baru bagi pengguna ChatGPT Pro",
+      "link": "https://www.antaranews.com/berita/5570175/openai-hadirkan-alat-keuangan-pribadi-baru-bagi-pengguna-chatgpt-pro",
+      "published": "Sun, 17 May 2026 07:49:15 +0700",
+      "description": "OpenAI&nbsp;telah menghadirkan versi pratinjau&nbsp;alat keuangan pribadi baru bagi para pelanggan ChatGPT Pro di ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Politik sepekan, LCC MPR hingga Prabowo soal terima uang bulan depan",
+      "link": "https://www.antaranews.com/berita/5570171/politik-sepekan-lcc-mpr-hingga-prabowo-soal-terima-uang-bulan-depan",
+      "published": "Sun, 17 May 2026 07:35:54 +0700",
+      "description": "Beragam peristiwa politik telah kami sajikan selama Senin (11/5) hingga Minggu (17/5) pukul 07.00 WIB dan berikut lima ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Netflix umumkan K-Pop Demon Hunters bersiap gelar tur dunia",
+      "link": "https://www.antaranews.com/berita/5570167/netflix-umumkan-k-pop-demon-hunters-bersiap-gelar-tur-dunia",
+      "published": "Sun, 17 May 2026 07:33:59 +0700",
+      "description": "Grup idola wanita virtual Huntr/x dari animasi populer Netflix berjudul &quot;K-Pop Demon Hunters&quot; bersiap akan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Svitolina raih gelar WTA 1000 Italian Open 2026",
       "link": "https://www.antaranews.com/berita/5570165/svitolina-raih-gelar-wta-1000-italian-open-2026",
       "published": "Sun, 17 May 2026 07:23:44 +0700",
       "description": "Petenis Ukraina Elina Svitolina meraih gelar Italian Open 2026 dengan penampilan gemilang pada final, Minggu WIB, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BBWI Travel Fair x BINA 2026 hadirkan inspirasi wisata keluarga",
-      "link": "https://www.antaranews.com/berita/5570161/bbwi-travel-fair-x-bina-2026-hadirkan-inspirasi-wisata-keluarga",
-      "published": "Sun, 17 May 2026 07:16:40 +0700",
-      "description": "Kementerian Pariwisata menyampaikan bahwa ajang pameran &ldquo;BBWI Travel Fair x BINA 2026&rdquo; menghadirkan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hukum sepekan, Nadiem dituntut penjara hingga Pigai soal nobar film",
-      "link": "https://www.antaranews.com/berita/5570157/hukum-sepekan-nadiem-dituntut-penjara-hingga-pigai-soal-nobar-film",
-      "published": "Sun, 17 May 2026 07:04:12 +0700",
-      "description": "Beragam peristiwa hukum telah kami sajikan selama Senin (11/5) hingga Minggu (17/5) pukul 07.00 WIB, dan berikut lima ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Simak lagi warta soal \"Ghost in the Cell\", sekuel \"Sonic the Hedgehog\"",
-      "link": "https://www.antaranews.com/berita/5570153/simak-lagi-warta-soal-ghost-in-the-cell-sekuel-sonic-the-hedgehog",
-      "published": "Sun, 17 May 2026 07:02:53 +0700",
-      "description": "Kanal hiburan, gaya hidup, teknologi, dan otomotif ANTARA pada Sabtu (16/5) antara lain menyiarkan warta tentang ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
