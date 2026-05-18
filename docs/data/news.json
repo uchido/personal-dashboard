@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-18T10:43:31+0000",
+  "timestamp": "2026-05-18T11:13:52+0000",
   "articles": [
     {
       "title": "UK companies linked to payments for small-boat crossings, BBC finds",
       "link": "https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 18 May 2026 05:00:33 GMT",
       "description": "Smugglers are directing migrants to pay using a network of British businesses, secret filming reveals.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Bodies of missing Italian divers found in Maldives",
+      "link": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 18 May 2026 11:05:16 GMT",
+      "description": "The bodies of all five Italian divers who died in the Maldives last week have now been found, officials tell the BBC.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "HS2 failings blamed on high-speed focus and political pressure",
-      "link": "https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 10:07:56 GMT",
-      "description": "A new reviews confirms the high-speed rail line's \"original sins\" include a technical design, changing political priorities and ballooning costs.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Wakil Ketua Komisi II ungkap pesan optimisme Prabowo soal kurs rupiah",
-      "link": "https://www.antaranews.com/berita/5571725/wakil-ketua-komisi-ii-ungkap-pesan-optimisme-prabowo-soal-kurs-rupiah",
-      "published": "Mon, 18 May 2026 17:41:03 +0700",
-      "description": "Wakil Ketua Komisi II DPR RI Bahtra Banong menyatakan pidato Presiden Prabowo Subianto di Nganjuk, Jawa Timur, membawa ...",
+      "title": "KemenPAN-RB dan Unpad kolaborasi siapkan ASN berdaya saing global",
+      "link": "https://www.antaranews.com/video/5571676/kemenpan-rb-dan-unpad-kolaborasi-siapkan-asn-berdaya-saing-global",
+      "published": "Mon, 18 May 2026 18:09:56 +0700",
+      "description": "ANTARA - Kementerian Pendayagunaan Aparatur Negara dan reformasi Birokrasi (PAN-RB) bersama Universitas Padjadjaran ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kim Seon-ho hingga Cha Seung-won buka toko roti di \"Bonjour Bakery\"",
-      "link": "https://www.antaranews.com/berita/5571724/kim-seon-ho-hingga-cha-seung-won-buka-toko-roti-di-bonjour-bakery",
-      "published": "Mon, 18 May 2026 17:39:11 +0700",
-      "description": "Aktor Korea Selatan Kim Seon-ho, Cha Seung-won, Kim Hee-ae, dan Lee Ki-taek membuka toko roti bergaya Prancis dalam ...",
+      "title": "Kemkomdigi blokir 3.000 nomor telepon scam yang mengaku pejabat",
+      "link": "https://www.antaranews.com/berita/5571768/kemkomdigi-blokir-3000-nomor-telepon-scam-yang-mengaku-pejabat",
+      "published": "Mon, 18 May 2026 18:08:36 +0700",
+      "description": "Kementerian Komunikasi dan Digital (Kemkomdigi) telah memblokir 3.000 nomor telepon yang terindikasi digunakan untuk ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kebakaran melanda gudang plastik di Kapuk Jakbar",
-      "link": "https://www.antaranews.com/berita/5571723/kebakaran-melanda-gudang-plastik-di-kapuk-jakbar",
-      "published": "Mon, 18 May 2026 17:38:43 +0700",
-      "description": "Kebakaran melanda bangunan gudang plastik di kawasan Jalan Peternakan Raya, Gang Semut, RT 06 / RW 04 Kapuk, ...",
+      "title": "Integrasi CCTV di Jakarta dipastikan dilengkapi teknologi pendukung",
+      "link": "https://www.antaranews.com/berita/5571764/integrasi-cctv-di-jakarta-dipastikan-dilengkapi-teknologi-pendukung",
+      "published": "Mon, 18 May 2026 18:07:08 +0700",
+      "description": "Kapolda Metro Jaya&nbsp;Komjen&nbsp;Pol Asep&nbsp;Edi&nbsp;Suheri&nbsp;memastikan integrasi CCTV di Jakarta dalam satu ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "KSP pastikan pembangunan Sekolah Rakyat di Bekasi sesuai jadwal",
-      "link": "https://www.antaranews.com/berita/5571720/ksp-pastikan-pembangunan-sekolah-rakyat-di-bekasi-sesuai-jadwal",
-      "published": "Mon, 18 May 2026 17:35:23 +0700",
-      "description": "Kepala Staf Kepresidenan Jenderal TNI (Purn) Dudung Abdurachman meninjau pembangunan Sekolah Rakyat di Cikarang, ...",
+      "title": "Mantan Kasatresnarkoba Polres Kutai Barat ditangkap terkait dugaan pencucian uang",
+      "link": "https://www.antaranews.com/foto/5571760/mantan-kasatresnarkoba-polres-kutai-barat-ditangkap-terkait-dugaan-pencucian-uang",
+      "published": "Mon, 18 May 2026 18:07:01 +0700",
+      "description": "Petugas Kepolisian Bareskrim Mabes Polri memasangkan masker kepada AKP Deky Jonathan Sasiang setibanya dari Kaltim, di ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
