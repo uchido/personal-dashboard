@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T23:40:05+0000",
+  "timestamp": "2026-05-18T00:10:24+0000",
   "locations": [
     {
       "name": "Palu",
@@ -54,7 +54,7 @@
       "wind_speed_kmh": "4",
       "wind_dir": "NW",
       "visibility_km": "10",
-      "pressure_mb": "1009",
+      "pressure_mb": "1010",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
       "uv_index": "0",
