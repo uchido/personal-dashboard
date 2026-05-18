@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-18T13:14:31+0000",
+  "timestamp": "2026-05-18T13:44:43+0000",
   "articles": [
     {
       "title": "Bodies of missing Italian divers found in Maldives",
       "link": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 18 May 2026 11:54:17 GMT",
       "description": "The bodies of all five Italian divers who died in the Maldives last week have now been found, officials tell the BBC.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Prince William selling 20% of duchy property for housing and nature projects",
+      "link": "https://www.bbc.com/news/articles/ce8pg8ryjkzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 18 May 2026 13:10:31 GMT",
+      "description": "The Duchy of Cornwall is to sell part of its 128,000 acre estate and re-invest in more housing.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "UK growth forecast upgraded by IMF but risks remain",
-      "link": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 13:04:20 GMT",
-      "description": "Growth has been upgraded from 0.8% to 1% for 2026 in the influential body's latest forecast.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Legislator desak tak boleh ada pembiaran kekerasan WNI di luar negeri",
-      "link": "https://www.antaranews.com/berita/5572045/legislator-desak-tak-boleh-ada-pembiaran-kekerasan-wni-di-luar-negeri",
-      "published": "Mon, 18 May 2026 20:13:56 +0700",
-      "description": "Anggota Komisi XIII DPR RI Mafirion mendesak tidak boleh ada pembiaran terhadap praktik kekerasan bagi warga negara ...",
+      "title": "Kehadiran Dubalang Kota efektif tekan angka tawuran di Padang",
+      "link": "https://www.antaranews.com/video/5571963/kehadiran-dubalang-kota-efektif-tekan-angka-tawuran-di-padang",
+      "published": "Mon, 18 May 2026 20:39:24 +0700",
+      "description": "ANTARA - Setahun kehadiran Dubalang Kota&nbsp;usai diluncurkan Pemerintah Kota Padang tahun lalu, terbukti efektif ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ekonom sebut inflasi akibat pelemahan rupiah mulai terlihat Mei ini",
-      "link": "https://www.antaranews.com/berita/5572041/ekonom-sebut-inflasi-akibat-pelemahan-rupiah-mulai-terlihat-mei-ini",
-      "published": "Mon, 18 May 2026 20:11:11 +0700",
-      "description": "Guru Besar Fakultas Ekonomi dan Bisnis Universitas Indonesia (FEB UI) Telisa Aulia Falianty memproyeksikan dampak ...",
+      "title": "Eks Wamenaker Noel dituntut 5 tahun bui di kasus pemerasan lisensi K3",
+      "link": "https://www.antaranews.com/berita/5572089/eks-wamenaker-noel-dituntut-5-tahun-bui-di-kasus-pemerasan-lisensi-k3",
+      "published": "Mon, 18 May 2026 20:39:20 +0700",
+      "description": "Jaksa penuntut umum (JPU) dari Komisi Pemberantasan Korupsi (KPK) menuntut&nbsp;Wakil Menteri Ketenagakerjaan periode ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemprov Maluku-OJK perkuat sinergitas untuk stabilitas keuangan daerah",
-      "link": "https://www.antaranews.com/video/5571928/pemprov-maluku-ojk-perkuat-sinergitas-untuk-stabilitas-keuangan-daerah",
-      "published": "Mon, 18 May 2026 20:10:20 +0700",
-      "description": "ANTARA - Wakil Gubernur Maluku Abdullah Vanath menekankan pentingnya sinergitas antara pemerintah provinsi Maluku dan ...",
+      "title": "Peternak berlomba-lomba tingkatkan kualitas sapi agar dibeli Presiden",
+      "link": "https://www.antaranews.com/video/5572032/peternak-berlomba-lomba-tingkatkan-kualitas-sapi-agar-dibeli-presiden",
+      "published": "Mon, 18 May 2026 20:38:02 +0700",
+      "description": "ANTARA - Sapi pilihan Presiden untuk Idul Adha&nbsp;selalu dibeli dari masyarakat, dengan kriteria berbobot tak kurang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemkot Jakpus jamin stok gas 3 kg dan harga sesuai HET",
-      "link": "https://www.antaranews.com/berita/5572037/pemkot-jakpus-jamin-stok-gas-3-kg-dan-harga-sesuai-het",
-      "published": "Mon, 18 May 2026 20:09:47 +0700",
-      "description": "Tim gabungan Pemerintah Kota (Pemkot) Administrasi Jakarta Pusat memastikan ketersediaan gas LPG 3 kilogram di wilayah ...",
+      "title": "Imigrasi Jakpus sosialisasi kebijakan \"Global Citizen of Indonesia\"",
+      "link": "https://www.antaranews.com/berita/5572088/imigrasi-jakpus-sosialisasi-kebijakan-global-citizen-of-indonesia",
+      "published": "Mon, 18 May 2026 20:37:12 +0700",
+      "description": "Kantor Imigrasi Kelas I Non TPI Jakarta Pusat menggelar sosialisasi kebijakan &ldquo;Global Citizen of Indonesia&quot; ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
