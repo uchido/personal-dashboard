@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T17:15:53+0000",
+  "timestamp": "2026-05-18T17:46:05+0000",
   "articles": [
     {
       "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "10 juru parkir liar diciduk di Cengkareng",
-      "link": "https://www.antaranews.com/berita/5572337/10-juru-parkir-liar-diciduk-di-cengkareng",
-      "published": "Tue, 19 May 2026 00:10:32 +0700",
-      "description": "Petugas gabungan menjaring sebanyak 10 juru parkir (jukir) liar di sejumlah persimpangan dan U-turn wilayah Cengkareng, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Polisi ringkus sindikat pencurian aki truk di Pelabuhan Tanjung Priok",
-      "link": "https://www.antaranews.com/berita/5572336/polisi-ringkus-sindikat-pencurian-aki-truk-di-pelabuhan-tanjung-priok",
-      "published": "Tue, 19 May 2026 00:09:30 +0700",
-      "description": "Satuan Reserse Kriminal Polres Pelabuhan Tanjung Priok meringkus sindikat pencurian aki truk trailer yang sedang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Jakbar gencar tekan produksi residu sampah dari sumbernya",
-      "link": "https://www.antaranews.com/berita/5572332/jakbar-gencar-tekan-produksi-residu-sampah-dari-sumbernya",
-      "published": "Tue, 19 May 2026 00:07:10 +0700",
-      "description": "Pemerintah Kota Jakarta Barat (Pemkot Jakbar) menggencarkan pengurangan residu sampah dari sumbernya dengan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemprov Banten minta perangkat daerah cepat respons keluhan warga",
-      "link": "https://www.antaranews.com/berita/5572331/pemprov-banten-minta-perangkat-daerah-cepat-respons-keluhan-warga",
-      "published": "Tue, 19 May 2026 00:06:22 +0700",
-      "description": "Pemerintah Provinsi (Pemprov) Banten menegaskan seluruh kepala Organisasi Perangkat Daerah (OPD) dan pegawai di ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
