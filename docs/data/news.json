@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T17:46:05+0000",
+  "timestamp": "2026-05-18T18:16:14+0000",
   "articles": [
     {
       "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
+      "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 18 May 2026 18:12:48 GMT",
+      "description": "Jurors spent nearly a month hearing and viewing evidence in the high-profile trial, where Musk had accused Altman of \"stealing a charity\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Bodies of missing Italian divers found in Maldives",
       "link": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 18 May 2026 16:51:09 GMT",
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Prince William selling 20% of duchy property for housing and nature projects",
-      "link": "https://www.bbc.com/news/articles/ce8pg8ryjkzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 13:10:31 GMT",
-      "description": "The Duchy of Cornwall is to sell part of its 128,000 acre estate and re-invest in more housing.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "PBVSI panggil 16 pemain untuk menghadapi AVC dan SEA V League",
+      "link": "https://www.antaranews.com/berita/5572355/pbvsi-panggil-16-pemain-untuk-menghadapi-avc-dan-sea-v-league",
+      "published": "Tue, 19 May 2026 01:08:47 +0700",
+      "description": "Pengurus Pusat Persatuan Bola Voli Seluruh Indonesia (PP PBVSI) resmi memanggil 16 pemain untuk mengikuti pemusatan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 664, column 6",
+      "title": "Pelaku pelecehan seksual di Ponpes Pati, Cak Imin: Dukun berkedok Kiai",
+      "link": "https://www.antaranews.com/video/5572348/pelaku-pelecehan-seksual-di-ponpes-pati-cak-imin-dukun-berkedok-kiai",
+      "published": "Tue, 19 May 2026 01:06:31 +0700",
+      "description": "ANTARA - Ketua Umum Partai Kebangkitan Bangsa (PKB) Muhaimin Iskandar menyebut Pendiri dan Pemimpin Pondok Pesantren ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BYD kenalkan M6 Cross dengan bekal teknologi DM di Indonesia",
+      "link": "https://otomotif.antaranews.com/berita/5572351/byd-kenalkan-m6-cross-dengan-bekal-teknologi-dm-di-indonesia",
+      "published": "Tue, 19 May 2026 00:58:57 +0700",
+      "description": "BYD Indonesia secara resmi memperkenalkan generasi terbaru dari BYD M6 melalui M6 Cross Plugin-in Hybrid Electric ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Tulungagung dampingi siswa sekolah dasar terpapar konten radikal",
+      "link": "https://www.antaranews.com/berita/5572344/tulungagung-dampingi-siswa-sekolah-dasar-terpapar-konten-radikal",
+      "published": "Tue, 19 May 2026 00:45:07 +0700",
+      "description": "Unit Pelaksana Teknis Dinas Keluarga Berencana, Pemberdayaan Perempuan dan Perlindungan Anak (KBPPPA) Tulungagung ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
