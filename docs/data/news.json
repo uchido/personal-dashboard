@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T01:40:53+0000",
+  "timestamp": "2026-05-18T02:11:05+0000",
   "articles": [
     {
       "title": "Personal decision for Starmer on whether to fight leadership contest, minister says",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Arab Saudi: Haji tanpa izin didenda 20.000 riyal",
-      "link": "https://www.antaranews.com/berita/5570972/arab-saudi-haji-tanpa-izin-didenda-20000-riyal",
-      "published": "Mon, 18 May 2026 08:33:40 +0700",
-      "description": "Kementerian Dalam Negeri Arab Saudi, Minggu (17/5), mengonfirmasi bahwa denda hingga SAR20.000 (Rp93 juta) akan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hari ini sidang tuntutan terdakwa kasus kacab bank",
-      "link": "https://www.antaranews.com/berita/5570968/hari-ini-sidang-tuntutan-terdakwa-kasus-kacab-bank",
-      "published": "Mon, 18 May 2026 08:32:03 +0700",
-      "description": "Pengadilan Militer II-08 Jakarta pada hari ini, Senin, menggelar sidang pembacaan tuntutan terdakwa kasus dugaan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Polda Metro Jaya gagalkan peredaran 32 kg sabu asal Malaysia",
-      "link": "https://www.antaranews.com/berita/5570964/polda-metro-jaya-gagalkan-peredaran-32-kg-sabu-asal-malaysia",
-      "published": "Mon, 18 May 2026 08:26:00 +0700",
-      "description": "Direktorat Reserse Narkoba Polda Metro Jaya menggagalkan peredaran narkoba jenis sabu sebanyak 32 kilogram (kg) yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Terpopuler, Idul Adha pada 27 Mei hingga LRT tembus PIK 2-Soetta",
-      "link": "https://www.antaranews.com/berita/5570963/terpopuler-idul-adha-pada-27-mei-hingga-lrt-tembus-pik-2-soetta",
-      "published": "Mon, 18 May 2026 08:19:35 +0700",
-      "description": "Sejumlah berita unggulan Senin untuk disimak, pemerintah tetapkan Idul Adha 1447 Hijriah jatuh pada Rabu 27 Mei 2026 ...",
+      "error": "unclosed token: line 662, column 2",
       "source": "Antara News",
       "category": "Indonesia"
     }
