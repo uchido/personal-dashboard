@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T04:50:57+0000",
+  "timestamp": "2026-05-19T05:21:06+0000",
   "articles": [
     {
       "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Wrongly jailed Malkinson tells BBC: 'I've been cheated, very badly cheated'",
+      "link": "https://www.bbc.com/news/articles/c74r1x7dj8go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 05:02:20 GMT",
+      "description": "Andrew Malkinson, the man who spent 17 years in jail for Paul Quinn’s crime, says he's thankful authorities have \"finally got the real perpetrator\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Trump says he called off new Iran attack at request of Gulf states",
       "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 18 May 2026 22:30:58 GMT",
@@ -26,42 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules",
-      "link": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 22:07:25 GMT",
-      "description": "Greater Manchester Mayor Andy Burnham is looking to manage the markets as well as the Makerfield byelection",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Komisi I bahas geopolitik-pasukan di Timteng bersama Menhan-Panglima",
-      "link": "https://www.antaranews.com/berita/5572667/komisi-i-bahas-geopolitik-pasukan-di-timteng-bersama-menhan-panglima",
-      "published": "Tue, 19 May 2026 11:48:24 +0700",
-      "description": "Komisi I DPR RI menggelar rapat kerja (raker) dengan Menteri Pertahanan Sjafrie Sjamsoeddin dan Panglima TNI Jenderal ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "PM Malaysia desak pembebasan aktivis flotilla yang ditahan Israel",
-      "link": "https://www.antaranews.com/berita/5572664/pm-malaysia-desak-pembebasan-aktivis-flotilla-yang-ditahan-israel",
-      "published": "Tue, 19 May 2026 11:48:24 +0700",
-      "description": "Perdana Menteri Malaysia Anwar Ibrahim mendesak pembebasan segera seluruh aktivis armada kapal kemanusiaan Gaza Global ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BRIN perkuat standardisasi iradiasi buah ekspor lewat metode \"phantom\"",
-      "link": "https://www.antaranews.com/berita/5572660/brin-perkuat-standardisasi-iradiasi-buah-ekspor-lewat-metode-phantom",
-      "published": "Tue, 19 May 2026 11:46:41 +0700",
-      "description": "Pusat Riset Teknologi Keselamatan, Metrologi&nbsp;dan Mutu Nuklir (PR-TKMMN) Badan Riset dan Inovasi Nasional (BRIN) ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DKI ingatkan peran penting ayah dalam pengasuhan anak di era digital",
-      "link": "https://www.antaranews.com/berita/5572659/dki-ingatkan-peran-penting-ayah-dalam-pengasuhan-anak-di-era-digital",
-      "published": "Tue, 19 May 2026 11:43:54 +0700",
-      "description": "Dinas Pemberdayaan, Perlindungan Anak, dan Pengendalian Penduduk (PPAPP) DKI Jakarta terus mengingatkan peran penting ...",
+      "error": "no element found: line 659, column 251",
       "source": "Antara News",
       "category": "Indonesia"
     }
