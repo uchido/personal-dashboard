@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T23:27:25+0000",
+  "timestamp": "2026-05-19T23:57:33+0000",
   "locations": [
     {
       "name": "Palu",
@@ -54,8 +54,8 @@
       "wind_speed_kmh": "7",
       "wind_dir": "NE",
       "visibility_km": "10",
-      "pressure_mb": "1009",
-      "condition": "Clear ",
+      "pressure_mb": "1010",
+      "condition": "Sunny",
       "condition_code": "113",
       "uv_index": "0",
       "forecast": [
