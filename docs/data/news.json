@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-05-19T13:54:00+0000",
+  "timestamp": "2026-05-19T14:24:14+0000",
   "articles": [
     {
       "title": "Married at First Sight UK rape allegations serious, says government",
       "link": "https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 19 May 2026 11:30:55 GMT",
       "description": "A BBC Panorama investigation revealed allegations that two women had been raped during filming.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Grenfell fire charges sought for up to 57 people",
+      "link": "https://www.bbc.com/news/articles/c1e24vxyqnwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 14:04:14 GMT",
+      "description": "The Met Police will submit files to the CPS including possible cases of corporate manslaughter.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "BBC confirms new Strictly Come Dancing hosts",
+      "link": "https://www.bbc.com/news/articles/cgep5ez80rzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 14:22:37 GMT",
+      "description": "The trio replace Tess Daly and Claudia Winkleman, who left the BBC dance competition last year.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Grenfell fire charges sought for up to 57 people",
-      "link": "https://www.bbc.com/news/articles/c1e24vxyqnwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 13:36:59 GMT",
-      "description": "The Met Police will submit files to the CPS including possible cases of corporate manslaughter.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
-      "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 12:24:07 GMT",
-      "description": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Pemerintah pangkas anggaran MBG jadi Rp268 triliun pada 2026",
-      "link": "https://www.antaranews.com/berita/5573624/pemerintah-pangkas-anggaran-mbg-jadi-rp268-triliun-pada-2026",
-      "published": "Tue, 19 May 2026 20:52:40 +0700",
-      "description": "Pemerintah memangkas pagu program Makan Bergizi Gratis (MBG) pada Anggaran Pendapatan dan Belanja Negara (APBN) tahun ...",
+      "title": "Wamendagri dorong Pemprov Papua Pegunungan susun Perda Provinsi",
+      "link": "https://www.antaranews.com/berita/5573675/wamendagri-dorong-pemprov-papua-pegunungan-susun-perda-provinsi",
+      "published": "Tue, 19 May 2026 21:23:02 +0700",
+      "description": "Wakil Menteri Dalam Negeri (Wamendagri) Ribka Haluk mendorong Pemerintah Provinsi (Pemprov) Papua Pegunungan untuk ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Apriyani/Lanny kerja keras lawan Isyana/Rinjani di Malaysia Masters",
-      "link": "https://www.antaranews.com/berita/5573623/apriyani-lanny-kerja-keras-lawan-isyana-rinjani-di-malaysia-masters",
-      "published": "Tue, 19 May 2026 20:50:24 +0700",
-      "description": "Ganda putri Indonesia Apriyani Rahayu/Lanny Tria Mayasari harus bekerja keras sebelum memastikan tiket ke babak 16 ...",
+      "title": "Pengguna X tanpa centang biru dibatasi 50 unggahan sehari",
+      "link": "https://www.antaranews.com/berita/5573673/pengguna-x-tanpa-centang-biru-dibatasi-50-unggahan-sehari",
+      "published": "Tue, 19 May 2026 21:21:58 +0700",
+      "description": "X tampak makin aktif mendorong pengguna berlangganan untuk mendapatkan centang biru dan salah satunya dilakukan dengan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Toyota pamerkan kendaraan konsep di segmen roda tiga",
-      "link": "https://otomotif.antaranews.com/berita/5573620/toyota-pamerkan-kendaraan-konsep-di-segmen-roda-tiga",
-      "published": "Tue, 19 May 2026 20:50:15 +0700",
-      "description": "Pabrikan otomotif asal Jepang, Toyota menyajikan kendaraan roda tiga konsep yang mereka sebut dengan Land Hopper ...",
+      "title": "Antisipasi penyebaran virus Hanta di Bandara Internasional Soekarno Hatta",
+      "link": "https://www.antaranews.com/foto/5573667/antisipasi-penyebaran-virus-hanta-di-bandara-internasional-soekarno-hatta",
+      "published": "Tue, 19 May 2026 21:20:39 +0700",
+      "description": "Seorang penumpang pesawat melewati pemeriksaan kamera termal (thermal scanner) setibanya dari luar negeri di Terminal 3 ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "SPMB Kaltara 2026 online, daerah pedalaman dikecualikan",
-      "link": "https://www.antaranews.com/video/5573616/spmb-kaltara-2026-online-daerah-pedalaman-dikecualikan",
-      "published": "Tue, 19 May 2026 20:49:31 +0700",
-      "description": "ANTARA - Pemprov Kalimantan Utara, Selasa (19/5), memastikan pelaksanaan&nbsp;Sistem Penerimaan Murid Baru (SPMB) ...",
+      "title": "Kubu Raya siapkan dispensasi pembelian solar bersubsidi angkutan air",
+      "link": "https://www.antaranews.com/berita/5573664/kubu-raya-siapkan-dispensasi-pembelian-solar-bersubsidi-angkutan-air",
+      "published": "Tue, 19 May 2026 21:19:59 +0700",
+      "description": "Pemerintah Kabupaten Kubu Raya, Kalimantan Barat bergerak cepat merespons krisis solar bersubsidi yang memicu lumpuhnya ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
