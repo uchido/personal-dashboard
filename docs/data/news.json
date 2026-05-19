@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T10:23:00+0000",
+  "timestamp": "2026-05-19T10:53:07+0000",
   "articles": [
     {
       "title": "Married at First Sight UK rape allegations serious, says government",
@@ -28,40 +28,13 @@
     {
       "title": "Wrongly jailed Malkinson says demand for legal fees is 'penny-pinching'",
       "link": "https://www.bbc.com/news/articles/c74r1x7dj8go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 10:12:04 GMT",
+      "published": "Tue, 19 May 2026 10:31:16 GMT",
       "description": "Andrew Malkinson, who was wrongly jailed for rape, says being asked to repay legal fees is “penny-pinching”.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Acosta tercepat di sesi tes resmi Catalunya",
-      "link": "https://www.antaranews.com/berita/5573245/acosta-tercepat-di-sesi-tes-resmi-catalunya",
-      "published": "Tue, 19 May 2026 17:20:37 +0700",
-      "description": "Pembalap Red Bull KTM Pedro Acosta menjadi yang tercepat di sesi tes resmi MotoGP yang berlangsung di Sirkuit ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BSI bidik penyaluran kredit perumahan Rp350,7 miliar di NTB",
-      "link": "https://www.antaranews.com/berita/5573244/bsi-bidik-penyaluran-kredit-perumahan-rp3507-miliar-di-ntb",
-      "published": "Tue, 19 May 2026 17:20:15 +0700",
-      "description": "PT Bank Syariah Indonesia (BSI) membidik penyaluran kredit program perumahan atau KPP senilai Rp350,7 miliar di Nusa ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bea Cukai ungkap Pantai Timur Sumatera jadi jalur utama masuk narkoba",
-      "link": "https://www.antaranews.com/berita/5573241/bea-cukai-ungkap-pantai-timur-sumatera-jadi-jalur-utama-masuk-narkoba",
-      "published": "Tue, 19 May 2026 17:19:50 +0700",
-      "description": "Direktur Interdiksi Narkotika Direktorat Jenderal Bea dan Cukai (DJBC) Kementerian Keuangan RI, R. Syarif Hidayat, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemkot Tangerang target pembangunan flyover Jalan Sudirman dipercepat",
-      "link": "https://www.antaranews.com/berita/5573239/pemkot-tangerang-target-pembangunan-flyover-jalan-sudirman-dipercepat",
-      "published": "Tue, 19 May 2026 17:16:07 +0700",
-      "description": "Pemerintah Kota Tangerang, Banten menargetkan realisasi pembangunan flyover atau simpang tidak sebidang di Jalan ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
