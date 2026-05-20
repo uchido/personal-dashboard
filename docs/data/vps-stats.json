@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-05-20T17:40:32+0000",
+  "timestamp": "2026-05-20T18:10:44+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.16,
-      0.27,
-      0.62
+      0.18,
+      0.29,
+      0.6
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 8.9,
+    "free": 8.8,
     "available": 18.9,
     "used": 4.5,
     "percent": 19.2
@@ -26,10 +26,16 @@
   "uptime": {
     "days": 15,
     "hours": 1,
-    "minutes": 28,
-    "total_seconds": 1301336.69
+    "minutes": 59,
+    "total_seconds": 1303147.98
   },
   "top_processes": [
+    {
+      "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
     {
       "user": "root",
       "cpu": "19.5",
@@ -38,7 +44,7 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "15.3",
+      "cpu": "13.3",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -51,14 +57,8 @@
     {
       "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "3.1",
+      "mem": "3.3",
       "command": "openclaw-gateway"
-    },
-    {
-      "user": "ollama",
-      "cpu": "0.3",
-      "mem": "0.0",
-      "command": "redis-server *:6379"
     }
   ]
 }
