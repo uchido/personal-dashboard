@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-20T08:30:42+0000",
+  "timestamp": "2026-05-20T09:00:53+0000",
   "articles": [
     {
       "title": "UK loosens Russian oil sanctions as fuel prices rise",
       "link": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 20 May 2026 08:13:07 GMT",
       "description": "The waiver reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Inflation falls to 2.8% but is expected to rise from here",
+      "link": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 07:57:19 GMT",
+      "description": "Energy prices were lower due to the government's energy bill support package and lower wholesale prices before the Iran war.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Was Married at First Sight UK an 'accident waiting to happen'?",
-      "link": "https://www.bbc.com/news/articles/c172x2vkxl5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 20 May 2026 05:52:59 GMT",
-      "description": "Channel 4 has wider questions to answer after allegations made by three women who took part in the show.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Jalan Panjang Ketahanan Siber di Industri Asuransi",
-      "link": "https://www.antaranews.com/berita/5574751/jalan-panjang-ketahanan-siber-di-industri-asuransi",
-      "published": "Wed, 20 May 2026 15:29:46 +0700",
-      "description": "Transformasi digital yang semakin pesat telah membawa berbagai manfaat bagi dunia bisnis, mulai dari efisiensi proses ...",
+      "title": "Pemkab Agam upayakan tambahan lahan relokasi warga korban bencana",
+      "link": "https://www.antaranews.com/berita/5574784/pemkab-agam-upayakan-tambahan-lahan-relokasi-warga-korban-bencana",
+      "published": "Wed, 20 May 2026 15:56:41 +0700",
+      "description": "Pemerintah Kabupaten Agam, Sumatera Barat mengupayakan penambahan lahan relokasi sebagai tempat hunian warga terdampak ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Prabowo wajibkan ekspor sawit dan batu bara lewat BUMN",
-      "link": "https://www.antaranews.com/video/5574723/prabowo-wajibkan-ekspor-sawit-dan-batu-bara-lewat-bumn",
-      "published": "Wed, 20 May 2026 15:29:35 +0700",
-      "description": "ANTARA - Presiden RI Prabowo Subianto menerbitkan Peraturan Pemerintah tentang Tata Kelola Ekspor Komoditas Sumber Daya ...",
+      "title": "Telkom ungkap Danantara minta 10 anak perusahaan dipangkas pada Juni",
+      "link": "https://www.antaranews.com/berita/5574780/telkom-ungkap-danantara-minta-10-anak-perusahaan-dipangkas-pada-juni",
+      "published": "Wed, 20 May 2026 15:51:36 +0700",
+      "description": "PT Telkom Indonesia (Persero) Tbk menyebutkan Badan Pengelola Investasi Daya Anagata Nusantara (Danantara Indonesia) ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Putin dan Xi teken deklarasi dunia multipolar",
-      "link": "https://www.antaranews.com/berita/5574748/putin-dan-xi-teken-deklarasi-dunia-multipolar",
-      "published": "Wed, 20 May 2026 15:28:17 +0700",
-      "description": "Presiden Rusia Vladimir Putin dan Presiden China Xi Jinping pada Rabu (20/5) menandatangani deklarasi tentang ...",
+      "title": "Kejati Kaltim sita lagi Rp57,45 miliar korupsi lahan transmigrasi",
+      "link": "https://www.antaranews.com/berita/5574776/kejati-kaltim-sita-lagi-rp5745-miliar-korupsi-lahan-transmigrasi",
+      "published": "Wed, 20 May 2026 15:50:43 +0700",
+      "description": "Kejaksaan Tinggi (Kejati) Kalimantan Timur (Kaltim) melakukan penyitaan lagi uang negara sebesar ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Rosan: Penataan ekspor SDA demi nilai tambah perekonomian nasional",
-      "link": "https://www.antaranews.com/berita/5574747/rosan-penataan-ekspor-sda-demi-nilai-tambah-perekonomian-nasional",
-      "published": "Wed, 20 May 2026 15:26:25 +0700",
-      "description": "Chief Executive Officer (CEO) Danantara Indonesia Rosan Roeslani menegaskan penataan ekspor sumber daya alam dilakukan ...",
+      "title": "Pembangunan akses Lubuk Alung Tol Padang–Sicincin capai 24,06 persen",
+      "link": "https://www.antaranews.com/foto/5574772/pembangunan-akses-lubuk-alung-tol-padang-sicincin-capai-2406-persen",
+      "published": "Wed, 20 May 2026 15:49:53 +0700",
+      "description": "Foto udara kelanjutan pembangunan akses Lubuk Alung pada ruas Jalan Tol Padang&ndash;Pekanbaru Seksi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
