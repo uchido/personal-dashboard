@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T01:43:58+0000",
+  "timestamp": "2026-05-21T02:14:04+0000",
   "articles": [
     {
       "title": "Russian jets 'dangerously' intercept RAF spy plane over Black Sea",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Imigrasi Palopo dan Pemkab Toraja Utara kolaborasi cegah TPPO-TPPM",
-      "link": "https://www.antaranews.com/berita/5575933/imigrasi-palopo-dan-pemkab-toraja-utara-kolaborasi-cegah-tppo-tppm",
-      "published": "Thu, 21 May 2026 08:35:02 +0700",
-      "description": "Kantor Imigrasi Kelas III Non TPI Palopo dan Pemerintah Kabupaten (Pemkab) Toraja Utara, Sulawesi Selatan berkolaborasi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KPK dukung penuh MBG dengan penguatan pencegahan korupsi",
-      "link": "https://www.antaranews.com/berita/5575931/kpk-dukung-penuh-mbg-dengan-penguatan-pencegahan-korupsi",
-      "published": "Thu, 21 May 2026 08:34:46 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) menyatakan dukungan penuh terhadap program prioritas Presiden Prabowo Subianto, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hoaks! Purbaya pangkas gaji ke-13 PNS, PPPK, TNI, dan Polri",
-      "link": "https://www.antaranews.com/berita/5575927/hoaks-purbaya-pangkas-gaji-ke-13-pns-pppk-tni-dan-polri",
-      "published": "Thu, 21 May 2026 08:29:14 +0700",
-      "description": "Jakarta (ANTARA/JACX)&nbsp;&ndash; Sebuah unggahan di media sosial&nbsp;TikTok&nbsp;mengeklaim bahwa Purbaya Yudhi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kota yang menata ulang nafasnya",
-      "link": "https://www.antaranews.com/berita/5575923/kota-yang-menata-ulang-nafasnya",
-      "published": "Thu, 21 May 2026 08:28:07 +0700",
-      "description": "&nbsp;Pagi di sebuah sudut Terminal Intermoda Joyoboyo, Kota Surabaya, Jawa Timur, memperlihatkan wajah kota yang ...",
+      "error": "no element found: line 662, column 47",
       "source": "Antara News",
       "category": "Indonesia"
     }
