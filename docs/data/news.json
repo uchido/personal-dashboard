@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T10:46:18+0000",
+  "timestamp": "2026-05-21T11:17:07+0000",
   "articles": [
     {
       "title": "Free bus trips for children in England this August as part of Reeves's cost-of-living plan",
@@ -18,20 +18,25 @@
       "category": "Global"
     },
     {
-      "title": "NHS trust sacks staff for accessing attacks victims' health records",
+      "title": "NHS trust sacks staff over attacks victims' records",
       "link": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 10:42:21 GMT",
+      "published": "Thu, 21 May 2026 11:09:36 GMT",
       "description": "Nottingham University Hospitals NHS Trust says investigations are ongoing.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "EasyJet boss says summer flights won't  be hit by jet fuel shortages",
+      "title": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
       "link": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 09:45:16 GMT",
+      "published": "Thu, 21 May 2026 11:03:00 GMT",
       "description": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 660, column 6",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
