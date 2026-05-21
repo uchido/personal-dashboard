@@ -1,13 +1,89 @@
 {
-  "timestamp": "2026-05-21T16:18:45+0000",
+  "timestamp": "2026-05-21T16:48:57+0000",
   "locations": [
     {
       "name": "Palu",
-      "error": "<urlopen error [Errno 111] Connection refused>"
+      "location": "Lolu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "temp_c": "19",
+      "feels_like_c": "19",
+      "humidity": "95",
+      "wind_speed_kmh": "4",
+      "wind_dir": "SE",
+      "visibility_km": "9",
+      "pressure_mb": "1012",
+      "condition": "Patchy rain nearby",
+      "condition_code": "176",
+      "uv_index": "1",
+      "forecast": [
+        {
+          "date": "2026-05-22",
+          "max_temp": "30",
+          "min_temp": "19",
+          "condition": "Light rain shower",
+          "sunrise": "05:55 AM",
+          "sunset": "05:59 PM"
+        },
+        {
+          "date": "2026-05-23",
+          "max_temp": "32",
+          "min_temp": "19",
+          "condition": "Patchy light drizzle",
+          "sunrise": "05:55 AM",
+          "sunset": "06:00 PM"
+        },
+        {
+          "date": "2026-05-24",
+          "max_temp": "31",
+          "min_temp": "18",
+          "condition": "Mist",
+          "sunrise": "05:55 AM",
+          "sunset": "06:00 PM"
+        }
+      ]
     },
     {
       "name": "Yogyakarta",
-      "error": "<urlopen error [Errno 111] Connection refused>"
+      "location": "Joho",
+      "region": "Daerah Istimewa Yogyakarta",
+      "country": "Indonesia",
+      "temp_c": "24",
+      "feels_like_c": "27",
+      "humidity": "94",
+      "wind_speed_kmh": "4",
+      "wind_dir": "NNE",
+      "visibility_km": "10",
+      "pressure_mb": "1013",
+      "condition": "Partly Cloudy ",
+      "condition_code": "116",
+      "uv_index": "1",
+      "forecast": [
+        {
+          "date": "2026-05-21",
+          "max_temp": "30",
+          "min_temp": "23",
+          "condition": "Clear ",
+          "sunrise": "05:43 AM",
+          "sunset": "05:27 PM"
+        },
+        {
+          "date": "2026-05-22",
+          "max_temp": "30",
+          "min_temp": "23",
+          "condition": "Patchy rain nearby",
+          "sunrise": "05:43 AM",
+          "sunset": "05:27 PM"
+        },
+        {
+          "date": "2026-05-23",
+          "max_temp": "30",
+          "min_temp": "23",
+          "condition": "Mist",
+          "sunrise": "05:44 AM",
+          "sunset": "05:27 PM"
+        }
+      ]
     }
   ]
 }
