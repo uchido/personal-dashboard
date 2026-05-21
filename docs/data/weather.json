@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T23:43:15+0000",
+  "timestamp": "2026-05-21T00:13:36+0000",
   "locations": [
     {
       "name": "Palu",
@@ -51,12 +51,12 @@
       "temp_c": "23",
       "feels_like_c": "26",
       "humidity": "92",
-      "wind_speed_kmh": "4",
+      "wind_speed_kmh": "5",
       "wind_dir": "NE",
       "visibility_km": "10",
-      "pressure_mb": "1010",
-      "condition": "Partly Cloudy ",
-      "condition_code": "116",
+      "pressure_mb": "1011",
+      "condition": "Sunny",
+      "condition_code": "113",
       "uv_index": "0",
       "forecast": [
         {
