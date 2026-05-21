@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-21T11:17:07+0000",
+  "timestamp": "2026-05-21T11:47:23+0000",
   "articles": [
+    {
+      "title": "NHS trust sacks staff over attacks victims' records",
+      "link": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 11:34:49 GMT",
+      "description": "Nottingham University Hospitals NHS Trust says investigations are ongoing.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Free bus trips for children in England this August as part of Reeves's cost-of-living plan",
       "link": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 10:44:11 GMT",
-      "description": "Chancellor Rachel Reeves will make a series of announcemenrs aimed at relieving cost-of-living pressures.",
+      "published": "Thu, 21 May 2026 11:43:35 GMT",
+      "description": "Chancellor Rachel Reeves made a series of announcements aimed at relieving cost-of-living pressures.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "NHS trust sacks staff over attacks victims' records",
-      "link": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 11:09:36 GMT",
-      "description": "Nottingham University Hospitals NHS Trust says investigations are ongoing.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
       "link": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 21 May 2026 11:03:00 GMT",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Periklindo: Pemprov DKI bakal gunakan 10 ribu bus listrik hingga 2030",
+      "link": "https://otomotif.antaranews.com/berita/5576927/periklindo-pemprov-dki-bakal-gunakan-10-ribu-bus-listrik-hingga-2030",
+      "published": "Thu, 21 May 2026 18:46:17 +0700",
+      "description": "Ketua Umum Perkumpulan Industri Kendaraan Listrik Indonesia (Periklindo) Jenderal TNI (Purn.) Moeldoko menyampaikan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "OJK perketat pengawasan \"escrow account\" dukung kebijakan DHE SDA",
+      "link": "https://www.antaranews.com/berita/5576924/ojk-perketat-pengawasan-escrow-account-dukung-kebijakan-dhe-sda",
+      "published": "Thu, 21 May 2026 18:46:12 +0700",
+      "description": "Otoritas Jasa Keuangan (OJK) mengawasi secara khusus rekening penampung dana sementara atau escrow account di perbankan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menteri PKP sebut rumah subsidi mayoritas dimanfaatkan oleh buruh",
+      "link": "https://www.antaranews.com/berita/5576921/menteri-pkp-sebut-rumah-subsidi-mayoritas-dimanfaatkan-oleh-buruh",
+      "published": "Thu, 21 May 2026 18:45:56 +0700",
+      "description": "Menteri Perumahan dan Kawasan Permukiman (PKP) Maruarar Sirait menyampaikan bahwa buruh adalah kelompok profesi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "YKAKI: Gita Citra Cita bukti solidaritas jadi kekuatan pejuang kanker",
+      "link": "https://www.antaranews.com/berita/5576920/ykaki-gita-citra-cita-bukti-solidaritas-jadi-kekuatan-pejuang-kanker",
+      "published": "Thu, 21 May 2026 18:45:02 +0700",
+      "description": "Ketua Yayasan Kasih Anak Kanker Indonesia (YKAKI) Ira Soelistyo mengatakan, Gita Citra Cita, yang menghadirkan 250 ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
