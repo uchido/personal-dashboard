@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T07:23:56+0000",
+  "timestamp": "2026-05-22T07:54:08+0000",
   "articles": [
     {
       "title": "Parents of Southport survivors say anonymity has erased their girls from the story",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Korlantas Polri luncurkan inovasi SIM Digital dalam rakernis",
-      "link": "https://www.antaranews.com/berita/5578051/korlantas-polri-luncurkan-inovasi-sim-digital-dalam-rakernis",
-      "published": "Fri, 22 May 2026 14:22:03 +0700",
-      "description": "Korps Lalu Lintas (Korlantas) Polri meluncurkan inovasi layanan pada bidang lalu lintas, yakni SIM Digital, dalam ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "13 jukir liar di Blok M Square ditertibkan dan dibawa ke Panti Sosial",
-      "link": "https://www.antaranews.com/berita/5578048/13-jukir-liar-di-blok-m-square-ditertibkan-dan-dibawa-ke-panti-sosial",
-      "published": "Fri, 22 May 2026 14:20:50 +0700",
-      "description": "Sebanyak 13 juru parkir (jukir) liar di kawasan Blok M Square, Kelurahan Melawai, Kecamatan Kebayoran Baru, Jakarta ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Produk baja lapis RI lolos CBAM bukti daya saing industri nasional",
-      "link": "https://www.antaranews.com/berita/5578045/produk-baja-lapis-ri-lolos-cbam-bukti-daya-saing-industri-nasional",
-      "published": "Fri, 22 May 2026 14:18:01 +0700",
-      "description": "PT Tata Metal Lestari (TML) mengekspor produk baja lapis ke pasar Amerika Serikat dan Polandia dengan memenuhi standar ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BNPB: Banjir di Kediri surut total, warga mulai kembali beraktivitas",
-      "link": "https://www.antaranews.com/berita/5578043/bnpb-banjir-di-kediri-surut-total-warga-mulai-kembali-beraktivitas",
-      "published": "Fri, 22 May 2026 14:16:22 +0700",
-      "description": "Badan Nasional Penanggulangan Bencana (BNPB) memastikan kondisi banjir di Kabupaten Kediri, Jawa Timur, menunjukkan ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
