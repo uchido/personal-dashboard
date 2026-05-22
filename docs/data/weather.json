@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T14:26:36+0000",
+  "timestamp": "2026-05-22T14:56:47+0000",
   "locations": [
     {
       "name": "Palu",
@@ -45,45 +45,7 @@
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
-      "region": "Daerah Istimewa Yogyakarta",
-      "country": "Indonesia",
-      "temp_c": "25",
-      "feels_like_c": "27",
-      "humidity": "94",
-      "wind_speed_kmh": "4",
-      "wind_dir": "SSE",
-      "visibility_km": "2",
-      "pressure_mb": "1012",
-      "condition": "Mist",
-      "condition_code": "143",
-      "uv_index": "0",
-      "forecast": [
-        {
-          "date": "2026-05-22",
-          "max_temp": "29",
-          "min_temp": "24",
-          "condition": "Partly Cloudy ",
-          "sunrise": "05:43 AM",
-          "sunset": "05:27 PM"
-        },
-        {
-          "date": "2026-05-23",
-          "max_temp": "30",
-          "min_temp": "23",
-          "condition": "Mist",
-          "sunrise": "05:44 AM",
-          "sunset": "05:27 PM"
-        },
-        {
-          "date": "2026-05-24",
-          "max_temp": "29",
-          "min_temp": "23",
-          "condition": "Mist",
-          "sunrise": "05:44 AM",
-          "sunset": "05:27 PM"
-        }
-      ]
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     }
   ]
 }
