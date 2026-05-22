@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T07:54:08+0000",
+  "timestamp": "2026-05-22T08:24:21+0000",
   "articles": [
     {
       "title": "Parents of Southport survivors say anonymity has erased their girls from the story",
@@ -10,33 +10,28 @@
       "category": "Global"
     },
     {
-      "title": "Andrew investigation police renew call for information",
+      "title": "Andrew investigation could look into sexual misconduct allegations",
       "link": "https://www.bbc.com/news/articles/c707l2jx0z4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 05:01:03 GMT",
+      "published": "Fri, 22 May 2026 08:12:44 GMT",
       "description": "The former prince was arrested in February on suspicion of misconduct in public office.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+      "link": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 23:01:37 GMT",
+      "description": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
       "source": "BBC News",
       "category": "Global"
     },
     {
       "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
       "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 00:10:44 GMT",
+      "published": "Fri, 22 May 2026 08:13:13 GMT",
       "description": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "Riskiest skin cancer cases hit UK record high",
-      "link": "https://www.bbc.com/news/articles/c4g0ryrewdxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 23:15:18 GMT",
-      "description": "The number of melanoma skin cancer cases has risen above 20,000 a year for the first time in the UK.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 660, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
