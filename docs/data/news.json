@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-22T13:26:21+0000",
+  "timestamp": "2026-05-22T13:56:30+0000",
   "articles": [
     {
-      "title": "UK scientists developing new Ebola vaccine that could be ready in months",
+      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
       "link": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 12:56:06 GMT",
+      "published": "Fri, 22 May 2026 13:50:19 GMT",
       "description": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Foden, Palmer, Alexander-Arnold to miss World Cup",
+      "link": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 11:33:47 GMT",
+      "description": "Phil Foden, Cole Palmer and Trent Alexander-Arnold have not been included in Thomas Tuchel's 26-man England squad for this summer's World Cup.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
-      "link": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 10:56:32 GMT",
-      "description": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Pimpinan MPR: WNI bebas dari tahanan Israel bukti negara hadir",
-      "link": "https://www.antaranews.com/berita/5578747/pimpinan-mpr-wni-bebas-dari-tahanan-israel-bukti-negara-hadir",
-      "published": "Fri, 22 May 2026 20:24:58 +0700",
-      "description": "Wakil Ketua MPR RI Eddy Soeparno menilai keberhasilan pembebasan warga negara Indonesia (WNI) yang sempat ditahan ...",
+      "title": "Kemenkes dorong pemda ajukan formasi dokter spesialis di pelosok",
+      "link": "https://www.antaranews.com/video/5578631/kemenkes-dorong-pemda-ajukan-formasi-dokter-spesialis-di-pelosok",
+      "published": "Fri, 22 May 2026 20:55:30 +0700",
+      "description": "ANTARA - Kemenkes RI mendorong pemerintah daerah segera mengajukan formasi dokter spesialis untuk ditempatkan di daerah ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemkab Aceh Selatan salurkan daging bantuan Presiden",
-      "link": "https://www.antaranews.com/berita/5578743/pemkab-aceh-selatan-salurkan-daging-bantuan-presiden",
-      "published": "Fri, 22 May 2026 20:24:05 +0700",
-      "description": "Pemerintah Kabupaten (Pemkab) Aceh Selatan menyalurkan paket daging bantuan dari Presiden Prabowo Subianto kepada warga ...",
+      "title": "Turki tutup latihan militer gabungan berskala besar",
+      "link": "https://www.antaranews.com/video/5578759/turki-tutup-latihan-militer-gabungan-berskala-besar",
+      "published": "Fri, 22 May 2026 20:54:58 +0700",
+      "description": "ANTARA - Turki&nbsp;menutup latihan militer gabungan EFES-2026 di Kota Izmir, Kamis 21 Mei, dengan melibatkan lebih ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "PLN: Listrik padam total di Sumatera bagian tengah dan utara",
-      "link": "https://www.antaranews.com/berita/5578740/pln-listrik-padam-total-di-sumatera-bagian-tengah-dan-utara",
-      "published": "Fri, 22 May 2026 20:23:14 +0700",
-      "description": "PT Perusahaan Listrik Negara (Persero) menyampaikan kondisi kelistrikan padam total di Sumatera Bagian Tengah dan Utara ...",
+      "title": "John Herdman sudah bicara dengan 16 pemain diaspora",
+      "link": "https://www.antaranews.com/berita/5578808/john-herdman-sudah-bicara-dengan-16-pemain-diaspora",
+      "published": "Fri, 22 May 2026 20:54:42 +0700",
+      "description": "Pelatih timnas Indonesia John Herdman mengungkapkan &nbsp;sudah berbicara dengan 16 pemain diaspora sejak menjadi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bogor perluas akses pendidikan memalui beasiswa dan PKBM",
-      "link": "https://www.antaranews.com/video/5578721/bogor-perluas-akses-pendidikan-memalui-beasiswa-dan-pkbm",
-      "published": "Fri, 22 May 2026 20:21:49 +0700",
-      "description": "ANTARA - Pemerintah Kota Bogor memperluas akses pendidikan melalui program beasiswa kuliah, bantuan ijazah tertahan, ...",
+      "title": "Kemenpar dongkrak wisatawan berbasis olahraga lewat ajang Geopark Run",
+      "link": "https://www.antaranews.com/berita/5578804/kemenpar-dongkrak-wisatawan-berbasis-olahraga-lewat-ajang-geopark-run",
+      "published": "Fri, 22 May 2026 20:51:53 +0700",
+      "description": "Kementerian Pariwisata (Kemenpar) terus melakukan penguatan program pariwisata berkualitas antara lain melalui ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
