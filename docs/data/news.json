@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T08:01:52+0000",
+  "timestamp": "2026-05-23T08:32:06+0000",
   "articles": [
     {
       "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Yesaya Saudale genggam IBL Most Improved Player 2026",
-      "link": "https://www.antaranews.com/berita/5579535/yesaya-saudale-genggam-ibl-most-improved-player-2026",
-      "published": "Sat, 23 May 2026 15:01:01 +0700",
-      "description": "Pebasket Tangerang Hawks Basketball Yesaya Saudale berhasil menggenggam gelar Indonesian Basketball League (IBL) Most ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hiu Tutul terdampar di Cilacap",
-      "link": "https://www.antaranews.com/foto/5579532/hiu-tutul-terdampar-di-cilacap",
-      "published": "Sat, 23 May 2026 15:00:51 +0700",
-      "description": "Petugas memindahkan Hiu Tutul (Rhincodon typus) yang telah mati untuk dilakukan autopsi dan penguburan di Pantai ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mendiktisaintek minta PTN tingkatkan kualitas riset guna bangun negeri",
-      "link": "https://www.antaranews.com/berita/5579528/mendiktisaintek-minta-ptn-tingkatkan-kualitas-riset-guna-bangun-negeri",
-      "published": "Sat, 23 May 2026 14:58:34 +0700",
-      "description": "Menteri Pendidikan Tinggi, Sains, dan Teknologi (Mendiktisaintek) Brian Yuliarto meminta&nbsp;seluruh perguruan tinggi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BSI Makassar salurkan dana ZIS Rp67,9 miliar di Sulsel",
-      "link": "https://www.antaranews.com/berita/5579527/bsi-makassar-salurkan-dana-zis-rp679-miliar-di-sulsel",
-      "published": "Sat, 23 May 2026 14:55:55 +0700",
-      "description": "PT Bank Syariah Indonesia (Persero) Tbk (BSI) Regional X Makassar hingga 2026 telah menyalurkan dana zakat, infak, dan ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
