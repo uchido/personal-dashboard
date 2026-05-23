@@ -1,10 +1,18 @@
 {
-  "timestamp": "2026-05-23T11:02:59+0000",
+  "timestamp": "2026-05-23T11:33:14+0000",
   "articles": [
+    {
+      "title": "France suspends extra EU border checks at Dover after hours-long queues",
+      "link": "https://www.bbc.com/news/articles/cp3p2ver9k6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 11:04:22 GMT",
+      "description": "The Port of Dover said the new entry and exit system would be suspended, after travellers faced heavy queues while temperatures soared.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
       "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 10:26:56 GMT",
+      "published": "Sat, 23 May 2026 11:23:10 GMT",
       "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
       "source": "BBC News",
       "category": "Global"
@@ -24,46 +32,6 @@
       "description": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "UK officials suggested single market for goods with Europe",
-      "link": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 03:47:28 GMT",
-      "description": "Industry figures briefed on the move said the idea has not been taken forward at this point, after EU scepticism.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Pemkot Lhokseumawe siapkan solusi solar untuk nelayan",
-      "link": "https://www.antaranews.com/video/5579747/pemkot-lhokseumawe-siapkan-solusi-solar-untuk-nelayan",
-      "published": "Sat, 23 May 2026 18:01:28 +0700",
-      "description": "ANTARA - Pemerintah Kota Lhokseumawe menyiapkan solusi distribusi solar bagi nelayan di Kecamatan Banda Sakti menyusul ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemadaman listrik tak ganggu operasional kereta di Sumut",
-      "link": "https://www.antaranews.com/video/5579727/pemadaman-listrik-tak-ganggu-operasional-kereta-di-sumut",
-      "published": "Sat, 23 May 2026 18:00:15 +0700",
-      "description": "ANTARA - Pemadaman listrik massal yang terjadi di wilayah Sumatera Utara, PT KAI Divre I Sumatera Utara memastikan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Temuan investigasi tabrakan kereta di Bekasi Timur",
-      "link": "https://www.antaranews.com/infografik/5579673/temuan-investigasi-tabrakan-kereta-di-bekasi-timur",
-      "published": "Sat, 23 May 2026 18:00:00 +0700",
-      "description": "Komite Nasional Keselamatan Transportasi (KNKT) merilis temuan sementara dari investigasi tabrakan kereta di Stasiun ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "ITB-SWJTU hadirkan program Tianyou-Djuanda Excellent Engineers College",
-      "link": "https://www.antaranews.com/berita/5579765/itb-swjtu-hadirkan-program-tianyou-djuanda-excellent-engineers-college",
-      "published": "Sat, 23 May 2026 17:57:17 +0700",
-      "description": "Institut Teknologi Bandung (ITB) dan Southwest&nbsp;Jiaotong&nbsp;University&nbsp;(SWJTU) berkolaborasi menghadirkan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
