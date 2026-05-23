@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-23T04:30:59+0000",
+  "timestamp": "2026-05-23T05:01:05+0000",
   "articles": [
     {
-      "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
       "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 23 May 2026 04:05:03 GMT",
       "description": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Realme 16T dirilis dengan bodi tipis dan baterai 8000mAh",
-      "link": "https://www.antaranews.com/berita/5579324/realme-16t-dirilis-dengan-bodi-tipis-dan-baterai-8000mah",
-      "published": "Sat, 23 May 2026 11:24:44 +0700",
-      "description": "Realme akhirnya menghadirkan realme 16T dengan bodi yang tipis di bawah 9 milimeter namun tetap bisa dilengkapi dengan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "NTT kirim ratusan sapi ke Kalimantan jelang Idul Adha",
-      "link": "https://www.antaranews.com/video/5579299/ntt-kirim-ratusan-sapi-ke-kalimantan-jelang-idul-adha",
-      "published": "Sat, 23 May 2026 11:21:13 +0700",
-      "description": "ANTARA - Sebanyak 290 ekor sapi asal Nusa Tenggara Timur diberangkatkan melalui Pelabuhan Tenau Kupang menuju ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dapur MBG Lhokseumawe diawasi ketat cegah kontaminasi",
-      "link": "https://www.antaranews.com/video/5579275/dapur-mbg-lhokseumawe-diawasi-ketat-cegah-kontaminasi",
-      "published": "Sat, 23 May 2026 11:20:24 +0700",
-      "description": "ANTARA - Dinas Kesehatan Kota Lhokseumawe melakukan pengawasan keamanan pangan di dapur Satuan Pelayanan Pemenuhan Gizi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Seskab dan Bos Gojek bahas kebijakan terbaik bagi ojol dan dunia usaha",
-      "link": "https://www.antaranews.com/berita/5579321/seskab-dan-bos-gojek-bahas-kebijakan-terbaik-bagi-ojol-dan-dunia-usaha",
-      "published": "Sat, 23 May 2026 11:20:02 +0700",
-      "description": "Sekretaris Kabinet Teddy Indra Wijaya menerima audiensi CEO PT GoTo Gojek Tokopedia Tbk Hans Patuwo untuk berkoordinasi ...",
+      "error": "unclosed token: line 662, column 149",
       "source": "Antara News",
       "category": "Indonesia"
     }
