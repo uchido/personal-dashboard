@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-23T05:01:05+0000",
+  "timestamp": "2026-05-23T05:31:11+0000",
   "articles": [
+    {
+      "title": "At least 82 dead in Chinese coal mine explosion, state media reports",
+      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 05:19:01 GMT",
+      "description": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
       "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 23 May 2026 04:05:03 GMT",
-      "description": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
+      "description": "Ukraine says it hit Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 15:18:30 GMT",
-      "description": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Trump lantik Kevin Warsh jadi ketua The Fed",
+      "link": "https://www.antaranews.com/berita/5579373/trump-lantik-kevin-warsh-jadi-ketua-the-fed",
+      "published": "Sat, 23 May 2026 12:26:03 +0700",
+      "description": "Presiden Amerika Serikat&nbsp;Donald Trump&nbsp;melantik Kevin Warsh, Jumat (22/5), sebagai ketua Federal Reserve ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 662, column 149",
+      "title": "Pentagon rilis gelombang kedua berkas UFO",
+      "link": "https://www.antaranews.com/berita/5579372/pentagon-rilis-gelombang-kedua-berkas-ufo",
+      "published": "Sat, 23 May 2026 12:24:13 +0700",
+      "description": "Pentagon pada Jumat (22/5) waktu setempat merilis gelombang kedua berkas tentang fenomena anomali tak teridentifikasi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kanada investasi Rp10,5 triliun perkuat keamanan maritim di Arktik",
+      "link": "https://www.antaranews.com/berita/5579368/kanada-investasi-rp105-triliun-perkuat-keamanan-maritim-di-arktik",
+      "published": "Sat, 23 May 2026 12:22:33 +0700",
+      "description": "Pemerintah Kanada menginvestasikan 816 juta dolar Kanada (sekitar Rp10,5 triliun) untuk proyek-proyek penguatan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Akuarium Dorong Budaya dan Pariwisata Bahari di Sanya, China Selatan",
+      "link": "https://www.antaranews.com/berita/5579364/akuarium-dorong-budaya-dan-pariwisata-bahari-di-sanya-china-selatan",
+      "published": "Sat, 23 May 2026 12:18:45 +0700",
+      "description": "Sebagai salah satu ikon budaya dan pariwisata bahari di Pelabuhan Perdagangan Bebas Hainan (Hainan Free Trade Port), ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
