@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-05-23T21:06:11+0000",
+  "timestamp": "2026-05-23T21:36:16+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Ujuna",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "19",
       "feels_like_c": "19",
-      "humidity": "92",
+      "humidity": "91",
       "wind_speed_kmh": "4",
       "wind_dir": "SSE",
       "visibility_km": "10",
       "pressure_mb": "1012",
-      "condition": "Patchy rain nearby",
-      "condition_code": "176",
+      "condition": "Cloudy ",
+      "condition_code": "119",
       "uv_index": "0",
       "forecast": [
         {
           "date": "2026-05-24",
-          "max_temp": "32",
+          "max_temp": "31",
           "min_temp": "19",
-          "condition": "Patchy rain nearby",
+          "condition": "Mist",
           "sunrise": "05:55 AM",
           "sunset": "06:00 PM"
         },
@@ -29,14 +29,14 @@
           "date": "2026-05-25",
           "max_temp": "31",
           "min_temp": "18",
-          "condition": "Light rain shower",
+          "condition": "Patchy light drizzle",
           "sunrise": "05:55 AM",
           "sunset": "06:00 PM"
         },
         {
           "date": "2026-05-26",
-          "max_temp": "30",
-          "min_temp": "17",
+          "max_temp": "27",
+          "min_temp": "18",
           "condition": "Mist",
           "sunrise": "05:55 AM",
           "sunset": "06:00 PM"
@@ -48,11 +48,11 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "24",
+      "temp_c": "23",
       "feels_like_c": "26",
-      "humidity": "96",
+      "humidity": "95",
       "wind_speed_kmh": "4",
-      "wind_dir": "W",
+      "wind_dir": "WSW",
       "visibility_km": "2",
       "pressure_mb": "1013",
       "condition": "Mist",
@@ -71,15 +71,15 @@
           "date": "2026-05-25",
           "max_temp": "29",
           "min_temp": "23",
-          "condition": "Patchy rain nearby",
+          "condition": "Mist",
           "sunrise": "05:44 AM",
           "sunset": "05:27 PM"
         },
         {
           "date": "2026-05-26",
-          "max_temp": "28",
+          "max_temp": "29",
           "min_temp": "22",
-          "condition": "Mist",
+          "condition": "Cloudy ",
           "sunrise": "05:44 AM",
           "sunset": "05:27 PM"
         }
