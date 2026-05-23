@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-05-23T14:34:00+0000",
+  "timestamp": "2026-05-23T15:04:16+0000",
   "articles": [
+    {
+      "title": "France suspends extra EU border checks at Dover after hours-long queues",
+      "link": "https://www.bbc.com/news/articles/cp3p2ver9k6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 14:16:28 GMT",
+      "description": "The port said extra checks would be suspended, after travellers faced queues as temperatures soared.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
       "link": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
@@ -10,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
-      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 13:40:31 GMT",
-      "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+      "title": "Hottest day of year so far as temperatures soar on bank holiday weekend",
+      "link": "https://www.bbc.com/weather/articles/crmp8dlyz3ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 14:46:07 GMT",
+      "description": "Amber heat health alerts are in place for the Midlands, eastern and south-east England.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "'Suddenly I could see myself': Why breast reductions are more popular now",
-      "link": "https://www.bbc.com/news/articles/c3d2k4xz42no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 23:06:41 GMT",
-      "description": "For the first time, more people in the UK are choosing reduction procedures than enlargements.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Laboratorium atsiri Aceh uji kualitas nilam untuk pasar global",
-      "link": "https://www.antaranews.com/video/5579923/laboratorium-atsiri-aceh-uji-kualitas-nilam-untuk-pasar-global",
-      "published": "Sat, 23 May 2026 21:32:37 +0700",
-      "description": "ANTARA - Amanah Youth Creative Hub di Aceh membuka layanan pengujian kualitas minyak nilam untuk kebutuhan pasar ...",
+      "title": "Vida Mengumumkan Pencatatan Tokenisasi Ekuitas (VIDAx) di xStocks Milik Payward",
+      "link": "https://www.antaranews.com/berita/5580015/vida-mengumumkan-pencatatan-tokenisasi-ekuitas-vidax-di-xstocks-milik-payward",
+      "published": "Sat, 23 May 2026 22:02:29 +0700",
+      "description": "Vida Global, Inc. (NYSE American: VIDA, NYSE Texas: VIDA (&quot;Vida&quot; atau &quot;Perusahaan&quot;) adalah Sistem ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kosgoro 1957 bersiap gelar Mubes V di Jakarta",
-      "link": "https://www.antaranews.com/berita/5579967/kosgoro-1957-bersiap-gelar-mubes-v-di-jakarta",
-      "published": "Sat, 23 May 2026 21:31:47 +0700",
-      "description": "Kelompok Induk Organisasi Partai Golkar, Kesatuan Organisasi Serbaguna Gotong Royong atau Kosgoro 1957 tengah ...",
+      "title": "Pemerintah upayakan repatriasi keris bersejarah dari luar negeri",
+      "link": "https://www.antaranews.com/berita/5580012/pemerintah-upayakan-repatriasi-keris-bersejarah-dari-luar-negeri",
+      "published": "Sat, 23 May 2026 22:00:23 +0700",
+      "description": "Menteri Kebudayaan Fadli Zon mengatakan bahwa pemerintah terus mengupayakan repatriasi keris-keris yang bersejarah dari ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "2.200 Hektare lahan tebu di Malang masuk program bongkar ratoon",
-      "link": "https://www.antaranews.com/video/5579868/2200-hektare-lahan-tebu-di-malang-masuk-program-bongkar-ratoon",
-      "published": "Sat, 23 May 2026 21:30:58 +0700",
-      "description": "ANTARA - Pemerintah Kabupaten Malang mencatat sebanyak 2.200 hektare lahan tebu telah masuk program bongkar ratoon atau ...",
+      "title": "Adaptasi kebiasaan Orang Rimba akibat perubahan lingkungan",
+      "link": "https://www.antaranews.com/foto/5580011/adaptasi-kebiasaan-orang-rimba-akibat-perubahan-lingkungan",
+      "published": "Sat, 23 May 2026 22:00:22 +0700",
+      "description": "Tengganai Basemen (kiri) dan keluarga dari kelompok Orang Rimba membelah buah pinang yang dipanen di zona pemanfaatan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "SpaceX sukses luncurkan uji terbang Starship terbaru",
-      "link": "https://www.antaranews.com/video/5579936/spacex-sukses-luncurkan-uji-terbang-starship-terbaru",
-      "published": "Sat, 23 May 2026 21:28:57 +0700",
-      "description": "ANTARA - SpaceX sukses meluncurkan uji penerbangan ke-12 roket Starship dari Texas, Amerika Serikat, pada Jumat (22/5), ...",
+      "title": "Euforia Bobotoh pecah di GBLA setelah Persib hattrick juara liga",
+      "link": "https://www.antaranews.com/berita/5580008/euforia-bobotoh-pecah-di-gbla-setelah-persib-hattrick-juara-liga",
+      "published": "Sat, 23 May 2026 21:59:49 +0700",
+      "description": "Euforia puluhan ribu Bobotoh pecah di Stadion Gelora Bandung Lautan Api (GBLA), Bandung, setelah Persib g memastikan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
