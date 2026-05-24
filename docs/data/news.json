@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-24T12:40:03+0000",
+  "timestamp": "2026-05-24T13:10:12+0000",
   "articles": [
     {
       "title": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
       "link": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 12:02:24 GMT",
+      "published": "Sun, 24 May 2026 12:50:21 GMT",
       "description": "Speaking to the BBC’s Laura Kuenssberg, the girl, who is now 16, said: \"What was the point in putting me through that?\"",
       "source": "BBC News",
       "category": "Global"
@@ -12,7 +12,7 @@
     {
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
       "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 12:12:20 GMT",
+      "published": "Sun, 24 May 2026 13:02:02 GMT",
       "description": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Otto ajak masyarakat kompak hadapi dampak ketidakpastian ekonomi global",
-      "link": "https://www.antaranews.com/berita/5580639/otto-ajak-masyarakat-kompak-hadapi-dampak-ketidakpastian-ekonomi-global",
-      "published": "Sun, 24 May 2026 19:26:24 +0700",
-      "description": "Wakil Menteri Koordinator Bidang Hukum, Hak Asasi Manusia, Imigrasi, dan Pemasyarakatan, Otto Hasibuan, mengajak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemprov NTB dan Kemenbud bangun kembali rumah adat Bayan",
-      "link": "https://www.antaranews.com/berita/5580637/pemprov-ntb-dan-kemenbud-bangun-kembali-rumah-adat-bayan",
-      "published": "Sun, 24 May 2026 19:24:48 +0700",
-      "description": "Pemerintah Provinsi Nusa Tenggara Barat (NTB) bersama Kementerian Kebudayaan membangun kembali rumah masyarakat adat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Chery Q hadirkan aspek fungsionalitas pengendara harian",
-      "link": "https://otomotif.antaranews.com/berita/5580636/chery-q-hadirkan-aspek-fungsionalitas-pengendara-harian",
-      "published": "Sun, 24 May 2026 19:23:48 +0700",
-      "description": "Di tengah meningkatnya kebutuhan mobilitas urban yang praktis dan efisien, Chery memanfaatkan hal tersebut dengan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Sambut kepulangan WNI, Menlu RI kecam pencegatan kapal GSF oleh Israel",
-      "link": "https://www.antaranews.com/berita/5580632/sambut-kepulangan-wni-menlu-ri-kecam-pencegatan-kapal-gsf-oleh-israel",
-      "published": "Sun, 24 May 2026 19:21:41 +0700",
-      "description": "Menteri Luar Negeri RI Sugiono mengecam keras pencegatan kapal misi kemanusiaan Global Sumud Flotilla (GSF) 2.0 oleh ...",
+      "error": "unclosed token: line 661, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
