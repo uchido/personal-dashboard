@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-24T13:10:12+0000",
+  "timestamp": "2026-05-24T13:40:20+0000",
   "articles": [
     {
       "title": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
       "link": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 12:50:21 GMT",
+      "published": "Sun, 24 May 2026 13:31:09 GMT",
       "description": "Speaking to the BBC’s Laura Kuenssberg, the girl, who is now 16, said: \"What was the point in putting me through that?\"",
       "source": "BBC News",
       "category": "Global"
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
+      "link": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 01:02:55 GMT",
+      "description": "Six supermarket brand eggs cost £1 in 2022. How much are they now, why have they gone up, and is anyone profiteering?",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Suspect killed after opening fire on Secret Service near White House",
       "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 24 May 2026 06:15:32 GMT",
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Midnight Sun-derland: Zara Larsson electrifies the crowd at Big Weekend",
-      "link": "https://www.bbc.com/news/articles/c4g07gdzneno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 22:34:14 GMT",
-      "description": "The Swedish pop star treated the crowds to back-to-back, high-energy pop bangers on day two of the festival.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "OJK dalami temuan modus jasa penyelesaian utang pinjol",
+      "link": "https://www.antaranews.com/berita/5580708/ojk-dalami-temuan-modus-jasa-penyelesaian-utang-pinjol",
+      "published": "Sun, 24 May 2026 20:39:38 +0700",
+      "description": "Otoritas Jasa Keuangan tengah mendalami temuan terkait entitas yang menawarkan jasa penyelesaian utang pinjaman online ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 661, column 6",
+      "title": "MPR tanamkan empat pilar kepada guru PAUD di Bangka Belitung",
+      "link": "https://www.antaranews.com/berita/5580705/mpr-tanamkan-empat-pilar-kepada-guru-paud-di-bangka-belitung",
+      "published": "Sun, 24 May 2026 20:38:50 +0700",
+      "description": "Majelis Permusyawaratan Rakyat (MPR) RI bersama Pengurus Wilayah Himpunan Pendidik Anak Usia Dini (Himpaudi) Bangka ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Dubes: Guru SIKL pionir pendidikan anak Indonesia di Malaysia",
+      "link": "https://www.antaranews.com/berita/5580701/dubes-guru-sikl-pionir-pendidikan-anak-indonesia-di-malaysia",
+      "published": "Sun, 24 May 2026 20:37:17 +0700",
+      "description": "Duta Besar Republik Indonesia untuk Malaysia Dato&#39; Mohammad Iman Hascarya Kusumo mengatakan guru-guru di Sekolah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Riekerink bangga dengan penampilan Dewa United musim ini",
+      "link": "https://www.antaranews.com/berita/5580699/riekerink-bangga-dengan-penampilan-dewa-united-musim-ini",
+      "published": "Sun, 24 May 2026 20:36:42 +0700",
+      "description": "Pelatih Dewa United Jan Olde Riekerink bangga dengan penampilan tim asuhannya selama kompetisi BRI Super League musim ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
