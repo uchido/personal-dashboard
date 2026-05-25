@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-25T11:16:14+0000",
+  "timestamp": "2026-05-25T11:46:21+0000",
   "articles": [
     {
       "title": "Deal with US not imminent, Iran says",
       "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 09:39:15 GMT",
-      "description": "The Iranian foreign minister's comments come after the US secretary of state said an agreement could be announced on Monday.",
+      "published": "Mon, 25 May 2026 11:17:49 GMT",
+      "description": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 658, column 177",
+      "title": "Haaland janji Norwegia pamerkan kreativitas dalam Piala Dunia",
+      "link": "https://www.antaranews.com/berita/5581949/haaland-janji-norwegia-pamerkan-kreativitas-dalam-piala-dunia",
+      "published": "Mon, 25 May 2026 18:44:57 +0700",
+      "description": "Penyerang tim nasional Norwegia Erling Haaland menyatakan timnya akan membawa kreativitas untuk bersaing pada Piala ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Banjarmasin raih penghargaan revitalisasi bahasa daerah nasional 2026",
+      "link": "https://www.antaranews.com/berita/5581945/banjarmasin-raih-penghargaan-revitalisasi-bahasa-daerah-nasional-2026",
+      "published": "Mon, 25 May 2026 18:43:47 +0700",
+      "description": "Pemerintah Kota Banjarmasin, Kalimantan Selatan menerima penghargaan revitalisasi bahasa daerah nasional tahun 2026 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemerintah atur mekanisme baru impor minyak bagi Pertamina dan BLU",
+      "link": "https://www.antaranews.com/berita/5581941/pemerintah-atur-mekanisme-baru-impor-minyak-bagi-pertamina-dan-blu",
+      "published": "Mon, 25 May 2026 18:42:11 +0700",
+      "description": "nya, kami sudah ada Perpres 26 Tahun 2026, di mana untuk impor itu bisa dilakukan langsung oleh teman-teman yang dari ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Akses menuju Pelabuhan Tanjung Priok lumpuh total Senin sore",
+      "link": "https://www.antaranews.com/berita/5581937/akses-menuju-pelabuhan-tanjung-priok-lumpuh-total-senin-sore",
+      "published": "Mon, 25 May 2026 18:42:09 +0700",
+      "description": "Akses lalu lintas di Jalan Yos Sudarso menuju kawasan Pelabuhan Tanjung Priok, Jakarta Utara, lumpuh total dan ratusan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
