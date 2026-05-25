@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T07:15:10+0000",
+  "timestamp": "2026-05-25T07:45:17+0000",
   "articles": [
     {
       "title": "Rubio says 'solid' Iran deal may come on Monday",
@@ -12,7 +12,7 @@
     {
       "title": "Oil prices slide on hopes of US-Iran peace deal",
       "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 06:01:59 GMT",
+      "published": "Mon, 25 May 2026 07:16:37 GMT",
       "description": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Hujan lebat, 538 rumah di Pati tergenang banjir & 1.050 jiwa terdampak",
+      "link": "https://www.antaranews.com/berita/5581460/hujan-lebat-538-rumah-di-pati-tergenang-banjir-1050-jiwa-terdampak",
+      "published": "Mon, 25 May 2026 14:43:24 +0700",
+      "description": "Banjir melanda Desa Ketitangwetan, Kecamatan Batangan, Kabupaten Pati, Jawa Tengah, akibat curah hujan tinggi yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menkeu buat pendekatan baru agar dana bencana Sumatera cepat terserap",
+      "link": "https://www.antaranews.com/berita/5581459/menkeu-buat-pendekatan-baru-agar-dana-bencana-sumatera-cepat-terserap",
+      "published": "Mon, 25 May 2026 14:42:59 +0700",
+      "description": "Menteri Keuangan Purbaya Yudhi Sadewa menyatakan pihaknya membuat pendekatan baru dengan menindaklanjuti laporan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ramadhipa ke posisi kedua klasemen Moto3 Junior usai revisi Catalunya",
+      "link": "https://www.antaranews.com/berita/5581457/ramadhipa-ke-posisi-kedua-klasemen-moto3-junior-usai-revisi-catalunya",
+      "published": "Mon, 25 May 2026 14:41:51 +0700",
+      "description": "Pembalap muda Indonesia Muhammad Kiandra Ramadhipa naik ke posisi kedua klasemen sementara Kejuaraan Dunia Moto3 Junior ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Xi Jinping kritik militerisasi Jepang dalam pertemuan dengan Trump",
+      "link": "https://www.antaranews.com/berita/5581453/xi-jinping-kritik-militerisasi-jepang-dalam-pertemuan-dengan-trump",
+      "published": "Mon, 25 May 2026 14:41:04 +0700",
+      "description": "Dalam pertemuan puncak dengan Presiden Amerika Serikat (AS)&nbsp;Donald Trump, Presiden China Xi Jinping mengkritik ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
