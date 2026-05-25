@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-25T17:17:31+0000",
+  "timestamp": "2026-05-25T17:47:37+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 100.0,
     "cores": 4,
     "load_avg": [
-      4.26,
-      2.7,
-      1.52
+      4.39,
+      2.81,
+      1.58
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 0.7,
-    "available": 10.8,
-    "used": 12.6,
-    "percent": 53.8
+    "free": 0.6,
+    "available": 10.7,
+    "used": 12.7,
+    "percent": 54.3
   },
   "disk": {
     "total": "193G",
@@ -26,26 +26,20 @@
   "uptime": {
     "days": 20,
     "hours": 1,
-    "minutes": 5,
-    "total_seconds": 1731955.06
+    "minutes": 36,
+    "total_seconds": 1733760.99
   },
   "top_processes": [
     {
       "user": "ollama",
-      "cpu": "366",
-      "mem": "34.6",
+      "cpu": "367",
+      "mem": "34.7",
       "command": "/usr/local/bin/ollama runner --ollama-engine --mod"
     },
     {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
       "user": "root",
-      "cpu": "95.1",
-      "mem": "0.1",
+      "cpu": "21.0",
+      "mem": "0.6",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
@@ -59,6 +53,12 @@
       "cpu": "0.8",
       "mem": "0.5",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "0.5",
+      "mem": "3.6",
+      "command": "openclaw-gateway"
     }
   ]
 }
