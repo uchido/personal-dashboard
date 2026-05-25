@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T06:45:00+0000",
+  "timestamp": "2026-05-25T07:15:10+0000",
   "articles": [
     {
       "title": "Rubio says 'solid' Iran deal may come on Monday",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kemendag luncurkan layanan tera ulang alat ukur pengisi daya kendaraan listrik",
-      "link": "https://www.antaranews.com/foto/5581329/kemendag-luncurkan-layanan-tera-ulang-alat-ukur-pengisi-daya-kendaraan-listrik",
-      "published": "Mon, 25 May 2026 13:43:50 +0700",
-      "description": "Petugas Direktorat Metrologi Kemendag mengamati mesin energi meter saat mengukur pengisian daya kendaraan listrik di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemenhut tahan penyelundup 3 ton sisik Trenggiling tujuan Kamboja",
-      "link": "https://www.antaranews.com/berita/5581323/kemenhut-tahan-penyelundup-3-ton-sisik-trenggiling-tujuan-kamboja",
-      "published": "Mon, 25 May 2026 13:41:17 +0700",
-      "description": "Kementerian Kehutanan (Kemenhut) telah menahan tersangka berinisial TT terkait upaya penyelundupan 3.053 kilogram atau ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Presiden Prabowo berikan delapan sapi kurban \"jumbo\" untuk Babel",
-      "link": "https://www.antaranews.com/berita/5581321/presiden-prabowo-berikan-delapan-sapi-kurban-jumbo-untuk-babel",
-      "published": "Mon, 25 May 2026 13:36:35 +0700",
-      "description": "Presiden Republik Indonesia, Prabowo Subianto memberikan delapan ekor sapi berukuran jumbo untuk Provinsi Kepulauan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemkab Banyumas tutup total Jalan Baturraden Barat, tangani amblesan",
-      "link": "https://www.antaranews.com/berita/5581317/pemkab-banyumas-tutup-total-jalan-baturraden-barat-tangani-amblesan",
-      "published": "Mon, 25 May 2026 13:36:07 +0700",
-      "description": "Pemerintah Kabupaten Banyumas, Jawa Tengah, menutup total Jalan Raya Baturraden Barat untuk penanganan amblesan sedalam ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
