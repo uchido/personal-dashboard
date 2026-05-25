@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T10:46:06+0000",
+  "timestamp": "2026-05-25T11:16:14+0000",
   "articles": [
     {
       "title": "Deal with US not imminent, Iran says",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kramat Jati gencarkan sosialisasi pilah sampah lewat forum warga",
-      "link": "https://www.antaranews.com/berita/5581820/kramat-jati-gencarkan-sosialisasi-pilah-sampah-lewat-forum-warga",
-      "published": "Mon, 25 May 2026 17:44:01 +0700",
-      "description": "Kecamatan Kramat Jati terus menggencarkan sosialisasi pemilahan sampah dari sumbernya, yakni rumah tangga, untuk ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dompet Dhuafa pastikan juru sembelih halal kurban telah tersertifikasi",
-      "link": "https://www.antaranews.com/berita/5581817/dompet-dhuafa-pastikan-juru-sembelih-halal-kurban-telah-tersertifikasi",
-      "published": "Mon, 25 May 2026 17:41:21 +0700",
-      "description": "Lembaga filantropi Yayasan Dompet Dhuafa memastikan juru sembelih halal pada program Idul Adha 1447 Hijriah/2026 Masehi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bukan aksi begal, polisi tegaskan insiden di Tambora murni kecelakaan",
-      "link": "https://www.antaranews.com/berita/5581816/bukan-aksi-begal-polisi-tegaskan-insiden-di-tambora-murni-kecelakaan",
-      "published": "Mon, 25 May 2026 17:41:08 +0700",
-      "description": "Kepolisian mengimbau masyarakat agar lebih selektif dan tidak mudah percaya terhadap informasi yang beredar di media ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "MK kabulkan sebagian permohonan keterwakilan perempuan pada pemilu",
-      "link": "https://www.antaranews.com/berita/5581812/mk-kabulkan-sebagian-permohonan-keterwakilan-perempuan-pada-pemilu",
-      "published": "Mon, 25 May 2026 17:38:03 +0700",
-      "description": "Mahkamah Konstitusi mengabulkan sebagian permohonan terkait uji materiil Pasal 245 Undang-Undang Nomor 7 Tahun 2017 ...",
+      "error": "unclosed token: line 658, column 177",
       "source": "Antara News",
       "category": "Indonesia"
     }
