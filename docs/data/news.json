@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T14:46:58+0000",
+  "timestamp": "2026-05-25T15:17:06+0000",
   "articles": [
     {
       "title": "The questions raised by the Murrell embezzlement controversy",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Pemkab Garut siapkan lahan 30 hektare untuk Sekolah Rakyat",
-      "link": "https://www.antaranews.com/berita/5582283/pemkab-garut-siapkan-lahan-30-hektare-untuk-sekolah-rakyat",
-      "published": "Mon, 25 May 2026 21:45:16 +0700",
-      "description": "Pemerintah Kabupaten Garut, Jawa Barat menyiapkan lahan seluas 30 hektare untuk Sekolah Rakyat permanen di wilayah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "23 orang tewas akibat ledakan dekat kereta militer Pakistan",
-      "link": "https://www.antaranews.com/berita/5582281/23-orang-tewas-akibat-ledakan-dekat-kereta-militer-pakistan",
-      "published": "Mon, 25 May 2026 21:42:53 +0700",
-      "description": "Jumlah korban tewas akibat ledakan di dekat kereta khusus personel militer di Quetta, Pakistan, Minggu (24/5), mencapai ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BTN ambil alih portofolio kredit SMBC Indonesia Rp19,93 triliun",
-      "link": "https://www.antaranews.com/berita/5582276/btn-ambil-alih-portofolio-kredit-smbc-indonesia-rp1993-triliun",
-      "published": "Mon, 25 May 2026 21:41:32 +0700",
-      "description": "PT Bank Tabungan Negara (Persero) Tbk (BTN) menandatangani dua perjanjian pengalihan atas kredit pensiunan, kredit ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pertamina akan bor sumur eksplorasi di Natuna tahun ini",
-      "link": "https://www.antaranews.com/berita/5582275/pertamina-akan-bor-sumur-eksplorasi-di-natuna-tahun-ini",
-      "published": "Mon, 25 May 2026 21:37:00 +0700",
-      "description": "Direktur Utama PT Pertamina Hulu Energi (PHE) Awang Lazuardi&nbsp; menargetkan mulai mengebor sumur eksplorasi di ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
