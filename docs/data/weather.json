@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-05-25T07:45:17+0000",
+  "timestamp": "2026-05-25T08:15:26+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Palu",
+      "location": "Besusu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "27",
       "feels_like_c": "32",
-      "humidity": "90",
+      "humidity": "91",
       "wind_speed_kmh": "6",
       "wind_dir": "WNW",
       "visibility_km": "10",
       "pressure_mb": "1011",
       "condition": "Light rain shower",
       "condition_code": "353",
-      "uv_index": "8",
+      "uv_index": "2",
       "forecast": [
         {
           "date": "2026-05-25",
-          "max_temp": "29",
+          "max_temp": "30",
           "min_temp": "18",
           "condition": "Light rain shower",
           "sunrise": "05:55 AM",
@@ -27,8 +27,8 @@
         },
         {
           "date": "2026-05-26",
-          "max_temp": "28",
-          "min_temp": "18",
+          "max_temp": "27",
+          "min_temp": "17",
           "condition": "Mist",
           "sunrise": "05:55 AM",
           "sunset": "06:00 PM"
@@ -48,16 +48,16 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "29",
-      "feels_like_c": "32",
-      "humidity": "67",
+      "temp_c": "28",
+      "feels_like_c": "31",
+      "humidity": "72",
       "wind_speed_kmh": "17",
       "wind_dir": "SSE",
-      "visibility_km": "10",
-      "pressure_mb": "1011",
+      "visibility_km": "9",
+      "pressure_mb": "1010",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "8",
+      "uv_index": "5",
       "forecast": [
         {
           "date": "2026-05-25",
@@ -79,7 +79,7 @@
           "date": "2026-05-27",
           "max_temp": "28",
           "min_temp": "22",
-          "condition": "Patchy rain nearby",
+          "condition": "Mist",
           "sunrise": "05:44 AM",
           "sunset": "05:27 PM"
         }
