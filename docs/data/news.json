@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-25T16:17:18+0000",
+  "timestamp": "2026-05-25T16:47:25+0000",
   "articles": [
     {
       "title": "The questions raised by the Murrell embezzlement controversy",
       "link": "https://www.bbc.com/news/articles/c74dd82w943o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 25 May 2026 11:08:57 GMT",
       "description": "Thecase has been hanging over the SNP like a toxic cloud since the police investigation began five years ago.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Woman dies after being shot outside Sheffield bar",
+      "link": "https://www.bbc.com/news/articles/c2022lwyex1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 25 May 2026 16:43:19 GMT",
+      "description": "Three people are in custody after the 30-year-old was found with serious injuries early on Monday.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre",
-      "link": "https://www.bbc.com/news/articles/c0l22pz6nw6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 13:32:10 GMT",
-      "description": "Unrest between crowds trying to reclaim the bodies of suspected Ebola cases and authorities have continued.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Viral penolakan, otoritas teruskan pembangunan KDKMP Desa Kaloran",
-      "link": "https://www.antaranews.com/video/5582400/viral-penolakan-otoritas-teruskan-pembangunan-kdkmp-desa-kaloran",
-      "published": "Mon, 25 May 2026 23:13:35 +0700",
-      "description": "ANTARA -&nbsp;Polemik pembangunan KDKMP di Desa Kaloran, Kecamatan Kaloran, Kabupaten Temanggung, Jawa Tengah ...",
+      "title": "LMAN sumbang PNBP senilai Rp4,2 triliun pada 2025",
+      "link": "https://www.antaranews.com/berita/5582468/lman-sumbang-pnbp-senilai-rp42-triliun-pada-2025",
+      "published": "Mon, 25 May 2026 23:44:51 +0700",
+      "description": "Lembaga Manajemen Aset Negara (LMAN) mencatat kontribusi penerimaan negara bukan pajak (PNBP) sebesar Rp4,2 triliun ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ensiklik pertama Paus Leo XIV tekankan soal kemanusiaan di era AI",
-      "link": "https://www.antaranews.com/berita/5582437/ensiklik-pertama-paus-leo-xiv-tekankan-soal-kemanusiaan-di-era-ai",
-      "published": "Mon, 25 May 2026 23:12:49 +0700",
-      "description": "Vatikan menerbitkan ensiklik pertama Paus Leo XIV, Senin, bertajuk &quot;Magnifica Humanitas&quot; yang membahas soal ...",
+      "title": "KPK periksa pengusaha Pacitan berinisial CYM soal hasil penggeledahan",
+      "link": "https://www.antaranews.com/berita/5582467/kpk-periksa-pengusaha-pacitan-berinisial-cym-soal-hasil-penggeledahan",
+      "published": "Mon, 25 May 2026 23:43:23 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) memeriksa CYM selaku ibu rumah tangga sekaligus pengusaha di Kabupaten Pacitan, Jawa ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ilmuwan Australia ungkap peran protein terkait alzheimer",
-      "link": "https://www.antaranews.com/berita/5582435/ilmuwan-australia-ungkap-peran-protein-terkait-alzheimer",
-      "published": "Mon, 25 May 2026 23:12:05 +0700",
-      "description": "Penelitian yang telah dipublikasikan di dalam jurnal Nature Communications menemukan bahwa protein tau berperan penting ...",
+      "title": "Agar kurban di Semarang lebih ramah lingkungan",
+      "link": "https://www.antaranews.com/video/5582328/agar-kurban-di-semarang-lebih-ramah-lingkungan",
+      "published": "Mon, 25 May 2026 23:42:02 +0700",
+      "description": "ANTARA - Dinas Pertanian (Distan) Kota Semarang, Jawa Tengah mengajak seluruh panitia kurban menerapkan tata cara ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Danantara Indonesia Trust luncurkan tiga kemitraan strategis",
-      "link": "https://www.antaranews.com/berita/5582433/danantara-indonesia-trust-luncurkan-tiga-kemitraan-strategis",
-      "published": "Mon, 25 May 2026 23:11:56 +0700",
-      "description": "Danantara Indonesia Trust (DIT) meluncurkan tiga kemitraan strategis perdana di bidang kesehatan, pendidikan dan ...",
+      "title": "Festival Java Jazz 2026 akan menghadirkan sejumlah transformasi baru",
+      "link": "https://www.antaranews.com/berita/5582464/festival-java-jazz-2026-akan-menghadirkan-sejumlah-transformasi-baru",
+      "published": "Mon, 25 May 2026 23:40:32 +0700",
+      "description": "Gelaran festival musik myBCA International Java Jazz 2026 akan menandai transformasi untuk menghadirkan konsep dan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
