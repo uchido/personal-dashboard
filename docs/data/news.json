@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-05-26T10:22:07+0000",
+  "timestamp": "2026-05-26T10:52:18+0000",
   "articles": [
     {
       "title": "Three teens dead after rescues from water at beauty spots",
       "link": "https://www.bbc.com/news/articles/clyppw0q54no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 07:34:58 GMT",
+      "published": "Tue, 26 May 2026 10:26:44 GMT",
       "description": "Three teenagers were found in water in separate incidents across England on Bank Holiday Monday.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Sentences of boys spared custody over Hampshire rape referred to Court of Appeal, PM says",
+      "link": "https://www.bbc.com/news/articles/c5y779yeq0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 10:33:33 GMT",
+      "description": "The sentences of boys spared custody over the rape of two girls in Hampshire will be referred to the Court of Appeal, the prime minister has said.",
       "source": "BBC News",
       "category": "Global"
     },
     {
       "title": "Four killed as school minibus collides with train in Belgium",
       "link": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 10:08:59 GMT",
-      "description": "Seven children, a chaperone and the minibus driver were on a level crossing when the accident happened, broadcaster VRT reported.",
+      "published": "Tue, 26 May 2026 10:27:45 GMT",
+      "description": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Gisèle Pelicot 'deeply shocked' by decision not to jail boys in rape case",
-      "link": "https://www.bbc.com/news/articles/cx2117685lwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 07:27:37 GMT",
-      "description": "The French rape survivor praises the bravery of a young girl for coming forward following the incidents in Fordingbridge.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Sapi kurban Presiden Prabowo tiba di Masjid Jami’ Al-Ichrom Jakbar",
+      "link": "https://www.antaranews.com/berita/5583508/sapi-kurban-presiden-prabowo-tiba-di-masjid-jami-al-ichrom-jakbar",
+      "published": "Tue, 26 May 2026 17:49:06 +0700",
+      "description": "Sapi kurban milik Presiden RI Prabowo Subianto tiba di Masjid Jami&rsquo; Al-Ichrom, Jalan Prepedan Raya, Kalideres, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "no element found: line 658, column 149",
+      "title": "Bulog Sultra pasok 4.200 liter Minyakita guna antisipasi kelangkaan",
+      "link": "https://www.antaranews.com/berita/5583507/bulog-sultra-pasok-4200-liter-minyakita-guna-antisipasi-kelangkaan",
+      "published": "Tue, 26 May 2026 17:49:03 +0700",
+      "description": "Perum Bulog Kantor Wilayah (Kanwil) Sulawesi Tenggara (Sultra) menambah pasokan minyak goreng subsidi merek Minyakita ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemkomdigi jelaskan cara cek status bansos di portal Perlinsos",
+      "link": "https://www.antaranews.com/berita/5583504/kemkomdigi-jelaskan-cara-cek-status-bansos-di-portal-perlinsos",
+      "published": "Tue, 26 May 2026 17:47:19 +0700",
+      "description": "Direktur Jenderal Teknologi Pemerintah Digital Kementerian Komunikasi dan Digital (Kemkomdigi) Mira Tayyiba menjelaskan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Mengoptimalkan penerimaan PPN tanpa harus menaikkan tarif",
+      "link": "https://www.antaranews.com/berita/5583501/mengoptimalkan-penerimaan-ppn-tanpa-harus-menaikkan-tarif",
+      "published": "Tue, 26 May 2026 17:46:48 +0700",
+      "description": "Dalam satu dekade terakhir, kontribusi Pajak Pertambahan Nilai (PPN) terhadap APBN cenderung meningkat dan relatif ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
