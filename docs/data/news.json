@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-26T10:52:18+0000",
+  "timestamp": "2026-05-26T11:22:27+0000",
   "articles": [
     {
       "title": "Three teens dead after rescues from water at beauty spots",
       "link": "https://www.bbc.com/news/articles/clyppw0q54no?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 26 May 2026 10:26:44 GMT",
       "description": "Three teenagers were found in water in separate incidents across England on Bank Holiday Monday.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
+      "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 09:44:58 GMT",
+      "description": "US Central Command says the strikes were taken in \"self-defence\", while Iran reports it downed a US drone that entered its airspace.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -20,48 +28,40 @@
     {
       "title": "Four killed as school minibus collides with train in Belgium",
       "link": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 10:27:45 GMT",
+      "published": "Tue, 26 May 2026 11:11:43 GMT",
       "description": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "US launches new strikes on Iran, targeting missile sites and boats",
-      "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 09:44:58 GMT",
-      "description": "US Central Command says the strikes were taken in \"self-defence\". It comes as senior Iranian negotiators are in Qatar for talks to end the war.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Sapi kurban Presiden Prabowo tiba di Masjid Jami’ Al-Ichrom Jakbar",
-      "link": "https://www.antaranews.com/berita/5583508/sapi-kurban-presiden-prabowo-tiba-di-masjid-jami-al-ichrom-jakbar",
-      "published": "Tue, 26 May 2026 17:49:06 +0700",
-      "description": "Sapi kurban milik Presiden RI Prabowo Subianto tiba di Masjid Jami&rsquo; Al-Ichrom, Jalan Prepedan Raya, Kalideres, ...",
+      "title": "Pemprov DKI ajak warga jaga kualitas udara lewat #SatuLangkahDulu",
+      "link": "https://www.antaranews.com/berita/5583548/pemprov-dki-ajak-warga-jaga-kualitas-udara-lewat-satulangkahdulu",
+      "published": "Tue, 26 May 2026 18:20:48 +0700",
+      "description": "Pemerintah Provinsi DKI Jakarta melalui Dinas Lingkungan Hidup (DLH) mengajak seluruh warga Jakarta mengambil peran ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bulog Sultra pasok 4.200 liter Minyakita guna antisipasi kelangkaan",
-      "link": "https://www.antaranews.com/berita/5583507/bulog-sultra-pasok-4200-liter-minyakita-guna-antisipasi-kelangkaan",
-      "published": "Tue, 26 May 2026 17:49:03 +0700",
-      "description": "Perum Bulog Kantor Wilayah (Kanwil) Sulawesi Tenggara (Sultra) menambah pasokan minyak goreng subsidi merek Minyakita ...",
+      "title": "Aturan kemasan rokok dikhawatirkan picu peningkatan rokok ilegal",
+      "link": "https://www.antaranews.com/berita/5583544/aturan-kemasan-rokok-dikhawatirkan-picu-peningkatan-rokok-ilegal",
+      "published": "Tue, 26 May 2026 18:16:09 +0700",
+      "description": "Ketua Gabungan Produsen Rokok Putih Indonesia (Gaprindo) Benny Wachjudi berpendapat bahwa pencantuman peringatan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemkomdigi jelaskan cara cek status bansos di portal Perlinsos",
-      "link": "https://www.antaranews.com/berita/5583504/kemkomdigi-jelaskan-cara-cek-status-bansos-di-portal-perlinsos",
-      "published": "Tue, 26 May 2026 17:47:19 +0700",
-      "description": "Direktur Jenderal Teknologi Pemerintah Digital Kementerian Komunikasi dan Digital (Kemkomdigi) Mira Tayyiba menjelaskan ...",
+      "title": "China rilis pedoman etis untuk atur penelitian data genetik manusia",
+      "link": "https://www.antaranews.com/berita/5583540/china-rilis-pedoman-etis-untuk-atur-penelitian-data-genetik-manusia",
+      "published": "Tue, 26 May 2026 18:15:33 +0700",
+      "description": "Kementerian Sains dan Teknologi China merilis pedoman etis yang mengatur penelitian data genetik manusia.    Aturan ini ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Mengoptimalkan penerimaan PPN tanpa harus menaikkan tarif",
-      "link": "https://www.antaranews.com/berita/5583501/mengoptimalkan-penerimaan-ppn-tanpa-harus-menaikkan-tarif",
-      "published": "Tue, 26 May 2026 17:46:48 +0700",
-      "description": "Dalam satu dekade terakhir, kontribusi Pajak Pertambahan Nilai (PPN) terhadap APBN cenderung meningkat dan relatif ...",
+      "title": "Kemendikdasmen pastikan metode olah nilai TKA tidak rugikan murid",
+      "link": "https://www.antaranews.com/berita/5583537/kemendikdasmen-pastikan-metode-olah-nilai-tka-tidak-rugikan-murid",
+      "published": "Tue, 26 May 2026 18:12:01 +0700",
+      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) memastikan metode pengolahan nilai pada Tes Kemampuan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
