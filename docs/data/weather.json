@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-26T00:49:31+0000",
+  "timestamp": "2026-05-26T01:19:37+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
+      "location": "Tatura",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "20",
-      "feels_like_c": "20",
-      "humidity": "93",
+      "temp_c": "28",
+      "feels_like_c": "31",
+      "humidity": "75",
       "wind_speed_kmh": "4",
-      "wind_dir": "S",
+      "wind_dir": "W",
       "visibility_km": "9",
       "pressure_mb": "1013",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "0",
+      "uv_index": "5",
       "forecast": [
         {
           "date": "2026-05-26",
