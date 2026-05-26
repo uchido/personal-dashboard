@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-26T22:25:38+0000",
+  "timestamp": "2026-05-26T22:55:52+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 25.6,
+    "percent": 26.8,
     "cores": 4,
     "load_avg": [
-      0.28,
-      0.95,
-      1.19
+      0.29,
+      0.96,
+      1.23
     ]
   },
   "memory": {
     "total": 23.4,
     "free": 8.9,
-    "available": 19.0,
-    "used": 4.4,
-    "percent": 18.8
+    "available": 19.3,
+    "used": 4.1,
+    "percent": 17.5
   },
   "disk": {
     "total": "193G",
@@ -26,13 +26,13 @@
   "uptime": {
     "days": 21,
     "hours": 6,
-    "minutes": 14,
-    "total_seconds": 1836842.33
+    "minutes": 44,
+    "total_seconds": 1838656.78
   },
   "top_processes": [
     {
       "user": "root",
-      "cpu": "98.3",
+      "cpu": "99.2",
       "mem": "0.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
@@ -40,13 +40,13 @@
       "user": "ubuntu",
       "cpu": "15.3",
       "mem": "0.0",
-      "command": "python3 scripts/collect-vps.py"
+      "command": "python3 /home/ubuntu/personal-dashboard/scripts/co"
     },
     {
       "user": "ubuntu",
-      "cpu": "5.5",
+      "cpu": "3.2",
       "mem": "0.0",
-      "command": "python3 /home/ubuntu/personal-dashboard/scripts/co"
+      "command": "python3 scripts/collect-quote.py"
     },
     {
       "user": "root",
@@ -57,7 +57,7 @@
     {
       "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "3.5",
+      "mem": "3.6",
       "command": "openclaw-gateway"
     }
   ]
