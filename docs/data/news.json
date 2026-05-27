@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T05:27:56+0000",
+  "timestamp": "2026-05-27T05:58:04+0000",
   "articles": [
     {
       "title": "Labour has 'no coherent plan' for country, says Blair",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Banjir masih merendam wilayah KAT Gorontalo Utara",
-      "link": "https://www.antaranews.com/berita/5584396/banjir-masih-merendam-wilayah-kat-gorontalo-utara",
-      "published": "Wed, 27 May 2026 12:25:48 +0700",
-      "description": "Banjir masih merendam wilayah Komunitas Adat Terpencil (KAT) Didingga di Desa Didingga, Kecamatan Biau, Gorontalo ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Legislator : Masyarakat wajib perhatikan limbah usai pemotongan hewan",
-      "link": "https://www.antaranews.com/berita/5584392/legislator-masyarakat-wajib-perhatikan-limbah-usai-pemotongan-hewan",
-      "published": "Wed, 27 May 2026 12:24:29 +0700",
-      "description": "Legislator mengatakan, masyarakat wajib memperhatikan limbah hasil penyembelihan hewan kurban agar tidak menimbulkan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menlu China paparkan posisi terkait kualifikasi Sekjen PBB berikutnya",
-      "link": "https://www.antaranews.com/berita/5584388/menlu-china-paparkan-posisi-terkait-kualifikasi-sekjen-pbb-berikutnya",
-      "published": "Wed, 27 May 2026 12:16:17 +0700",
-      "description": "Menteri Luar Negeri (Menlu) China Wang Yi pada Selasa (26/5) menguraikan posisi China terkait kualifikasi yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kementan dan HKTI salurkan 49 ekor hewan kurban Idul Adha 1447 H",
-      "link": "https://www.antaranews.com/berita/5584385/kementan-dan-hkti-salurkan-49-ekor-hewan-kurban-idul-adha-1447-h",
-      "published": "Wed, 27 May 2026 12:15:53 +0700",
-      "description": "Kementerian Pertanian bersama Himpunan Kerukunan Tani Indonesia (HKTI) menyalurkan 49 ekor hewan kurban kepada ...",
+      "error": "unclosed token: line 671, column 0",
       "source": "Antara News",
       "category": "Indonesia"
     }
