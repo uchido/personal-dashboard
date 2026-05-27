@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T21:03:45+0000",
+  "timestamp": "2026-05-27T21:33:51+0000",
   "locations": [
     {
       "name": "Palu",
@@ -10,7 +10,7 @@
       "feels_like_c": "17",
       "humidity": "95",
       "wind_speed_kmh": "4",
-      "wind_dir": "S",
+      "wind_dir": "SSE",
       "visibility_km": "2",
       "pressure_mb": "1013",
       "condition": "Mist",
@@ -19,7 +19,7 @@
       "forecast": [
         {
           "date": "2026-05-28",
-          "max_temp": "31",
+          "max_temp": "32",
           "min_temp": "17",
           "condition": "Mist",
           "sunrise": "05:56 AM",
@@ -29,13 +29,13 @@
           "date": "2026-05-29",
           "max_temp": "31",
           "min_temp": "18",
-          "condition": "Light rain shower",
+          "condition": "Mist",
           "sunrise": "05:56 AM",
           "sunset": "06:00 PM"
         },
         {
           "date": "2026-05-30",
-          "max_temp": "31",
+          "max_temp": "30",
           "min_temp": "18",
           "condition": "Mist",
           "sunrise": "05:56 AM",
