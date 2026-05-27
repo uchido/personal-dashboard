@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-27T04:57:45+0000",
+  "timestamp": "2026-05-27T05:27:53+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 0.0,
+    "percent": 2.4,
     "cores": 4,
     "load_avg": [
-      0.2,
-      0.25,
-      0.34
+      0.17,
+      0.22,
+      0.25
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 8.8,
-    "available": 18.9,
-    "used": 4.5,
-    "percent": 19.2
+    "free": 8.6,
+    "available": 18.8,
+    "used": 4.6,
+    "percent": 19.7
   },
   "disk": {
     "total": "193G",
@@ -25,14 +25,14 @@
   },
   "uptime": {
     "days": 21,
-    "hours": 12,
-    "minutes": 46,
-    "total_seconds": 1860369.71
+    "hours": 13,
+    "minutes": 16,
+    "total_seconds": 1862177.35
   },
   "top_processes": [
     {
       "user": "root",
-      "cpu": "28.9",
+      "cpu": "32.4",
       "mem": "0.6",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
@@ -51,7 +51,7 @@
     {
       "user": "ubuntu",
       "cpu": "0.5",
-      "mem": "3.6",
+      "mem": "4.1",
       "command": "openclaw-gateway"
     },
     {
