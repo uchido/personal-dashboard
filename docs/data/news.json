@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-05-27T15:01:48+0000",
+  "timestamp": "2026-05-27T15:31:59+0000",
   "articles": [
-    {
-      "title": "Water safety warning after nine people die during heatwave",
-      "link": "https://www.bbc.com/news/articles/cp8plymvm47o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 14:40:59 GMT",
-      "description": "Charities urge people to take precautions after at least nine people died after getting into difficulty in water during the warm weather.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Burnham accuses Blair of ignoring inequality as he hits back at ex-PM",
       "link": "https://www.bbc.com/news/articles/ckgp4llnn12o?at_medium=RSS&at_campaign=rss",
@@ -18,50 +10,58 @@
       "category": "Global"
     },
     {
-      "title": "Resident doctors to strike for 16th time over pay",
-      "link": "https://www.bbc.com/news/articles/c8xw2vvlxeko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 14:28:32 GMT",
-      "description": "British Medical Association resident doctor members in England announce new strike for four days from 15 June.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Mum, 30, killed in shooting outside bar named",
+      "title": "Family of mum, 30, shot dead outside Sheffield bar pay tribute to 'beautiful soul'",
       "link": "https://www.bbc.com/news/articles/c0q2yle5e0yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 14:59:12 GMT",
+      "published": "Wed, 27 May 2026 15:29:53 GMT",
       "description": "Shanice Brookes, 30, worked for a charity and was studying for a university degree, her family say.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "WNI di berbagai prefektur Jepang jalankan shalat Idul Adha",
-      "link": "https://www.antaranews.com/berita/5585011/wni-di-berbagai-prefektur-jepang-jalankan-shalat-idul-adha",
-      "published": "Wed, 27 May 2026 21:55:37 +0700",
-      "description": "Warga negara Indonesia (WNI) menjalankan shalat Idul Adha dengan khidmat di sejumlah masjid Indonesia yang tersebar di ...",
+      "title": "Water safety warning after nine people die during heatwave",
+      "link": "https://www.bbc.com/news/articles/cp8plymvm47o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 14:40:59 GMT",
+      "description": "Charities urge people to take precautions after at least nine people died after getting into difficulty in water during the warm weather.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Resident doctors in England to strike for 16th time over pay",
+      "link": "https://www.bbc.com/news/articles/c8xw2vvlxeko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 15:16:45 GMT",
+      "description": "British Medical Association resident doctor members in England announce new strike for four days from 15 June.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Kalahkan Hangtuah dua kali, Satria Muda melaju ke semifinal IBL 2026",
+      "link": "https://www.antaranews.com/berita/5585023/kalahkan-hangtuah-dua-kali-satria-muda-melaju-ke-semifinal-ibl-2026",
+      "published": "Wed, 27 May 2026 22:28:53 +0700",
+      "description": "Satria Muda Pertamina Bandung menjadi tim pertama yang lolos ke babak semifinal Indonesian Basketball League (IBL) ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Laba bersih DEFEND ID melonjak 430 persen jadi Rp913 miliar",
-      "link": "https://www.antaranews.com/berita/5585008/laba-bersih-defend-id-melonjak-430-persen-jadi-rp913-miliar",
-      "published": "Wed, 27 May 2026 21:52:44 +0700",
-      "description": "Holding BUMN&nbsp;industri pertahanan, DEFEND ID membukukan lonjakan laba bersih konsolidasian sebesar 430,1 persen ...",
+      "title": "Sejumlah WNI rayakan Idul Adha di Beijing meski tanpa potong kurban",
+      "link": "https://www.antaranews.com/berita/5585020/sejumlah-wni-rayakan-idul-adha-di-beijing-meski-tanpa-potong-kurban",
+      "published": "Wed, 27 May 2026 22:27:01 +0700",
+      "description": "Sejumlah Warga Negara Indonesia (WNI) melaksanakan shalat Idul Adha (Id) 1447 Hijriah di Masjid Haidian, Beijing, pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Banjir dan longsor di Bone Bolango, satu warga hanyut terseret arus",
-      "link": "https://www.antaranews.com/berita/5585005/banjir-dan-longsor-di-bone-bolango-satu-warga-hanyut-terseret-arus",
-      "published": "Wed, 27 May 2026 21:51:51 +0700",
-      "description": "Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Bone Bolango, Provinsi Gorontalo, mencatat satu warga hanyut ...",
+      "title": "Timnas Belanda resmi umumkan daftar 26 pemain untuk Piala Dunia 2026",
+      "link": "https://www.antaranews.com/berita/5585016/timnas-belanda-resmi-umumkan-daftar-26-pemain-untuk-piala-dunia-2026",
+      "published": "Wed, 27 May 2026 22:23:58 +0700",
+      "description": "Tim Nasional Belanda resmi mengumumkan skuad final berisi 26 pemain untuk kompetisi Piala Dunia 2026, dengan bek ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Seskab Teddy borong 35 sapi kurban dari peternak Boyolali",
-      "link": "https://www.antaranews.com/berita/5585001/seskab-teddy-borong-35-sapi-kurban-dari-peternak-boyolali",
-      "published": "Wed, 27 May 2026 21:47:05 +0700",
-      "description": "Sekretaris Kabinet, Teddy Indra Wijaya, memborong 35 ekor sapi kurban dari peternak di Boyolali, Jawa Tengah, untuk ...",
+      "title": "Perkuat kepedulian sosial, LDII Jakarta gelar kegiatan Tebar Kurban",
+      "link": "https://www.antaranews.com/berita/5585012/perkuat-kepedulian-sosial-ldii-jakarta-gelar-kegiatan-tebar-kurban",
+      "published": "Wed, 27 May 2026 22:10:39 +0700",
+      "description": "Dewan Pimpinan Wilayah (DPW) Lembaga Dakwah Islam Indonesia (LDII) Provinsi DKI Jakarta menggelar kegiatan Tebar Kurban ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
