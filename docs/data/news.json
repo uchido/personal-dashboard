@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-05-27T05:58:04+0000",
+  "timestamp": "2026-05-27T06:28:12+0000",
   "articles": [
+    {
+      "title": "Typical energy bill to rise by £221 a year from July due to Iran war",
+      "link": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 06:24:27 GMT",
+      "description": "Millions of household energy bills governed by Ofgem's price cap will increase in July, the regulator says.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Labour has 'no coherent plan' for country, says Blair",
       "link": "https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 26 May 2026 22:26:59 GMT",
       "description": "The ex-Labour PM says Sir Keir Starmer's government is in the \"wrong position\" ahead of the next election.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Iran war impact to hit household energy bills for the first time",
-      "link": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 23:28:51 GMT",
-      "description": "A household using a typical amount of gas and electricity is forecast to pay about £200 more a year.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 671, column 0",
+      "title": "Menjaga generasi Indonesia melalui spirit kurban",
+      "link": "https://www.antaranews.com/berita/5584480/menjaga-generasi-indonesia-melalui-spirit-kurban",
+      "published": "Wed, 27 May 2026 13:26:25 +0700",
+      "description": "Perayaan Hari Raya Idul Adha kerap kita pahami hanya sebatas ritual tahunan umat Islam yang ditandai dengan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Tradisi arak-arakan hewan kurban meriahkan Idul Adha di Malang",
+      "link": "https://www.antaranews.com/video/5584468/tradisi-arak-arakan-hewan-kurban-meriahkan-idul-adha-di-malang",
+      "published": "Wed, 27 May 2026 13:25:43 +0700",
+      "description": "ANTARA -&nbsp;&lrm;Suasana Hari Raya Idul Adha di kawasan Kidul Pasar, Kota Malang, berlangsung meriah dengan tradisi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menlu Singapura ke Korut tingkatkan hubungan bilateral",
+      "link": "https://www.antaranews.com/berita/5584479/menlu-singapura-ke-korut-tingkatkan-hubungan-bilateral",
+      "published": "Wed, 27 May 2026 13:25:32 +0700",
+      "description": "Menteri Luar Negeri (Menlu) Singapura&nbsp;Vivian Balakrishnan&nbsp;menggelar pembicaraan dengan mitranya dari Korea ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Naik Kereta ke Blitar Jadi Alternatif Libur Panjang Iduladha 2026",
+      "link": "https://www.antaranews.com/berita/5584475/naik-kereta-ke-blitar-jadi-alternatif-libur-panjang-iduladha-2026",
+      "published": "Wed, 27 May 2026 13:25:10 +0700",
+      "description": "Libur panjang Iduladha selalu menghadirkan pola mobilitas yang khas. Sebagian masyarakat memilih pulang ke kampung ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
