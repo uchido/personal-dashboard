@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-28T23:11:27+0000",
+  "timestamp": "2026-05-28T23:41:35+0000",
   "articles": [
     {
       "title": "Sturgeon says estranged husband betrayed and deceived her about embezzling SNP money",
       "link": "https://www.bbc.com/news/articles/cpdp3d8792no?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 28 May 2026 17:56:03 GMT",
       "description": "The former first minister said she was \"coming to terms with being married to someone she did not know\" after Peter Murrell's guilty plea.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 23:32:19 GMT",
+      "description": "US officials earlier told the BBC that, pending the approval of Trump and Iran's leadership, the framework of a ceasefire extension deal had been agreed.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
-      "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 22:13:30 GMT",
-      "description": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Adus Salam, menyembelih hingga ke Brunei",
+      "link": "https://www.antaranews.com/berita/5586029/adus-salam-menyembelih-hingga-ke-brunei",
+      "published": "Fri, 29 May 2026 06:30:49 +0700",
+      "description": "&ldquo;Penyembelihan hewan bukan hanya harus halal sesuai syariat Islam, tetapi juga dilakukan secara ihsan. Kita tidak ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "CATL resmikan pusat uji penyimpanan energi terbesar dunia di China",
+      "link": "https://otomotif.antaranews.com/berita/5586028/catl-resmikan-pusat-uji-penyimpanan-energi-terbesar-dunia-di-china",
+      "published": "Fri, 29 May 2026 06:16:49 +0700",
+      "description": "Produsen baterai terbesar dunia CATL secara resmi memulai operasional di Xiamen Energy Storage Validation Research ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Pep, Sir Alex, satu dekade di sisi lain Manchester",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5586020/presiden-macron-indonesia-mitra-strategis-dari-indo-pasifik",
       "published": "Fri, 29 May 2026 06:01:39 +0700",
       "description": "Presiden Republik Prancis Emmanuel Macron menegaskan komitmen untuk memperkuat hubungan strategis menjadi kemitraan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menilik lempar jumrah di puncak haji",
-      "link": "https://www.antaranews.com/infografik/5585856/menilik-lempar-jumrah-di-puncak-haji",
-      "published": "Fri, 29 May 2026 06:00:00 +0700",
-      "description": "Lempar jumrah menjadi salah satu rangkaian wajib haji yang dilakukan jamaah saat 10-13 Dzulhijah. Ritual ini ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Argentina umumkan skuad final, Messi akan jalani Piala Dunia ke-6",
-      "link": "https://www.antaranews.com/berita/5586016/argentina-umumkan-skuad-final-messi-akan-jalani-piala-dunia-ke-6",
-      "published": "Fri, 29 May 2026 05:58:37 +0700",
-      "description": "Pelatih timnas Argentina&nbsp;Lionel Scaloni resmi mengumumkan daftar skuad final 26 pemain untuk Piala Dunia 2026 pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
