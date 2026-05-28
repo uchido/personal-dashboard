@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-28T04:35:57+0000",
+  "timestamp": "2026-05-28T05:06:06+0000",
   "articles": [
     {
       "title": "One in six young people will not be in work or training in five years without action, report warns",
@@ -28,40 +28,13 @@
     {
       "title": "US strikes Iran targets for second time in three days",
       "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 02:58:27 GMT",
+      "published": "Thu, 28 May 2026 04:59:02 GMT",
       "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Film \"Disclosure Day\" garapan Steven Spielberg menuai pujian",
-      "link": "https://www.antaranews.com/berita/5585261/film-disclosure-day-garapan-steven-spielberg-menuai-pujian",
-      "published": "Thu, 28 May 2026 11:23:03 +0700",
-      "description": "Film fiksi ilmiah baru berjudul &quot;Disclosure Day&quot;&nbsp;garapan sutradara Steven Spielberg menuai pujian ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "UNAND teliti potensi tanaman lokal untuk obat diabetes dan hipertensi",
-      "link": "https://www.antaranews.com/berita/5585257/unand-teliti-potensi-tanaman-lokal-untuk-obat-diabetes-dan-hipertensi",
-      "published": "Thu, 28 May 2026 11:20:54 +0700",
-      "description": "Tim peneliti dari Universitas Andalas (UNAND)&nbsp;Sumatera Barat (Sumbar) meneliti potensi tanaman lokal untuk ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Swiatek dan Svitolina melaju, Rybakina tersingkir",
-      "link": "https://www.antaranews.com/berita/5585255/swiatek-dan-svitolina-melaju-rybakina-tersingkir",
-      "published": "Thu, 28 May 2026 11:18:18 +0700",
-      "description": "Unggulan ketiga Iga Swiatek dan unggulan ketujuh Elina Svitolina melaju ke babak ketiga French Open 2026, sementara ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Norwegia akan berada di bawah \"payung nuklir\" Prancis",
-      "link": "https://www.antaranews.com/berita/5585251/norwegia-akan-berada-di-bawah-payung-nuklir-prancis",
-      "published": "Thu, 28 May 2026 11:16:20 +0700",
-      "description": "Presiden Prancis Emmanuel Macron pada Rabu (27/5) mengonfirmasi bahwa Norwegia telah setuju bergabung dengan inisiatif ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
