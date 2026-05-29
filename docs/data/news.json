@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-29T09:14:53+0000",
+  "timestamp": "2026-05-29T09:45:02+0000",
   "articles": [
     {
       "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
       "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 23:32:19 GMT",
+      "published": "Fri, 29 May 2026 09:17:35 GMT",
       "description": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Hilirisasi ternak ayam di Kaltim penuhi kemandirian pangan domestik",
-      "link": "https://www.antaranews.com/video/5586575/hilirisasi-ternak-ayam-di-kaltim-penuhi-kemandirian-pangan-domestik",
-      "published": "Fri, 29 May 2026 16:12:39 +0700",
-      "description": "ANTARA - Pengembangan proyek hilirisasi peternakan ayam terintegrasi dari pemerintah pusat di Kalimantan Timur ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Sidak pasar, Gubernur Khofifah soroti langkanya beras dan minyak",
-      "link": "https://www.antaranews.com/video/5586568/sidak-pasar-gubernur-khofifah-soroti-langkanya-beras-dan-minyak",
-      "published": "Fri, 29 May 2026 16:11:01 +0700",
-      "description": "ANTARA - Gubernur Jawa Timur Khofifah Indar Parawansa menemukan distribusi beras SPHP dan Minyakita tersendat saat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menguji kecerdasan literasi konsumen Indonesia",
-      "link": "https://www.antaranews.com/berita/5586596/menguji-kecerdasan-literasi-konsumen-indonesia",
-      "published": "Fri, 29 May 2026 16:10:44 +0700",
-      "description": "Ada masa ketika masyarakat memilih kemasan air minum dengan pertimbangan yang sangat sederhana. Selama wadahnya kuat, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pakar UMY desak PLN audit jaringan listrik Sumatera Pasca-\"Blackout\"",
-      "link": "https://www.antaranews.com/berita/5586592/pakar-umy-desak-pln-audit-jaringan-listrik-sumatera-pasca-blackout",
-      "published": "Fri, 29 May 2026 16:07:22 +0700",
-      "description": "Pakar sistem tenaga listrik Universitas Muhammadiyah Yogyakarta (UMY) Rahmat Adiprasetya Al Hasibi menilai, audit ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
