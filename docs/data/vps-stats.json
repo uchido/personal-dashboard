@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-29T07:44:26+0000",
+  "timestamp": "2026-05-29T08:14:34+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 33.3,
+    "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.22,
-      0.28,
+      0.18,
+      0.27,
       0.27
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 8.4,
-    "available": 19.1,
-    "used": 4.3,
-    "percent": 18.4
+    "free": 8.2,
+    "available": 18.9,
+    "used": 4.5,
+    "percent": 19.2
   },
   "disk": {
     "total": "193G",
@@ -25,14 +25,20 @@
   },
   "uptime": {
     "days": 23,
-    "hours": 15,
-    "minutes": 32,
-    "total_seconds": 2043170.6
+    "hours": 16,
+    "minutes": 2,
+    "total_seconds": 2044978.8
   },
   "top_processes": [
     {
+      "user": "root",
+      "cpu": "23.1",
+      "mem": "0.6",
+      "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
+    },
+    {
       "user": "ubuntu",
-      "cpu": "15.3",
+      "cpu": "14.2",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -45,7 +51,7 @@
     {
       "user": "ubuntu",
       "cpu": "0.6",
-      "mem": "4.2",
+      "mem": "4.4",
       "command": "openclaw-gateway"
     },
     {
@@ -53,12 +59,6 @@
       "cpu": "0.3",
       "mem": "0.0",
       "command": "redis-server *:6379"
-    },
-    {
-      "user": "root",
-      "cpu": "0.2",
-      "mem": "0.2",
-      "command": "/usr/bin/containerd"
     }
   ]
 }
