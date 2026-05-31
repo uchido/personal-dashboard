@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-31T11:00:38+0000",
+  "timestamp": "2026-05-31T11:30:54+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 0.0,
+    "percent": 2.4,
     "cores": 4,
     "load_avg": [
-      0.46,
-      0.46,
-      0.38
+      0.24,
+      0.27,
+      0.27
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 6.2,
-    "available": 17.7,
-    "used": 5.7,
-    "percent": 24.4
+    "free": 5.6,
+    "available": 17.5,
+    "used": 5.9,
+    "percent": 25.2
   },
   "disk": {
     "total": "193G",
@@ -25,28 +25,22 @@
   },
   "uptime": {
     "days": 25,
-    "hours": 18,
-    "minutes": 49,
-    "total_seconds": 2227742.7
+    "hours": 19,
+    "minutes": 19,
+    "total_seconds": 2229558.5
   },
   "top_processes": [
     {
-      "user": "root",
-      "cpu": "31.1",
-      "mem": "0.5",
-      "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
-    },
-    {
       "user": "ubuntu",
-      "cpu": "15.3",
+      "cpu": "23.0",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
     {
-      "user": "ollama",
-      "cpu": "2.4",
-      "mem": "0.4",
-      "command": "mariadbd"
+      "user": "root",
+      "cpu": "21.0",
+      "mem": "0.6",
+      "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "root",
@@ -55,10 +49,16 @@
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     },
     {
-      "user": "www-data",
+      "user": "ubuntu",
       "cpu": "0.6",
-      "mem": "0.2",
-      "command": "apache2 -DFOREGROUND"
+      "mem": "4.5",
+      "command": "openclaw-gateway"
+    },
+    {
+      "user": "ollama",
+      "cpu": "0.3",
+      "mem": "0.0",
+      "command": "redis-server *:6379"
     }
   ]
 }
