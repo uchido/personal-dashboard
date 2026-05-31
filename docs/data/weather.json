@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-31T22:35:19+0000",
+  "timestamp": "2026-05-31T23:05:56+0000",
   "locations": [
     {
       "name": "Palu",
@@ -7,7 +7,7 @@
     },
     {
       "name": "Yogyakarta",
-      "error": "The read operation timed out"
+      "error": "<urlopen error timed out>"
     }
   ]
 }
