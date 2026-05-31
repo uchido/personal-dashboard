@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-05-31T08:29:52+0000",
+  "timestamp": "2026-05-31T09:00:00+0000",
   "articles": [
     {
       "title": "Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit",
       "link": "https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 31 May 2026 08:00:39 GMT",
       "description": "Scotland's former first minister is challenged by Laura Kuenssberg over the SNP embezzlement scandal, and at times struggles to hold back tears.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Watch: Key moments from Nicola Sturgeon's interview with Laura Kuenssberg",
+      "link": "https://www.bbc.com/news/videos/c70vl59vd9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 31 May 2026 08:17:27 GMT",
+      "description": "Former First Minister of Scotland Nicola Sturgeon speaks to the BBC in her first interview since her estranged husband Peter Murrell pled guilty to embezzling £400,000 from the SNP",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Killer fungus could be good news for habitats decimated by invasive moss",
-      "link": "https://www.bbc.com/news/articles/c4g48jy4j1yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 23:03:12 GMT",
-      "description": "A newly discovered species raises hope that some native British habitats could be restored.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Kemenpar-BPJPH akselerasi sertifikasi halal di 1.500 desa wisata",
-      "link": "https://www.antaranews.com/berita/5588537/kemenpar-bpjph-akselerasi-sertifikasi-halal-di-1500-desa-wisata",
-      "published": "Sun, 31 May 2026 15:24:28 +0700",
-      "description": "Kementerian Pariwisata (Kemenpar)&nbsp;memperkuat kolaborasi dengan Badan Penyelenggara Jaminan Produk Halal (BPJPH) ...",
+      "title": "Bakom: Presiden dijadwalkan hadiri upacara Hari Lahir Pancasila",
+      "link": "https://www.antaranews.com/berita/5588556/bakom-presiden-dijadwalkan-hadiri-upacara-hari-lahir-pancasila",
+      "published": "Sun, 31 May 2026 15:58:50 +0700",
+      "description": "Kepala Badan Komunikasi Pemerintah (Bakom) Muhammad Qodari mengatakan upacara peringatan Hari Lahir Pancasila 2026 akan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Mensos tegaskan data bansos harus akurat sehingga tepat sasar",
-      "link": "https://www.antaranews.com/berita/5588535/mensos-tegaskan-data-bansos-harus-akurat-sehingga-tepat-sasar",
-      "published": "Sun, 31 May 2026 15:21:34 +0700",
-      "description": "Menteri Sosial RI Saifullah Yusuf menegaskan agar data berbagai bantuan sosial yang disalurkan harus akurat dan tepat ...",
+      "title": "Rodri tidak tertekan dengan ekspektasi Spanyol sebagai kandidat juara",
+      "link": "https://www.antaranews.com/berita/5588552/rodri-tidak-tertekan-dengan-ekspektasi-spanyol-sebagai-kandidat-juara",
+      "published": "Sun, 31 May 2026 15:55:55 +0700",
+      "description": "Kapten tim nasional Spanyol Rodri tidak tertekan dengan ekspektasi publik kepada La Roja yang menyematkan mereka ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Puja tiga langkah sujud mengenang Siddhartha Gautama di Prambanan",
-      "link": "https://www.antaranews.com/foto/5588531/puja-tiga-langkah-sujud-mengenang-siddhartha-gautama-di-prambanan",
-      "published": "Sun, 31 May 2026 15:18:05 +0700",
-      "description": "Sejumlah Bhikkhu dan umat Buddha melaksanakan puja tiga langkah Namaskara atau sujud di Candi Sojiwan, Prambanan, ...",
+      "title": "BUMA International Group bukukan peningkatan kinerja kuartal I 2026",
+      "link": "https://www.antaranews.com/berita/5588548/buma-international-group-bukukan-peningkatan-kinerja-kuartal-i-2026",
+      "published": "Sun, 31 May 2026 15:55:39 +0700",
+      "description": "PT BUMA Internasional Grup Tbk membukukan peningkatan kinerja perusahaan untuk kuartal pertama yang berakhir pada 31 ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Senat Filipina beri waktu Sara Duterte jawab pasal pemakzulan",
-      "link": "https://www.antaranews.com/berita/5588527/senat-filipina-beri-waktu-sara-duterte-jawab-pasal-pemakzulan",
-      "published": "Sun, 31 May 2026 15:16:20 +0700",
-      "description": "Senat Filipina telah memperpanjang batas waktu hingga Senin (1/6) bagi Wakil Presiden Sara Duterte untuk mengajukan ...",
+      "title": "Bakom tegaskan agenda resmi Presiden ke luar negeri hanya ke Prancis",
+      "link": "https://www.antaranews.com/berita/5588545/bakom-tegaskan-agenda-resmi-presiden-ke-luar-negeri-hanya-ke-prancis",
+      "published": "Sun, 31 May 2026 15:49:46 +0700",
+      "description": "Kepala Badan Komunikasi Pemerintah (Bakom) Muhammad Qodari menegaskan agenda resmi kunjungan luar negeri Presiden ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
