@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-05-31T23:05:26+0000",
+  "timestamp": "2026-05-31T23:36:05+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 0.0,
+    "percent": 41.0,
     "cores": 4,
     "load_avg": [
-      0.23,
-      0.38,
-      0.81
+      0.21,
+      0.36,
+      0.8
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 8.7,
-    "available": 18.2,
-    "used": 5.2,
-    "percent": 22.2
+    "free": 8.8,
+    "available": 18.3,
+    "used": 5.1,
+    "percent": 21.8
   },
   "disk": {
     "total": "193G",
@@ -25,28 +25,22 @@
   },
   "uptime": {
     "days": 26,
-    "hours": 6,
-    "minutes": 53,
-    "total_seconds": 2271230.07
+    "hours": 7,
+    "minutes": 24,
+    "total_seconds": 2273069.35
   },
   "top_processes": [
     {
       "user": "root",
-      "cpu": "32.9",
-      "mem": "0.6",
-      "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
+      "cpu": "88.8",
+      "mem": "0.0",
+      "command": "/usr/local/bin/ruby /usr/local/bundle/bin/bundle e"
     },
     {
       "user": "ubuntu",
-      "cpu": "16.6",
+      "cpu": "14.2",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "6.4",
-      "mem": "0.0",
-      "command": "python3 /home/ubuntu/personal-dashboard/scripts/co"
     },
     {
       "user": "root",
@@ -57,8 +51,14 @@
     {
       "user": "ubuntu",
       "cpu": "0.6",
-      "mem": "4.2",
+      "mem": "4.1",
       "command": "openclaw-gateway"
+    },
+    {
+      "user": "ollama",
+      "cpu": "0.3",
+      "mem": "0.0",
+      "command": "redis-server *:6379"
     }
   ]
 }
