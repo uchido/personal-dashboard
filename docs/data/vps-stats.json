@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-06-01T20:13:54+0000",
+  "timestamp": "2026-06-01T20:44:03+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 100.0,
     "cores": 4,
     "load_avg": [
-      2.84,
-      1.03,
-      0.82
+      3.17,
+      1.18,
+      0.87
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 0.6,
-    "available": 10.0,
-    "used": 13.4,
-    "percent": 57.3
+    "free": 0.7,
+    "available": 10.4,
+    "used": 13.0,
+    "percent": 55.6
   },
   "disk": {
     "total": "193G",
@@ -26,14 +26,14 @@
   "uptime": {
     "days": 27,
     "hours": 4,
-    "minutes": 2,
-    "total_seconds": 2347338.7
+    "minutes": 32,
+    "total_seconds": 2349147.68
   },
   "top_processes": [
     {
       "user": "ollama",
-      "cpu": "341",
-      "mem": "34.5",
+      "cpu": "348",
+      "mem": "34.4",
       "command": "/usr/local/bin/ollama runner --ollama-engine --mod"
     },
     {
@@ -44,13 +44,13 @@
     },
     {
       "user": "root",
-      "cpu": "50.6",
-      "mem": "0.6",
+      "cpu": "91.1",
+      "mem": "0.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ubuntu",
-      "cpu": "14.2",
+      "cpu": "5.4",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
