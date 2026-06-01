@@ -1,16 +1,24 @@
 {
-  "timestamp": "2026-06-01T17:43:09+0000",
+  "timestamp": "2026-06-01T18:13:16+0000",
   "articles": [
     {
-      "title": "Trump's red box and 'Keir lacks verve': Key Mandelson messages so far",
-      "link": "https://www.bbc.com/news/articles/c4g819dml28o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 16:01:52 GMT",
-      "description": "The 1,000 pages include criticisms of Labour MPs, No 10 and the prime minister.",
+      "title": "Chris Mason: Decision to appoint Mandelson continues to inflict damage",
+      "link": "https://www.bbc.com/news/articles/cvgzr6pn0nko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 17:49:22 GMT",
+      "description": "When Sir Keir Starmer looks back on his time at No10, his decision to send Lord Mandelson to Washington will be a central part of the critique of his tenure.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
+      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 16:56:35 GMT",
+      "description": "Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Jeremy Bowen: Trump needs this war to end but Iran is not backing down",
       "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 01 Jun 2026 15:25:54 GMT",
       "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "British soldier killed in training exercise accident in northern Iraq",
-      "link": "https://www.bbc.com/news/articles/c62dygprnnvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 14:47:54 GMT",
-      "description": "The death was announced by the Defence Secretary John Healey in the House of Commons on Monday.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "200 personel polisi bantu evakuasi korban kebakaran Kemayoran",
-      "link": "https://www.antaranews.com/berita/5590053/200-personel-polisi-bantu-evakuasi-korban-kebakaran-kemayoran",
-      "published": "Tue, 02 Jun 2026 00:41:05 +0700",
-      "description": "Kepolisian Resort (Polres) Metro Jakarta Pusat mengerahkan sekitar 200 personel gabungan untuk membantu proses evakuasi ...",
+      "title": "Penyaluran dam via Adahi bukti layanan haji telah dikelola dengan baik",
+      "link": "https://www.antaranews.com/berita/5590060/penyaluran-dam-via-adahi-bukti-layanan-haji-telah-dikelola-dengan-baik",
+      "published": "Tue, 02 Jun 2026 01:09:09 +0700",
+      "description": "Penyaluran dam oleh sekitar 135 ribu jamaah haji Indonesia pada musim haji 1447 H/2026 M melalui program resmi Adahi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Timnas Indonesia gelar latihan jelang laga kontra Oman dan Mozambik",
-      "link": "https://www.antaranews.com/video/5590045/timnas-indonesia-gelar-latihan-jelang-laga-kontra-oman-dan-mozambik",
-      "published": "Tue, 02 Jun 2026 00:40:42 +0700",
-      "description": "ANTARA - Tim Nasional&nbsp;Indonesia menggelar latihan di Stadion Madya&nbsp;Gelora Bung Karno, Senayan, Jakarta, Senin ...",
+      "title": "Seskab Teddy: Diplomasi Presiden harus dinilai dari hasil konkret",
+      "link": "https://www.antaranews.com/video/5590055/seskab-teddy-diplomasi-presiden-harus-dinilai-dari-hasil-konkret",
+      "published": "Tue, 02 Jun 2026 01:08:02 +0700",
+      "description": "ANTARA - Sekretaris Kabinet Teddy Indra Wijaya&nbsp;menilai diplomasi luar negeri tidak sekadar soal kunjungan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemain asal Brasil Allano Lima tinggalkan Persija Jakarta",
-      "link": "https://www.antaranews.com/berita/5590049/pemain-asal-brasil-allano-lima-tinggalkan-persija-jakarta",
-      "published": "Tue, 02 Jun 2026 00:36:59 +0700",
-      "description": "Pemain asal Brasil, Allano Lima mengumumkan perpisahan dengan Persija Jakarta setelah hanya semusim memperkuat Macan ...",
+      "title": "Bali hidupkan jiwa perjuangan Bung Karno lewat lomba kreatif",
+      "link": "https://www.antaranews.com/berita/5590057/bali-hidupkan-jiwa-perjuangan-bung-karno-lewat-lomba-kreatif",
+      "published": "Tue, 02 Jun 2026 01:01:08 +0700",
+      "description": "Pemerintah Provinsi (Pemprov) Bali menghidupkan kembali jiwa perjuangan Presiden ke-1 RI Ir Soekarno lewat lomba-lomba ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Warga Denpasar rayakan Hari Pancasila dengan karnaval di Titik Nol KM",
-      "link": "https://www.antaranews.com/video/5590019/warga-denpasar-rayakan-hari-pancasila-dengan-karnaval-di-titik-nol-km",
-      "published": "Tue, 02 Jun 2026 00:36:00 +0700",
-      "description": "ANTARA - Ratusan peserta lintas generasi dari berbagai komunitas, dan masyarakat mengikuti Karnaval Pancasila di ...",
+      "title": "Respons cepat damkar padamkan kebakaran rumah panggung di Muara Karang",
+      "link": "https://www.antaranews.com/berita/5590056/respons-cepat-damkar-padamkan-kebakaran-rumah-panggung-di-muara-karang",
+      "published": "Tue, 02 Jun 2026 00:49:25 +0700",
+      "description": "Petugas Suku Dinas (Sudin) Penanggulangan Kebakaran dan Penyelamatan (Gulkarmat) Jakarta Utara berhasil memadamkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
