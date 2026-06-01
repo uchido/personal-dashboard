@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-01T11:10:56+0000",
+  "timestamp": "2026-06-01T11:41:02+0000",
   "articles": [
     {
       "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
@@ -10,7 +10,7 @@
       "category": "Global"
     },
     {
-      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "title": "Satellite images suggest Iran's strikes are more precise and extensive than US acknowledged",
       "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 01 Jun 2026 05:33:18 GMT",
       "description": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
@@ -18,9 +18,9 @@
       "category": "Global"
     },
     {
-      "title": "Ministers braced as Mandelson document release will expose government working",
+      "title": "Ministers braced for private texts and WhatsApps in Mandelson file release",
       "link": "https://www.bbc.com/news/articles/c9wezlrle75o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 08:08:50 GMT",
+      "published": "Mon, 01 Jun 2026 11:28:00 GMT",
       "description": "The documents will offer a fascinating internal insight into how government works, including the way information flows and disagreements.",
       "source": "BBC News",
       "category": "Global"
@@ -28,40 +28,13 @@
     {
       "title": "UK wins court case over collapsed Rwanda asylum deal",
       "link": "https://www.bbc.com/news/articles/cy526klrk20o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 10:56:56 GMT",
-      "description": "A court has ruled the UK does not need to pay Rwanda after the UK pulled a deal between the two countries.",
+      "published": "Mon, 01 Jun 2026 11:35:34 GMT",
+      "description": "The UK does not need to pay Rwanda after it pulled a deal between the two countries, a court has ruled.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "BPBD: Waspada hujan lebat dua hari kedepan di Cianjur",
-      "link": "https://www.antaranews.com/berita/5589683/bpbd-waspada-hujan-lebat-dua-hari-kedepan-di-cianjur",
-      "published": "Mon, 01 Jun 2026 18:09:38 +0700",
-      "description": "Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Cianjur, Jawa Barat (Jabar), mengeluarkan surat peringatan dini ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemkot Solo respons tingginya temuan kasus HIV/AIDS",
-      "link": "https://www.antaranews.com/video/5589677/pemkot-solo-respons-tingginya-temuan-kasus-hiv-aids",
-      "published": "Mon, 01 Jun 2026 18:07:24 +0700",
-      "description": "ANTARA - Pemerintah Kota Solo memperkuat upaya pencegahan dan penanganan HIV/AIDS menyusul temuan 412 kasus yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Posko terpadu jadi langkah baru perangi narkoba di Puntun Kalteng",
-      "link": "https://www.antaranews.com/video/5589640/posko-terpadu-jadi-langkah-baru-perangi-narkoba-di-puntun-kalteng",
-      "published": "Mon, 01 Jun 2026 18:06:24 +0700",
-      "description": "ANTARA - Pemerintah Provinsi Kalimantan Tengah bersama aparat keamanan memulai pembangunan Posko Terpadu Pengawasan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BGN instruksikan SPPG di Magetan beli telur langsung ke peternak",
-      "link": "https://www.antaranews.com/video/5589617/bgn-instruksikan-sppg-di-magetan-beli-telur-langsung-ke-peternak",
-      "published": "Mon, 01 Jun 2026 17:58:23 +0700",
-      "description": "ANTARA - Wakil Kepala Badan Gizi Nasional (BGN) Nanik S Deyang&nbsp; menginstruksikan satuan pelayanan pemenuhan gizi ...",
+      "error": "no element found: line 658, column 233",
       "source": "Antara News",
       "category": "Indonesia"
     }
