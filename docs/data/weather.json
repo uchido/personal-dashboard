@@ -1,13 +1,89 @@
 {
-  "timestamp": "2026-06-01T01:38:23+0000",
+  "timestamp": "2026-06-01T02:08:31+0000",
   "locations": [
     {
       "name": "Palu",
-      "error": "The read operation timed out"
+      "location": "Lolu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "temp_c": "28",
+      "feels_like_c": "32",
+      "humidity": "75",
+      "wind_speed_kmh": "4",
+      "wind_dir": "ESE",
+      "visibility_km": "10",
+      "pressure_mb": "1014",
+      "condition": "Cloudy ",
+      "condition_code": "119",
+      "uv_index": "5",
+      "forecast": [
+        {
+          "date": "2026-06-01",
+          "max_temp": "32",
+          "min_temp": "18",
+          "condition": "Mist",
+          "sunrise": "05:56 AM",
+          "sunset": "06:01 PM"
+        },
+        {
+          "date": "2026-06-02",
+          "max_temp": "32",
+          "min_temp": "18",
+          "condition": "Light rain shower",
+          "sunrise": "05:56 AM",
+          "sunset": "06:01 PM"
+        },
+        {
+          "date": "2026-06-03",
+          "max_temp": "31",
+          "min_temp": "18",
+          "condition": "Light rain shower",
+          "sunrise": "05:57 AM",
+          "sunset": "06:01 PM"
+        }
+      ]
     },
     {
       "name": "Yogyakarta",
-      "error": "The read operation timed out"
+      "location": "Joho",
+      "region": "Daerah Istimewa Yogyakarta",
+      "country": "Indonesia",
+      "temp_c": "24",
+      "feels_like_c": "26",
+      "humidity": "71",
+      "wind_speed_kmh": "4",
+      "wind_dir": "SE",
+      "visibility_km": "10",
+      "pressure_mb": "1015",
+      "condition": "Sunny",
+      "condition_code": "113",
+      "uv_index": "2",
+      "forecast": [
+        {
+          "date": "2026-06-01",
+          "max_temp": "28",
+          "min_temp": "21",
+          "condition": "Clear ",
+          "sunrise": "05:45 AM",
+          "sunset": "05:27 PM"
+        },
+        {
+          "date": "2026-06-02",
+          "max_temp": "29",
+          "min_temp": "21",
+          "condition": "Clear ",
+          "sunrise": "05:46 AM",
+          "sunset": "05:27 PM"
+        },
+        {
+          "date": "2026-06-03",
+          "max_temp": "29",
+          "min_temp": "21",
+          "condition": "Clear ",
+          "sunrise": "05:46 AM",
+          "sunset": "05:27 PM"
+        }
+      ]
     }
   ]
 }
