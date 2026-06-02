@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-06-02T05:16:44+0000",
+  "timestamp": "2026-06-02T05:46:52+0000",
   "locations": [
     {
       "name": "Palu",
       "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "32",
+      "temp_c": "30",
       "feels_like_c": "36",
-      "humidity": "58",
-      "wind_speed_kmh": "4",
+      "humidity": "70",
+      "wind_speed_kmh": "7",
       "wind_dir": "NNW",
-      "visibility_km": "9",
-      "pressure_mb": "1012",
-      "condition": "Patchy rain nearby",
-      "condition_code": "176",
-      "uv_index": "10",
+      "visibility_km": "10",
+      "pressure_mb": "1010",
+      "condition": "Patchy light rain in area with thunder",
+      "condition_code": "386",
+      "uv_index": "8",
       "forecast": [
         {
           "date": "2026-06-02",
@@ -29,7 +29,7 @@
           "date": "2026-06-03",
           "max_temp": "32",
           "min_temp": "18",
-          "condition": "Light rain shower",
+          "condition": "Mist",
           "sunrise": "05:57 AM",
           "sunset": "06:01 PM"
         },
@@ -49,12 +49,12 @@
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
       "temp_c": "28",
-      "feels_like_c": "29",
+      "feels_like_c": "30",
       "humidity": "61",
       "wind_speed_kmh": "15",
       "wind_dir": "SSE",
       "visibility_km": "10",
-      "pressure_mb": "1013",
+      "pressure_mb": "1012",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
       "uv_index": "9",
@@ -70,7 +70,7 @@
         {
           "date": "2026-06-03",
           "max_temp": "28",
-          "min_temp": "22",
+          "min_temp": "23",
           "condition": "Patchy rain nearby",
           "sunrise": "05:46 AM",
           "sunset": "05:27 PM"
@@ -78,7 +78,7 @@
         {
           "date": "2026-06-04",
           "max_temp": "29",
-          "min_temp": "23",
+          "min_temp": "22",
           "condition": "Partly Cloudy ",
           "sunrise": "05:46 AM",
           "sunset": "05:27 PM"
