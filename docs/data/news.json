@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-06-03T19:00:00+0000",
+  "timestamp": "2026-06-03T19:30:12+0000",
   "articles": [
+    {
+      "title": "Police chief apologises to Henry Nowak's family over handcuffing and arrest",
+      "link": "https://www.bbc.com/news/articles/crlpg54wgpxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 18:58:12 GMT",
+      "description": "Chief Constable Alexis Boon tells the BBC the footage of how the murder victim had been treated was distressing.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
       "link": "https://www.bbc.com/news/articles/cvgz23p8117o?at_medium=RSS&at_campaign=rss",
@@ -20,18 +28,26 @@
     {
       "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
       "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 18:02:52 GMT",
+      "published": "Wed, 03 Jun 2026 19:10:01 GMT",
       "description": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-      "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 11:34:07 GMT",
-      "description": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Kodam XX tutup lokasi latihan menembak usai insiden peluru nyasar",
+      "link": "https://www.antaranews.com/video/5593300/kodam-xx-tutup-lokasi-latihan-menembak-usai-insiden-peluru-nyasar",
+      "published": "Thu, 04 Jun 2026 02:05:30 +0700",
+      "description": "ANTARA - &nbsp;Komando Daerah Militer (Kodam) XX/ Tuanku Imam Bonjol menutup sementara lokasi latihan menembak personel ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Komnas HAM desak solusi untuk cegah kasus peluru nyasar berulang",
+      "link": "https://www.antaranews.com/video/5593289/komnas-ham-desak-solusi-untuk-cegah-kasus-peluru-nyasar-berulang",
+      "published": "Thu, 04 Jun 2026 02:00:55 +0700",
+      "description": "ANTARA - Komisi Nasional Hak Asasi Manusia (Komnas HAM) RI mendesak semua pemangku kepentingan terkait berkolaborasi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Kemen PU data huntara rusak akibat diterjang angin di Aceh Utara",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5593304/pangdam-xiv-jembatan-merah-putih-bukti-kepedulian-negara",
       "published": "Thu, 04 Jun 2026 01:52:13 +0700",
       "description": "Pangdam XIV/Hasanuddin Mayjen TNI Bangun Nawoko mengatakan pembangunan Jembatan Perintis Garuda Merah Putih di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemkab Bulungan matangkan kajian pemekaran kelurahan dan desa",
-      "link": "https://www.antaranews.com/video/5593284/pemkab-bulungan-matangkan-kajian-pemekaran-kelurahan-dan-desa",
-      "published": "Thu, 04 Jun 2026 01:26:55 +0700",
-      "description": "ANTARA - Pemerintah Kabupaten Bulungan tengah mematangkan rencana pemekaran kelurahan dan desa menyusul rampungnya ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Anggota DPR Yan Mandenas minta kepala BGN baru fokus benahi MBG Papua",
-      "link": "https://www.antaranews.com/berita/5593299/anggota-dpr-yan-mandenas-minta-kepala-bgn-baru-fokus-benahi-mbg-papua",
-      "published": "Thu, 04 Jun 2026 01:23:16 +0700",
-      "description": "Anggota Komisi XIII DPR RI Yan P Mandenas meminta kepala Badan Gizi Nasional (BGN) yang baru terus fokus benahi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
