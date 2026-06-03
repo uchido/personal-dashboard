@@ -1,67 +1,40 @@
 {
-  "timestamp": "2026-06-03T10:56:59+0000",
+  "timestamp": "2026-06-03T11:27:08+0000",
   "articles": [
     {
-      "title": "Royal Navy helicopter crashes into field",
+      "title": "Royal Navy helicopter crash worrying, PM says",
       "link": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 10:36:31 GMT",
+      "published": "Wed, 03 Jun 2026 11:22:25 GMT",
       "description": "The Ministry of Defence says an investigation into the incident is underway.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
-      "link": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 23:02:23 GMT",
-      "description": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
       "source": "BBC News",
       "category": "Global"
     },
     {
       "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
       "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 10:29:46 GMT",
+      "published": "Wed, 03 Jun 2026 11:17:08 GMT",
       "description": "Kuwait says one person is dead after drones hit civilian buildings including its international airport.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Giorgio Locatelli replaces John Torode as co-host of Celebrity MasterChef",
-      "link": "https://www.bbc.com/news/articles/c87q9jgjdr1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 08:44:04 GMT",
-      "description": "The Italian restauranteur will join Grace Dent on the series, following Torode's exit last year.",
+      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+      "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 10:59:30 GMT",
+      "description": "Several long-range drones struck oil storage facilities near in the city, days before Vladimir Putin is due to address the event.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Dokter jelaskan perbedaan kompres hangat dan dingin untuk keluhan mata",
-      "link": "https://www.antaranews.com/berita/5592688/dokter-jelaskan-perbedaan-kompres-hangat-dan-dingin-untuk-keluhan-mata",
-      "published": "Wed, 03 Jun 2026 17:54:43 +0700",
-      "description": "Dokter spesialis mata lulusan Universitas Padjadjaran dr. Tri Wahyu, Sp.M, mengatakan kompres hangat maupun dingin ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "How a content creator tried to use a YouTube alibi to get away with murder",
+      "link": "https://www.bbc.com/news/articles/c893zygkvy8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 10:30:20 GMT",
+      "description": "Stephen McCullagh, 36, of Woodland Gardens in Lisburn, will serve at least 31 years in prison for the murder of his pregnant partner Natalie McNally.",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Pemprov Jateng sediakan 231.724 kursi SMA/SMK negeri pada SPMB 2026",
-      "link": "https://www.antaranews.com/berita/5592685/pemprov-jateng-sediakan-231724-kursi-sma-smk-negeri-pada-spmb-2026",
-      "published": "Wed, 03 Jun 2026 17:54:27 +0700",
-      "description": "Pemerintah Provinsi Jawa Tengah menyediakan sekitar 231.724 kursi bagi calon siswa baru untuk jenjang sekolah menengah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menjaga \"Tangan\" Perempuan yang Jadi Kunci Keberlanjutan Teh Nasional",
-      "link": "https://www.antaranews.com/berita/5592683/menjaga-tangan-perempuan-yang-jadi-kunci-keberlanjutan-teh-nasional",
-      "published": "Wed, 03 Jun 2026 17:54:05 +0700",
-      "description": "Kenikmatan secangkir teh hitam yang dicampur dengan irisan lemon kering dengan uapnya yang mengepul, memberikan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pengumuman gim baru di State of Play, dari God of War hingga Wolverine",
-      "link": "https://www.antaranews.com/berita/5592680/pengumuman-gim-baru-di-state-of-play-dari-god-of-war-hingga-wolverine",
-      "published": "Wed, 03 Jun 2026 17:53:40 +0700",
-      "description": "Sony Interactive Entertainment menggelar presentasi State of Play edisi Juni 2026 pada Selasa (2/6) dengan mengumumkan ...",
+      "error": "no element found: line 658, column 71",
       "source": "Antara News",
       "category": "Indonesia"
     }
