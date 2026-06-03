@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-03T11:57:15+0000",
+  "timestamp": "2026-06-03T12:27:30+0000",
   "articles": [
     {
       "title": "Royal Navy helicopter crash 'deeply worrying' time for families, says PM",
       "link": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 11:47:59 GMT",
+      "published": "Wed, 03 Jun 2026 12:25:56 GMT",
       "description": "The Ministry of Defence says an investigation into the incident is under way.",
       "source": "BBC News",
       "category": "Global"
@@ -13,7 +13,7 @@
       "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
       "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 03 Jun 2026 11:34:07 GMT",
-      "description": "Several long-range drones struck oil storage facilities near in the city, days before Vladimir Putin is due to address the event.",
+      "description": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 663, column 0",
+      "title": "Pupuk Kujang kumpulkan ratusan kantung darah dalam aksi donor darah",
+      "link": "https://www.antaranews.com/berita/5592828/pupuk-kujang-kumpulkan-ratusan-kantung-darah-dalam-aksi-donor-darah",
+      "published": "Wed, 03 Jun 2026 19:26:53 +0700",
+      "description": "PT Pupuk Kujang mengumpulkan ratusan kantung darah dalam kegiatan donor darah yang digelar dalam ranges menyambut Hari ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Jafar/Felisha melaju ke babak 16 besar Indonesia Open",
+      "link": "https://www.antaranews.com/foto/5592825/jafar-felisha-melaju-ke-babak-16-besar-indonesia-open",
+      "published": "Wed, 03 Jun 2026 19:26:19 +0700",
+      "description": "Pebulu tangkis ganda campuran Indonesia Jafar Hidayatullah (kiri) dan Felisha Alberta Nathaniel Pasaribu (kanan) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Stasiun MRT Bundaran HI direvitalisasi jadi ruang multifungsi",
+      "link": "https://www.antaranews.com/berita/5592824/stasiun-mrt-bundaran-hi-direvitalisasi-jadi-ruang-multifungsi",
+      "published": "Wed, 03 Jun 2026 19:23:28 +0700",
+      "description": "PT MRT Jakarta (Perseroda) melakukan revitalisasi area Stasiun Bundaran HI Bank Jakarta menjadi ruang multifungsi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Persib Bandung terima bonus juara Rp1 miliar dari KDM",
+      "link": "https://www.antaranews.com/berita/5592823/persib-bandung-terima-bonus-juara-rp1-miliar-dari-kdm",
+      "published": "Wed, 03 Jun 2026 19:22:52 +0700",
+      "description": "Persib Bandung menerima bonus sebesar Rp1 miliar setelah berhasil meraih gelar juara BRI Super League 2025/2026 dari ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
