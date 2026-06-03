@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-02T23:52:59+0000",
+  "timestamp": "2026-06-03T00:23:13+0000",
   "articles": [
     {
       "title": "Henry Nowak arrest footage raises 'serious questions for police', PM says",
@@ -18,14 +18,6 @@
       "category": "Global"
     },
     {
-      "title": "US says it fired missile at Iran-bound oil tanker",
-      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 21:49:00 GMT",
-      "description": "The US military says the vessel's engine room was hit after the crew \"ignored repeated warnings\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
       "link": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 02 Jun 2026 23:02:23 GMT",
@@ -34,34 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Jurus debarkasi sambut kepulangan jamaah haji",
-      "link": "https://www.antaranews.com/infografik/5591733/jurus-debarkasi-sambut-kepulangan-jamaah-haji",
-      "published": "Wed, 03 Jun 2026 06:00:00 +0700",
-      "description": "Pemulangan jamaah haji Indonesia dari Tanah Suci dimulai pada 1 Juni 2026. Untuk itu, berbagai debarkasi menyiapkan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "US says it fired missile at Iran-bound oil tanker",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 21:49:00 GMT",
+      "description": "The US military says the vessel's engine room was hit after the crew \"ignored repeated warnings\".",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Kemarin, waspada 4 jenis penyakit jantung anak hingga BTS rilis vynil",
-      "link": "https://www.antaranews.com/berita/5591800/kemarin-waspada-4-jenis-penyakit-jantung-anak-hingga-bts-rilis-vynil",
-      "published": "Wed, 03 Jun 2026 05:52:09 +0700",
-      "description": "Sederet berita seperti empat jenis penyakit infeksi jantung pada anak hingga BTS berencana rayakan ulang tahun ke-13 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kriminal Kemarin, pelaku pembacokan hingga praperadilan Andrie Yunus",
-      "link": "https://www.antaranews.com/berita/5591797/kriminal-kemarin-pelaku-pembacokan-hingga-praperadilan-andrie-yunus",
-      "published": "Wed, 03 Jun 2026 05:19:27 +0700",
-      "description": "Sejumlah peristiwa berkaitan dengan kriminal dan keamanan terjadi di Jakarta pada Selasa (2/6), mulai dari penangkapan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DKI Kemarin, penerapan eco lindi hingga percepatan penyaluran pangan",
-      "link": "https://www.antaranews.com/berita/5591793/dki-kemarin-penerapan-eco-lindi-hingga-percepatan-penyaluran-pangan",
-      "published": "Wed, 03 Jun 2026 05:14:35 +0700",
-      "description": "Sejumlah berita di Jakarta pada Selasa (2/6) masih layak untuk disimak hari ini, mulai dari kerja sama penerapan eco ...",
+      "error": "no element found: line 666, column 1",
       "source": "Antara News",
       "category": "Indonesia"
     }
