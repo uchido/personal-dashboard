@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-03T16:29:09+0000",
+  "timestamp": "2026-06-03T16:59:26+0000",
   "locations": [
     {
       "name": "Palu",
@@ -7,37 +7,37 @@
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "18",
-      "feels_like_c": "14",
-      "humidity": "96",
-      "wind_speed_kmh": "4",
-      "wind_dir": "ESE",
-      "visibility_km": "10",
+      "feels_like_c": "13",
+      "humidity": "95",
+      "wind_speed_kmh": "5",
+      "wind_dir": "SE",
+      "visibility_km": "9",
       "pressure_mb": "1013",
-      "condition": "Light rain shower",
-      "condition_code": "353",
+      "condition": "Patchy rain nearby",
+      "condition_code": "176",
       "uv_index": "0",
       "forecast": [
-        {
-          "date": "2026-06-03",
-          "max_temp": "32",
-          "min_temp": "18",
-          "condition": "Mist",
-          "sunrise": "05:57 AM",
-          "sunset": "06:01 PM"
-        },
         {
           "date": "2026-06-04",
           "max_temp": "32",
           "min_temp": "18",
-          "condition": "Light rain shower",
+          "condition": "Patchy rain nearby",
           "sunrise": "05:57 AM",
           "sunset": "06:01 PM"
         },
         {
           "date": "2026-06-05",
-          "max_temp": "29",
+          "max_temp": "33",
+          "min_temp": "19",
+          "condition": "Mist",
+          "sunrise": "05:57 AM",
+          "sunset": "06:01 PM"
+        },
+        {
+          "date": "2026-06-06",
+          "max_temp": "33",
           "min_temp": "18",
-          "condition": "Patchy rain nearby",
+          "condition": "Mist",
           "sunrise": "05:57 AM",
           "sunset": "06:01 PM"
         }
