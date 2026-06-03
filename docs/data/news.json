@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-03T17:59:45+0000",
+  "timestamp": "2026-06-03T18:29:54+0000",
   "articles": [
     {
       "title": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
@@ -12,8 +12,16 @@
     {
       "title": "Three die in Royal Navy helicopter crash during training exercise",
       "link": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 16:39:33 GMT",
+      "published": "Wed, 03 Jun 2026 18:23:49 GMT",
       "description": "The Royal Family, prime minister and head of the navy offer condolences after the crash in Devon.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 18:02:52 GMT",
+      "description": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 14:02:25 GMT",
-      "description": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Wamen Imipas Silmy Karim serahkan diri ke KPK",
-      "link": "https://www.antaranews.com/video/5593269/wamen-imipas-silmy-karim-serahkan-diri-ke-kpk",
-      "published": "Thu, 04 Jun 2026 00:38:00 +0700",
-      "description": "ANTARA - Wakil Menteri Imigrasi dan Pemasyarakatan Silmy Karim menyerahkan diri ke KPK, Jakarta, pada Rabu (3/6) malam. ...",
+      "title": "Pemkab Bulungan matangkan kajian pemekaran kelurahan dan desa",
+      "link": "https://www.antaranews.com/video/5593284/pemkab-bulungan-matangkan-kajian-pemekaran-kelurahan-dan-desa",
+      "published": "Thu, 04 Jun 2026 01:26:55 +0700",
+      "description": "ANTARA - Pemerintah Kabupaten Bulungan tengah mematangkan rencana pemekaran kelurahan dan desa menyusul rampungnya ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "KPK datangi rumah Wamen Imipas Silmy Karim di Jaksel",
-      "link": "https://www.antaranews.com/video/5593283/kpk-datangi-rumah-wamen-imipas-silmy-karim-di-jaksel",
-      "published": "Thu, 04 Jun 2026 00:29:24 +0700",
-      "description": "ANTARA - Penyidik Komisi Pemberantasan Korupsi (KPK) mendatangi rumah Wakil Menteri Imigrasi dan Pemasyarakatan ...",
+      "title": "Anggota DPR Yan Mandenas minta kepala BGN baru fokus benahi MBG Papua",
+      "link": "https://www.antaranews.com/berita/5593299/anggota-dpr-yan-mandenas-minta-kepala-bgn-baru-fokus-benahi-mbg-papua",
+      "published": "Thu, 04 Jun 2026 01:23:16 +0700",
+      "description": "Anggota Komisi XIII DPR RI Yan P Mandenas meminta kepala Badan Gizi Nasional (BGN) yang baru terus fokus benahi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pastikan sumber air tanah aman, BPBD Jember siap antisipasi krisis air",
-      "link": "https://www.antaranews.com/video/5593240/pastikan-sumber-air-tanah-aman-bpbd-jember-siap-antisipasi-krisis-air",
-      "published": "Thu, 04 Jun 2026 00:24:00 +0700",
-      "description": "ANTARA - Guna menghadapi ancaman kekeringan yang berdampak pada krisis air bersih, Badan Penanggulangan Bencana Daerah ...",
+      "title": "RUPST Kimia Farma setujui angkat komisaris baru",
+      "link": "https://www.antaranews.com/berita/5593297/rupst-kimia-farma-setujui-angkat-komisaris-baru",
+      "published": "Thu, 04 Jun 2026 01:23:06 +0700",
+      "description": "Perusahaan BUMN farmasi PT Kimia Farma (Persero) Tbk (KAEF) dalam Rapat Umum Pemegang Saham Tahunan (RUPST) menyetujui ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemerintah buka peluang kerja sama pengembangan pariwisata premium",
-      "link": "https://www.antaranews.com/berita/5593280/pemerintah-buka-peluang-kerja-sama-pengembangan-pariwisata-premium",
-      "published": "Thu, 04 Jun 2026 00:21:52 +0700",
-      "description": "Kementerian Pariwisata berupaya membuka peluang kerja sama pengembangan usaha pariwisata premium dan memfasilitasi ...",
+      "title": "Kodaeral IX-Wanadri ekspedisi selam di Pulau Buru jaga ekosistem laut",
+      "link": "https://www.antaranews.com/berita/5593293/kodaeral-ix-wanadri-ekspedisi-selam-di-pulau-buru-jaga-ekosistem-laut",
+      "published": "Thu, 04 Jun 2026 01:15:37 +0700",
+      "description": "Komando Daerah TNI Angkatan Laut (Kodaeral) IX Ambon bersama Tim Ekspedisi Selam Wanadri Women Divers melaksanakan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
