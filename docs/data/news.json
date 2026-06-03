@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-03T11:27:08+0000",
+  "timestamp": "2026-06-03T11:57:15+0000",
   "articles": [
     {
-      "title": "Royal Navy helicopter crash worrying, PM says",
+      "title": "Royal Navy helicopter crash 'deeply worrying' time for families, says PM",
       "link": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 11:22:25 GMT",
-      "description": "The Ministry of Defence says an investigation into the incident is underway.",
+      "published": "Wed, 03 Jun 2026 11:47:59 GMT",
+      "description": "The Ministry of Defence says an investigation into the incident is under way.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+      "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 11:34:07 GMT",
+      "description": "Several long-range drones struck oil storage facilities near in the city, days before Vladimir Putin is due to address the event.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,23 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-      "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 10:59:30 GMT",
-      "description": "Several long-range drones struck oil storage facilities near in the city, days before Vladimir Putin is due to address the event.",
+      "title": "Giorgio Locatelli replaces John Torode as co-host of Celebrity MasterChef",
+      "link": "https://www.bbc.com/news/articles/c87q9jgjdr1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 08:44:04 GMT",
+      "description": "The Italian restauranteur will join Grace Dent on the series, following Torode's exit last year.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "How a content creator tried to use a YouTube alibi to get away with murder",
-      "link": "https://www.bbc.com/news/articles/c893zygkvy8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 10:30:20 GMT",
-      "description": "Stephen McCullagh, 36, of Woodland Gardens in Lisburn, will serve at least 31 years in prison for the murder of his pregnant partner Natalie McNally.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "error": "no element found: line 658, column 71",
+      "error": "unclosed token: line 663, column 0",
       "source": "Antara News",
       "category": "Indonesia"
     }
