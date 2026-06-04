@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-06-04T16:37:31+0000",
+  "timestamp": "2026-06-04T17:07:51+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 25.0,
+    "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.31,
-      0.35,
-      0.76
+      0.19,
+      0.33,
+      0.7
     ]
   },
   "memory": {
     "total": 23.4,
     "free": 8.8,
-    "available": 18.3,
-    "used": 5.1,
-    "percent": 21.8
+    "available": 18.2,
+    "used": 5.2,
+    "percent": 22.2
   },
   "disk": {
     "total": "193G",
@@ -26,14 +26,14 @@
   "uptime": {
     "days": 30,
     "hours": 0,
-    "minutes": 25,
-    "total_seconds": 2593555.06
+    "minutes": 56,
+    "total_seconds": 2595375.64
   },
   "top_processes": [
     {
       "user": "root",
-      "cpu": "99.6",
-      "mem": "0.5",
+      "cpu": "26.4",
+      "mem": "0.6",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
@@ -50,13 +50,13 @@
     },
     {
       "user": "www-data",
-      "cpu": "0.8",
+      "cpu": "0.7",
       "mem": "0.3",
       "command": "apache2 -DFOREGROUND"
     },
     {
       "user": "www-data",
-      "cpu": "0.8",
+      "cpu": "0.7",
       "mem": "0.4",
       "command": "apache2 -DFOREGROUND"
     }
