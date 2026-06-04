@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-04T17:07:54+0000",
+  "timestamp": "2026-06-04T17:38:03+0000",
   "articles": [
     {
       "title": "Royal Navy crew killed in helicopter crash named",
       "link": "https://www.bbc.com/news/articles/cg4p69gzd4po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 17:03:05 GMT",
+      "published": "Thu, 04 Jun 2026 17:31:39 GMT",
       "description": "Tributes are paid to Lt Cdr Chris Gayson, 42, Lt Lily-Mae Fisher, 31, and Petty Officer Owen Green, 24.",
       "source": "BBC News",
       "category": "Global"
@@ -12,7 +12,7 @@
     {
       "title": "Starmer accuses Musk of trying to whip up division over Henry Nowak murder",
       "link": "https://www.bbc.com/news/articles/c1e2ww900zno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 14:34:58 GMT",
+      "published": "Thu, 04 Jun 2026 17:19:19 GMT",
       "description": "X owner Musk has posted several times on the site criticising the police treatment of Henry Nowak.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Timnas esports Naraka Bladepoint lolos ke babak utama Asian Games 2026",
-      "link": "https://www.antaranews.com/berita/5594871/timnas-esports-naraka-bladepoint-lolos-ke-babak-utama-asian-games-2026",
-      "published": "Fri, 05 Jun 2026 00:06:09 +0700",
-      "description": "Tim nasional esports Indonesia nomor Naraka: Bladepoint memastikan tiket ke babak utama Asian Games 2026 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KPK inventarisasi kebutuhan untuk tindak lanjuti pernyataan Presiden",
-      "link": "https://www.antaranews.com/berita/5594863/kpk-inventarisasi-kebutuhan-untuk-tindak-lanjuti-pernyataan-presiden",
-      "published": "Fri, 05 Jun 2026 00:01:20 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) memutuskan akan menginventarisasi kebutuhan kelembagaan untuk menindaklanjuti ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mendagri minta Forkopimda jaga soliditas demi stabilitas daerah",
-      "link": "https://www.antaranews.com/berita/5594859/mendagri-minta-forkopimda-jaga-soliditas-demi-stabilitas-daerah",
-      "published": "Thu, 04 Jun 2026 23:59:12 +0700",
-      "description": "Menteri Dalam Negeri (Mendagri) Muhammad Tito Karnavian meminta Forum Koordinasi Pimpinan Daerah (Forkopimda) menjaga ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "UGM: Api di Seyegan dipicu gas hidrogen dan fosfin",
-      "link": "https://www.antaranews.com/video/5594743/ugm-api-di-seyegan-dipicu-gas-hidrogen-dan-fosfin",
-      "published": "Thu, 04 Jun 2026 23:58:17 +0700",
-      "description": "ANTARA - Peneliti Universitas Gadjah Mada menyatakan pemicu munculnya api di Seyegan, Kabupaten Sleman, adalah reaksi ...",
+      "error": "unclosed token: line 658, column 8",
       "source": "Antara News",
       "category": "Indonesia"
     }
