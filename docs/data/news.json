@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T07:03:56+0000",
+  "timestamp": "2026-06-04T07:34:03+0000",
   "articles": [
     {
       "title": "New NHS drug offers ovarian cancer patients more time and better quality of life",
@@ -20,7 +20,7 @@
     {
       "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
       "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 03:36:10 GMT",
+      "published": "Thu, 04 Jun 2026 07:23:41 GMT",
       "description": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Bali tawarkan model pembangunan berkelanjutan kepada mitra global",
-      "link": "https://www.antaranews.com/berita/5593831/bali-tawarkan-model-pembangunan-berkelanjutan-kepada-mitra-global",
-      "published": "Thu, 04 Jun 2026 14:02:31 +0700",
-      "description": "Pemerintah Provinsi Bali menawarkan visi pembangunan berkelanjutan yang berbasis budaya, lingkungan, dan ekonomi kepada ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Winnie the Pooh edisi 100 tahun hadir dalam program loyalitas ritel",
-      "link": "https://www.antaranews.com/berita/5593827/winnie-the-pooh-edisi-100-tahun-hadir-dalam-program-loyalitas-ritel",
-      "published": "Thu, 04 Jun 2026 13:58:23 +0700",
-      "description": "Karakter Winnie the Pooh yang memasuki usia 100 tahun dihadirkan dalam program loyalitas yang digelar jaringan ritel ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menkeu Purbaya tak siapkan intervensi khusus untuk menopang IHSG",
-      "link": "https://www.antaranews.com/berita/5593823/menkeu-purbaya-tak-siapkan-intervensi-khusus-untuk-menopang-ihsg",
-      "published": "Thu, 04 Jun 2026 13:58:00 +0700",
-      "description": "Menteri Keuangan Purbaya Yudhi Sadewa mengaku tak menyiapkan intervensi khusus untuk menghadapi tekanan Indeks Harga ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BPOM pastikan keamanan produk NRT dukung niat berhenti merokok",
-      "link": "https://www.antaranews.com/berita/5593820/bpom-pastikan-keamanan-produk-nrt-dukung-niat-berhenti-merokok",
-      "published": "Thu, 04 Jun 2026 13:55:58 +0700",
-      "description": "Badan Pengawas Obat dan Makanan (BPOM)&nbsp;mengatakan bahwa setelah&nbsp;melalui penetapan standar, pihaknya ...",
+      "error": "unclosed token: line 666, column 2",
       "source": "Antara News",
       "category": "Indonesia"
     }
