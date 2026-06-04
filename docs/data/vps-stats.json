@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-06-04T18:08:21+0000",
+  "timestamp": "2026-06-04T18:38:30+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.17,
-      0.27,
-      0.68
+      0.19,
+      0.31,
+      0.66
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 8.9,
-    "available": 18.4,
-    "used": 5.0,
-    "percent": 21.4
+    "free": 9.0,
+    "available": 18.5,
+    "used": 4.9,
+    "percent": 20.9
   },
   "disk": {
     "total": "193G",
@@ -25,20 +25,20 @@
   },
   "uptime": {
     "days": 30,
-    "hours": 1,
-    "minutes": 56,
-    "total_seconds": 2599005.46
+    "hours": 2,
+    "minutes": 26,
+    "total_seconds": 2600814.05
   },
   "top_processes": [
     {
       "user": "root",
-      "cpu": "19.0",
-      "mem": "0.6",
+      "cpu": "24.2",
+      "mem": "0.5",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ubuntu",
-      "cpu": "14.2",
+      "cpu": "8.3",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -49,10 +49,10 @@
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     },
     {
-      "user": "www-data",
+      "user": "ubuntu",
       "cpu": "0.6",
-      "mem": "0.3",
-      "command": "apache2 -DFOREGROUND"
+      "mem": "4.3",
+      "command": "openclaw-gateway"
     },
     {
       "user": "www-data",
