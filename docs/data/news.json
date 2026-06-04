@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T07:34:03+0000",
+  "timestamp": "2026-06-04T08:04:10+0000",
   "articles": [
     {
       "title": "New NHS drug offers ovarian cancer patients more time and better quality of life",
@@ -12,16 +12,16 @@
     {
       "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
       "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 00:16:44 GMT",
-      "description": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
+      "published": "Thu, 04 Jun 2026 07:49:33 GMT",
+      "description": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
+      "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
       "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 04 Jun 2026 07:23:41 GMT",
-      "description": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+      "description": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 666, column 2",
+      "title": "Simulasi penanganan darurat antisipasi kebocoran pipa BBM di laut",
+      "link": "https://www.antaranews.com/video/5593257/simulasi-penanganan-darurat-antisipasi-kebocoran-pipa-bbm-di-laut",
+      "published": "Thu, 04 Jun 2026 23:54:00 +0700",
+      "description": "ANTARA - Potensi kebocoran pipa penyalur Bahan Bakar Minyak atau BBM di perairan menjadi ancaman yang perlu ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Trump: AS akan langgar gencatan senjata jika ada prajurit tewas",
+      "link": "https://www.antaranews.com/berita/5593920/trump-as-akan-langgar-gencatan-senjata-jika-ada-prajurit-tewas",
+      "published": "Thu, 04 Jun 2026 15:02:40 +0700",
+      "description": "Presiden Amerika Serikat (AS)&nbsp;Donald Trump kemungkinan hanya akan mempertimbangkan untuk mengakhiri perjanjian ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Dugaan penyelewengan jadi alasan pencopotan pimpinan BGN",
+      "link": "https://www.antaranews.com/video/5593721/dugaan-penyelewengan-jadi-alasan-pencopotan-pimpinan-bgn",
+      "published": "Thu, 04 Jun 2026 15:02:33 +0700",
+      "description": "ANTARA - Presiden Prabowo Subianto mengaku sedih saat mencopot tiga pimpinan Badan Gizi Nasional. Keputusan itu diambil ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Bukittinggi sambut delegasi 38 negara peserta IMLF seabad jam gadang",
+      "link": "https://www.antaranews.com/berita/5593916/bukittinggi-sambut-delegasi-38-negara-peserta-imlf-seabad-jam-gadang",
+      "published": "Thu, 04 Jun 2026 15:02:30 +0700",
+      "description": "Pemerintah Kota Bukittinggi, Sumatera Barat (Sumbar) menyambut kedatangan delegasi 38 negara peserta International ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
