@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-06-04T05:03:09+0000",
+  "timestamp": "2026-06-04T05:33:25+0000",
   "locations": [
     {
       "name": "Palu",
       "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "32",
+      "temp_c": "30",
       "feels_like_c": "36",
-      "humidity": "56",
-      "wind_speed_kmh": "4",
-      "wind_dir": "N",
+      "humidity": "74",
+      "wind_speed_kmh": "6",
+      "wind_dir": "NNW",
       "visibility_km": "10",
-      "pressure_mb": "1012",
-      "condition": "Patchy rain nearby",
-      "condition_code": "176",
-      "uv_index": "10",
+      "pressure_mb": "1011",
+      "condition": "Light rain shower",
+      "condition_code": "353",
+      "uv_index": "9",
       "forecast": [
         {
           "date": "2026-06-04",
@@ -27,16 +27,16 @@
         },
         {
           "date": "2026-06-05",
-          "max_temp": "33",
-          "min_temp": "19",
-          "condition": "Partly Cloudy ",
+          "max_temp": "32",
+          "min_temp": "18",
+          "condition": "Overcast ",
           "sunrise": "05:57 AM",
           "sunset": "06:01 PM"
         },
         {
           "date": "2026-06-06",
-          "max_temp": "32",
-          "min_temp": "19",
+          "max_temp": "33",
+          "min_temp": "18",
           "condition": "Mist",
           "sunrise": "05:57 AM",
           "sunset": "06:01 PM"
