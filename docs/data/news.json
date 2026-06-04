@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T19:38:53+0000",
+  "timestamp": "2026-06-04T20:08:59+0000",
   "articles": [
     {
       "title": "Royal Navy crew killed in helicopter crash named",
@@ -12,8 +12,16 @@
     {
       "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
       "link": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 19:09:12 GMT",
+      "published": "Thu, 04 Jun 2026 19:46:09 GMT",
       "description": "Prime Minister Sir Keir Starmer mets the family of Henry Nowak at 10 Downing Street.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "How misinformation about student's murder sent two people into hiding",
+      "link": "https://www.bbc.com/news/videos/cg4p4lr9v35o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 19:24:11 GMT",
+      "description": "A former police officer wrongly identified as being at the scene of Henry Nowak's arrest and death said she is scared for her safety.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 17:54:06 GMT",
-      "description": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Genjot ekspor langsung, Kaltara siapkan insentif klinik ekspor",
+      "link": "https://www.antaranews.com/video/5594947/genjot-ekspor-langsung-kaltara-siapkan-insentif-klinik-ekspor",
+      "published": "Fri, 05 Jun 2026 02:55:18 +0700",
+      "description": "ANTARA - Badan Karantina Hewan, Ikan, dan Tumbuhan (BKHIT) wilayah Kalimantan Utara bersama Pemerintah Provinsi Kaltara ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Timnas Indonesia bantai Timor Leste 3-0 di laga kedua AFF U19",
+      "link": "https://www.antaranews.com/video/5594940/timnas-indonesia-bantai-timor-leste-3-0-di-laga-kedua-aff-u19",
+      "published": "Fri, 05 Jun 2026 02:51:37 +0700",
+      "description": "ANTARA - Timnas Indonesia U-19 mengalahkan Timor Leste 3-0 pada laga Grup A Piala AFF U-19 2026 di Stadion Utama ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "KemenPANRB-Estonia bahas kerja sama pemerintahan digital",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5594932/mendagri-menteri-pkp-tinjau-program-bantuan-bedah-rumah-di-bantul",
       "published": "Fri, 05 Jun 2026 01:52:39 +0700",
       "description": "Menteri Dalam Negeri (Mendagri) Muhammad Tito Karnavian bersama Menteri Perumahan dan Kawasan Permukiman (PKP) Maruarar ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KPK soroti pola terstruktur dalam dugaan korupsi di Kementerian Imipas",
-      "link": "https://www.antaranews.com/video/5594927/kpk-soroti-pola-terstruktur-dalam-dugaan-korupsi-di-kementerian-imipas",
-      "published": "Fri, 05 Jun 2026 01:50:04 +0700",
-      "description": "ANTARA - Komisi Pemberantasan Korupsi menilai dugaan korupsi di lingkungan Kementerian Imigrasi dan Pemasyarakatan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mensesneg ungkap alasan pemerintah tunjuk Nanik jadi Kepala BGN",
-      "link": "https://www.antaranews.com/video/5594923/mensesneg-ungkap-alasan-pemerintah-tunjuk-nanik-jadi-kepala-bgn",
-      "published": "Fri, 05 Jun 2026 01:47:53 +0700",
-      "description": "ANTARA - Pemerintah menunjuk Nanik S Deyang sebagai pimpinan Badan Gizi Nasional menggantikan Dadan Hindayana. Saat ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
