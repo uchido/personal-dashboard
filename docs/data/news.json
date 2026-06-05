@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T13:14:57+0000",
+  "timestamp": "2026-06-05T13:45:05+0000",
   "articles": [
     {
       "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kemenhaj Cilegon siapkan 10 unit bus dan tiga truk jemput jamaah haji",
-      "link": "https://www.antaranews.com/video/5596127/kemenhaj-cilegon-siapkan-10-unit-bus-dan-tiga-truk-jemput-jamaah-haji",
-      "published": "Fri, 05 Jun 2026 20:13:27 +0700",
-      "description": "ANTARA -&nbsp;Kantor Kementerian Haji dan Umroh Kota Cilegon menyiapkan 10 unit bus dan 3 unit truk untuk menjemput ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BPOM temukan jutaan kosmetik ilegal asal China dipasarkan lewat platform perdagangan elektronik",
-      "link": "https://www.antaranews.com/foto/5596143/bpom-temukan-jutaan-kosmetik-ilegal-asal-china-dipasarkan-lewat-platform-perdagangan-elektronik",
-      "published": "Fri, 05 Jun 2026 20:13:22 +0700",
-      "description": "Petugas Badan Pengawas Obat dan Makanan (BPOM) melihat barang bukti kosmetik ilegal usai konferensi pers di salah satu ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemkot gandeng delapan mal dalam gelaran Pasar Kreatif Bandung 2026",
-      "link": "https://www.antaranews.com/berita/5596141/pemkot-gandeng-delapan-mal-dalam-gelaran-pasar-kreatif-bandung-2026",
-      "published": "Fri, 05 Jun 2026 20:12:10 +0700",
-      "description": "Pemerintah Kota (Pemkot) Bandung, Jawa Barat, menggandeng&nbsp;delapan pusat perbelanjaan atau mal untuk ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "ASDP Ambon berlakukan layanan feri 24 jam setiap akhir pekan",
-      "link": "https://www.antaranews.com/berita/5596140/asdp-ambon-berlakukan-layanan-feri-24-jam-setiap-akhir-pekan",
-      "published": "Fri, 05 Jun 2026 20:09:38 +0700",
-      "description": "PT Angkutan Sungai, Danau, dan Penyeberangan (ASDP) Indonesia Ferry (Persero) Cabang Ambon, Maluku, memberlakukan ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
