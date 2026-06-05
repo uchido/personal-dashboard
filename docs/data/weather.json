@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-06-05T02:10:55+0000",
+  "timestamp": "2026-06-05T02:41:04+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
+      "location": "Panggona",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "29",
-      "feels_like_c": "32",
-      "humidity": "69",
+      "temp_c": "31",
+      "feels_like_c": "34",
+      "humidity": "61",
       "wind_speed_kmh": "4",
-      "wind_dir": "ESE",
+      "wind_dir": "E",
       "visibility_km": "10",
       "pressure_mb": "1014",
-      "condition": "Partly Cloudy ",
-      "condition_code": "116",
+      "condition": "Cloudy ",
+      "condition_code": "119",
       "uv_index": "2",
       "forecast": [
         {
