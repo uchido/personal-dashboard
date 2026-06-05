@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T05:42:09+0000",
+  "timestamp": "2026-06-05T06:12:15+0000",
   "articles": [
     {
       "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
@@ -12,7 +12,7 @@
     {
       "title": "Burnham says he would seek to enter any Labour leadership contest",
       "link": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 23:26:04 GMT",
+      "published": "Fri, 05 Jun 2026 05:59:22 GMT",
       "description": "The Greater Manchester mayor would need to win the by-election in Makerfield to be a possible candidate.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 657, column 66",
+      "title": "Mendikdasmen resmikan 102 sekolah hasil revitalisasi di Kaltim",
+      "link": "https://www.antaranews.com/berita/5595347/mendikdasmen-resmikan-102-sekolah-hasil-revitalisasi-di-kaltim",
+      "published": "Fri, 05 Jun 2026 13:10:44 +0700",
+      "description": "Menteri Pendidikan Dasar dan Menengah (Mendikdasmen) Abdul Mu&rsquo;ti, meresmikan 102 satuan pendidikan yang selesai ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemhan siap latih 2.300 ASN jadi Komcad pada Latsarmil gelombang II",
+      "link": "https://www.antaranews.com/berita/5595343/kemhan-siap-latih-2300-asn-jadi-komcad-pada-latsarmil-gelombang-ii",
+      "published": "Fri, 05 Jun 2026 13:08:21 +0700",
+      "description": "Wakil Menteri Pertahanan Donny Ermawan Taufanto memastikan pihaknya siap menggelar program latihan dasar militer ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BCA-Astindo ajak wisatawan mancanegara kunjungi Bukit Peramun Belitung",
+      "link": "https://www.antaranews.com/berita/5595341/bca-astindo-ajak-wisatawan-mancanegara-kunjungi-bukit-peramun-belitung",
+      "published": "Fri, 05 Jun 2026 13:04:10 +0700",
+      "description": "PT Bank Central Asia Tbk (BCA) menggandeng Asosiasi Travel Agent Indonesia (Astindo) untuk mempromosikan Bukit Peramun, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Huawei Nova 16 dibekali baterai 7.000mAh dan fitur komunikasi satelit",
+      "link": "https://www.antaranews.com/berita/5595340/huawei-nova-16-dibekali-baterai-7000mah-dan-fitur-komunikasi-satelit",
+      "published": "Fri, 05 Jun 2026 13:03:39 +0700",
+      "description": "Huawei&nbsp;membuka layanan penjualan produk ponsel seri Nova 16 yang meliputi&nbsp;Nova 16, Nova 16 Pro, dan Nova 16 ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
