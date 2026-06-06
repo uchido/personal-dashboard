@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-06T13:21:59+0000",
+  "timestamp": "2026-06-06T13:52:07+0000",
   "articles": [
     {
       "title": "West Ham joint chairman David Sullivan steps down after 'serious' historical allegations",
@@ -20,48 +20,21 @@
     {
       "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
       "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 11:37:19 GMT",
+      "published": "Sat, 06 Jun 2026 13:38:07 GMT",
       "description": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
-      "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 07:33:07 GMT",
-      "description": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
+      "title": "Royals turn out for Peter Phillips and NHS nurse's wedding",
+      "link": "https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 13:36:40 GMT",
+      "description": "Peter Phillips is marrying NHS nurse Harriet Sperling during a private ceremony on Saturday.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Mei 2026, Komisi Palestina catat 1.659 serangan Israel di Tepi Barat",
-      "link": "https://www.antaranews.com/berita/5597256/mei-2026-komisi-palestina-catat-1659-serangan-israel-di-tepi-barat",
-      "published": "Sat, 06 Jun 2026 20:18:52 +0700",
-      "description": "Ketua Komisi Perlawanan terhadap Tembok dan Permukiman, Menteri Mu&#39;ayyad Sha&#39;ban, menyatakan, total, pasukan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menakar dolar dan pariwisata kita",
-      "link": "https://www.antaranews.com/berita/5597253/menakar-dolar-dan-pariwisata-kita",
-      "published": "Sat, 06 Jun 2026 20:15:37 +0700",
-      "description": "Dampak berkepanjangan dari krisis energi global akibat ketegangan menahun di Timur Tengah kini telah mencapai titik ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Tokoh sepuh NU dukung Hery Haryanto Azumi maju calon Ketum PBNU",
-      "link": "https://www.antaranews.com/berita/5597249/tokoh-sepuh-nu-dukung-hery-haryanto-azumi-maju-calon-ketum-pbnu",
-      "published": "Sat, 06 Jun 2026 20:12:46 +0700",
-      "description": "Tokoh sepuh Nahdlatul Ulama (NU) KH Manarul Hidayat secara terbuka memberi restu dan mendukung kader NU Gus Hery ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Komisi VII dorong eksplorasi budaya daerah perkuat industri film",
-      "link": "https://www.antaranews.com/berita/5597247/komisi-vii-dorong-eksplorasi-budaya-daerah-perkuat-industri-film",
-      "published": "Sat, 06 Jun 2026 20:11:39 +0700",
-      "description": "Anggota Komisi VII DPR RI Hendry Munief menilai eksplorasi budaya daerah dapat memperkuat konten lokal dan kolaborasi ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
