@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-06T02:48:56+0000",
+  "timestamp": "2026-06-06T03:19:04+0000",
   "articles": [
     {
       "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
@@ -18,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "US military says it struck Iranian drones and radar sites",
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
       "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 23:48:58 GMT",
-      "description": "The drones \"posed an immediate threat to regional maritime traffic\" in the Strait of Hormuz, US Central Command says.",
+      "published": "Sat, 06 Jun 2026 03:01:05 GMT",
+      "description": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "BP Batam: Investasi dan logistik jadi penggerak ekonomi kawasan",
-      "link": "https://www.antaranews.com/berita/5596669/bp-batam-investasi-dan-logistik-jadi-penggerak-ekonomi-kawasan",
-      "published": "Sat, 06 Jun 2026 09:42:58 +0700",
-      "description": "Badan Pengusahaan (BP) Batam, Kepulauan Riau (Kepri) menyebut sektor investasi dan kinerja logistik menjadi penggerak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pramono harap JFF 2026 lahirkan gagasan untuk kemajuan Jakarta",
-      "link": "https://www.antaranews.com/berita/5596665/pramono-harap-jff-2026-lahirkan-gagasan-untuk-kemajuan-jakarta",
-      "published": "Sat, 06 Jun 2026 09:39:13 +0700",
-      "description": "Gubernur DKI Jakarta Pramono Anung Wibowo berharap penyelenggaraan Jakarta Future Festival (JFF) 2026 dapat melahirkan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Harga emas Antam pada Sabtu turun Rp32.000 jadi Rp2,738 juta/gr",
-      "link": "https://www.antaranews.com/berita/5596661/harga-emas-antam-pada-sabtu-turun-rp32000-jadi-rp2738-juta-gr",
-      "published": "Sat, 06 Jun 2026 09:36:35 +0700",
-      "description": "Harga emas Antam yang dipantau dari laman Logam Mulia, di Jakarta, Sabtu, 09.23 WIB, turun Rp32.000 dari semula ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemerintah ingin tarik wisatawan berkualitas dengan wisata kebugaran",
-      "link": "https://www.antaranews.com/berita/5596657/pemerintah-ingin-tarik-wisatawan-berkualitas-dengan-wisata-kebugaran",
-      "published": "Sat, 06 Jun 2026 09:30:36 +0700",
-      "description": "Wakil Menteri Pariwisata Ni Luh Puspa menyampaikan bahwa strategi diversifikasi produk wisata yang dijalankan oleh ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
