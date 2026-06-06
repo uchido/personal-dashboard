@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-06T13:52:07+0000",
+  "timestamp": "2026-06-06T14:22:14+0000",
   "articles": [
     {
       "title": "West Ham joint chairman David Sullivan steps down after 'serious' historical allegations",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "King's nephew Peter Phillips weds NHS nurse with William and Kate among guests",
+      "link": "https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 14:05:00 GMT",
+      "description": "Peter Phillips married NHS nurse Harriet Sperling during a private ceremony on Saturday.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
       "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 06 Jun 2026 13:38:07 GMT",
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Royals turn out for Peter Phillips and NHS nurse's wedding",
-      "link": "https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 13:36:40 GMT",
-      "description": "Peter Phillips is marrying NHS nurse Harriet Sperling during a private ceremony on Saturday.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Dewa curi kemenangan laga pertama semifinal di kandang Pelita Jaya",
+      "link": "https://www.antaranews.com/berita/5597309/dewa-curi-kemenangan-laga-pertama-semifinal-di-kandang-pelita-jaya",
+      "published": "Sat, 06 Jun 2026 21:17:12 +0700",
+      "description": "Dewa United Banten berhasil&nbsp;kemenangan dengan skor 78-76 dalam pertandingan pertama seri best-of-five melawan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Iran minta IAEA hentikan upaya tekanan politik saat bahas isu nuklir",
+      "link": "https://www.antaranews.com/berita/5597307/iran-minta-iaea-hentikan-upaya-tekanan-politik-saat-bahas-isu-nuklir",
+      "published": "Sat, 06 Jun 2026 21:15:37 +0700",
+      "description": "Iran menyatakan agar Badan Energi Atom Internasional (International Atomic Energy Agency/IAEA) harus menghindari upaya ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Profil timnas Iran, misi pecahkan kutukan fase grup",
+      "link": "https://www.antaranews.com/berita/5597303/profil-timnas-iran-misi-pecahkan-kutukan-fase-grup",
+      "published": "Sat, 06 Jun 2026 21:11:59 +0700",
+      "description": "Di tengah berbagai ketidakpastian yang mengiringi persiapan tim, timnas Iran tetap bersiap menatap Piala Dunia 2026 di ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Bendera Palestina berkibar di Istana Presiden Slovenia",
+      "link": "https://www.antaranews.com/berita/5597299/bendera-palestina-berkibar-di-istana-presiden-slovenia",
+      "published": "Sat, 06 Jun 2026 21:10:19 +0700",
+      "description": "Presiden Slovenia Nata&scaron;a Pirc Musar memutuskan untuk mengibarkan bendera Palestina di Istana Presiden sebagai ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
