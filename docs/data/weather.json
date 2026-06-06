@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-06T16:52:50+0000",
+  "timestamp": "2026-06-06T17:22:58+0000",
   "locations": [
     {
       "name": "Palu",
@@ -9,8 +9,8 @@
       "temp_c": "19",
       "feels_like_c": "14",
       "humidity": "93",
-      "wind_speed_kmh": "5",
-      "wind_dir": "ESE",
+      "wind_speed_kmh": "4",
+      "wind_dir": "SE",
       "visibility_km": "10",
       "pressure_mb": "1014",
       "condition": "Partly Cloudy ",
@@ -18,16 +18,8 @@
       "uv_index": "0",
       "forecast": [
         {
-          "date": "2026-06-06",
-          "max_temp": "33",
-          "min_temp": "18",
-          "condition": "Mist",
-          "sunrise": "05:57 AM",
-          "sunset": "06:01 PM"
-        },
-        {
           "date": "2026-06-07",
-          "max_temp": "31",
+          "max_temp": "32",
           "min_temp": "18",
           "condition": "Partly Cloudy ",
           "sunrise": "05:57 AM",
@@ -35,10 +27,18 @@
         },
         {
           "date": "2026-06-08",
-          "max_temp": "32",
+          "max_temp": "30",
           "min_temp": "18",
           "condition": "Mist",
           "sunrise": "05:57 AM",
+          "sunset": "06:02 PM"
+        },
+        {
+          "date": "2026-06-09",
+          "max_temp": "31",
+          "min_temp": "18",
+          "condition": "Mist",
+          "sunrise": "05:58 AM",
           "sunset": "06:02 PM"
         }
       ]
@@ -50,26 +50,18 @@
       "country": "Indonesia",
       "temp_c": "23",
       "feels_like_c": "18",
-      "humidity": "83",
-      "wind_speed_kmh": "8",
-      "wind_dir": "SE",
+      "humidity": "84",
+      "wind_speed_kmh": "5",
+      "wind_dir": "ENE",
       "visibility_km": "10",
-      "pressure_mb": "1015",
-      "condition": "Clear ",
-      "condition_code": "113",
+      "pressure_mb": "1014",
+      "condition": "Patchy rain nearby",
+      "condition_code": "176",
       "uv_index": "0",
       "forecast": [
         {
-          "date": "2026-06-06",
-          "max_temp": "29",
-          "min_temp": "23",
-          "condition": "Partly Cloudy ",
-          "sunrise": "05:47 AM",
-          "sunset": "05:28 PM"
-        },
-        {
           "date": "2026-06-07",
-          "max_temp": "29",
+          "max_temp": "30",
           "min_temp": "22",
           "condition": "Partly Cloudy ",
           "sunrise": "05:47 AM",
@@ -79,7 +71,15 @@
           "date": "2026-06-08",
           "max_temp": "29",
           "min_temp": "22",
-          "condition": "Clear ",
+          "condition": "Patchy rain nearby",
+          "sunrise": "05:47 AM",
+          "sunset": "05:28 PM"
+        },
+        {
+          "date": "2026-06-09",
+          "max_temp": "29",
+          "min_temp": "22",
+          "condition": "Patchy rain nearby",
           "sunrise": "05:47 AM",
           "sunset": "05:28 PM"
         }
