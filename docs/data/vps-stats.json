@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-06-07T18:29:54+0000",
+  "timestamp": "2026-06-07T19:00:02+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 51.3,
+    "percent": 45.0,
     "cores": 4,
     "load_avg": [
-      0.18,
-      0.61,
+      0.26,
+      0.72,
       1.25
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 9.2,
-    "available": 16.0,
-    "used": 7.4,
-    "percent": 31.6
+    "free": 9.1,
+    "available": 16.1,
+    "used": 7.3,
+    "percent": 31.2
   },
   "disk": {
     "total": "193G",
@@ -26,39 +26,39 @@
   "uptime": {
     "days": 33,
     "hours": 2,
-    "minutes": 18,
-    "total_seconds": 2859498.77
+    "minutes": 48,
+    "total_seconds": 2861305.89
   },
   "top_processes": [
     {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
       "user": "root",
-      "cpu": "77.7",
+      "cpu": "80.0",
       "mem": "0.0",
       "command": "/usr/local/bin/ruby /usr/local/bundle/bin/bundle e"
     },
     {
       "user": "ubuntu",
-      "cpu": "23.5",
+      "cpu": "14.2",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "12.1",
-      "mem": "0.0",
-      "command": "python3 /home/ubuntu/personal-dashboard/scripts/co"
     },
     {
       "user": "root",
       "cpu": "4.3",
       "mem": "4.3",
       "command": "node --experimental-require-module ./dist/apps/orc"
+    },
+    {
+      "user": "opc",
+      "cpu": "2.4",
+      "mem": "0.8",
+      "command": "temporal-server --env docker start"
+    },
+    {
+      "user": "root",
+      "cpu": "1.0",
+      "mem": "0.4",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
