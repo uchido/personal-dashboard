@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-07T00:54:53+0000",
+  "timestamp": "2026-06-07T01:25:00+0000",
   "articles": [
     {
       "title": "Delays to defence plan undermine UK credibility, MPs say",
       "link": "https://www.bbc.com/news/articles/c0ky47v6d1no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 23:02:11 GMT",
+      "published": "Sun, 07 Jun 2026 01:07:59 GMT",
       "description": "The Defence Investment Plan is now due to be released ahead of a Nato summit early next month.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Starmer tells supporters he will fight any leadership contest",
+      "link": "https://www.bbc.com/news/articles/c3vyxzl625po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 01:03:55 GMT",
+      "description": "The prime minister's position has hardened since Andy Burnham said he would seek to enter any potential Labour contest.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,12 @@
       "category": "Global"
     },
     {
-      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 23:52:07 GMT",
-      "description": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Apriyadi, komikus Bantul yang jadi ilustrator resmi komik 'Storm'\"",
+      "link": "https://www.antaranews.com/berita/5597527/apriyadi-komikus-bantul-yang-jadi-ilustrator-resmi-komik-storm",
+      "published": "Sun, 07 Jun 2026 08:04:23 +0700",
+      "description": "Di balik kesederhanaan sebuah rumah di Kalurahan Trimulyo, Kapanewon Jetis, Bantul, tersimpan jejak prestasi yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Manfaat lansia memasak hingga Audi rilis Q5 Sportback",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5597515/bupati-gorontalo-ajak-masyarakat-cegah-penyalahgunaan-narkoba",
       "published": "Sun, 07 Jun 2026 07:28:12 +0700",
       "description": "Bupati Kabupaten Gorontalo, Provinsi Gorontalo Sofyan Puhi mengajak masyarakat berperan aktif mencegah penyalahgunaan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Penggarapan \"Warkop DKI: Viralin Dong!\" libatkan penulis asal Thailand",
-      "link": "https://www.antaranews.com/berita/5597511/penggarapan-warkop-dki-viralin-dong-libatkan-penulis-asal-thailand",
-      "published": "Sun, 07 Jun 2026 07:15:59 +0700",
-      "description": "Penggarapan film drama komedi baru &quot;Warkop DKI: Viralin Dong!&quot; produksi Falcon ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
