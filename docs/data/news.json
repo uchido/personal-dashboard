@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-08T15:06:56+0000",
+  "timestamp": "2026-06-08T15:37:02+0000",
   "articles": [
     {
       "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
@@ -12,7 +12,7 @@
     {
       "title": "Starmer tells Apple and Google to ban nude images on children's phones",
       "link": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 13:55:28 GMT",
+      "published": "Mon, 08 Jun 2026 15:30:43 GMT",
       "description": "Firms will be expected to activate built-in features to stop children accessing sexually explicit images.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "KPK sedang selidiki korupsi MBG saat Kejagung tahan eks pimpinan BGN",
-      "link": "https://www.antaranews.com/berita/5599640/kpk-sedang-selidiki-korupsi-mbg-saat-kejagung-tahan-eks-pimpinan-bgn",
-      "published": "Mon, 08 Jun 2026 22:00:16 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) menyatakan pihaknya sedang melakukan penyelidikan dugaan korupsi terkait Makan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Jamaah haji Kloter 9 Debarkasi Makassar kembali utuh ke tanah air",
-      "link": "https://www.antaranews.com/berita/5599637/jamaah-haji-kloter-9-debarkasi-makassar-kembali-utuh-ke-tanah-air",
-      "published": "Mon, 08 Jun 2026 22:00:14 +0700",
-      "description": "Petugas Penyelenggara Ibadah Haji (PPIH) Debarkasi Makassar, Sulawesi Selatan mengapresiasi pelayanan petugas haji saat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Perempuan harus lawan budaya mager guna jaga kebugaran badan dan jiwa",
-      "link": "https://www.antaranews.com/berita/5599636/perempuan-harus-lawan-budaya-mager-guna-jaga-kebugaran-badan-dan-jiwa",
-      "published": "Mon, 08 Jun 2026 21:59:27 +0700",
-      "description": "Bupati Gunungkidul Endah Subekti Kuntariningsih mengajak seluruh perempuan di Gunungkidul untuk melawan budaya mager ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Komnas HAM panggil Kemendiktisaintek soal nasib 1.023 calon dokter",
-      "link": "https://www.antaranews.com/berita/5599633/komnas-ham-panggil-kemendiktisaintek-soal-nasib-1023-calon-dokter",
-      "published": "Mon, 08 Jun 2026 21:54:23 +0700",
-      "description": "Komisi Nasional Hak Asasi Manusia (Komnas HAM) akan memanggil Kementerian Pendidikan Tinggi, Sains, dan Teknologi ...",
+      "error": "no element found: line 661, column 49",
       "source": "Antara News",
       "category": "Indonesia"
     }
