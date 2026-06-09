@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-09T16:15:49+0000",
+  "timestamp": "2026-06-09T16:46:01+0000",
   "articles": [
     {
       "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
       "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 15:15:29 GMT",
       "description": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Men jailed for violence at Henry Nowak police protest",
+      "link": "https://www.bbc.com/news/articles/c982y5n0nlno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 16:41:10 GMT",
+      "description": "Disorder broke out in Southampton close to where the 18-year-old student was murdered.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Scrap legal equality duty for public services, says Badenoch",
-      "link": "https://www.bbc.com/news/articles/cy5vyqykpx5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 13:27:08 GMT",
-      "description": "The Conservative leader says the rules have led to public bodies becoming \"institutionally incompetent\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
       "link": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 13:15:59 GMT",
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Korsel dorong penguatan kerja sama seiring penurunan volume dagang",
-      "link": "https://www.antaranews.com/berita/5601440/korsel-dorong-penguatan-kerja-sama-seiring-penurunan-volume-dagang",
-      "published": "Tue, 09 Jun 2026 23:12:34 +0700",
-      "description": "Parlemen Korea Selatan (Korsel) mendorong penguatan kerja sama antara Seoul dengan Indonesia seiring adanya tren ...",
+      "title": "Profil Timnas Portugal, Ronaldo dan mimpi terakhir  Piala Dunia",
+      "link": "https://www.antaranews.com/berita/5601465/profil-timnas-portugal-ronaldo-dan-mimpi-terakhir-piala-dunia",
+      "published": "Tue, 09 Jun 2026 23:43:56 +0700",
+      "description": "Portugal datang ke Piala Dunia 2026 dengan salah satu skuad paling lengkap di Eropa, namun perhatian publik tetap akan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "101 tahun Asrul Sani, Perpusnas dorong adaptasi karya klasik",
-      "link": "https://www.antaranews.com/berita/5601439/101-tahun-asrul-sani-perpusnas-dorong-adaptasi-karya-klasik",
-      "published": "Tue, 09 Jun 2026 23:12:30 +0700",
-      "description": "Perpustakaan Nasional Republik Indonesia mendorong adaptasi karya-karya klasik agar lebih relevan dengan generasi masa ...",
+      "title": "Pelni pastikan penyesuaian harga BBM tak pengaruhi tarif kapal",
+      "link": "https://www.antaranews.com/video/5601389/pelni-pastikan-penyesuaian-harga-bbm-tak-pengaruhi-tarif-kapal",
+      "published": "Tue, 09 Jun 2026 23:42:06 +0700",
+      "description": "ANTARA - PT Pelayaran Nasional Indonesia (PELNI) cabang Palu memastikan tarif tiket kapal penumpang masih tetap normal ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pulih dari cedera, Mario Aji targetkan kembali balapan di seri Jerman",
-      "link": "https://www.antaranews.com/video/5601319/pulih-dari-cedera-mario-aji-targetkan-kembali-balapan-di-seri-jerman",
-      "published": "Tue, 09 Jun 2026 23:12:08 +0700",
-      "description": "ANTARA - Pembalap Moto2 Mario Suryo Aji menargetkan dapat kembali unjuk gigi pada Kejuaraan Dunia Moto2 2026 seri ...",
+      "title": "KPK duga Bupati Muara Enim perintahkan Sekdisdikbud  terima setoran",
+      "link": "https://www.antaranews.com/berita/5601464/kpk-duga-bupati-muara-enim-perintahkan-sekdisdikbud-terima-setoran",
+      "published": "Tue, 09 Jun 2026 23:41:22 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) menduga Bupati Muara Enim Edison (EDS) memerintahkan Sekretaris Dinas Pendidikan dan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Profil timnas Yordania, debutan membawa mimpi besar",
-      "link": "https://www.antaranews.com/berita/5601437/profil-timnas-yordania-debutan-membawa-mimpi-besar",
-      "published": "Tue, 09 Jun 2026 23:10:38 +0700",
-      "description": "Yordania akan menjalani debut bersejarah pada Piala Dunia 2026 setelah untuk pertama kali lolos ke putaran final ...",
+      "title": "Gubernur Jabar minta warga laporkan kecurangan dalam penerimaan murid",
+      "link": "https://www.antaranews.com/berita/5601459/gubernur-jabar-minta-warga-laporkan-kecurangan-dalam-penerimaan-murid",
+      "published": "Tue, 09 Jun 2026 23:35:32 +0700",
+      "description": "Gubernur Jawa Barat (Jabar)&nbsp;Dedi Mulyadi&nbsp;meminta warga ikut mengawasi penerapan Sistem Penerimaan Murid Baru ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
