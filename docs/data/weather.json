@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T04:11:11+0000",
+  "timestamp": "2026-06-09T04:41:18+0000",
   "locations": [
     {
       "name": "Palu",
@@ -49,15 +49,15 @@
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
       "temp_c": "28",
-      "feels_like_c": "30",
-      "humidity": "67",
-      "wind_speed_kmh": "9",
+      "feels_like_c": "31",
+      "humidity": "66",
+      "wind_speed_kmh": "12",
       "wind_dir": "SSE",
       "visibility_km": "10",
       "pressure_mb": "1013",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "7",
+      "uv_index": "8",
       "forecast": [
         {
           "date": "2026-06-09",
