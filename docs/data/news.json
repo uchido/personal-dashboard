@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-06-09T18:46:45+0000",
+  "timestamp": "2026-06-09T19:16:54+0000",
   "articles": [
-    {
-      "title": "Trump says Iran shot down US helicopter and vows to respond",
-      "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 18:18:27 GMT",
-      "description": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "David Sullivan banned from contact with West Ham women's and youth teams since 2023",
       "link": "https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 17:53:48 GMT",
       "description": "The decision followed a safeguarding investigation opened by the the Football Association.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Trump says Iran shot down US helicopter and vows to respond",
+      "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 18:18:27 GMT",
+      "description": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,6 +34,22 @@
       "category": "Global"
     },
     {
+      "title": "Kemenpar usulkan pendampingan penanganan sampah hotel, restoran, kafe",
+      "link": "https://www.antaranews.com/berita/5601519/kemenpar-usulkan-pendampingan-penanganan-sampah-hotel-restoran-kafe",
+      "published": "Wed, 10 Jun 2026 02:11:30 +0700",
+      "description": "Kementerian Pariwisata (Kemenpar) mengusulkan kepada Kementerian Lingkungan Hidup agar memberikan pendampingan kepada ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Mengenal lebih dekat pembalap muda Moto3 Indonesia Veda Ega Pratama",
+      "link": "https://www.antaranews.com/video/5601509/mengenal-lebih-dekat-pembalap-muda-moto3-indonesia-veda-ega-pratama",
+      "published": "Wed, 10 Jun 2026 01:47:10 +0700",
+      "description": "ANTARA - Pembalap muda Indonesia Veda Ega Pratama menikmati kesempatan pulang sejenak ke Indonesia setelah cukup lama ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
       "title": "KPK menduga Bupati Muara Enim terima lima persen dari setoran rekanan",
       "link": "https://www.antaranews.com/berita/5601511/kpk-menduga-bupati-muara-enim-terima-lima-persen-dari-setoran-rekanan",
       "published": "Wed, 10 Jun 2026 01:24:22 +0700",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5601507/mk-uji-materi-uu-peradilan-agama-perihal-isbat-awal-dan-akhir-ramadhan",
       "published": "Wed, 10 Jun 2026 01:05:37 +0700",
       "description": "Mahkamah Konstitusi (MK) pada Selasa menggelar sidang pendahuluan pengujian materi&nbsp;Undang-Undang Peradilan Agama ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pelaku pariwisata Bali didorong kelola sampah dari sumbernya",
-      "link": "https://www.antaranews.com/video/5601405/pelaku-pariwisata-bali-didorong-kelola-sampah-dari-sumbernya",
-      "published": "Wed, 10 Jun 2026 00:55:18 +0700",
-      "description": "ANTARA - Kementerian Pariwisata bersama Kementerian Lingkungan Hidup mendorong pelaku usaha hotel, restoran, dan kafe ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "MBG libatkan hampir 87 persen UMKM lokal",
-      "link": "https://www.antaranews.com/video/5601413/mbg-libatkan-hampir-87-persen-umkm-lokal",
-      "published": "Wed, 10 Jun 2026 00:53:29 +0700",
-      "description": "ANTARA - Dewan Ekonomi Nasional melaporkan hasil survei Program Makan Bergizi Gratis kepada Presiden Prabowo Subianto. ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
