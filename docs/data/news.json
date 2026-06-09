@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T20:17:21+0000",
+  "timestamp": "2026-06-09T20:47:37+0000",
   "articles": [
     {
       "title": "David Sullivan banned from contact with West Ham women's and youth teams since 2023",
@@ -12,8 +12,16 @@
     {
       "title": "Trump says Iran shot down US helicopter and vows to respond",
       "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 20:00:39 GMT",
+      "published": "Tue, 09 Jun 2026 20:24:01 GMT",
       "description": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
+      "link": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 20:14:12 GMT",
+      "description": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 17:47:41 GMT",
-      "description": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Erick senang Indonesia sapu bersih dua laga lawan Oman dan Mozambik",
+      "link": "https://www.antaranews.com/berita/5601541/erick-senang-indonesia-sapu-bersih-dua-laga-lawan-oman-dan-mozambik",
+      "published": "Wed, 10 Jun 2026 03:24:45 +0700",
+      "description": "Ketua Umum PSSI Erick Thohir senang timnas Indonesia menyapu bersih dua laga melawan Oman dan Mozambik dalam FIFA Match ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "John Herdman ingin timnas jaga momentum positif",
+      "link": "https://www.antaranews.com/berita/5601540/john-herdman-ingin-timnas-jaga-momentum-positif",
+      "published": "Wed, 10 Jun 2026 03:20:43 +0700",
+      "description": "Pelatih timnas Indonesia John Herdman berharap timnya menjaga momentum positif setelah meraih dua kemenangan beruntun ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Shin Tae yong gabung Persija, Erick Thohir: Bagus dong",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5601532/janice-tjen-terhenti-pada-babak-pertama-libema-open-2026",
       "published": "Wed, 10 Jun 2026 03:10:58 +0700",
       "description": "Petenis putri Indonesia Janice Tjen tersingkir dari Libema Open 2026 setelah dikalahkan petenis Belgia Greet Minnen ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kepala Bapanas bahas stabilisasi harga telur bersama peternak",
-      "link": "https://www.antaranews.com/berita/5601528/kepala-bapanas-bahas-stabilisasi-harga-telur-bersama-peternak",
-      "published": "Wed, 10 Jun 2026 03:09:24 +0700",
-      "description": "Kepala Badan Pangan Nasional (Bapanas) sekaligus Menteri Pertanian Andi Amran Sulaiman mengumpulkan perwakilan peternak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KPK memerinci barang bukti dalam kasus suap Bupati Muara Enim",
-      "link": "https://www.antaranews.com/berita/5601527/kpk-memerinci-barang-bukti-dalam-kasus-suap-bupati-muara-enim",
-      "published": "Wed, 10 Jun 2026 02:32:19 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) memerinci barang bukti berupa uang tunai dan saldo rekening dalam&nbsp;kasus dugaan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
