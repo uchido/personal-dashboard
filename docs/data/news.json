@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-10T01:19:10+0000",
+  "timestamp": "2026-06-10T01:49:18+0000",
   "articles": [
     {
-      "title": "Disorder breaks out in Belfast after man charged with knife attack",
+      "title": "Disorder breaks out in Belfast after man charged over knife attack",
       "link": "https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 10 Jun 2026 01:10:10 GMT",
-      "description": "Police and political leaders call for calm after disorder breaks out in parts of Northern Ireland.",
+      "description": "People have been forced to flee their homes and public transport has been suspended in Belfast.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 661, column 3",
+      "title": "Pelabuhan Bengkulu targetkan arus kargo curah cair 2026 naik 30 persen",
+      "link": "https://www.antaranews.com/berita/5601672/pelabuhan-bengkulu-targetkan-arus-kargo-curah-cair-2026-naik-30-persen",
+      "published": "Wed, 10 Jun 2026 08:45:39 +0700",
+      "description": "Pengelola Pelabuhan Pulau Baai Provinsi Bengkulu menargetkan&nbsp;arus distribusi kargo curah cair meningkat hingga 30 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Truk terguling usai hantam beton pembatas flyover Pesing Jakbar",
+      "link": "https://www.antaranews.com/berita/5601671/truk-terguling-usai-hantam-beton-pembatas-flyover-pesing-jakbar",
+      "published": "Wed, 10 Jun 2026 08:44:55 +0700",
+      "description": "Sebuah truk bermuatan barang rongsok terguling di jalan layang (flyover) Pesing, Jalan Daan Mogot, Jakarta Barat ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "China perdalam kerja sama keuangan dan ekonomi dengan Brasil",
+      "link": "https://www.antaranews.com/berita/5601668/china-perdalam-kerja-sama-keuangan-dan-ekonomi-dengan-brasil",
+      "published": "Wed, 10 Jun 2026 08:42:11 +0700",
+      "description": "Wakil Menteri Keuangan China Liao Min mengatakan bahwa China siap untuk memperdalam kerja sama praktis di bidang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Lansia susah naik tangga imbas lift JPO Lenteng Agung tak berfungsi",
+      "link": "https://www.antaranews.com/berita/5601665/lansia-susah-naik-tangga-imbas-lift-jpo-lenteng-agung-tak-berfungsi",
+      "published": "Wed, 10 Jun 2026 08:38:57 +0700",
+      "description": "Sejumlah warga lanjut usia (lansia) mengaku harus bersusah payah menaiki puluhan anak tangga imbas fasilitas lift di ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
