@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-10T00:49:00+0000",
+  "timestamp": "2026-06-10T01:19:10+0000",
   "articles": [
     {
       "title": "Disorder breaks out in Belfast after man charged with knife attack",
       "link": "https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 23:37:17 GMT",
+      "published": "Wed, 10 Jun 2026 01:10:10 GMT",
       "description": "Police and political leaders call for calm after disorder breaks out in parts of Northern Ireland.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Banggar DPR: Buka diri pada kritik dan masukan atasi mahalnya dolar",
-      "link": "https://www.antaranews.com/berita/5601627/banggar-dpr-buka-diri-pada-kritik-dan-masukan-atasi-mahalnya-dolar",
-      "published": "Wed, 10 Jun 2026 07:47:12 +0700",
-      "description": "Badan Anggaran DPR RI meminta semua pihak untuk membuka diri terhadap kritik dan masukan dalam mengatasi mahalnya dolar ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KPK kerja sama dengan Kortastipidkor Polri untuk atasi kebutuhan SDM",
-      "link": "https://www.antaranews.com/berita/5601624/kpk-kerja-sama-dengan-kortastipidkor-polri-untuk-atasi-kebutuhan-sdm",
-      "published": "Wed, 10 Jun 2026 07:36:30 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) menyatakan bekerja sama dengan Korps Pemberantasan Tindak Pidana Korupsi Kepolisian ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Eksperimen di Stasiun Antariksa China diprediksi hadirkan pendekatan baru untuk pengobatan perlemakan hati",
-      "link": "https://www.antaranews.com/berita/5601620/eksperimen-di-stasiun-antariksa-china-diprediksi-hadirkan-pendekatan-baru-untuk-pengobatan-perlemakan-hati",
-      "published": "Wed, 10 Jun 2026 07:25:26 +0700",
-      "description": "Sebuah penelitian yang dilakukan di stasiun luar angkasa China Tiangong diperkirakan akan mengidentifikasi mekanisme ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemnaker permudah pengajuan bursa kerja lewat platform SIAPkerja",
-      "link": "https://www.antaranews.com/berita/5601616/kemnaker-permudah-pengajuan-bursa-kerja-lewat-platform-siapkerja",
-      "published": "Wed, 10 Jun 2026 07:20:23 +0700",
-      "description": "Kementerian Ketenagakerjaan (Kemnaker) berupaya memperkuat pengajuan penyelenggaraan bursa kerja (job fair) melalui ...",
+      "error": "no element found: line 661, column 3",
       "source": "Antara News",
       "category": "Indonesia"
     }
