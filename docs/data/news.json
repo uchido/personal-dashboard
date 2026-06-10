@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-10T07:21:01+0000",
+  "timestamp": "2026-06-10T07:51:08+0000",
   "articles": [
     {
       "title": "Watch: Residents flee as cars and houses burn in Belfast",
@@ -20,7 +20,7 @@
     {
       "title": "US strikes Iran in response to downing of military helicopter",
       "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 10 Jun 2026 05:29:47 GMT",
+      "published": "Wed, 10 Jun 2026 07:33:16 GMT",
       "description": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Bakom: KDKMP dapat bantu hemat pengeluaran masyarakat Rp33 triliun",
-      "link": "https://www.antaranews.com/berita/5602124/bakom-kdkmp-dapat-bantu-hemat-pengeluaran-masyarakat-rp33-triliun",
-      "published": "Wed, 10 Jun 2026 14:17:36 +0700",
-      "description": "Kepala Badan Komunikasi Pemerintah (Bakom) RI Muhammad Qodari mengatakan Koperasi Desa/Kelurahan Merah Putih (KDKMP) ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ginting terhenti babak pertama di Australian Open 2026",
-      "link": "https://www.antaranews.com/berita/5602123/ginting-terhenti-babak-pertama-di-australian-open-2026",
-      "published": "Wed, 10 Jun 2026 14:16:33 +0700",
-      "description": "Tunggal putra Indonesia Anthony Sinisuka Ginting terhenti pada babak 32 besar Australian Open 2026 setelah takluk dari ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BI yakin ekonomi 2027 tumbuh lewati batas atas kisaran 5,1-5,9 persen",
-      "link": "https://www.antaranews.com/berita/5602121/bi-yakin-ekonomi-2027-tumbuh-lewati-batas-atas-kisaran-51-59-persen",
-      "published": "Wed, 10 Jun 2026 14:16:30 +0700",
-      "description": "Bank Indonesia (BI) meyakini pertumbuhan ekonomi Indonesia pada 2027 dapat mencapai batas atas kisaran proyeksi 5,1-5,9 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menko PMK resmikan SDN Cimahpar 5 Kota Bogor pascarevitalisasi",
-      "link": "https://www.antaranews.com/berita/5602120/menko-pmk-resmikan-sdn-cimahpar-5-kota-bogor-pascarevitalisasi",
-      "published": "Wed, 10 Jun 2026 14:14:04 +0700",
-      "description": "Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan Pratikno meresmikan Sekolah Dasar Negeri Cimahpar 5 Kota ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
