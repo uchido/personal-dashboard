@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-06-11T14:30:07+0000",
+  "timestamp": "2026-06-11T15:00:22+0000",
   "articles": [
-    {
-      "title": "Chris Mason: Healey's resignation is a devastating critique of Starmer's government",
-      "link": "https://www.bbc.com/news/articles/cm20vznj2p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 13:14:03 GMT",
-      "description": "An already politically weakened prime minister has been weakened further by the resignation of the defence secretary.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "El Niño under way and threatens weather extremes, scientists say",
       "link": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
@@ -26,15 +18,50 @@
       "category": "Global"
     },
     {
-      "title": "Olivia Rodrigo on heartbreak and choosing her wedding song",
-      "link": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 10 Jun 2026 23:09:25 GMT",
-      "description": "The pop star discusses the difficulty of writing happy songs, and her Glastonbury anxiety attack.",
+      "title": "Rapist jailed for trafficking and abusing girls",
+      "link": "https://www.bbc.com/news/articles/cwy0v8741pxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 13:21:15 GMT",
+      "description": "Bawan Harwe is jailed for a series of child abuse offences against girls aged 12 to 16.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 662, column 2",
+      "title": "Asylum appeal backlog at record high, new figures show",
+      "link": "https://www.bbc.com/news/articles/cwyld5rnw9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 13:52:09 GMT",
+      "description": "While the government has cut the backlog of cases waiting for a decision, the number of appeals has risen.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Kejagung masih dalami kemungkinan tersangka lain di kasus MBG",
+      "link": "https://www.antaranews.com/berita/5604671/kejagung-masih-dalami-kemungkinan-tersangka-lain-di-kasus-mbg",
+      "published": "Thu, 11 Jun 2026 21:58:58 +0700",
+      "description": "Kejaksaan Agung masih terus mendalami kasus dugaan tindak pidana korupsi tata kelola program Makan Bergizi Gratis (MBG) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemko Padang beri insentif untuk dongkrak investasi",
+      "link": "https://www.antaranews.com/video/5604575/pemko-padang-beri-insentif-untuk-dongkrak-investasi",
+      "published": "Thu, 11 Jun 2026 21:57:05 +0700",
+      "description": "ANTARA - Pemerintah Kota Padang terus berupaya menggaet investor masuk dan membuka usaha demi meningkatkan pertumbuhan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ratusan roda dua terjaring penertiban di area City Park Jakbar",
+      "link": "https://www.antaranews.com/berita/5604668/ratusan-roda-dua-terjaring-penertiban-di-area-city-park-jakbar",
+      "published": "Thu, 11 Jun 2026 21:54:06 +0700",
+      "description": "Sebanyak 111 kendaraan bermotor ditindak oleh petugas gabungan dalam operasi penertiban parkir liar dan juru parkir ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BPJS Kesehatan Pati klarifikasi isu denda iuran hingga Rp700 ribu",
+      "link": "https://www.antaranews.com/berita/5604665/bpjs-kesehatan-pati-klarifikasi-isu-denda-iuran-hingga-rp700-ribu",
+      "published": "Thu, 11 Jun 2026 21:53:34 +0700",
+      "description": "Kepala BPJS Kesehatan Cabang Pati, Jawa Tengah Nuzuludin Hasan mengingatkan kepesertaan&nbsp;program Jaminan Kesehatan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
