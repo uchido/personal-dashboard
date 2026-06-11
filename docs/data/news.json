@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T20:01:58+0000",
+  "timestamp": "2026-06-11T20:32:06+0000",
   "articles": [
     {
       "title": "Child-rape sentence reignites scrutiny of UK high street mini-marts",
@@ -20,7 +20,7 @@
     {
       "title": "Elon Musk's SpaceX valued at nearly $1.8tn ahead of record share sale",
       "link": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 19:59:46 GMT",
+      "published": "Thu, 11 Jun 2026 20:12:11 GMT",
       "description": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Komisi XIII minta Kemenimipas dukung kebijakan efisiensi pemerintah",
-      "link": "https://www.antaranews.com/berita/5604916/komisi-xiii-minta-kemenimipas-dukung-kebijakan-efisiensi-pemerintah",
-      "published": "Fri, 12 Jun 2026 03:00:59 +0700",
-      "description": "Komisi XIII belum menyetujui permintaan tambahan anggaran sekitar Rp5 triliun diusulkan Kementerian Imigrasi dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kalah 1-0 dari Australia, Indonesia gagal raih tiket final AFF U19",
-      "link": "https://www.antaranews.com/video/5604911/kalah-1-0-dari-australia-indonesia-gagal-raih-tiket-final-aff-u19",
-      "published": "Fri, 12 Jun 2026 02:58:26 +0700",
-      "description": "ANTARA - Langkah Timnas Indonesia U-19 untuk berlaga di partai final Piala AFF U-19 2026 harus terhenti setelah kalah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "RI-China perkuat kerja sama di bidang peningkatan kapasitas SDM",
-      "link": "https://www.antaranews.com/video/5604907/ri-china-perkuat-kerja-sama-di-bidang-peningkatan-kapasitas-sdm",
-      "published": "Fri, 12 Jun 2026 02:51:17 +0700",
-      "description": "ANTARA - Menyambut 76 tahun hubungan diplomatik Indonesia dan China, kedua negara berkomitmen untuk terus memperkuat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Absen di Piala Dunia 2026, Wataru Endo pensiun dari timnas Jepang",
-      "link": "https://www.antaranews.com/berita/5604915/absen-di-piala-dunia-2026-wataru-endo-pensiun-dari-timnas-jepang",
-      "published": "Fri, 12 Jun 2026 02:43:58 +0700",
-      "description": "Kapten timnas Jepang Wataru Endo dipastikan absen di Piala Dunia 2026 setelah mengalami cedera yang membuatnya harus ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
