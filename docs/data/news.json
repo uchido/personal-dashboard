@@ -1,16 +1,8 @@
 {
-  "timestamp": "2026-06-11T08:58:26+0000",
+  "timestamp": "2026-06-11T09:28:32+0000",
   "articles": [
     {
-      "title": "US and Iran exchange strikes across Middle East for second day in a row",
-      "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 08:47:54 GMT",
-      "description": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Who is your local World Cup hero? Use our lookup tool to find out",
+      "title": "Find your local World Cup hero with our postcode lookup",
       "link": "https://www.bbc.com/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 10 Jun 2026 23:13:43 GMT",
       "description": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
@@ -18,10 +10,10 @@
       "category": "Global"
     },
     {
-      "title": "Met Police calls on tech firms to make stolen phones unusable",
-      "link": "https://www.bbc.com/news/articles/ckg4dey905yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 07:32:31 GMT",
-      "description": "Sir Mark Rowley has asked the home secretary to introduce legislation forcing companies to publish data on stolen devices.",
+      "title": "Nearly 3,000 patients a day face corridor care in NHS",
+      "link": "https://www.bbc.com/news/articles/cp3657re2epo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 09:08:29 GMT",
+      "description": "New data reveals sheer scale of patients in England being treated in unsafe and undignified make-shift areas.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Pelatih Meksiko antusiastis hadapi laga pembuka",
-      "link": "https://www.antaranews.com/berita/5603939/pelatih-meksiko-antusiastis-hadapi-laga-pembuka",
-      "published": "Thu, 11 Jun 2026 15:56:20 +0700",
-      "description": "Pelatih timnas Meksiko Javier Aguirre menatap antusiastis laga pembuka Piala Dunia 2026 melawan Afrika Selatan di ...",
+      "title": "Facing a seismic by-election, the people of Makerfield tell us what matters to them",
+      "link": "https://www.bbc.com/news/articles/ckg4dywykjeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 04:19:40 GMT",
+      "description": "In conversations with residents, business owners and campaigners in Makerfield, the BBC found a mixed mood.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Kemenhaj bagikan tips terhindar dari badal haji fiktif",
+      "link": "https://www.antaranews.com/berita/5604019/kemenhaj-bagikan-tips-terhindar-dari-badal-haji-fiktif",
+      "published": "Thu, 11 Jun 2026 16:27:52 +0700",
+      "description": "Kementerian Haji dan Umrah (Kemenhaj) RI membagikan sejumlah tips kepada masyarakat untuk menghindari penawaran badal ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Demak jajaki kerja sama dengan investor olah sampah TPA jadi RDF",
-      "link": "https://www.antaranews.com/berita/5603937/demak-jajaki-kerja-sama-dengan-investor-olah-sampah-tpa-jadi-rdf",
-      "published": "Thu, 11 Jun 2026 15:56:02 +0700",
-      "description": "Pemerintah Kabupaten Demak, Jawa Tengah, menjajaki kerja sama dengan investor untuk mengolah sampah di tempat ...",
+      "title": "PM Jepang usul tiga prinsip keamanan energi di KTT G7",
+      "link": "https://www.antaranews.com/berita/5604017/pm-jepang-usul-tiga-prinsip-keamanan-energi-di-ktt-g7",
+      "published": "Thu, 11 Jun 2026 16:27:41 +0700",
+      "description": "Perdana Menteri Jepang Sanae Takaichi akan mengusulkan tiga prinsip untuk memperkuat keamanan energi pada KTT G7 di ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "DPR dukung tambah jumlah polhut guna jaga 124,9 juta hektare hutan RI",
-      "link": "https://www.antaranews.com/berita/5603935/dpr-dukung-tambah-jumlah-polhut-guna-jaga-1249-juta-hektare-hutan-ri",
-      "published": "Thu, 11 Jun 2026 15:55:42 +0700",
-      "description": "Komisi IV DPR RI menyatakan dukungan penuh terhadap usulan Kementerian Kehutanan (Kemenhut) untuk melakukan penambahan ...",
+      "title": "CORE nilai subsidi kedelai efektif redam tekanan biaya produksi",
+      "link": "https://www.antaranews.com/berita/5604013/core-nilai-subsidi-kedelai-efektif-redam-tekanan-biaya-produksi",
+      "published": "Thu, 11 Jun 2026 16:26:20 +0700",
+      "description": "Peneliti Center of Reform on Economics (CORE) Indonesia Eliza Mardian menilai kebijakan subsidi kedelai yang diputuskan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Mahasiswa Unissula kembangkan mobil listrik tenaga surya ramah lingkungan",
-      "link": "https://otomotif.antaranews.com/foto/5603932/mahasiswa-unissula-kembangkan-mobil-listrik-tenaga-surya-ramah-lingkungan",
-      "published": "Thu, 11 Jun 2026 15:55:30 +0700",
-      "description": "Mahasiswa Fakultas Teknologi Industri Universitas Islam Sultan Agung (Unissula) melakukan uji coba prototipe mobil ...",
+      "title": "Polda Metro periksa sembilan \"influencer\" dalam kasus Hanania Group",
+      "link": "https://www.antaranews.com/berita/5604011/polda-metro-periksa-sembilan-influencer-dalam-kasus-hanania-group",
+      "published": "Thu, 11 Jun 2026 16:26:19 +0700",
+      "description": "Direktorat Reserse Kriminal Umum Polda Metro Jaya secara maraton melakukan pemeriksaan terhadap ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
