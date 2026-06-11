@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T10:28:46+0000",
+  "timestamp": "2026-06-11T10:59:02+0000",
   "articles": [
     {
       "title": "Nearly 3,000 patients a day in England face corridor care in NHS",
@@ -26,42 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Williams' Queen's run over as injured Mboko withdraws",
+      "title": "Serena Williams' run at Queen's over as partner Victoria Mboko withdraws",
       "link": "https://www.bbc.com/sport/tennis/articles/c0lyg82kl31o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 10:24:22 GMT",
+      "published": "Thu, 11 Jun 2026 10:48:35 GMT",
       "description": "Serena Williams' doubles campaign at Queen's is curtailed as her playing partner Victoria Mboko withdraws with a left knee injury.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "VinFast tawarkan skema sewa EV mulai Rp300 ribuan per hari",
-      "link": "https://otomotif.antaranews.com/berita/5604197/vinfast-tawarkan-skema-sewa-ev-mulai-rp300-ribuan-per-hari",
-      "published": "Thu, 11 Jun 2026 17:27:52 +0700",
-      "description": "VinFast menghadirkan program sewa kendaraan listrik VinFast Green melalui diler resmi di Indonesia sebagai upaya ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Piala Dunia yang lebih adil dengan sentuhan kecerdasan buatan",
-      "link": "https://www.antaranews.com/berita/5604193/piala-dunia-yang-lebih-adil-dengan-sentuhan-kecerdasan-buatan",
-      "published": "Thu, 11 Jun 2026 17:26:16 +0700",
-      "description": "Piala Dunia 2026 di Meksiko, Kanada, dan Amerika Serikat segera bergulir. Dari Stadion Azteca di Mexico City, peluit ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "China kembali desak Iran dan AS hentikan pertempuran",
-      "link": "https://www.antaranews.com/berita/5604189/china-kembali-desak-iran-dan-as-hentikan-pertempuran",
-      "published": "Thu, 11 Jun 2026 17:26:06 +0700",
-      "description": "China kembali menyerukan Amerika Serikat dan Iran menghentikan pertempuran dan kembali berdialog.\n\nJuru Bicara ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kasus korupsi MBG, Kejagung tetapkan tersangka keempat",
-      "link": "https://www.antaranews.com/berita/5604188/kasus-korupsi-mbg-kejagung-tetapkan-tersangka-keempat",
-      "published": "Thu, 11 Jun 2026 17:25:47 +0700",
-      "description": "Kejaksaan Agung menetapkan tersangka keempat dalam kasus dugaan tindak pidana korupsi tata kelola program Makan Bergizi ...",
+      "error": "no element found: line 665, column 77",
       "source": "Antara News",
       "category": "Indonesia"
     }
