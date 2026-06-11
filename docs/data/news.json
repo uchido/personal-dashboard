@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T07:28:03+0000",
+  "timestamp": "2026-06-11T07:58:11+0000",
   "articles": [
     {
       "title": "US and Iran exchange strikes across Middle East for second day in a row",
@@ -10,7 +10,7 @@
       "category": "Global"
     },
     {
-      "title": "Who is your nearest World Cup hero?",
+      "title": "Who is your local World Cup hero? Use our lookup tool to find out",
       "link": "https://www.bbc.com/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 10 Jun 2026 23:13:43 GMT",
       "description": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
@@ -20,7 +20,7 @@
     {
       "title": "Met Police calls on tech firms to make stolen phones unusable",
       "link": "https://www.bbc.com/news/articles/ckg4dey905yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 05:44:16 GMT",
+      "published": "Thu, 11 Jun 2026 07:32:31 GMT",
       "description": "Sir Mark Rowley has asked the home secretary to introduce legislation forcing companies to publish data on stolen devices.",
       "source": "BBC News",
       "category": "Global"
@@ -32,6 +32,38 @@
       "description": "The pop star discusses the difficulty of writing happy songs, and her Glastonbury anxiety attack.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "BBMKG : masyarakat waspadai potensi rob di Bali akibat Super New Moon",
+      "link": "https://www.antaranews.com/berita/5603824/bbmkg-masyarakat-waspadai-potensi-rob-di-bali-akibat-super-new-moon",
+      "published": "Thu, 11 Jun 2026 14:57:45 +0700",
+      "description": "Balai Besar Meteorologi Klimatologi dan Geofisika (BBMKG) Wilayah III Denpasar meminta masyarakat mewaspadai potensi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Yogyakarta angkat potensi wisata sungai melalui Winongo Art Festival",
+      "link": "https://www.antaranews.com/berita/5603821/yogyakarta-angkat-potensi-wisata-sungai-melalui-winongo-art-festival",
+      "published": "Thu, 11 Jun 2026 14:55:53 +0700",
+      "description": "&lrm;Pemerintah Kota Yogyakarta melalui Kemantren (kecamatan) Ngampilan berupaya mengangkat potensi pariwisata berbasis ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Iran tegaskan tak akan bernegosiasi di bawah tekanan AS",
+      "link": "https://www.antaranews.com/berita/5603819/iran-tegaskan-tak-akan-bernegosiasi-di-bawah-tekanan-as",
+      "published": "Thu, 11 Jun 2026 14:54:33 +0700",
+      "description": "Iran tidak pernah bernegosiasi di bawah ancaman atau tekanan dan tidak akan pernah tunduk pada hal tersebut, kata ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KAI Luncurkan Rel Ekonomi Rakyat Melalui KA Cikuray di Garut",
+      "link": "https://www.antaranews.com/berita/5603816/kai-luncurkan-rel-ekonomi-rakyat-melalui-ka-cikuray-di-garut",
+      "published": "Thu, 11 Jun 2026 14:54:26 +0700",
+      "description": "PT Kereta Api Indonesia (Persero) bersama Direktorat Jenderal Perkeretaapian Kementerian Perhubungan dan Pemerintah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
