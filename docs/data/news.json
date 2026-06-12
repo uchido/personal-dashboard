@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-12T14:07:16+0000",
+  "timestamp": "2026-06-12T14:37:24+0000",
   "articles": [
     {
       "title": "Celebrated British artist David Hockney dies aged 88",
@@ -12,7 +12,7 @@
     {
       "title": "Ministers want 60% of children walking or cycling to school by 2035",
       "link": "https://www.bbc.com/news/articles/c3wyezwly69o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 12 Jun 2026 11:21:47 GMT",
+      "published": "Fri, 12 Jun 2026 14:24:08 GMT",
       "description": "Thousands of safer paths and crossings are promised to help people become more active in England's towns and cities.",
       "source": "BBC News",
       "category": "Global"
@@ -28,13 +28,40 @@
     {
       "title": "Donaldson denies meeting sex abuse accuser to 'nip in the bud' allegations",
       "link": "https://www.bbc.com/news/articles/cwyex8lk70jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 12 Jun 2026 11:47:58 GMT",
+      "published": "Fri, 12 Jun 2026 14:14:13 GMT",
       "description": "Sir Jeffrey Donaldson, the former Democratic Unionist Party (DUP) leader, is on trial for 18 sex abuse charges, including one count of rape, all of which he denies.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "no element found: line 660, column 120",
+      "title": "Kepala Bapanas kawal stabilitas harga ayam broiler tingkat peternak",
+      "link": "https://www.antaranews.com/berita/5606207/kepala-bapanas-kawal-stabilitas-harga-ayam-broiler-tingkat-peternak",
+      "published": "Fri, 12 Jun 2026 21:33:51 +0700",
+      "description": "Kepala Badan Pangan Nasional (Bapanas) sekaligus Menteri Pertanian Andi Amran Sulaiman mengawal stabilitas harga ayam ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemenpora harap MCGJWC lahirkan pegolf Indonesia yang mendunia",
+      "link": "https://www.antaranews.com/berita/5606205/kemenpora-harap-mcgjwc-lahirkan-pegolf-indonesia-yang-mendunia",
+      "published": "Fri, 12 Jun 2026 21:29:59 +0700",
+      "description": "Kementerian Pemuda dan Olahraga (Kemenpora) berharap Mandiri Ciputra Golfpreneur Junior World Championship (MCGJWC) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Mortalitas tinggi, pemerintah perketat syarat kesehatan haji 2027",
+      "link": "https://www.antaranews.com/video/5606159/mortalitas-tinggi-pemerintah-perketat-syarat-kesehatan-haji-2027",
+      "published": "Fri, 12 Jun 2026 21:28:52 +0700",
+      "description": "ANTARA -&nbsp;&lrm;Kementerian Haji dan Umrah mulai menyusun sejumlah perubahan untuk penyelenggaraan ibadah haji tahun ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kuburan paus berusia 5,3 juta tahun ditemukan di Samudra Hindia",
+      "link": "https://www.antaranews.com/video/5605852/kuburan-paus-berusia-53-juta-tahun-ditemukan-di-samudra-hindia",
+      "published": "Fri, 12 Jun 2026 21:28:28 +0700",
+      "description": "ANTARA - Para ilmuwan menemukan kumpulan sisa-sisa paus terbesar dan terdalam di dunia yang berada di dasar ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
