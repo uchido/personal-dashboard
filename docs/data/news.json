@@ -1,19 +1,11 @@
 {
-  "timestamp": "2026-06-12T13:06:58+0000",
+  "timestamp": "2026-06-12T13:37:05+0000",
   "articles": [
     {
       "title": "Celebrated British artist David Hockney dies aged 88",
       "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 12 Jun 2026 12:44:16 GMT",
       "description": "Hockney, one of the UK's most important and influential artists, has died at the age of 88.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Art's great innovator whose vivid paintings made him a household name",
-      "link": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 12 Jun 2026 09:52:22 GMT",
-      "description": "The proud Yorkshireman, who also painted iconic pictures of America, was routinely described as Britain's greatest artist.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "DPRD Jatim dan Legislatif St. Petersburg Rusia jajaki kerja sama",
-      "link": "https://www.antaranews.com/berita/5606027/dprd-jatim-dan-legislatif-st-petersburg-rusia-jajaki-kerja-sama",
-      "published": "Fri, 12 Jun 2026 20:05:58 +0700",
-      "description": "Dewan Perwakilan Rakyat Daerah (DPRD) Jawa Timur menerima kunjungan delegasi Legislatif Kota St. Petersburg, Rusia, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "Donaldson denies meeting sex abuse accuser to 'nip in the bud' allegations",
+      "link": "https://www.bbc.com/news/articles/cwyex8lk70jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 12 Jun 2026 11:47:58 GMT",
+      "description": "Sir Jeffrey Donaldson, the former Democratic Unionist Party (DUP) leader, is on trial for 18 sex abuse charges, including one count of rape, all of which he denies.",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "BPJS Kesehatan Ternate sediakan akses air bersih bagi warga Dehegila",
-      "link": "https://www.antaranews.com/berita/5606025/bpjs-kesehatan-ternate-sediakan-akses-air-bersih-bagi-warga-dehegila",
-      "published": "Fri, 12 Jun 2026 20:02:47 +0700",
-      "description": "Badan Penyelenggara Jaminan Sosial (BPJS) Kesehatan Cabang Ternate, Provinsi Maluku Utara menyiapkan akses air bersih ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pesawat AS angkut logistik ke Jenewa jelang kesepakatan dengan Iran",
-      "link": "https://www.antaranews.com/berita/5606023/pesawat-as-angkut-logistik-ke-jenewa-jelang-kesepakatan-dengan-iran",
-      "published": "Fri, 12 Jun 2026 19:59:03 +0700",
-      "description": "Empat pesawat C-17 milik Angkatan Udara Amerika Serikat dilaporkan sedang memindahkan peralatan ke Jenewa menjelang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dishub terjunkan Bus Trans Cilegon untuk antar jemput atlet Popda XII",
-      "link": "https://www.antaranews.com/video/5606007/dishub-terjunkan-bus-trans-cilegon-untuk-antar-jemput-atlet-popda-xii",
-      "published": "Fri, 12 Jun 2026 19:57:39 +0700",
-      "description": "ANTARA - Dinas Perhubungan Kota Cilegon menyiagakan dua unit Bus Trans Cilegon untuk melayani penjemputan atlet peserta ...",
+      "error": "no element found: line 658, column 262",
       "source": "Antara News",
       "category": "Indonesia"
     }
