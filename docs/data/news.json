@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-13T19:15:30+0000",
+  "timestamp": "2026-06-13T19:45:43+0000",
   "articles": [
     {
-      "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
       "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 13 Jun 2026 18:39:26 GMT",
-      "description": "Before the US president's comments, Iran expressed caution about the exact timing.",
+      "description": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Resident doctors cancel strike after new offer from government",
+      "link": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 13 Jun 2026 19:36:47 GMT",
+      "description": "The walkout had been due to start at 07:00 BST on Monday and last all week.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,12 @@
       "category": "Global"
     },
     {
-      "title": "Thousands gather for anti-racism rally in Belfast after disorder",
-      "link": "https://www.bbc.com/news/articles/c20ygdde4djo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 19:13:20 GMT",
-      "description": "Protesters gathered at Belfast City Hall for a demonstration against racism, after the past week of violence and disorder.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Gub DKI: JAKIM motor penggerak baru sektor pariwisata Jakarta",
+      "link": "https://www.antaranews.com/berita/5607304/gub-dki-jakim-motor-penggerak-baru-sektor-pariwisata-jakarta",
+      "published": "Sun, 14 Jun 2026 02:44:43 +0700",
+      "description": "Gubernur DKI Jakarta, Pramono Anung menilai bahwa penyelenggaraan BTN Jakarta International Marathon (JAKIM) 2026 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Gunakan puluhan kapal, aktivis protes KTT G7 di Danau Jenewa",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5607295/perbanas-wakili-indonesia-ke-aubl-2027-usai-juara-campus-league",
       "published": "Sun, 14 Jun 2026 01:01:51 +0700",
       "description": "Tim putra Institut Perbanas Jakarta berhak mewakili perguruan tinggi Indonesia pada Asia University Basketball League ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Jaya Raya juara umum turnamen spesialis ganda Candra Wijaya",
-      "link": "https://www.antaranews.com/berita/5607292/jaya-raya-juara-umum-turnamen-spesialis-ganda-candra-wijaya",
-      "published": "Sun, 14 Jun 2026 00:59:48 +0700",
-      "description": "Klub Jaya Raya Jakarta keluar sebagai juara umum Yonex-Sunrise Doubles Special Championships 2026 Presented by Candra ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
