@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-14T11:51:06+0000",
+  "timestamp": "2026-06-14T12:21:12+0000",
   "articles": [
     {
       "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
       "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 10:19:40 GMT",
+      "published": "Sun, 14 Jun 2026 12:19:24 GMT",
       "description": "Marines were joined by National Crime Agency officers in the six-hour long operation in the early hours of Sunday.",
       "source": "BBC News",
       "category": "Global"
@@ -32,6 +32,11 @@
       "description": "The prime minister is expected to announce measures on protecting teenagers online on Monday.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "no element found: line 657, column 115",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
