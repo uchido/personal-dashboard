@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-15T07:57:01+0000",
+  "timestamp": "2026-06-15T08:27:08+0000",
   "articles": [
     {
       "title": "When will social media ban start and what platforms are included?",
       "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 07:47:07 GMT",
+      "published": "Mon, 15 Jun 2026 08:15:38 GMT",
       "description": "The measures will see apps including TikTok and Snapchat blocked for UK teens early in 2027.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Pemkot Bandung gelar bursa kerja sediakan 2.361 lowongan kerja",
-      "link": "https://www.antaranews.com/berita/5608728/pemkot-bandung-gelar-bursa-kerja-sediakan-2361-lowongan-kerja",
-      "published": "Mon, 15 Jun 2026 14:55:31 +0700",
-      "description": "Pemerintah Kota (Pemkot) Bandung menggelar bursa kerja (job fair) dengan menyediakan 2.361 lowongan kerja yang diikuti ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kapolda Metro minta personel amankan peserta aksi bawa alat berbahaya",
-      "link": "https://www.antaranews.com/berita/5608724/kapolda-metro-minta-personel-amankan-peserta-aksi-bawa-alat-berbahaya",
-      "published": "Mon, 15 Jun 2026 14:54:24 +0700",
-      "description": "Kapolda Metro Jaya Komjen Pol. Asep Edi Suheri memerintahkan seluruh jajarannya untuk bergerak cepat mengamankan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemendikdasmen gandeng swasta gelar ekshibisi kecerdasan artifisial",
-      "link": "https://www.antaranews.com/berita/5608723/kemendikdasmen-gandeng-swasta-gelar-ekshibisi-kecerdasan-artifisial",
-      "published": "Mon, 15 Jun 2026 14:50:48 +0700",
-      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) menggandeng Merkle Innovation&nbsp;menggelar Lomba ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "RI dan Jerman sepakat tingkatkan volume perdagangan dan investasi",
-      "link": "https://www.antaranews.com/berita/5608721/ri-dan-jerman-sepakat-tingkatkan-volume-perdagangan-dan-investasi",
-      "published": "Mon, 15 Jun 2026 14:50:42 +0700",
-      "description": "Presiden RI Prabowo Subianto dan Presiden Republik Federal Jerman Frank-Walter Steinmeier membahas penguatan kemitraan ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
