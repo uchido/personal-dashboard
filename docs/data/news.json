@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-15T12:58:07+0000",
+  "timestamp": "2026-06-15T13:28:13+0000",
   "articles": [
     {
       "title": "How will social media ban work and when does it start?",
@@ -10,7 +10,7 @@
       "category": "Global"
     },
     {
-      "title": "The US and Iran have agreed a deal. How soon could the economy go back to normal?",
+      "title": "How soon could the economy go back to normal after a US-Iran deal?",
       "link": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 15 Jun 2026 12:33:56 GMT",
       "description": "Experts warn the impact of the war will continue to affect the global economy for months to come.",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 662, column 6",
+      "title": "Presiden Jerman dukung ratifikasi IEU-CEPA untuk perkuat perdagangan",
+      "link": "https://www.antaranews.com/berita/5609401/presiden-jerman-dukung-ratifikasi-ieu-cepa-untuk-perkuat-perdagangan",
+      "published": "Mon, 15 Jun 2026 20:26:15 +0700",
+      "description": "Presiden Federal Jerman Frank-Walter Steinmeier menyatakan dukungannya untuk mempercepat proses ratifikasi Perjanjian ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Palangka Raya gandeng perusahaan penjamin kredit guna mitigasi risiko",
+      "link": "https://www.antaranews.com/video/5609331/palangka-raya-gandeng-perusahaan-penjamin-kredit-guna-mitigasi-risiko",
+      "published": "Mon, 15 Jun 2026 20:25:23 +0700",
+      "description": "ANTARA - Pemerintah Kota Palangka Raya, Kalimantan Tengah menggandeng perusahaan penjamin kredit milik negara yakni ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menteri Arifah dorong proses hukum tegas guru P3K cabuli tiga siswi SD",
+      "link": "https://www.antaranews.com/berita/5609396/menteri-arifah-dorong-proses-hukum-tegas-guru-p3k-cabuli-tiga-siswi-sd",
+      "published": "Mon, 15 Jun 2026 20:24:58 +0700",
+      "description": "Menteri Pemberdayaan Perempuan dan Perlindungan Anak Arifah Fauzi mendorong proses hukum tegas dan berkeadilan terhadap ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Populasi bekantan di Gunung Kentawan naik jadi 102 ekor",
+      "link": "https://www.antaranews.com/berita/5609395/populasi-bekantan-di-gunung-kentawan-naik-jadi-102-ekor",
+      "published": "Mon, 15 Jun 2026 20:21:28 +0700",
+      "description": "Balai Konservasi Sumber Daya Alam (BKSDA) Kalimantan Selatan mencatat populasi bekantan di Cagar Alam Gunung Kentawan, ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
