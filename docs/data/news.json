@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-16T05:32:57+0000",
+  "timestamp": "2026-06-16T06:03:08+0000",
   "articles": [
     {
       "title": "Trump may release US-Iran deal before Friday, Vance says",
@@ -12,7 +12,7 @@
     {
       "title": "Thames Water closer to nationalisation after government objects to rescue deal",
       "link": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 00:08:54 GMT",
+      "published": "Tue, 16 Jun 2026 05:55:28 GMT",
       "description": "A government spokesman tells the BBC that the current offer \"does not do enough to protect consumers or the environment\".",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Bupati Temanggung sebut ada pergeseran konsumsi Pertamax ke Pertalite",
-      "link": "https://www.antaranews.com/berita/5610061/bupati-temanggung-sebut-ada-pergeseran-konsumsi-pertamax-ke-pertalite",
-      "published": "Tue, 16 Jun 2026 12:31:44 +0700",
-      "description": "Bupati Temanggung Agus Setyawan&nbsp;menyebutkan ada tren pergeseran penggunaan bahan bakar minyak (BBM) terutama pada ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BMKG pastikan tidak ada potensi tsunami pasca-gempa Palu magnitudo 6,7",
-      "link": "https://www.antaranews.com/berita/5610057/bmkg-pastikan-tidak-ada-potensi-tsunami-pasca-gempa-palu-magnitudo-67",
-      "published": "Tue, 16 Jun 2026 12:27:40 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memastikan tidak ada potensi tsunami pasca-gempa bumi tektonik ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Makna di balik kompetisi olahraga bagi para penggerak ekonomi rakyat",
-      "link": "https://www.antaranews.com/berita/5610055/makna-di-balik-kompetisi-olahraga-bagi-para-penggerak-ekonomi-rakyat",
-      "published": "Tue, 16 Jun 2026 12:25:33 +0700",
-      "description": "Upaya banyak negara untuk berlomba menjadi tuan rumah pertandingan olahraga sepertinya tidak melulu mengejar gengsi, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Semeru tujuh kali erupsi dengan tinggi letusan hingga 1.000 meter",
-      "link": "https://www.antaranews.com/berita/5610053/semeru-tujuh-kali-erupsi-dengan-tinggi-letusan-hingga-1000-meter",
-      "published": "Tue, 16 Jun 2026 12:20:38 +0700",
-      "description": "Gunung Semeru yang berada di perbatasan Kabupaten Lumajang dan Malang, Jawa Timur, mengalami erupsi sebanyak tujuh kali ...",
+      "error": "unclosed token: line 658, column 8",
       "source": "Antara News",
       "category": "Indonesia"
     }
