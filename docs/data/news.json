@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-16T06:03:08+0000",
+  "timestamp": "2026-06-16T06:33:22+0000",
   "articles": [
     {
       "title": "Trump may release US-Iran deal before Friday, Vance says",
       "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 03:54:12 GMT",
+      "published": "Tue, 16 Jun 2026 06:16:09 GMT",
       "description": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
       "source": "BBC News",
       "category": "Global"
@@ -12,8 +12,8 @@
     {
       "title": "Thames Water closer to nationalisation after government objects to rescue deal",
       "link": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 05:55:28 GMT",
-      "description": "A government spokesman tells the BBC that the current offer \"does not do enough to protect consumers or the environment\".",
+      "published": "Tue, 16 Jun 2026 06:26:11 GMT",
+      "description": "A government spokesman tells the BBC the current offer \"does not do enough to protect consumers or the environment\".",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 658, column 8",
+      "title": "Gubernur Sulteng instruksikan tindakan darurat setelah gempa di Palu",
+      "link": "https://www.antaranews.com/berita/5610120/gubernur-sulteng-instruksikan-tindakan-darurat-setelah-gempa-di-palu",
+      "published": "Tue, 16 Jun 2026 13:30:26 +0700",
+      "description": "Gubernur Sulawesi Tengah Anwar&nbsp;Hafid&nbsp;menginstruksikan jajaran untuk melaksanakan tindakan darurat setelah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BPBD Sulteng: Sejumlah bangunan rusak akibat gempa magnitudo 6,7",
+      "link": "https://www.antaranews.com/berita/5610116/bpbd-sulteng-sejumlah-bangunan-rusak-akibat-gempa-magnitudo-67",
+      "published": "Tue, 16 Jun 2026 13:28:08 +0700",
+      "description": "Badan Penanggulangan Bencana Daerah (BPBD) Sulawesi Tengah melaporkan sejumlah bangunan dan infrastruktur di beberapa ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Palangka Raya tingkatkan kerja sama pembiayaan dengan Jamkrindo",
+      "link": "https://www.antaranews.com/berita/5610113/palangka-raya-tingkatkan-kerja-sama-pembiayaan-dengan-jamkrindo",
+      "published": "Tue, 16 Jun 2026 13:28:01 +0700",
+      "description": "Pemerintah Kota Palangka Raya, Kalimantan Tengah (Kalteng) dan PT Jaminan Kredit Indonesia (Jamkrindo) Cabang Palangka ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Wakil Ketua MPR: Pelestarian lengger perkuat karakter generasi penerus",
+      "link": "https://www.antaranews.com/berita/5610109/wakil-ketua-mpr-pelestarian-lengger-perkuat-karakter-generasi-penerus",
+      "published": "Tue, 16 Jun 2026 13:25:45 +0700",
+      "description": "Wakil Ketua MPR RI Lestari Moerdijat mengatakan pelestarian lengger Banyumas tidak saja upaya menjaga warisan budaya, ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
