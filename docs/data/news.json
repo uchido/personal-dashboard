@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-16T01:01:37+0000",
+  "timestamp": "2026-06-16T01:31:46+0000",
   "articles": [
     {
       "title": "Russia was behind arson attacks targeting PM, BBC reveals",
       "link": "https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 15 Jun 2026 13:10:58 GMT",
       "description": "Evidence shows Russians directing the plot and stoking tensions with fake far-right and Muslim groups.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 00:03:56 GMT",
+      "description": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
-      "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 00:03:56 GMT",
-      "description": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Terpopuler, masuk Ragunan gratis hingga BGN audit total dapur MBG",
-      "link": "https://www.antaranews.com/berita/5609847/terpopuler-masuk-ragunan-gratis-hingga-bgn-audit-total-dapur-mbg",
-      "published": "Tue, 16 Jun 2026 07:59:33 +0700",
-      "description": "Sejumlah berita unggulan Selasa untuk disimak, Ragunan gratiskan tiket masuk sambut HUT Jakarta hingga BGN audit total ...",
+      "title": "KPK minta data terkait tiga korporasi saat periksa Direktur ESDM",
+      "link": "https://www.antaranews.com/berita/5609871/kpk-minta-data-terkait-tiga-korporasi-saat-periksa-direktur-esdm",
+      "published": "Tue, 16 Jun 2026 08:22:29 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) meminta data terkait tiga tersangka korporasi saat memeriksa Direktur Pembinaan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Susunan pemain Iran vs Selandia Baru, Mehdi dan Wood jadi ujung tombak",
-      "link": "https://www.antaranews.com/berita/5609844/susunan-pemain-iran-vs-selandia-baru-mehdi-dan-wood-jadi-ujung-tombak",
-      "published": "Tue, 16 Jun 2026 07:58:26 +0700",
-      "description": "Iran dan Selandia Baru menurunkan penyerang andalan masing-masing Mehdi Taremi dan Chris Wood menjadi ujung tombak pada ...",
+      "title": "Hoaks! Juru bicara Kementerian ESDM minta masyarakat pakai Solar karena Pertamax naik",
+      "link": "https://www.antaranews.com/berita/5609867/hoaks-juru-bicara-kementerian-esdm-minta-masyarakat-pakai-solar-karena-pertamax-naik",
+      "published": "Tue, 16 Jun 2026 08:18:31 +0700",
+      "description": "Jakarta (ANTARA/JACX) &ndash; Sebuah unggahan di media sosial&nbsp;X&nbsp;menampilkan tangkapan layar yang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Marcus Mumford ungkap salad kembang kol favorit Taylor Swift",
-      "link": "https://www.antaranews.com/berita/5609843/marcus-mumford-ungkap-salad-kembang-kol-favorit-taylor-swift",
-      "published": "Tue, 16 Jun 2026 07:52:11 +0700",
-      "description": "Penyanyi sekaligus penulis lagu Marcus Mumford membagikan resep salad kembang kol yang disebut menjadi salah satu ...",
+      "title": "Hoaks! Artikel Dadan Hindayana sebut Jokowi terima suap MBG Rp2 triliun",
+      "link": "https://www.antaranews.com/berita/5609864/hoaks-artikel-dadan-hindayana-sebut-jokowi-terima-suap-mbg-rp2-triliun",
+      "published": "Tue, 16 Jun 2026 08:17:28 +0700",
+      "description": "Jakarta (ANTARA/JACX) &ndash; Sebuah unggahan di media sosial&nbsp;X&nbsp;menarasikan bahwa mantan Kepala Badan Gizi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kesepakatan damai AS-Iran buka jalan menuju stabilitas regional",
-      "link": "https://www.antaranews.com/berita/5609840/kesepakatan-damai-as-iran-buka-jalan-menuju-stabilitas-regional",
-      "published": "Tue, 16 Jun 2026 07:42:13 +0700",
-      "description": "Terobosan kesepakatan damai AS-Iran membuka jalan menuju stabilitas regional berkelanjutan.&nbsp;Kesepakatan yang ...",
+      "title": "Disdik Batam buka posko SPMB layani keluhan orang tua murid",
+      "link": "https://www.antaranews.com/video/5609639/disdik-batam-buka-posko-spmb-layani-keluhan-orang-tua-murid",
+      "published": "Tue, 16 Jun 2026 08:16:24 +0700",
+      "description": "ANTARA - Dinas Pendidikan (Diskdik) Kota Batam, Kepulauan Riau (Kepri) membuka posko Sistem Penerimaan Murid Baru ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
