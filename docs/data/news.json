@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-06-18T15:50:16+0000",
+  "timestamp": "2026-06-18T16:20:25+0000",
   "articles": [
+    {
+      "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
+      "link": "https://www.bbc.com/news/articles/czx50n2vj74o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 16:14:52 GMT",
+      "description": "A three-year-old boy was taken to Addenbrooke's Hospital with critical injuries and is in a stable condition, Cambridgeshire Police said.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+      "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 15:53:55 GMT",
+      "description": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Teacher who murdered adopted baby son Preston Davey given whole life prison sentence",
       "link": "https://www.bbc.com/news/articles/czrx8gj112mo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 18 Jun 2026 14:12:37 GMT",
       "description": "Preston Davey died after months of sexual and physical abuse at the hands of Jamie Varley.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Weapons, money and ships: How is this Iran deal different from others?",
-      "link": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 14:16:42 GMT",
-      "description": "BBC Verify examines how the new deal between the US and Iran affects three key areas.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "'Do not travel' advice for Dubai dropped",
-      "link": "https://www.bbc.com/news/articles/cddl29lg5gro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 15:36:42 GMT",
-      "description": "Thousands of Brits were left stranded in the Middle East when the US-Iran war broke out in early 2026.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "BTN dan Rumah123 sinergikan layanan pencarian rumah hingga KPR",
+      "link": "https://www.antaranews.com/berita/5613928/btn-dan-rumah123-sinergikan-layanan-pencarian-rumah-hingga-kpr",
+      "published": "Thu, 18 Jun 2026 23:18:33 +0700",
+      "description": "PT Bank Tabungan Negara (Persero) Tbk (BTN) dan PT Web Marketing Indonesia (Rumah123) berkolaborasi mengembangkan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menpora sebut MotoGP Mandalika bawa dampak penguatan sport tourism",
+      "link": "https://www.antaranews.com/video/5613919/menpora-sebut-motogp-mandalika-bawa-dampak-penguatan-sport-tourism",
+      "published": "Thu, 18 Jun 2026 23:16:55 +0700",
+      "description": "ANTARA -&nbsp;Pemerintah terus berupaya mengoptimalkan potensi ekonomi baru melalui ajang MotoGP Mandalika. Menteri ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Polrestabes Semarang tangani kasus pelecehan verbal di kampus Unnes",
+      "link": "https://www.antaranews.com/video/5613831/polrestabes-semarang-tangani-kasus-pelecehan-verbal-di-kampus-unnes",
+      "published": "Thu, 18 Jun 2026 23:12:54 +0700",
+      "description": "ANTARA -&nbsp;Polrestabes Semarang menangani kasus dugaan pelecehan seksual secara verbal yang dilakukan di lingkungan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kejagung ungkap keterkaitan pihak swasta dengan Dadan di kasus MBG",
+      "link": "https://www.antaranews.com/berita/5613924/kejagung-ungkap-keterkaitan-pihak-swasta-dengan-dadan-di-kasus-mbg",
+      "published": "Thu, 18 Jun 2026 23:09:53 +0700",
+      "description": "Kejaksaan Agung (Kejagung) mengungkapkan keterkaitan mantan Kepala Badan Gizi Nasional (BGN) Dadan Hindayana (DH) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
