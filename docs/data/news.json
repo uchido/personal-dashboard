@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-18T03:15:34+0000",
+  "timestamp": "2026-06-18T03:45:43+0000",
   "articles": [
     {
       "title": "Trump and Iran's president sign initial deal aiming to end war",
       "link": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 18 Jun 2026 03:03:29 GMT",
       "description": "Iran's nuclear programme, the main reason stated by the US for the conflict, is still to be negotiated.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "What's in the US-Iran agreement?",
+      "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 01:28:02 GMT",
+      "description": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Interest rates expected to be held by Bank of England",
-      "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 23:01:11 GMT",
-      "description": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
+      "title": "Simpler, older version of Stonehenge found three miles from famous site",
+      "link": "https://www.bbc.com/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 23:11:29 GMT",
+      "description": "The structure consisted of two posts that lined up with the solstices 5,000 years ago.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "ChatGPT can be made to generate sexualised and violent images, researchers find",
-      "link": "https://www.bbc.com/news/articles/c802ldjdklzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 23:07:40 GMT",
-      "description": "But researchers say its still possible to trick the AI chatbot into producing graphic content.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Sudin LH Jaksel: Buang sampah sembarangan bisa kena denda Rp500 ribu",
-      "link": "https://www.antaranews.com/berita/5612411/sudin-lh-jaksel-buang-sampah-sembarangan-bisa-kena-denda-rp500-ribu",
-      "published": "Thu, 18 Jun 2026 10:13:32 +0700",
-      "description": "Suku Dinas Lingkungan Hidup (Sudin&nbsp;LH) Jakarta Selatan (Jaksel) menegaskan siapa saja yang membuang sampah ...",
+      "title": "Trump ancam serang lagi Iran jika kesepakatan damai tak dipatuhi",
+      "link": "https://www.antaranews.com/berita/5612467/trump-ancam-serang-lagi-iran-jika-kesepakatan-damai-tak-dipatuhi",
+      "published": "Thu, 18 Jun 2026 10:44:11 +0700",
+      "description": "Presiden Amerika Serikat Donald Trump mengatakan pihaknya akan kembali menyerang Iran jika Teheran tidak sepenuhnya ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "KPK dalami pemberian uang dari PT CMC untuk Fikri Thobari",
-      "link": "https://www.antaranews.com/berita/5612408/kpk-dalami-pemberian-uang-dari-pt-cmc-untuk-fikri-thobari",
-      "published": "Thu, 18 Jun 2026 10:07:44 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) mendalami pemberian uang dari PT Cahaya Mas Cemerlang (CMC) untuk Bupati Rejang ...",
+      "title": "Ravianto masuk semifinal boulder dalam World Climbing Series Innsbruck",
+      "link": "https://www.antaranews.com/berita/5612464/ravianto-masuk-semifinal-boulder-dalam-world-climbing-series-innsbruck",
+      "published": "Thu, 18 Jun 2026 10:43:04 +0700",
+      "description": "Atlet panjat tebing Indonesia Ravianto Ramadhan berhasil menembus semifinal disiplin boulder dalam World Climbing ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Sony Sonjaya tiba di Kejagung untuk diperiksa terkait kasus MBG",
-      "link": "https://www.antaranews.com/berita/5612404/sony-sonjaya-tiba-di-kejagung-untuk-diperiksa-terkait-kasus-mbg",
-      "published": "Thu, 18 Jun 2026 10:04:36 +0700",
-      "description": "Mantan Wakil Kepala Badan Gizi Nasional (BGN) Sony Sonjaya tiba di Gedung Jampidsus Kejaksaan Agung (Kejagung), ...",
+      "title": "Pertamina Patra Niaga tegaskan harga BBM nonsubsidi ikuti harga pasar",
+      "link": "https://www.antaranews.com/berita/5612461/pertamina-patra-niaga-tegaskan-harga-bbm-nonsubsidi-ikuti-harga-pasar",
+      "published": "Thu, 18 Jun 2026 10:42:03 +0700",
+      "description": "Pertamina Patra Niaga menegaskan harga bahan bakar minyak (BBM) nonsubsidi seperti Pertamax series mengacu pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemerintah manfaatkan aset eks Hotel Sultan untuk kesejahteraan rakyat",
-      "link": "https://www.antaranews.com/berita/5612400/pemerintah-manfaatkan-aset-eks-hotel-sultan-untuk-kesejahteraan-rakyat",
-      "published": "Thu, 18 Jun 2026 09:58:34 +0700",
-      "description": "Wakil Menteri Sekretaris Negara (Wamensesneg) Bambang Eko Suhariyanto menyatakan pemerintah menyiapkan pemanfaatan aset ...",
+      "title": "UMY kembangkan teknologi maggot BSF kelolaan sampah organik di kampus",
+      "link": "https://www.antaranews.com/berita/5612460/umy-kembangkan-teknologi-maggot-bsf-kelolaan-sampah-organik-di-kampus",
+      "published": "Thu, 18 Jun 2026 10:40:26 +0700",
+      "description": "Universitas Muhammadiyah Yogyakarta (UMY) pengembangan inovasi pengolahan sampah organik terpadu dengan pemanfaatan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
