@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-18T23:22:19+0000",
+  "timestamp": "2026-06-18T23:52:28+0000",
   "articles": [
     {
       "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Pelatih Swiss puji dampak pemain pengganti saat gilas Bosnia 4-1",
-      "link": "https://www.antaranews.com/berita/5614085/pelatih-swiss-puji-dampak-pemain-pengganti-saat-gilas-bosnia-4-1",
-      "published": "Fri, 19 Jun 2026 06:17:32 +0700",
-      "description": "Pelatih timnas Swiss&nbsp;Murat Yakin memuji dampak yang diberikan pemain pengganti saat timnya menggilas Bosnia dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Inul Daratista sebut transformasi dangdut buat musik semakin inklusif",
-      "link": "https://www.antaranews.com/berita/5614081/inul-daratista-sebut-transformasi-dangdut-buat-musik-semakin-inklusif",
-      "published": "Fri, 19 Jun 2026 06:15:40 +0700",
-      "description": "Penyanyi dangdut Inul Daratista mengamati perkembangan positif musik dangdut yang kini semakin inklusif bagi generasi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Karhutla Aceh Barat: antara bencana dan tanggung jawab menjaga alam",
-      "link": "https://www.antaranews.com/berita/5614077/karhutla-aceh-barat-antara-bencana-dan-tanggung-jawab-menjaga-alam",
-      "published": "Fri, 19 Jun 2026 06:03:38 +0700",
-      "description": "Selama lebih dari dua pekan terakhir, sebagian langit Kabupaten Aceh Barat tidak lagi menampilkan warna biru yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menkeu Purbaya yakinkan pendanaan dari AIIB adalah pinjaman normal",
-      "link": "https://www.antaranews.com/berita/5614075/menkeu-purbaya-yakinkan-pendanaan-dari-aiib-adalah-pinjaman-normal",
-      "published": "Fri, 19 Jun 2026 06:01:14 +0700",
-      "description": "Menteri Keuangan Purbaya Yudhi Sadewa menegaskan pendanaan senilai 17 miliar dolar AS dari Asian Infrastructure ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
