@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-19T19:28:31+0000",
+  "timestamp": "2026-06-19T19:58:37+0000",
   "articles": [
     {
       "title": "Video shows scene of Bedford train crash as passenger describes aftermath",
       "link": "https://www.bbc.com/news/videos/c8d21z2q77do?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 19 Jun 2026 19:21:10 GMT",
       "description": "Passenger Pete Knapp said the crash \"felt like [he'd] been in a bomb explosion\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "What we know so far about Bedford train crash",
+      "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 19:48:19 GMT",
+      "description": "Two East Midland Railway trains crashed into each other, with emergency services now on the scene",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,20 +26,28 @@
       "category": "Global"
     },
     {
-      "title": "Henry Zeffman: What does Keir Starmer do next after Andy Burnham's Makerfield win?",
-      "link": "https://www.bbc.com/news/articles/c3ryp0nejdro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 14:34:47 GMT",
-      "description": "Discussion about the prime minister's future ramps up after Makerfield by-election.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
       "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 19 Jun 2026 19:27:12 GMT",
       "description": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "KDM pilih bangun masjid kecil perkampungan demi kembalikan esensinya",
+      "link": "https://www.antaranews.com/berita/5615557/kdm-pilih-bangun-masjid-kecil-perkampungan-demi-kembalikan-esensinya",
+      "published": "Sat, 20 Jun 2026 02:36:13 +0700",
+      "description": "Gubernur Jawa Barat Dedi Mulyadi memprioritaskan pembangunan masjid kecil atau tajug di permukiman warga untuk ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KPK tidak akan duplikasi kasus MBG yang sedang ditangani Kejagung",
+      "link": "https://www.antaranews.com/berita/5615553/kpk-tidak-akan-duplikasi-kasus-mbg-yang-sedang-ditangani-kejagung",
+      "published": "Sat, 20 Jun 2026 02:31:52 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) menyatakan tidak akan menduplikasi atau mengulang penanganan kasus dugaan korupsi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Wuling dan Grab perluas armada EV untuk kejar pertumbuhan",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5615548/hmsi-dukungan-dunia-pendidikan-melalui-penyerahaan-truk-hino-300",
       "published": "Sat, 20 Jun 2026 02:21:42 +0700",
       "description": "PT Hino Motors Sales Indonesia (HMSI) kembali memberikan dukungan nyatanya terhadap dunia pendidikan, melalui ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Susunan pemain Amerika Serikat vs Australia: kedua tim bidik tiga poin",
-      "link": "https://www.antaranews.com/berita/5615544/susunan-pemain-amerika-serikat-vs-australia-kedua-tim-bidik-tiga-poin",
-      "published": "Sat, 20 Jun 2026 02:18:33 +0700",
-      "description": "Timnas Amerika Serikat menghadapi Timnas Australia pada pertandingan Grup D Piala Dunia 2026 di Stadion Lumen Field, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Tips merawat dan mengecek komponen slow moving pada kendaraan",
-      "link": "https://otomotif.antaranews.com/berita/5615541/tips-merawat-dan-mengecek-komponen-slow-moving-pada-kendaraan",
-      "published": "Sat, 20 Jun 2026 02:09:52 +0700",
-      "description": "Banyak pemilik mobil masih mengabaikan penggantian dan perawatan komponen berumur pakai panjang atau slow moving, meski ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
