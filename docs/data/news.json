@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-06-19T04:54:07+0000",
+  "timestamp": "2026-06-19T05:24:17+0000",
   "articles": [
+    {
+      "title": "Chris Mason: Emphatic win leaves Starmer and Labour MPs with big decision",
+      "link": "https://www.bbc.com/news/articles/cqx1eq5e71zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 04:58:52 GMT",
+      "description": "The PM will see the stonking scale of Andy Burnham's victory - will it shift his outlook, his defiance, so frequently recently expressed?",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Burnham says 'this is a final chance to change' in his victory speech",
       "link": "https://www.bbc.com/news/videos/cvg5drz91ego?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 19 Jun 2026 04:35:43 GMT",
       "description": "Labour's Andy Burnham wins the Makerfield by-election, paving the way for him to challenge Keir Starmer as Labour Party leader.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Burnham says his win in Makerfield by-election could be turning point",
-      "link": "https://www.bbc.com/news/articles/c4gy72kmg1mo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 04:04:50 GMT",
-      "description": "The outgoing Greater Manchester mayor held off a challenge from Reform UK, behind by more than 9,000 votes.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 657, column 47",
+      "title": "Pemicu hingga sinyal pertanda migrain bisa kambuh",
+      "link": "https://www.antaranews.com/berita/5614413/pemicu-hingga-sinyal-pertanda-migrain-bisa-kambuh",
+      "published": "Fri, 19 Jun 2026 12:23:20 +0700",
+      "description": "Dokter spesialis saraf subspesialis neurokritikal dan intensif dari Rumah Sakit Universitas Indonesia (RSUI) dr. ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "AS harap pembicaraan teknis dengan Iran secepat mungkin",
+      "link": "https://www.antaranews.com/berita/5614409/as-harap-pembicaraan-teknis-dengan-iran-secepat-mungkin",
+      "published": "Fri, 19 Jun 2026 12:17:55 +0700",
+      "description": "Amerika Serikat berharap dapat memulai pembicaraan teknis dengan Iran sesegera mungkin meskipun Wakil Presiden AS ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BMKG: Waspada udara dingin saat puncak musim kemarau di Jateng",
+      "link": "https://www.antaranews.com/berita/5614405/bmkg-waspada-udara-dingin-saat-puncak-musim-kemarau-di-jateng",
+      "published": "Fri, 19 Jun 2026 12:17:23 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengimbau masyarakat untuk mewaspadai suhu udara dingin yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemerintah tunggu proses pembahasan RUU Perampasan Aset selesai di DPR",
+      "link": "https://www.antaranews.com/berita/5614401/pemerintah-tunggu-proses-pembahasan-ruu-perampasan-aset-selesai-di-dpr",
+      "published": "Fri, 19 Jun 2026 12:16:41 +0700",
+      "description": "Pemerintah hingga kini masih menunggu proses pembahasan Rancangan Undang-Undang tentang Perampasan Aset selesai di ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
