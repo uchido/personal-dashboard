@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-06-19T04:23:56+0000",
+  "timestamp": "2026-06-19T04:54:07+0000",
   "articles": [
+    {
+      "title": "Burnham says 'this is a final chance to change' in his victory speech",
+      "link": "https://www.bbc.com/news/videos/cvg5drz91ego?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 04:35:43 GMT",
+      "description": "Labour's Andy Burnham wins the Makerfield by-election, paving the way for him to challenge Keir Starmer as Labour Party leader.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Burnham says his win in Makerfield by-election could be turning point",
       "link": "https://www.bbc.com/news/articles/c4gy72kmg1mo?at_medium=RSS&at_campaign=rss",
@@ -18,50 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-      "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 01:34:00 GMT",
-      "description": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
+      "title": "Sir John Curtice: Burnham's win represents remarkable personal success for him",
+      "link": "https://www.bbc.com/news/articles/clyeg121g2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 04:46:48 GMT",
+      "description": "Andy Burnham not only retained the share of the vote Labour won in the seat in 2024 but increased it.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "What Iran and US get from deal and why both could struggle to keep it",
-      "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 20:04:40 GMT",
-      "description": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Gubernur Sumut akhiri retribusi wisata air panas Sidebuk Debuk di Karo",
-      "link": "https://www.antaranews.com/berita/5614357/gubernur-sumut-akhiri-retribusi-wisata-air-panas-sidebuk-debuk-di-karo",
-      "published": "Fri, 19 Jun 2026 11:17:49 +0700",
-      "description": "Pemerintah Provinsi Sumatera Utara meminta Pemerintah Kabupaten Karo untuk menghentikan penarikan berbagai macam ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Gubernur Bobby siap jembatani aspirasi ojol ke anggota DPR asal Sumut",
-      "link": "https://www.antaranews.com/berita/5614353/gubernur-bobby-siap-jembatani-aspirasi-ojol-ke-anggota-dpr-asal-sumut",
-      "published": "Fri, 19 Jun 2026 11:13:58 +0700",
-      "description": "Gubernur Sumatera Utara Bobby Nasution menyatakan pemerintah provinsi siap menjembatani aspirasi pengemudi ojek daring ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Massa dari berbagai daerah datang ke Jakarta dukung kebijakan Prabowo",
-      "link": "https://www.antaranews.com/berita/5614352/massa-dari-berbagai-daerah-datang-ke-jakarta-dukung-kebijakan-prabowo",
-      "published": "Fri, 19 Jun 2026 11:12:24 +0700",
-      "description": "Massa yang terdiri dari petani, nelayan, pedagang, pelaku UMKM, mahasiswa, buruh, pemuda, dan tokoh masyarakat dari ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "JIPS 2026 hadirkan aktivitas interaktif bagi pencinta satwa",
-      "link": "https://www.antaranews.com/berita/5614351/jips-2026-hadirkan-aktivitas-interaktif-bagi-pencinta-satwa",
-      "published": "Fri, 19 Jun 2026 11:10:50 +0700",
-      "description": "Jakarta International Pet Show (JIPS) 2026 akan kembali digelar pada 3-5 Juli 2026 di Nusantara International ...",
+      "error": "no element found: line 657, column 47",
       "source": "Antara News",
       "category": "Indonesia"
     }
