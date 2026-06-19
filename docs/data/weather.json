@@ -1,89 +1,13 @@
 {
-  "timestamp": "2026-06-19T07:25:08+0000",
+  "timestamp": "2026-06-19T07:55:18+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
-      "region": "Central Sulawesi",
-      "country": "Indonesia",
-      "temp_c": "27",
-      "feels_like_c": "32",
-      "humidity": "90",
-      "wind_speed_kmh": "5",
-      "wind_dir": "NW",
-      "visibility_km": "10",
-      "pressure_mb": "1011",
-      "condition": "Light rain shower",
-      "condition_code": "353",
-      "uv_index": "8",
-      "forecast": [
-        {
-          "date": "2026-06-19",
-          "max_temp": "30",
-          "min_temp": "17",
-          "condition": "Light rain shower",
-          "sunrise": "06:00 AM",
-          "sunset": "06:04 PM"
-        },
-        {
-          "date": "2026-06-20",
-          "max_temp": "31",
-          "min_temp": "17",
-          "condition": "Mist",
-          "sunrise": "06:00 AM",
-          "sunset": "06:04 PM"
-        },
-        {
-          "date": "2026-06-21",
-          "max_temp": "30",
-          "min_temp": "17",
-          "condition": "Mist",
-          "sunrise": "06:00 AM",
-          "sunset": "06:04 PM"
-        }
-      ]
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
-      "region": "Daerah Istimewa Yogyakarta",
-      "country": "Indonesia",
-      "temp_c": "30",
-      "feels_like_c": "32",
-      "humidity": "52",
-      "wind_speed_kmh": "14",
-      "wind_dir": "SE",
-      "visibility_km": "10",
-      "pressure_mb": "1010",
-      "condition": "Sunny",
-      "condition_code": "113",
-      "uv_index": "8",
-      "forecast": [
-        {
-          "date": "2026-06-19",
-          "max_temp": "30",
-          "min_temp": "22",
-          "condition": "Clear ",
-          "sunrise": "05:50 AM",
-          "sunset": "05:30 PM"
-        },
-        {
-          "date": "2026-06-20",
-          "max_temp": "30",
-          "min_temp": "22",
-          "condition": "Clear ",
-          "sunrise": "05:50 AM",
-          "sunset": "05:30 PM"
-        },
-        {
-          "date": "2026-06-21",
-          "max_temp": "30",
-          "min_temp": "22",
-          "condition": "Partly Cloudy ",
-          "sunrise": "05:50 AM",
-          "sunset": "05:30 PM"
-        }
-      ]
+      "error": "HTTP Error 500: Internal Server Error"
     }
   ]
 }
