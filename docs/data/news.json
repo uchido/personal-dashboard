@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-20T08:32:07+0000",
+  "timestamp": "2026-06-20T09:02:14+0000",
   "articles": [
     {
       "title": "'People flew from their seats': Passengers describe how collision unfolded",
       "link": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 21:37:18 GMT",
+      "published": "Sat, 20 Jun 2026 08:36:41 GMT",
       "description": "The East of England Ambulance Service says nearly 90 people were injured, over 30 of them seriously.",
       "source": "BBC News",
       "category": "Global"
@@ -18,50 +18,23 @@
       "category": "Global"
     },
     {
-      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-      "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 19:27:12 GMT",
-      "description": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+      "title": "Several reported killed in Israeli strikes on Lebanon despite ceasefire",
+      "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 08:53:53 GMT",
+      "description": "The IDF said it struck \"Hezbollah targets\" after the group fired over 50 projectiles at Israeli forces in southern Lebanon.",
       "source": "BBC News",
       "category": "Global"
     },
     {
       "title": "Cooler Saturday gives brief relief before heat returns",
       "link": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 23:39:27 GMT",
+      "published": "Sat, 20 Jun 2026 08:35:17 GMT",
       "description": "After a slightly cooler Saturday, temperatures will rise again, possibly touching 35C by Tuesday with a Met Office amber extreme heat warning set to come into force.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "KLH tutup perusahaan pencemar lingkungan di Tangerang",
-      "link": "https://www.antaranews.com/video/5615973/klh-tutup-perusahaan-pencemar-lingkungan-di-tangerang",
-      "published": "Sat, 20 Jun 2026 15:28:58 +0700",
-      "description": "ANTARA - Kementerian Lingkungan Hidup melakukan tindakan penutupan salah satu perusahaan di Kecamatan&nbsp;Panongan, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemenham Jabar kawal pemenuhan hak korban dugaan penyekapan",
-      "link": "https://www.antaranews.com/berita/5615999/kemenham-jabar-kawal-pemenuhan-hak-korban-dugaanpenyekapan",
-      "published": "Sat, 20 Jun 2026 15:28:19 +0700",
-      "description": "Kantor Wilayah Kementerian Hak Asasi Manusia Jawa Barat mengawal pemenuhan hak perempuan berinisial YNT, korban dugaan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hidayat Nur Wahid: Pesantren tak terpisahkan dari sejarah bangsa",
-      "link": "https://www.antaranews.com/berita/5615997/hidayat-nur-wahid-pesantren-tak-terpisahkan-dari-sejarah-bangsa",
-      "published": "Sat, 20 Jun 2026 15:27:34 +0700",
-      "description": "Wakil Ketua MPR RI Hidayat Nur Wahid menegaskan pesantren merupakan bagian yang tidak terpisahkan dari sejarah dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Wamen: Jargas beyond pipeline jadi solusi perluas akses energi bersih",
-      "link": "https://www.antaranews.com/berita/5615993/wamen-jargas-beyond-pipeline-jadi-solusi-perluas-akses-energi-bersih",
-      "published": "Sat, 20 Jun 2026 15:22:11 +0700",
-      "description": "Wakil Menteri Energi dan Sumber Daya Mineral (Wamen ESDM) Yuliot mengatakan inovasi pemanfaatan jaringan gas bumi ...",
+      "error": "unclosed token: line 668, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
