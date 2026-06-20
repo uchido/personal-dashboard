@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-06-20T23:06:18+0000",
+  "timestamp": "2026-06-20T23:36:25+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 2.6,
+    "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.36,
-      0.48,
+      0.4,
+      0.5,
       0.89
     ]
   },
@@ -25,14 +25,14 @@
   },
   "uptime": {
     "days": 46,
-    "hours": 6,
-    "minutes": 54,
-    "total_seconds": 3999282.12
+    "hours": 7,
+    "minutes": 24,
+    "total_seconds": 4001088.84
   },
   "top_processes": [
     {
       "user": "root",
-      "cpu": "24.9",
+      "cpu": "19.6",
       "mem": "0.5",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-20T23:06:20+0000",
+  "timestamp": "2026-06-20T23:36:27+0000",
   "articles": [
     {
       "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Konvoi suporter Timnas Belanda di Ambon",
-      "link": "https://www.antaranews.com/foto/5616460/konvoi-suporter-timnas-belanda-di-ambon",
-      "published": "Sun, 21 Jun 2026 06:01:45 +0700",
-      "description": "Foto udara pendukung fanatik Tim Nasional Belanda melakukan konvoi di Kota Ambon, Maluku.",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Membangun asa untuk korban Palu",
-      "link": "https://www.antaranews.com/infografik/5616201/membangun-asa-untuk-korban-palu",
-      "published": "Sun, 21 Jun 2026 06:00:00 +0700",
-      "description": "Badan Nasional Penanggulangan Bencana (BNPB) menyalurkan bantuan untuk para korban gempa bumi di Palu, Sulawesi Tengah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Belgia vs Iran: tekanan mental bebani kedua tim",
-      "link": "https://www.antaranews.com/berita/5616457/belgia-vs-iran-tekanan-mental-bebani-kedua-tim",
-      "published": "Sun, 21 Jun 2026 05:48:21 +0700",
-      "description": "Los Angeles (AS) dalam waktu 24 jam.\n\nTijuana adalah base camp dadakan Iran dari tadinya Tucson di Arizona, Amerika ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Deniz Undav bawa Jerman ke 32 besar setelah bungkam Pantai Gading 2-1",
-      "link": "https://www.antaranews.com/berita/5616455/deniz-undav-bawa-jerman-ke-32-besar-setelah-bungkam-pantai-gading-2-1",
-      "published": "Sun, 21 Jun 2026 05:19:02 +0700",
-      "description": "Jerman lolos ke babak 32 besar Piala Dunia 2026 setelah membungkam Pantai Gading 2-1 pada pertandingan Grup E di ...",
+      "error": "unclosed token: line 662, column 97",
       "source": "Antara News",
       "category": "Indonesia"
     }
