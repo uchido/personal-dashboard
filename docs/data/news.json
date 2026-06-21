@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-21T16:10:50+0000",
+  "timestamp": "2026-06-21T16:41:01+0000",
   "articles": [
     {
       "title": "Signs grow that Starmer will resign as government mood shifts",
       "link": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 21 Jun 2026 10:57:56 GMT",
       "description": "The BBC's Henry Zeffman and Nick Eardley on the mood in government as speculation grows about the prime minister's departure.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Family of driver killed in Bedford train crash 'devastated' by loss",
+      "link": "https://www.bbc.com/news/articles/c621n4l5qr6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 16:39:12 GMT",
+      "description": "The family of Shaun Burton, say they are \"devastated\" by the loss.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "William marks 44th birthday as royals celebrate Father's Day",
-      "link": "https://www.bbc.com/news/articles/c9d2gzlze9po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 12:13:53 GMT",
-      "description": "The Princess of Wales and the couple's children share message for \"the best papa in the world\".",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Timnas MLBB Indonesia lolos ke babak utama Asian Games 2026",
+      "link": "https://www.antaranews.com/berita/5617120/timnas-mlbb-indonesia-lolos-ke-babak-utama-asian-games-2026",
+      "published": "Sun, 21 Jun 2026 23:27:29 +0700",
+      "description": "Tim nasional esports Indonesia nomor Mobile Legends: Bang Bang (MLBB) memastikan lolos ke babak utama Asian Games 2026 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Trump: Tak ada pungutan di Selat Hormuz",
+      "link": "https://www.antaranews.com/berita/5617119/trump-tak-ada-pungutan-di-selat-hormuz",
+      "published": "Sun, 21 Jun 2026 23:12:59 +0700",
+      "description": "Presiden Amerika Serikat (AS) Donald Trump, Sabtu (20/6), mengatakan bahwa tidak akan ada pungutan biaya yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Hari Skateboard Sedunia, Bobby perbanyak fasilitas berlatih skater",
+      "link": "https://www.antaranews.com/video/5617108/hari-skateboard-sedunia-bobby-perbanyak-fasilitas-berlatih-skater",
+      "published": "Sun, 21 Jun 2026 23:12:08 +0700",
+      "description": "ANTARA - Dalam memperingati Hari Skateboard Sedunia, Gubernur Sumatera Utara Bobby Nasution menggelar Go Skateboarding ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Menlu Kuba: Menlu AS bohong karena sangkal blokade minyak Kuba",
       "link": "https://www.antaranews.com/berita/5617117/menlu-kuba-menlu-as-bohong-karena-sangkal-blokade-minyak-kuba",
       "published": "Sun, 21 Jun 2026 23:04:47 +0700",
       "description": "Menteri Luar Negeri (Menlu) Kuba Bruno Rodriguez Parrilla,&nbsp;Sabtu (20/6), mengatakan Menlu Amerika Serikat (AS) ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Indonesia tumbang 0-3 dari Korea Selatan pada AVC Men's Cup 2026",
-      "link": "https://www.antaranews.com/berita/5617113/indonesia-tumbang-0-3-dari-korea-selatan-pada-avc-mens-cup-2026",
-      "published": "Sun, 21 Jun 2026 23:02:35 +0700",
-      "description": "Tim nasional voli putra Indonesia mengawali perjuangannya pada AVC Men&#39;s Volleyball Cup 2026 dengan kekalahan 0-3 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Cuaca Jakarta diperkirakan cerah berawan pada Senin pagi hingga siang",
-      "link": "https://www.antaranews.com/berita/5617111/cuaca-jakarta-diperkirakan-cerah-berawan-pada-senin-pagi-hingga-siang",
-      "published": "Sun, 21 Jun 2026 22:59:30 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memperkirakan cuaca di wilayah DKI Jakarta pada Senin (22/6) ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ekonom sebut pembatasan paylater perkuat pelindungan konsumen",
-      "link": "https://www.antaranews.com/berita/5617107/ekonom-sebut-pembatasan-paylater-perkuat-pelindungan-konsumen",
-      "published": "Sun, 21 Jun 2026 22:57:06 +0700",
-      "description": "Ekonom Institute for Development of Economics and Finance (INDEF) M. Rizal Taufikurahman menilai langkah Otoritas Jasa ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
