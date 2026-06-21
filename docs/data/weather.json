@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-21T22:42:38+0000",
+  "timestamp": "2026-06-21T23:12:50+0000",
   "locations": [
     {
       "name": "Palu",
@@ -9,10 +9,10 @@
       "temp_c": "17",
       "feels_like_c": "12",
       "humidity": "95",
-      "wind_speed_kmh": "6",
-      "wind_dir": "ESE",
+      "wind_speed_kmh": "5",
+      "wind_dir": "SE",
       "visibility_km": "2",
-      "pressure_mb": "1012",
+      "pressure_mb": "1013",
       "condition": "Mist",
       "condition_code": "143",
       "uv_index": "0",
@@ -54,7 +54,7 @@
       "wind_speed_kmh": "4",
       "wind_dir": "NE",
       "visibility_km": "2",
-      "pressure_mb": "1012",
+      "pressure_mb": "1013",
       "condition": "Smoky haze",
       "condition_code": "149",
       "uv_index": "0",
