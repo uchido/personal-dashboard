@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-06-21T23:12:47+0000",
+  "timestamp": "2026-06-21T23:42:55+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 53.8,
+    "percent": 51.3,
     "cores": 4,
     "load_avg": [
-      1.37,
-      0.77,
-      0.88
+      1.39,
+      0.54,
+      0.71
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 1.5,
-    "available": 9.7,
-    "used": 13.7,
-    "percent": 58.5
+    "free": 0.2,
+    "available": 7.4,
+    "used": 16.0,
+    "percent": 68.4
   },
   "disk": {
     "total": "193G",
@@ -26,20 +26,20 @@
   "uptime": {
     "days": 47,
     "hours": 7,
-    "minutes": 1,
-    "total_seconds": 4086071.49
+    "minutes": 31,
+    "total_seconds": 4087879.78
   },
   "top_processes": [
     {
       "user": "root",
-      "cpu": "91.1",
-      "mem": "0.0",
+      "cpu": "75.6",
+      "mem": "0.2",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ollama",
-      "cpu": "36.4",
-      "mem": "24.4",
+      "cpu": "47.7",
+      "mem": "33.9",
       "command": "/usr/local/bin/ollama runner --ollama-engine --mod"
     },
     {
