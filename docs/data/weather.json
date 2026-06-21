@@ -1,43 +1,43 @@
 {
-  "timestamp": "2026-06-21T03:37:26+0000",
+  "timestamp": "2026-06-21T04:07:34+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Puenjidi",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "30",
-      "feels_like_c": "34",
-      "humidity": "66",
+      "feels_like_c": "35",
+      "humidity": "64",
       "wind_speed_kmh": "4",
-      "wind_dir": "N",
-      "visibility_km": "10",
-      "pressure_mb": "1013",
+      "wind_dir": "NNW",
+      "visibility_km": "9",
+      "pressure_mb": "1012",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "8",
+      "uv_index": "10",
       "forecast": [
         {
           "date": "2026-06-21",
           "max_temp": "30",
-          "min_temp": "18",
-          "condition": "Patchy rain nearby",
+          "min_temp": "17",
+          "condition": "Light rain shower",
           "sunrise": "06:00 AM",
           "sunset": "06:04 PM"
         },
         {
           "date": "2026-06-22",
           "max_temp": "31",
-          "min_temp": "18",
-          "condition": "Light rain shower",
+          "min_temp": "17",
+          "condition": "Mist",
           "sunrise": "06:00 AM",
           "sunset": "06:05 PM"
         },
         {
           "date": "2026-06-23",
           "max_temp": "30",
-          "min_temp": "18",
-          "condition": "Patchy rain nearby",
+          "min_temp": "17",
+          "condition": "Mist",
           "sunrise": "06:01 AM",
           "sunset": "06:05 PM"
         }
