@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-21T10:39:14+0000",
+  "timestamp": "2026-06-21T11:09:24+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 2.5,
+    "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.56,
-      0.49,
-      0.8
+      0.26,
+      0.39,
+      0.79
     ]
   },
   "memory": {
@@ -26,19 +26,25 @@
   "uptime": {
     "days": 46,
     "hours": 18,
-    "minutes": 27,
-    "total_seconds": 4040858.37
+    "minutes": 57,
+    "total_seconds": 4042668.2
   },
   "top_processes": [
     {
+      "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
+    {
       "user": "root",
-      "cpu": "27.3",
+      "cpu": "18.9",
       "mem": "0.5",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ubuntu",
-      "cpu": "15.3",
+      "cpu": "14.2",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -53,12 +59,6 @@
       "cpu": "2.5",
       "mem": "0.9",
       "command": "temporal-server --env docker start"
-    },
-    {
-      "user": "root",
-      "cpu": "1.1",
-      "mem": "0.4",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
