@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-22T18:18:56+0000",
+  "timestamp": "2026-06-22T18:49:02+0000",
   "articles": [
     {
       "title": "Analysis: Everything points to Burnham becoming PM within weeks",
       "link": "https://www.bbc.com/news/articles/c20y1zvg50lo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 22 Jun 2026 17:20:49 GMT",
       "description": "If no leadership contest presents itself, Andy Burnham may not have to wait until September to enter Number 10.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Watch: A day of big changes and mixed emotions for Labour",
+      "link": "https://www.bbc.com/news/videos/cze9rj6d7rgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 18:26:07 GMT",
+      "description": "Andy Burnham is sworn in as MP for Makerfield hours after Keir Starmer announces his resignation as Labour Party leader.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,12 @@
       "category": "Global"
     },
     {
-      "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
-      "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 13:54:20 GMT",
-      "description": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Pengemudi ojol di Jakut diiming-imingi uang sebelum motor dicuri",
+      "link": "https://www.antaranews.com/berita/5618779/pengemudi-ojol-di-jakut-diiming-imingi-uang-sebelum-motor-dicuri",
+      "published": "Tue, 23 Jun 2026 01:33:24 +0700",
+      "description": "Pengemudi ojek daring, Sutrisno, mengaku diimingi-imingi&nbsp;bayaran sebesar Rp600 ribu sebelum motornya dicuri oleh ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Wagub: Sulut butuh investasi berkelanjutan serap potensi SDA",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5618768/dua-terdakwa-korupsi-wastafel-covid-19di-aceh-divonis-bebas",
       "published": "Tue, 23 Jun 2026 00:42:48 +0700",
       "description": "Majelis hakim Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Banda Aceh memvonis bebas dua terdakwa tindak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Polisi tangkap pencuri motor ojol di Jakut dua jam setelah beraksi",
-      "link": "https://www.antaranews.com/berita/5618764/polisi-tangkap-pencuri-motor-ojol-di-jakut-dua-jam-setelah-beraksi",
-      "published": "Tue, 23 Jun 2026 00:30:55 +0700",
-      "description": "Polres Pelabuhan Tanjung Priok menangkap pria berinisial WS yang mencuri motor pengendara ojek daring (ojol), ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
