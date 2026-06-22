@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-06-22T13:17:10+0000",
+  "timestamp": "2026-06-22T13:47:21+0000",
   "articles": [
     {
       "title": "Why did Starmer resign and what could happen next?",
       "link": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 22 Jun 2026 13:05:27 GMT",
       "description": "The Labour leader says he will remain prime minister until his successor is chosen.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Starmer's premiership in six charts",
+      "link": "https://www.bbc.com/news/articles/cp8p9qellmqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 13:15:05 GMT",
+      "description": "BBC Verify looks at the record of Sir Keir's time in government in six key areas since he took office in July 2024.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
+      "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 11:04:28 GMT",
+      "description": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,20 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "Top lawyer whose 'Mr Rules' approach failed to connect with the public",
-      "link": "https://www.bbc.com/news/articles/cwygj95xrp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:34:41 GMT",
-      "description": "Less than two years after he won a huge majority in the 2024 general election, Sir Keir Starmer has been forced out.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Bahlil pastikan pasokan batu bara mampu cukupi kebutuhan listrik PLN",
+      "link": "https://www.antaranews.com/video/5618460/bahlil-pastikan-pasokan-batu-bara-mampu-cukupi-kebutuhan-listrik-pln",
+      "published": "Mon, 22 Jun 2026 20:46:14 +0700",
+      "description": "ANTARA - Menteri Energi dan Sumber Daya Mineral (ESDM) Bahlil Lahadalia, Senin (22/6), memastikan stok batu bara mampu ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
-      "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 11:04:28 GMT",
-      "description": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Zepeda dan Roach naik ring demi sabuk juara WBC yang kosong",
+      "link": "https://www.antaranews.com/berita/5618488/zepeda-dan-roach-naik-ring-demi-sabuk-juara-wbc-yang-kosong",
+      "published": "Mon, 22 Jun 2026 20:43:59 +0700",
+      "description": "World Boxing Council (WBC) mengumumkan William Zepeda dan Lamont Roach Jr naik ring untuk merebut sabuk juara dunia ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Prabowo gandeng Imperial College tingkatkan mutu pendidikan kedokteran",
+      "link": "https://www.antaranews.com/video/5618465/prabowo-gandeng-imperial-college-tingkatkan-mutu-pendidikan-kedokteran",
+      "published": "Mon, 22 Jun 2026 20:42:53 +0700",
+      "description": "ANTARA - Presiden Prabowo Subianto mengadakan pertemuan dengan Imperial College London di Istana Merdeka, Jakarta, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Mendikdasmen targetkan sekolah terdampak bencana Aceh siap pakai 2026",
+      "link": "https://www.antaranews.com/berita/5618487/mendikdasmen-targetkan-sekolah-terdampak-bencana-aceh-siap-pakai-2026",
+      "published": "Mon, 22 Jun 2026 20:42:36 +0700",
+      "description": "Menteri Pendidikan Dasar dan Menengah (Mendikdasmen) Abdul Mu&#39;ti menargetkan sebagian besar sekolah terdampak ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
