@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-22T22:20:16+0000",
+  "timestamp": "2026-06-22T22:50:23+0000",
   "articles": [
     {
       "title": "Starmer quits as Labour leader and paves way for contest for new prime minister",
       "link": "https://www.bbc.com/news/articles/cdxd00lg599o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 22:13:31 GMT",
+      "published": "Mon, 22 Jun 2026 22:26:12 GMT",
       "description": "Sir Keir delivered a statement to announce his planned departure from Downing Street.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Chris Mason: Questions multiply for the man tipped to replace Starmer",
+      "link": "https://www.bbc.com/news/articles/cn8k4kyrdn5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 22:43:29 GMT",
+      "description": "Andy Burnham will have to set out his stall to show how he will deliver on his promises, the BBC's political editor writes.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Analysis: Everything points to Burnham becoming PM within weeks",
-      "link": "https://www.bbc.com/news/articles/c20y1zvg50lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 21:11:38 GMT",
-      "description": "If no leadership contest presents itself, Andy Burnham may not have to wait until September to enter Number 10.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Watch: A day of big changes and mixed emotions for Labour",
       "link": "https://www.bbc.com/news/videos/cze9rj6d7rgo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 22 Jun 2026 18:26:07 GMT",
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Lionel Scaloni sanjung mentalitas Messi ketika bungkam Austria",
-      "link": "https://www.antaranews.com/berita/5618805/lionel-scaloni-sanjung-mentalitas-messi-ketika-bungkam-austria",
-      "published": "Tue, 23 Jun 2026 04:42:50 +0700",
-      "description": "Pelatih Timnas Argentina Lionel Scaloni menyanjung mentalitas Lionel Messi ketika membungkam Austria pada pertandingan ...",
+      "title": "PLN perluas infrastruktur kendaraan listrik di Pulau Madura",
+      "link": "https://www.antaranews.com/berita/5618820/pln-perluas-infrastruktur-kendaraan-listrik-di-pulau-madura",
+      "published": "Tue, 23 Jun 2026 05:49:37 +0700",
+      "description": "Perusahaan Listrik Negara (PLN) Unit Pelaksana Pelayanan Pelanggan (UP3) Madura, Jawa Timur terus memperluas ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Persik Kediri bisa gunakan Stadion Gelora Daha Jayati tahun depan",
-      "link": "https://www.antaranews.com/berita/5618803/persik-kediri-bisa-gunakan-stadion-gelora-daha-jayati-tahun-depan",
-      "published": "Tue, 23 Jun 2026 04:37:28 +0700",
-      "description": "Klub BRI Super League Persik Kediri bisa menggunakan stadion baru Stadion Gelora Daha Jayati (GDJ) mulai tahun depan, ...",
+      "title": "BMKG prakirakan hujan ringan guyur sebagian besar RI pada Selasa",
+      "link": "https://www.antaranews.com/berita/5618817/bmkg-prakirakan-hujan-ringan-guyur-sebagian-besar-ri-pada-selasa",
+      "published": "Tue, 23 Jun 2026 05:44:54 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan cuaca hari ini, Selasa, di sebagian besar wilayah ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Madura United umumkan Angga Saputro sebagai rekrutan pertama",
-      "link": "https://www.antaranews.com/berita/5618799/madura-united-umumkan-angga-saputro-sebagai-rekrutan-pertama",
-      "published": "Tue, 23 Jun 2026 04:34:33 +0700",
-      "description": "Klub BRI Super League Madura United mengumumkan kiper Angga Saputro sebagai rekrutan pertama untuk mengarungi musim ...",
+      "title": "DKI kemarin, perayaan HUT Jakarta hingga peresmian Stasiun KRL JIS",
+      "link": "https://www.antaranews.com/berita/5618816/dki-kemarinperayaan-hut-jakarta-hingga-peresmian-stasiun-krl-jis",
+      "published": "Tue, 23 Jun 2026 05:43:02 +0700",
+      "description": "Gubernur DKI Jakarta Pramono Anung Wibowo menargetkan Jakarta dapat menjadi kota global yang diminati menjelang usia ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ralf Rangnick nilai Austria sudah tampil sesuai harapan",
-      "link": "https://www.antaranews.com/berita/5618797/ralf-rangnick-nilai-austria-sudah-tampil-sesuai-harapan",
-      "published": "Tue, 23 Jun 2026 04:31:35 +0700",
-      "description": "Pelatih Timnas Austria Ralf Rangnick menilai tim asuhanya sudah tampil seusai harapan ketika takluk dari Argentina pada ...",
+      "title": "Layanan SIM keliling tersedia di lima lokasi Jakarta pada Selasa",
+      "link": "https://www.antaranews.com/berita/5618812/layanan-sim-keliling-tersedia-di-lima-lokasi-jakarta-pada-selasa",
+      "published": "Tue, 23 Jun 2026 05:33:24 +0700",
+      "description": "Direktorat Lalu Lintas Polda Metro Jaya membuka&nbsp;layanan Surat Izin Mengemudi (SIM) Keliling bagi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
