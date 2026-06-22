@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-22T22:50:23+0000",
+  "timestamp": "2026-06-22T23:20:41+0000",
   "locations": [
     {
       "name": "Palu",
@@ -50,11 +50,11 @@
       "country": "Indonesia",
       "temp_c": "22",
       "feels_like_c": "18",
-      "humidity": "94",
+      "humidity": "93",
       "wind_speed_kmh": "4",
       "wind_dir": "NNE",
       "visibility_km": "2",
-      "pressure_mb": "1011",
+      "pressure_mb": "1012",
       "condition": "Smoky haze",
       "condition_code": "149",
       "uv_index": "0",
