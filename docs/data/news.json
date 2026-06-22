@@ -1,8 +1,16 @@
 {
-  "timestamp": "2026-06-22T11:46:43+0000",
+  "timestamp": "2026-06-22T12:16:53+0000",
   "articles": [
     {
-      "title": "Watch and read Keir Starmer's resignation speech in full",
+      "title": "Starmer is stepping down - what could happen next?",
+      "link": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 11:35:43 GMT",
+      "description": "The Labour leader says he will remain prime minister until his successor is chosen.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Watch and read Starmer's resignation speech in full",
       "link": "https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 22 Jun 2026 09:14:38 GMT",
       "description": "Sir Keir announces he will be step down as Labour leader and PM in a Downing Street address.",
@@ -18,7 +26,7 @@
       "category": "Global"
     },
     {
-      "title": "Who is Andy Burnham? Returning MP who wants to be prime minister",
+      "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
       "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 22 Jun 2026 11:04:28 GMT",
       "description": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.",
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
-      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:46:45 GMT",
-      "description": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Mantan Bendahara Desa Seminar Salit divonis 2,5 tahun terkait korupsi",
-      "link": "https://www.antaranews.com/berita/5618319/mantan-bendahara-desa-seminar-salit-divonis-25-tahun-terkait-korupsi",
-      "published": "Mon, 22 Jun 2026 18:45:52 +0700",
-      "description": "Majelis hakim menjatuhkan vonis dua tahun enam bulan penjara kepada mantan Bendahara Desa Seminar Salit, Kabupaten ...",
+      "title": "Abdulmanan siap bersaing masuk starting Persija tanpa regulasi U23",
+      "link": "https://www.antaranews.com/berita/5618375/abdulmanan-siap-bersaing-masuk-starting-persija-tanpa-regulasi-u23",
+      "published": "Mon, 22 Jun 2026 19:14:37 +0700",
+      "description": "Pemain muda Persija Jakarta, Arlyansyah Abdulmanan menyatakan siap bersaing untuk mendapatkan tempat di starting XI ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Puluhan siswa Sekolah Rakyat Ponorogo pulang ke rumah selama liburan",
-      "link": "https://www.antaranews.com/berita/5618315/puluhan-siswa-sekolah-rakyat-ponorogo-pulang-ke-rumah-selama-liburan",
-      "published": "Mon, 22 Jun 2026 18:44:53 +0700",
-      "description": "Puluhan siswa Sekolah Rakyat (SR) Ponorogo, Jawa Timur mulai kembali ke rumah masing-masing untuk menjalani libur akhir ...",
+      "title": "HKI: Pengerjaan Jalur Lembah Anai pascabencana sudah 73 persen",
+      "link": "https://www.antaranews.com/berita/5618368/hki-pengerjaan-jalur-lembah-anai-pascabencana-sudah-73-persen",
+      "published": "Mon, 22 Jun 2026 19:14:26 +0700",
+      "description": "Hutama Karya Infrastruktur (HKI) mengatakan pengerjaan Jalur Lembah Anai di Kabupaten Tanah Datar, Sumatera Barat ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Soal capaian MPLS Ramah, Mendikdasmen: Kegiatan meriah bukan ukuran",
-      "link": "https://www.antaranews.com/berita/5618311/soal-capaian-mpls-ramah-mendikdasmen-kegiatan-meriah-bukan-ukuran",
-      "published": "Mon, 22 Jun 2026 18:40:43 +0700",
-      "description": "Menteri Pendidikan Dasar dan Menengah (Mendikdasmen) Abdul Mu&#39;ti mengingatkan rangkaian kegiatan yang dilaksanakan ...",
+      "title": "Pemerintah lanjutkan program bantuan pangan dengan anggaran Rp18,04 T",
+      "link": "https://www.antaranews.com/berita/5618367/pemerintah-lanjutkan-program-bantuan-pangan-dengan-anggaran-rp1804-t",
+      "published": "Mon, 22 Jun 2026 19:11:39 +0700",
+      "description": "Pemerintah melanjutkan program stimulus bantuan pangan untuk semester II 2026 dengan total anggaran sebesar Rp18,04 ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemerintah gelontorkan stimulus ekonomi semester II senilai Rp26,34 T",
-      "link": "https://www.antaranews.com/berita/5618307/pemerintah-gelontorkan-stimulus-ekonomi-semester-ii-senilai-rp2634-t",
-      "published": "Mon, 22 Jun 2026 18:39:27 +0700",
-      "description": "Pemerintah menggelontorkan paket stimulus ekonomi untuk semester II 2026 dengan total anggaran yang disiapkan sebesar ...",
+      "title": "Belanda juara seri Amsterdam basket 3x3 putri",
+      "link": "https://www.antaranews.com/berita/5618364/belanda-juara-seri-amsterdam-basket-3x3-putri",
+      "published": "Mon, 22 Jun 2026 19:11:04 +0700",
+      "description": "Timnas bola basket putri Belanda menjuarai FIBA 3x3 Women&#39;s Series Amsterdam 2026 setelah mengalahkan Rapid ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
