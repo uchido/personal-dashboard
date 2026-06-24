@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-06-24T21:04:35+0000",
+  "timestamp": "2026-06-24T21:34:53+0000",
   "articles": [
+    {
+      "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+      "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 20:04:52 GMT",
+      "description": "Heat records were broken when temperatures soared across southern England on Wednesday afternoon.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Why this heatwave feels worse than the last one",
       "link": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "King meets women's cricket team that is not allowed to exist",
-      "link": "https://www.bbc.co.uk/news/articles/c4gykxdn6gwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 14:20:13 GMT",
-      "description": "King Charles shows his support for the Afghan women's cricket team, who are no longer allowed to play official games.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "BNPB: Tak hujan sebulan, 4.245 KK di Lombok Barat mengalami krisis air",
+      "link": "https://www.antaranews.com/berita/5622025/bnpb-tak-hujan-sebulan-4245-kk-di-lombok-barat-mengalami-krisis-air",
+      "published": "Thu, 25 Jun 2026 04:26:31 +0700",
+      "description": "Badan Nasional Penanggulangan Bencana (BNPB) melaporkan sebanyak 4.245 kepala keluarga (KK) di lima kecamatan di ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BNPB imbau kesiapsiagaan atas peringatan cuaca ekstrem di 26 provinsi",
+      "link": "https://www.antaranews.com/berita/5622023/bnpb-imbau-kesiapsiagaan-atas-peringatan-cuaca-ekstrem-di-26-provinsi",
+      "published": "Thu, 25 Jun 2026 04:14:12 +0700",
+      "description": "Badan Nasional Penanggulangan Bencana (BNPB) mengimbau pemerintah daerah bersiaga merespons peringatan dini potensi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Orangutan dan gajah ramal pemenang pertandingan Jerman vs Ekuador",
+      "link": "https://www.antaranews.com/video/5621845/orangutan-dan-gajah-ramal-pemenang-pertandingan-jerman-vs-ekuador",
+      "published": "Thu, 25 Jun 2026 04:06:26 +0700",
+      "description": "ANTARA - Dua hewan penghuni kebun binatang berbeda di Jerman meramal pemenang pertandingan ketiga Grup E putaran final ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Hujan deras sebabkan Jalan Provinsi di Agam amblas",
       "link": "https://www.antaranews.com/video/5621967/hujan-deras-sebabkan-jalan-provinsi-di-agam-amblas",
       "published": "Thu, 25 Jun 2026 02:54:01 +0700",
       "description": "ANTARA -&nbsp;Akses jalan provinsi yang menghubungkan Kabupaten Agam dan Kota Bukittinggi terganggu setelah sebagian ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Disdag Semarang pastikan harga MinyaKita tetap stabil",
-      "link": "https://www.antaranews.com/video/5621901/disdag-semarang-pastikan-harga-minyakita-tetap-stabil",
-      "published": "Thu, 25 Jun 2026 02:52:35 +0700",
-      "description": "ANTARA - Harga minyak goreng rakyat MinyaKita di sejumlah pasar tradisional Kota Semarang terpantau stabil meski ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Banten keruk sedimen dan angkat 80 bangkai kapal di Cibanten",
-      "link": "https://www.antaranews.com/video/5621941/banten-keruk-sedimen-dan-angkat-80-bangkai-kapal-di-cibanten",
-      "published": "Thu, 25 Jun 2026 02:51:35 +0700",
-      "description": "ANTARA - Gubernur Banten Andra Soni meninjau proyek pengendalian banjir dan normalisasi Sungai Cibanten di kawasan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Susunan pemain Bosnia-Herzegovina vs Qatar: kemenangan jadi harga mati",
-      "link": "https://www.antaranews.com/berita/5622019/susunan-pemain-bosnia-herzegovina-vs-qatar-kemenangan-jadi-harga-mati",
-      "published": "Thu, 25 Jun 2026 01:39:59 +0700",
-      "description": "Timnas Bosnia-Herzegovina akan menghadapi&nbsp;Qatar&nbsp;pada pertandingan Grup B Piala Dunia 2026 di Stadion Lumen ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
