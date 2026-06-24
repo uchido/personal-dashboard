@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-24T12:01:47+0000",
+  "timestamp": "2026-06-24T12:31:54+0000",
   "articles": [
     {
       "title": "The UK's summers are getting hotter - but how prepared are we?",
       "link": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 23 Jun 2026 23:46:03 GMT",
       "description": "Based on current trends parts of the UK are set to see 40C summers regularly within a couple of decades.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Train passed red signal before fatal crash, says report",
+      "link": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 12:31:16 GMT",
+      "description": "A preliminary report from the Independent Rail Accident Investigation Branch is published.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Scotland on 'brink of history', fans say ahead of Brazil World Cup tie",
-      "link": "https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 06:10:57 GMT",
-      "description": "Scotland will play their final group stage match against Brazil later, with hopes of making it to the knock-out stages.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Prabowo: Indonesia swasembada pangan, pertama kali sejak 1984",
-      "link": "https://www.antaranews.com/video/5621505/prabowo-indonesia-swasembada-pangan-pertama-kali-sejak-1984",
-      "published": "Wed, 24 Jun 2026 19:00:07 +0700",
-      "description": "ANTARA - Presiden Prabowo Subianto menyatakan Indonesia berhasil mencapai swasembada pangan dalam satu tahun delapan ...",
+      "title": "Bakom: Siswa SMA Unggul Garuda masuk universitas top naik 150 persen",
+      "link": "https://www.antaranews.com/berita/5621599/bakom-siswa-sma-unggul-garuda-masuk-universitas-top-naik-150-persen",
+      "published": "Wed, 24 Jun 2026 19:28:47 +0700",
+      "description": "Badan Komunikasi (Bakom) Pemerintah Republik Indonesia menyebut 12 SMA Unggul Garuda Transformasi meningkatkan jumlah ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "KPPPA gandeng LPSK tindak lanjuti kasus kekerasan perempuan di Bandung",
-      "link": "https://www.antaranews.com/berita/5621536/kpppa-gandeng-lpsk-tindak-lanjuti-kasus-kekerasan-perempuan-di-bandung",
-      "published": "Wed, 24 Jun 2026 18:59:37 +0700",
-      "description": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak menggandeng Lembaga Perlindungan Saksi dan Korban (LPSK) untuk ...",
+      "title": "Lebanon: Perundingan dengan Israel terpisah dengan negosiasi AS-Iran",
+      "link": "https://www.antaranews.com/berita/5621595/lebanon-perundingan-dengan-israel-terpisah-dengan-negosiasi-as-iran",
+      "published": "Wed, 24 Jun 2026 19:28:32 +0700",
+      "description": "Presiden Lebanon Joseph Aoun mengatakan&nbsp;negosiasi antara pihaknya dengan Israel di Washington terus berlanjut, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemkab hadirkan lima unit ambulans laut layani warga Kepulauan Seribu",
-      "link": "https://www.antaranews.com/berita/5621533/pemkab-hadirkan-lima-unit-ambulans-laut-layani-warga-kepulauan-seribu",
-      "published": "Wed, 24 Jun 2026 18:59:13 +0700",
-      "description": "Suku Dinas Kesehatan (Sudinkes) Kabupaten Kepulauan Seribu menghadirkan&nbsp;lima unit&nbsp;ambulans laut untuk ...",
+      "title": "AHY: Pembangunan kembali Ponpes Al Khoziny Sidoarjo capai 50 persen",
+      "link": "https://www.antaranews.com/berita/5621593/ahy-pembangunan-kembali-ponpes-al-khoziny-sidoarjo-capai-50-persen",
+      "published": "Wed, 24 Jun 2026 19:28:26 +0700",
+      "description": "Menteri Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono menyebutkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Polisi tutup sementara jalan di Kawasan Lembah Anai dampak longsor",
-      "link": "https://www.antaranews.com/video/5621511/polisi-tutup-sementara-jalan-di-kawasan-lembah-anai-dampak-longsor",
-      "published": "Wed, 24 Jun 2026 18:56:45 +0700",
-      "description": "ANTARA - Kepolisian Resor Padang Panjang menutup akses Jalan Nasional Lintas Padang-Bukittinggi tepatnya di Kawasan ...",
+      "title": "Kejagung selamatkan keuangan negara Rp131,5 T selama periode 2020-2026",
+      "link": "https://www.antaranews.com/video/5621575/kejagung-selamatkan-keuangan-negara-rp1315-t-selama-periode-2020-2026",
+      "published": "Wed, 24 Jun 2026 19:20:59 +0700",
+      "description": "ANTARA -Kejaksaan Agung berhasil menyelamatkan keuangan negara sebesar Rp131,5 triliun pada periode 2020-2026. Jaksa ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
