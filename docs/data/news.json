@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-24T09:00:58+0000",
+  "timestamp": "2026-06-24T09:31:06+0000",
   "articles": [
     {
-      "title": "Earlier and stronger heatwaves: How hot could UK summers get?",
+      "title": "The UK's summers are getting hotter - but how prepared are we?",
       "link": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 23 Jun 2026 23:46:03 GMT",
       "description": "Based on current trends parts of the UK are set to see 40C summers regularly within a couple of decades.",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Anggota DPR minta Polri usut polemik pemberian uang ke mahasiswa UBK",
-      "link": "https://www.antaranews.com/berita/5621167/anggota-dpr-minta-polri-usut-polemik-pemberian-uang-ke-mahasiswa-ubk",
-      "published": "Wed, 24 Jun 2026 15:59:00 +0700",
-      "description": "Anggota Komisi III DPR RI Abdullah meminta kepada Kepolisian Negara Republik Indonesia (Polri) untuk mengusut polemik ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menteri Arifah tegaskan pemulihan korban kekerasan sebagai prioritas",
-      "link": "https://www.antaranews.com/berita/5621164/menteri-arifah-tegaskan-pemulihan-korban-kekerasan-sebagai-prioritas",
-      "published": "Wed, 24 Jun 2026 15:58:59 +0700",
-      "description": "Menteri Pemberdayaan Perempuan dan Perlindungan Anak Arifah Fauzi menegaskan bahwa pemulihan perempuan berinisial YTR ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemendikdasmen salurkan bantuan lab IPA SMA perkuat literasi sains",
-      "link": "https://www.antaranews.com/berita/5621160/kemendikdasmen-salurkan-bantuan-lab-ipa-sma-perkuat-literasi-sains",
-      "published": "Wed, 24 Jun 2026 15:58:08 +0700",
-      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) memberikan bantuan sarana laboratorium IPA kepada 100 SMA ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Gelombang panas picu pemadaman listrik 68.000 rumah di Prancis",
-      "link": "https://www.antaranews.com/berita/5621156/gelombang-panas-picu-pemadaman-listrik-68000-rumah-di-prancis",
-      "published": "Wed, 24 Jun 2026 15:57:54 +0700",
-      "description": "Sekitar 68.000 keluarga di Prancis barat mengalami pemadaman listrik pada Rabu akibat gelombang panas ekstrem yang ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
