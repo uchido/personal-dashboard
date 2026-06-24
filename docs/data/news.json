@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-24T23:05:21+0000",
+  "timestamp": "2026-06-24T23:35:29+0000",
   "articles": [
     {
       "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
@@ -18,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "Babies and mothers died after 'systemic and sustained' failings, largest NHS maternity review finds",
-      "link": "https://www.bbc.co.uk/news/articles/c1kyw24elv7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 18:48:54 GMT",
-      "description": "Donna Ockenden's largest review of NHS maternity services also finds a \"bullying and toxic culture\".",
+      "title": "Obesity cases rising fastest in young adults",
+      "link": "https://www.bbc.co.uk/news/articles/c8j2m2zrrxko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 23:11:14 GMT",
+      "description": "Experts say the cost of living, pandemic and boom in unhealthy food are behind the rise in cases.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -32,6 +32,14 @@
       "description": "Families explain how they became part of the biggest maternity scandal in NHS history.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "Papua Nugini tangguhkan impor produk unggas Australia usai deteksi flu burung H5N1",
+      "link": "https://www.antaranews.com/berita/5622056/papua-nugini-tangguhkan-impor-produk-unggas-australia-usai-deteksi-flu-burung-h5n1",
+      "published": "Thu, 25 Jun 2026 06:30:41 +0700",
+      "description": "Papua Nugini telah menangguhkan impor unggas dan telur dari Australia setelah dua kasus flu burung galur H5N1 yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Potongan aplikasi ojol jadi 8%",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5622051/pakai-masker-kualitas-udara-jakarta-terburuk-kedua-di-dunia",
       "published": "Thu, 25 Jun 2026 05:54:31 +0700",
       "description": "Kualitas udara di Jakarta pada Kamis pagi masuk kategori tidak sehat dan menduduki peringkat kedua sebagai kota dengan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DKI kemarin, pemutihan pajak kendaraan hingga truk terguling",
-      "link": "https://www.antaranews.com/berita/5622049/dki-kemarin-pemutihan-pajak-kendaraan-hingga-truk-terguling",
-      "published": "Thu, 25 Jun 2026 05:47:18 +0700",
-      "description": "Peristiwa penting dan menarik terjadi di Jakarta selama Rabu (24/6) mulai dari Gubernur DKI Jakarta Pramono Anung ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
