@@ -1,63 +1,25 @@
 {
-  "timestamp": "2026-06-24T08:30:47+0000",
+  "timestamp": "2026-06-24T09:00:57+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
-      "region": "Central Sulawesi",
-      "country": "Indonesia",
-      "temp_c": "30",
-      "feels_like_c": "35",
-      "humidity": "66",
-      "wind_speed_kmh": "6",
-      "wind_dir": "NNW",
-      "visibility_km": "9",
-      "pressure_mb": "1009",
-      "condition": "Patchy rain nearby",
-      "condition_code": "176",
-      "uv_index": "7",
-      "forecast": [
-        {
-          "date": "2026-06-24",
-          "max_temp": "31",
-          "min_temp": "18",
-          "condition": "Light rain shower",
-          "sunrise": "06:01 AM",
-          "sunset": "06:05 PM"
-        },
-        {
-          "date": "2026-06-25",
-          "max_temp": "31",
-          "min_temp": "17",
-          "condition": "Partly Cloudy ",
-          "sunrise": "06:01 AM",
-          "sunset": "06:05 PM"
-        },
-        {
-          "date": "2026-06-26",
-          "max_temp": "31",
-          "min_temp": "17",
-          "condition": "Patchy light drizzle",
-          "sunrise": "06:01 AM",
-          "sunset": "06:05 PM"
-        }
-      ]
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "Yogyakarta",
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "30",
-      "feels_like_c": "33",
-      "humidity": "59",
-      "wind_speed_kmh": "15",
-      "wind_dir": "SSE",
-      "visibility_km": "9",
+      "temp_c": "29",
+      "feels_like_c": "31",
+      "humidity": "62",
+      "wind_speed_kmh": "17",
+      "wind_dir": "SE",
+      "visibility_km": "10",
       "pressure_mb": "1009",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "4",
+      "uv_index": "2",
       "forecast": [
         {
           "date": "2026-06-24",
@@ -69,8 +31,8 @@
         },
         {
           "date": "2026-06-25",
-          "max_temp": "29",
-          "min_temp": "23",
+          "max_temp": "30",
+          "min_temp": "22",
           "condition": "Partly Cloudy ",
           "sunrise": "05:51 AM",
           "sunset": "05:31 PM"
