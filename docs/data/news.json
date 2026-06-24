@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-24T09:31:06+0000",
+  "timestamp": "2026-06-24T10:01:14+0000",
   "articles": [
     {
       "title": "The UK's summers are getting hotter - but how prepared are we?",
       "link": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 23 Jun 2026 23:46:03 GMT",
       "description": "Based on current trends parts of the UK are set to see 40C summers regularly within a couple of decades.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Police took eight minutes to find Henry Nowak's fatal stab wound",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v02r105jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 05:07:41 GMT",
+      "description": "The Southampton student died from his injuries, while handcuffed on the ground by Hampshire police officers",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Families call for justice ahead of landmark maternity review publication",
-      "link": "https://www.bbc.co.uk/news/articles/c8e2xrke8l5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 08:57:09 GMT",
-      "description": "The review of Nottingham University Hospitals (NUH) NHS Trust is expected to detail how failings led to deaths and avoidable harm.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "England handed reality check by Ghana but remain in strong position after 0-0 draw",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 24 Jun 2026 00:53:27 GMT",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Peneliti nilai magang bergaji UMP jadi solusi pengangguran terdidik",
+      "link": "https://www.antaranews.com/berita/5621340/peneliti-nilai-magang-bergaji-ump-jadi-solusi-pengangguran-terdidik",
+      "published": "Wed, 24 Jun 2026 16:59:24 +0700",
+      "description": "Peneliti Indikator Politik Indonesia Bawono Kumoro menilai Program Magang Nasional 2026 berpotensi menjadi solusi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KP2MI gandeng 8 perguruan tinggi Kalsel, tingkatkan kompetensi PMI",
+      "link": "https://www.antaranews.com/berita/5621335/kp2mi-gandeng-8-perguruan-tinggi-kalsel-tingkatkan-kompetensi-pmi",
+      "published": "Wed, 24 Jun 2026 16:56:18 +0700",
+      "description": "Kementerian Pelindungan Pekerja Migran Indonesia (KP2MI) menggandeng delapan perguruan tinggi di Kalimntan Selatan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemanfaatan energi terbarukan di Indonesia perlu terus ditingkatkan",
+      "link": "https://www.antaranews.com/berita/5621333/pemanfaatan-energi-terbarukan-di-indonesia-perlu-terus-ditingkatkan",
+      "published": "Wed, 24 Jun 2026 16:54:59 +0700",
+      "description": "Muslims for Shared Action on Climates Impact (MOSAIC) menyatakan bahwa pemanfaatan energi terbarukan di Indonesia perlu ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Wamenham dan Otorita IKN tindak lanjuti aspirasi warga Sepaku",
+      "link": "https://www.antaranews.com/berita/5621329/wamenham-dan-otorita-ikn-tindak-lanjuti-aspirasi-warga-sepaku",
+      "published": "Wed, 24 Jun 2026 16:52:44 +0700",
+      "description": "Wakil Menteri Hak Asasi Manusia Mugiyanto bersama Otorita Ibu Kota Nusantara berkomitmen menindaklanjuti aspirasi warga ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
