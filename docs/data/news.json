@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-06-25T05:07:07+0000",
+  "timestamp": "2026-06-25T05:37:20+0000",
   "articles": [
     {
       "title": "Moment quakes hit Venezuela, causing people to rush on to streets",
       "link": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 24 Jun 2026 23:40:47 GMT",
       "description": "Video filmed by BBC reporters, contributors and locals shows the aftermath, as frantic residents evacuate.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+      "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 02:25:26 GMT",
+      "description": "Heat records were broken when temperatures soared across southern England on Wednesday afternoon.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "How to cope in a heatwave - according to you",
+      "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 00:18:35 GMT",
+      "description": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,20 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "'Typical Scotland': Tartan Army give their verdict on Miami match against Brazil",
-      "link": "https://www.bbc.co.uk/news/videos/cgqjl2kkg7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 03:07:31 GMT",
-      "description": "Scotland's hopes of reaching the knockout stages of the World Cup are in peril after Brazil won 3-0 in Miami.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Pakar IPB tawarkan tiga solusi penguatan KPH guna atasi deforestasi",
+      "link": "https://www.antaranews.com/berita/5622416/pakar-ipb-tawarkan-tiga-solusi-penguatan-kph-guna-atasi-deforestasi",
+      "published": "Thu, 25 Jun 2026 12:35:46 +0700",
+      "description": "Guru Besar Fakultas Kehutanan dan Lingkungan IPB University Prof. Bramasto Nugroho memaparkan tiga langkah strategis ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "title": "Reeves backs Burnham to become next prime minister",
-      "link": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 05:00:07 GMT",
-      "description": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Komunitas otomotif padukan kegiatan olahrga perkuat interaksi anggota",
+      "link": "https://otomotif.antaranews.com/berita/5622415/komunitas-otomotif-padukan-kegiatan-olahrga-perkuat-interaksi-anggota",
+      "published": "Thu, 25 Jun 2026 12:30:01 +0700",
+      "description": "Sejumlah komunitas otomotif mulai mengembangkan pola kegiatan di luar aktivitas kendaraan guna memperkuat interaksi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ayah hadir, anak hebat",
+      "link": "https://www.antaranews.com/infografik/5622383/ayah-hadir-anak-hebat",
+      "published": "Thu, 25 Jun 2026 12:30:00 +0700",
+      "description": "Ayah memiliki tanggung jawab yang sama pentingnya dengan ibu dalam mendampingi tumbuh kembang anak. Penting untuk ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KPK duga pemilik Maktour berperan dalam pembagian kuota haji",
+      "link": "https://www.antaranews.com/berita/5622412/kpk-duga-pemilik-maktour-berperan-dalam-pembagian-kuota-haji",
+      "published": "Thu, 25 Jun 2026 12:29:10 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) menduga pemilik biro penyelenggara haji PT Makassar Toraja atau Maktour, Fuad Hasan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
