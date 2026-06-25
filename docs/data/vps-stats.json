@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-06-25T03:06:30+0000",
+  "timestamp": "2026-06-25T03:36:39+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 2.5,
+    "percent": 66.7,
     "cores": 4,
     "load_avg": [
-      0.62,
-      0.43,
-      0.66
+      0.28,
+      0.38,
+      0.62
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 8.3,
+    "free": 8.4,
     "available": 15.2,
     "used": 8.2,
     "percent": 35.0
@@ -25,20 +25,14 @@
   },
   "uptime": {
     "days": 50,
-    "hours": 10,
-    "minutes": 54,
-    "total_seconds": 4359294.09
+    "hours": 11,
+    "minutes": 25,
+    "total_seconds": 4361103.55
   },
   "top_processes": [
     {
-      "user": "root",
-      "cpu": "27.8",
-      "mem": "0.5",
-      "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
-    },
-    {
       "user": "ubuntu",
-      "cpu": "15.3",
+      "cpu": "23.0",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -56,9 +50,15 @@
     },
     {
       "user": "ollama",
-      "cpu": "2.3",
+      "cpu": "2.4",
       "mem": "0.1",
       "command": "/usr/local/bin/ollama serve"
+    },
+    {
+      "user": "root",
+      "cpu": "1.1",
+      "mem": "0.7",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
