@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-06-26T18:18:52+0000",
+  "timestamp": "2026-06-26T18:49:06+0000",
   "articles": [
+    {
+      "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
+      "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 17:56:44 GMT",
+      "description": "Suffolk saw the highest temperature on Friday - but many will feel the heatwave begin to ease over the weekend.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
       "link": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss",
@@ -12,8 +20,8 @@
     {
       "title": "Mother dies saving daughter in Venezuela earthquakes",
       "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 17:00:31 GMT",
-      "description": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 589 people.",
+      "published": "Fri, 26 Jun 2026 18:36:32 GMT",
+      "description": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "How transparent are the royals being about money?",
-      "link": "https://www.bbc.co.uk/news/articles/c77yzgnp5lvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 15:03:39 GMT",
-      "description": "After the King reveals the tax he paid questions remain over how open the Royal Family is being about its wealth.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Sejumlah kota berpotensi diguyur hujan ringan hingga sedang pada Sabtu",
+      "link": "https://www.antaranews.com/berita/5624989/sejumlah-kota-berpotensi-diguyur-hujan-ringan-hingga-sedang-pada-sabtu",
+      "published": "Sat, 27 Jun 2026 01:48:28 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sejumlah kota di Indonesia berpotensi mengalami ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Susunan pemain Norwegia vs Prancis: perebutan predikat juara grup",
+      "link": "https://www.antaranews.com/berita/5624985/susunan-pemain-norwegia-vs-prancis-perebutan-predikat-juara-grup",
+      "published": "Sat, 27 Jun 2026 01:45:15 +0700",
+      "description": "Timnas Norwegia akan menghadapi Timnas Prancis pada pertandingan terakhir Grup I Piala Dunia 2026 di Stadion Gillette, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Indonesia telan kekalahan telak 0-9 hadapi Brasil",
+      "link": "https://www.antaranews.com/berita/5624983/indonesia-telan-kekalahan-telak-0-9-hadapi-brasil",
+      "published": "Sat, 27 Jun 2026 01:39:01 +0700",
+      "description": "Timnas U17 Indonesia menelan kekalahan telak dengan skor 0-9 menghadapi Brasil pada ajang VI Nations Tournament 2026 di ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "KKP sidak perusahaan pembuang limbah ke laut di Situbondo",
       "link": "https://www.antaranews.com/video/5624975/kkp-sidak-perusahaan-pembuang-limbah-ke-laut-di-situbondo",
       "published": "Sat, 27 Jun 2026 00:57:25 +0700",
       "description": "ANTARA -&nbsp;Kementerian Kelautan dan Perikanan (KKP) melakukan inspeksi mendadak ( sidak) ke PT. Fuyuan Biologi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menbud dorong Lengger Banyumas mendunia",
-      "link": "https://www.antaranews.com/berita/5624979/menbud-dorong-lengger-banyumas-mendunia",
-      "published": "Sat, 27 Jun 2026 00:48:34 +0700",
-      "description": "Menteri Kebudayaan Fadli Zon mengatakan seni tradisi Lengger Banyumas harus terus dirawat dan dikembangkan agar semakin ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ribuan umat muslim gelar doa kebangsaan untuk bangsa dan presiden",
-      "link": "https://www.antaranews.com/video/5624972/ribuan-umat-muslim-gelar-doa-kebangsaan-untuk-bangsa-dan-presiden",
-      "published": "Sat, 27 Jun 2026 00:41:18 +0700",
-      "description": "ANTARA - &lrm;Ribuan umat Muslim memadati Pondok Pesantren An Nur 2 Al-Murtadlo, Kecamatan Bululawang, Kabupaten ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KSP gelar pertemuan dengan Menkop bahas perkembangan KDKMP",
-      "link": "https://www.antaranews.com/video/5624971/ksp-gelar-pertemuan-dengan-menkop-bahas-perkembangan-kdkmp",
-      "published": "Sat, 27 Jun 2026 00:21:57 +0700",
-      "description": "ANTARA -&nbsp;Kantor Staf Presiden menggelar pertemuan dengan Menteri Koperasi Ferry Juliantono untuk membahas ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
