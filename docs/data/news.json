@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-26T00:42:52+0000",
+  "timestamp": "2026-06-26T01:13:01+0000",
   "articles": [
     {
       "title": "King Charles reveals he paid £12.9m in tax for 2024-25",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Iran kecam AS atas interpretasi yang bertentangan dengan teks MoU",
-      "link": "https://www.antaranews.com/berita/5623556/iran-kecam-as-atas-interpretasi-yang-bertentangan-dengan-teks-mou",
-      "published": "Fri, 26 Jun 2026 07:29:07 +0700",
-      "description": "Juru bicara Kementerian Luar Negeri Iran, Esmaeil Baghaei, pada Rabu (24/6) menyerukan kepada pemerintah Amerika ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Denyut baru di gedung lama",
-      "link": "https://www.antaranews.com/berita/5623555/denyut-baru-di-gedung-lama",
-      "published": "Fri, 26 Jun 2026 07:24:22 +0700",
-      "description": "Di jantung Kota Surabaya, Jawa Timur, sebuah bangunan yang lama dikenal sebagai tujuan berburu komputer, gawai, dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Simak lagi warta tentang tren diet sehat, kampanye Liburan Cara Baru",
-      "link": "https://www.antaranews.com/berita/5623551/simak-lagi-warta-tentang-tren-diet-sehat-kampanye-liburan-cara-baru",
-      "published": "Fri, 26 Jun 2026 07:16:04 +0700",
-      "description": "Kanal hiburan, gaya hidup, teknologi, dan otomotif ANTARA pada Kamis (25/) di antaranya menyajikan warta tentang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Politik kemarin, situasi kamtibmas hingga mantan OPM kembali ke NKRI",
-      "link": "https://www.antaranews.com/berita/5623549/politik-kemarin-situasi-kamtibmas-hingga-mantan-opm-kembali-ke-nkri",
-      "published": "Fri, 26 Jun 2026 06:43:57 +0700",
-      "description": "Beragam peristiwa politik telah terjadi pada Kamis (25/6), mulai dari Kapolri laporkan situasi Kamtibmas kepada ...",
+      "error": "unclosed token: line 663, column 0",
       "source": "Antara News",
       "category": "Indonesia"
     }
