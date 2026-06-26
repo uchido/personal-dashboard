@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-26T20:49:45+0000",
+  "timestamp": "2026-06-26T21:20:00+0000",
   "articles": [
     {
       "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
       "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 26 Jun 2026 19:40:07 GMT",
       "description": "Suffolk saw the highest temperature on Friday - but many will feel the heatwave begin to ease over the weekend.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 21:05:16 GMT",
+      "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -22,14 +30,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 26 Jun 2026 18:36:32 GMT",
       "description": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Man who punched female police officers at Manchester Airport jailed",
-      "link": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 16:47:10 GMT",
-      "description": "Mohammed Fahir Amaaz assaulted PC Lydia Ward, PC Ellie Cook and a Starbucks customer, a court heard.",
       "source": "BBC News",
       "category": "Global"
     },
