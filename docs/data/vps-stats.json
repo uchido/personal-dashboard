@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-06-26T11:16:13+0000",
+  "timestamp": "2026-06-26T11:46:20+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 100.0,
     "cores": 4,
     "load_avg": [
-      4.36,
-      2.58,
-      1.57
+      4.4,
+      2.65,
+      1.62
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 0.5,
+    "free": 0.4,
     "available": 7.3,
     "used": 16.1,
     "percent": 68.8
@@ -26,31 +26,25 @@
   "uptime": {
     "days": 51,
     "hours": 19,
-    "minutes": 4,
-    "total_seconds": 4475076.92
+    "minutes": 34,
+    "total_seconds": 4476884.78
   },
   "top_processes": [
     {
       "user": "ollama",
-      "cpu": "336",
-      "mem": "34.6",
+      "cpu": "332",
+      "mem": "34.5",
       "command": "/usr/local/bin/ollama runner --ollama-engine --mod"
     },
     {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
       "user": "root",
-      "cpu": "83.9",
-      "mem": "0.0",
+      "cpu": "87.3",
+      "mem": "0.5",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ubuntu",
-      "cpu": "8.0",
+      "cpu": "14.2",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -59,6 +53,12 @@
       "cpu": "7.1",
       "mem": "0.5",
       "command": "/usr/local/bin/ollama serve"
+    },
+    {
+      "user": "root",
+      "cpu": "4.4",
+      "mem": "3.7",
+      "command": "node --experimental-require-module ./dist/apps/orc"
     }
   ]
 }
