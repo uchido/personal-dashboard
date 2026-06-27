@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-06-27T10:54:09+0000",
+  "timestamp": "2026-06-27T11:24:21+0000",
   "articles": [
     {
       "title": "Mahmood announces new refugee sponsorship route into UK",
       "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 27 Jun 2026 08:56:49 GMT",
       "description": "The home secretary says \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Hundreds of Heathrow and Gatwick flights delayed due to thunderstorms",
+      "link": "https://www.bbc.co.uk/news/articles/cjwgynnwyw2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 10:47:48 GMT",
+      "description": "More than 600 flights have been delayed at Heathrow and Gatwick, many due to stormy weather south of the UK.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 23:01:50 GMT",
-      "description": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "BPH Migas ajak mahasiswa kawal penyaluran BBM subsidi tepat sasaran",
-      "link": "https://www.antaranews.com/berita/5625588/bph-migas-ajak-mahasiswa-kawal-penyaluran-bbm-subsidi-tepat-sasaran",
-      "published": "Sat, 27 Jun 2026 17:50:23 +0700",
-      "description": "Badan Pengatur Hilir Minyak dan Gas Bumi (BPH Migas) mendorong partisipasi aktif mahasiswa mengawal penyaluran bahan ...",
+      "title": "BNPB: Tiga kabupaten di Jateng dilanda kekeringan",
+      "link": "https://www.antaranews.com/berita/5625627/bnpb-tiga-kabupaten-di-jateng-dilanda-kekeringan",
+      "published": "Sat, 27 Jun 2026 18:20:44 +0700",
+      "description": "Badan Nasional Penanggulangan Bencana (BNPB) menyebutkan tiga kabupaten di Jawa Tengah dilanda kekeringan seiring ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemkot jadikan Festival Heritage Depok Lama daerah tujuan wisata baru",
-      "link": "https://www.antaranews.com/berita/5625584/pemkot-jadikan-festival-heritage-depok-lama-daerah-tujuan-wisata-baru",
-      "published": "Sat, 27 Jun 2026 17:43:44 +0700",
-      "description": "Pemerintah Kota Depok, Jawa Barat, menjadikan&nbsp;Festival Heritage Depok Lama di Jalan Pemuda ...",
+      "title": "Gus Lilur harap Muktamar ke-35 NU hasilkan pemimpin pemersatu",
+      "link": "https://www.antaranews.com/berita/5625620/gus-lilur-harap-muktamar-ke-35-nu-hasilkan-pemimpin-pemersatu",
+      "published": "Sat, 27 Jun 2026 18:17:05 +0700",
+      "description": "Tokoh muda Nahdlatul Ulama (NU) Khalilur Abdullah Sahlawiy atau Gus Lilur berharap Muktamar Ke-35 NU menghasilkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemhan tegaskan diklatsar SPPI tak muat aktivitas berat berlebihan",
-      "link": "https://www.antaranews.com/video/5625513/kemhan-tegaskan-diklatsar-sppi-tak-muat-aktivitas-berat-berlebihan",
-      "published": "Sat, 27 Jun 2026 17:33:52 +0700",
-      "description": "ANTARA -&nbsp;Kementerian Pertahanan menegaskan pendidikan dan pelatihan dasar bagi Sarjana Penggerak Pembangunan ...",
+      "title": "Jubir Gerindra: Mayoritas masyarakat puas kinerja Presiden Prabowo",
+      "link": "https://www.antaranews.com/berita/5625616/jubir-gerindra-mayoritas-masyarakat-puas-kinerja-presiden-prabowo",
+      "published": "Sat, 27 Jun 2026 18:16:35 +0700",
+      "description": "Juru Bicara (Jubir) Partai Gerindra sekaligus Wakil Ketua Komisi II DPR RI, Bahtra Banong, mengatakan bahwa mayoritas ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Operasi Sikat Cartenz ungkap 58 kasus kejahatan jalanan di Papua",
-      "link": "https://www.antaranews.com/video/5625495/operasi-sikat-cartenz-ungkap-58-kasus-kejahatan-jalanan-di-papua",
-      "published": "Sat, 27 Jun 2026 17:31:58 +0700",
-      "description": "ANTARA - Operasi Sikat Cartenz 2026 yang digalakkan Kepolisian Daerah Papua menunjukkan hasil signifikan. Memasuki hari ...",
+      "title": "Menekraf: Permen Ekaf Nomor 9 Tahun 2025 perkuat ekraf dari daerah",
+      "link": "https://www.antaranews.com/berita/5625612/menekraf-permen-ekaf-nomor-9-tahun-2025-perkuat-ekraf-dari-daerah",
+      "published": "Sat, 27 Jun 2026 18:16:04 +0700",
+      "description": "Menteri Ekonomi Kreatif/Kepala Badan Ekonomi Kreatif (Ekraf)&nbsp;Teuku Riefky Harsya mendorong pemerintah daerah ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
