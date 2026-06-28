@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-06-28T18:29:45.934176+00:00",
+  "timestamp": "2026-06-28T19:00:00.897190+00:00",
   "target_date": "2026-06-18",
   "target_date_display": "18 Juni 2026",
   "countdown": {
     "days": -12,
-    "hours": 21,
-    "minutes": 30,
-    "total_seconds": -959385
+    "hours": 20,
+    "minutes": 59,
+    "total_seconds": -961200
   },
   "status": "ongoing",
   "phase": "Teknologi Tepat Guna (TTG)",
