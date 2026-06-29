@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-06-29T14:39:59+0000",
+  "timestamp": "2026-06-29T15:10:11+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 63.2,
+    "percent": 60.0,
     "cores": 2,
     "load_avg": [
-      2.26,
-      2.29,
-      2.28
+      1.95,
+      2.14,
+      2.14
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 4.1,
-    "available": 6.6,
-    "used": 5.0,
-    "percent": 43.1
+    "free": 3.8,
+    "available": 6.3,
+    "used": 5.3,
+    "percent": 45.7
   },
   "disk": {
     "total": "193G",
@@ -26,14 +26,20 @@
   "uptime": {
     "days": 0,
     "hours": 3,
-    "minutes": 5,
-    "total_seconds": 11146.94
+    "minutes": 35,
+    "total_seconds": 12958.49
   },
   "top_processes": [
     {
+      "user": "ubuntu",
+      "cpu": "125",
+      "mem": "0.4",
+      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+    },
+    {
       "user": "root",
-      "cpu": "20.6",
-      "mem": "1.2",
+      "cpu": "37.1",
+      "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
@@ -51,14 +57,8 @@
     {
       "user": "root",
       "cpu": "1.5",
-      "mem": "0.8",
+      "mem": "0.7",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
-    },
-    {
-      "user": "opc",
-      "cpu": "1.4",
-      "mem": "1.1",
-      "command": "temporal-server --env docker start"
     }
   ]
 }
