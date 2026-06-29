@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-06-29T01:35:16+0000",
+  "timestamp": "2026-06-29T02:05:23+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 38.5,
+    "percent": 0.0,
     "cores": 4,
     "load_avg": [
-      0.53,
-      0.56,
-      0.97
+      0.38,
+      0.46,
+      0.89
     ]
   },
   "memory": {
     "total": 23.4,
-    "free": 9.0,
+    "free": 8.9,
     "available": 15.4,
     "used": 8.0,
     "percent": 34.2
@@ -26,25 +26,19 @@
   "uptime": {
     "days": 54,
     "hours": 9,
-    "minutes": 23,
-    "total_seconds": 4699420.33
+    "minutes": 53,
+    "total_seconds": 4701226.93
   },
   "top_processes": [
     {
       "user": "root",
-      "cpu": "98.1",
-      "mem": "0.1",
+      "cpu": "18.6",
+      "mem": "0.5",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
-      "user": "root",
-      "cpu": "40.6",
-      "mem": "0.2",
-      "command": "/opt/unified-monitoring-agent/embedded/bin/ruby /o"
-    },
-    {
       "user": "ubuntu",
-      "cpu": "21.4",
+      "cpu": "14.2",
       "mem": "0.0",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -59,6 +53,12 @@
       "cpu": "4.4",
       "mem": "3.7",
       "command": "node --experimental-require-module ./dist/apps/orc"
+    },
+    {
+      "user": "opc",
+      "cpu": "2.5",
+      "mem": "0.9",
+      "command": "temporal-server --env docker start"
     }
   ]
 }
