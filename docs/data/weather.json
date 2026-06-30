@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T06:41:10+0000",
+  "timestamp": "2026-06-30T07:11:28+0000",
   "locations": [
     {
       "name": "Palu",
@@ -51,13 +51,13 @@
       "temp_c": "28",
       "feels_like_c": "29",
       "humidity": "52",
-      "wind_speed_kmh": "15",
+      "wind_speed_kmh": "17",
       "wind_dir": "SSE",
       "visibility_km": "10",
       "pressure_mb": "1012",
       "condition": "Sunny",
       "condition_code": "113",
-      "uv_index": "9",
+      "uv_index": "8",
       "forecast": [
         {
           "date": "2026-06-30",
