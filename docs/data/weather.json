@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T21:46:59+0000",
+  "timestamp": "2026-06-30T22:17:07+0000",
   "locations": [
     {
       "name": "Palu",
@@ -29,13 +29,13 @@
           "date": "2026-07-02",
           "max_temp": "31",
           "min_temp": "17",
-          "condition": "Mist",
+          "condition": "Light rain shower",
           "sunrise": "06:02 AM",
           "sunset": "06:07 PM"
         },
         {
           "date": "2026-07-03",
-          "max_temp": "32",
+          "max_temp": "31",
           "min_temp": "17",
           "condition": "Patchy rain nearby",
           "sunrise": "06:03 AM",
