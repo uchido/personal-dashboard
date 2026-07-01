@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-01T07:20:51+0000",
+  "timestamp": "2026-07-01T07:51:08+0000",
   "articles": [
     {
-      "title": "Superdry co-founder was my boss when he raped me",
+      "title": "Woman raped by Superdry co-founder tells BBC she was working for him at the time",
       "link": "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 01 Jul 2026 05:00:08 GMT",
-      "description": "The woman raped by James Holder exclusively reveals she worked for him and had to face him days after he attacked her.",
+      "description": "She described feeling fear and dread as she returned to her job, working for James Holder, after the attack.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kemenhut ingatkan pariwisata di DAS wajib utamakan kelestarian",
-      "link": "https://www.antaranews.com/berita/5630317/kemenhut-ingatkan-pariwisata-di-das-wajib-utamakan-kelestarian",
-      "published": "Wed, 01 Jul 2026 14:19:01 +0700",
-      "description": "Kementerian Kehutanan mengingatkan para pelaku usaha pariwisata berbasis alam yang memanfaatkan daerah aliran sungai ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pengamat: Platform digital mesti cegah promosi judol di kolom komentar",
-      "link": "https://www.antaranews.com/berita/5630315/pengamat-platform-digital-mesti-cegah-promosi-judol-di-kolom-komentar",
-      "published": "Wed, 01 Jul 2026 14:16:34 +0700",
-      "description": "Pengamat keamanan siber Alfons Tanujaya&nbsp;menekankan bahwa penyedia platform digital harus menaati peraturan yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Legislator minta penataan jaringan utilitas jadi prioritas di DKI",
-      "link": "https://www.antaranews.com/berita/5630312/legislator-minta-penataan-jaringan-utilitas-jadi-prioritas-di-dki",
-      "published": "Wed, 01 Jul 2026 14:15:38 +0700",
-      "description": "Anggota Komisi D DPRD DKI Jakarta Muhammad Thamrin mengatakan&nbsp;penataan jaringan utilitas harus menjadi program ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemkot Jaksel gerakkan kader Dasawisma untuk pilah sampah rumah tangga",
-      "link": "https://www.antaranews.com/berita/5630311/pemkot-jaksel-gerakkan-kader-dasawisma-untuk-pilah-sampah-rumah-tangga",
-      "published": "Wed, 01 Jul 2026 14:12:10 +0700",
-      "description": "Pemerintah Kota&nbsp;Jakarta Selatan menggerakkan kader Dasawisma untuk memilah sampah rumah tangga dalam upaya ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
