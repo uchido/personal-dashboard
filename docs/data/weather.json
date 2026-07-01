@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T09:21:34+0000",
+  "timestamp": "2026-07-01T09:51:41+0000",
   "locations": [
     {
       "name": "Palu",
@@ -50,14 +50,14 @@
       "country": "Indonesia",
       "temp_c": "25",
       "feels_like_c": "18",
-      "humidity": "75",
-      "wind_speed_kmh": "16",
+      "humidity": "77",
+      "wind_speed_kmh": "15",
       "wind_dir": "S",
       "visibility_km": "10",
       "pressure_mb": "1011",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "2",
+      "uv_index": "1",
       "forecast": [
         {
           "date": "2026-07-01",
