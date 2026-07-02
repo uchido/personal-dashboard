@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-02T13:08:39+0000",
+  "timestamp": "2026-07-02T13:39:39+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 65.0,
     "cores": 2,
     "load_avg": [
-      2.16,
-      2.53,
+      2.45,
+      2.46,
       2.41
     ]
   },
@@ -25,20 +25,14 @@
   },
   "uptime": {
     "days": 3,
-    "hours": 1,
-    "minutes": 34,
-    "total_seconds": 264866.71
+    "hours": 2,
+    "minutes": 5,
+    "total_seconds": 266726.93
   },
   "top_processes": [
     {
-      "user": "ubuntu",
-      "cpu": "116",
-      "mem": "0.4",
-      "command": "node /home/ubuntu/.npm-global/bin/9router"
-    },
-    {
       "user": "root",
-      "cpu": "78.0",
+      "cpu": "19.6",
       "mem": "1.2",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
@@ -59,6 +53,12 @@
       "cpu": "1.6",
       "mem": "0.9",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "opc",
+      "cpu": "1.3",
+      "mem": "1.1",
+      "command": "temporal-server --env docker start"
     }
   ]
 }
