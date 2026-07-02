@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-07-02T15:43:44+0000",
+  "timestamp": "2026-07-02T16:14:45+0000",
   "articles": [
     {
       "title": "Married at First Sight UK star arrested on suspicion of rape",
       "link": "https://www.bbc.co.uk/news/articles/cn8k774pm3jo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 02 Jul 2026 15:10:43 GMT",
       "description": "It follows a BBC Panorama investigation, broadcast in May, into the hit Channel 4 reality TV show.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Boy rapists given custody sentences by Court of Appeal",
+      "link": "https://www.bbc.co.uk/news/articles/cvg53d9p18vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 16:01:26 GMT",
+      "description": "Two teenage boys convicted of rape had initially been given non-custodial sentences.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Pubs allowed to stay open until 5am for England Mexico match",
+      "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 16:09:17 GMT",
+      "description": "The government had initially said it would not relax licensing laws further than they already have been for the World Cup.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-      "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 05:00:03 GMT",
-      "description": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Survivor pulled from rubble eight days after Venezuela earthquakes",
-      "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 14:11:50 GMT",
-      "description": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Kejagung ajukan banding putusan Nadiem, Kejagung: putusan perlu dikaji",
-      "link": "https://www.antaranews.com/video/5633095/kejagung-ajukan-banding-putusan-nadiem-kejagung-putusan-perlu-dikaji",
-      "published": "Thu, 02 Jul 2026 22:42:48 +0700",
-      "description": "ANTARA - Kejagung resmi mengajukan banding atas putusan tipikor yang menjatuhkan hukuman 10 tahun penjara kepada mantan ...",
+      "title": "Irlandia siap gabung program pertahanan SAFE Uni Eropa",
+      "link": "https://www.antaranews.com/berita/5633141/irlandia-siap-gabung-program-pertahanan-safe-uni-eropa",
+      "published": "Thu, 02 Jul 2026 23:08:46 +0700",
+      "description": "Irlandia&nbsp;akan bergabung dengan program persenjataan kembali SAFE (Security Action For Europe) Uni Eropa, demikian ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menkeu: pembahasan RUU PFII dikebut untuk disahkan di paripurna",
-      "link": "https://www.antaranews.com/video/5633107/menkeu-pembahasan-ruu-pfii-dikebut-untuk-disahkan-di-paripurna",
-      "published": "Thu, 02 Jul 2026 22:39:04 +0700",
-      "description": "ANTARA - Menteri Keuangan, Purbaya Yudhi Sadewa, mengakui pembahasan Rancangan Undang-Undang tentang Pusat Finansial ...",
+      "title": "Jaksel tertibkan pengungsi WNA yang tinggal trotoar kantor UNHCR",
+      "link": "https://www.antaranews.com/berita/5633140/jaksel-tertibkan-pengungsi-wna-yang-tinggal-trotoar-kantor-unhcr",
+      "published": "Thu, 02 Jul 2026 23:08:44 +0700",
+      "description": "Pemerintah Kota Administrasi Jakarta Selatan (Pemkot Jaksel) menertibkan pengungsi Warga Negara Asing (WNA) yang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menhan Jerman: Keanggotaan NATO bukan berarti patuh \"mutlak\" kepada AS",
-      "link": "https://www.antaranews.com/berita/5633119/menhan-jerman-keanggotaan-nato-bukan-berarti-patuh-mutlak-kepada-as",
-      "published": "Thu, 02 Jul 2026 22:38:42 +0700",
-      "description": "Menteri Pertahanan Jerman Boris Pistorius menegaskan bahwa keanggotaan dalam NATO tidak berarti &quot;kepatuhan ...",
+      "title": "Jakarta World FolkFest perkuat citra DKI sebagai kota global",
+      "link": "https://www.antaranews.com/berita/5633137/jakarta-world-folkfest-perkuat-citra-dki-sebagai-kota-global",
+      "published": "Thu, 02 Jul 2026 23:06:50 +0700",
+      "description": "Gubernur DKI Jakarta Pramono Anung Wibowo mengapresiasi penyelenggaraan Jakarta World FolkFest sebagai wadah pertemuan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Indonesia-Belarus memperkuat kemitraan pada bidang kebudayaan",
-      "link": "https://www.antaranews.com/berita/5633115/indonesia-belarus-memperkuat-kemitraan-pada-bidang-kebudayaan",
-      "published": "Thu, 02 Jul 2026 22:38:16 +0700",
-      "description": "Pemerintah Republik Indonesia dan Republik Belarus menandatangani Memorandum Saling Pengertian (MSP) tentang Kerja Sama ...",
+      "title": "AS akan bangun tembok baru di Texas, ada penolakan warga",
+      "link": "https://www.antaranews.com/berita/5633136/as-akan-bangun-tembok-baru-di-texas-ada-penolakan-warga",
+      "published": "Thu, 02 Jul 2026 23:05:17 +0700",
+      "description": "Pemerintah Amerika Serikat dilaporkan akan membangun tembok sekitar setinggi&nbsp;sembilan meter&nbsp;dan sepanjang 3,2 ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
