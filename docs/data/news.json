@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T02:58:54+0000",
+  "timestamp": "2026-07-02T03:29:02+0000",
   "articles": [
     {
       "title": "Superstar Kane produces his biggest England moment",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "BKPM sebut investor Australia berencana bangun fasilitas pCAM di RI",
-      "link": "https://www.antaranews.com/berita/5631671/bkpm-sebut-investor-australia-berencana-bangun-fasilitas-pcam-di-ri",
-      "published": "Thu, 02 Jul 2026 09:54:33 +0700",
-      "description": "Kementerian Investasi dan Hilirisasi menyampaikan perusahaan teknologi pemrosesan material baterai asal Australia, Pure ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Gol Balogun dan Tillman antar Amerika Serikat ke babak 16 besar",
-      "link": "https://www.antaranews.com/berita/5631669/gol-balogun-dan-tillman-antar-amerika-serikat-ke-babak-16-besar",
-      "published": "Thu, 02 Jul 2026 09:50:34 +0700",
-      "description": "Gol Folarin Balogun dan Malik Tillman mengantarkan tim nasional Amerika Serikat ke babak 16 besar Piala Dunia 2026 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "IHSG menguat di tengah investor cermati arah suku bunga global",
-      "link": "https://www.antaranews.com/berita/5631665/ihsg-menguat-di-tengah-investor-cermati-arah-suku-bunga-global",
-      "published": "Thu, 02 Jul 2026 09:42:29 +0700",
-      "description": "Indeks Harga Saham Gabungan (IHSG) Bursa Efek Indonesia (BEI) pada Kamis pagi bergerak menguat di tengah investor masih ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KAI pastikan seluruh sarana diesel siap terapkan biodiesel B50",
-      "link": "https://www.antaranews.com/berita/5631663/kai-pastikan-seluruh-sarana-diesel-siap-terapkan-biodiesel-b50",
-      "published": "Thu, 02 Jul 2026 09:37:43 +0700",
-      "description": "PT Kereta Api Indonesia (Persero) memastikan seluruh sarana diesel siap menerapkan penggunaan bahan bakar biodiesel B50 ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
