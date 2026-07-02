@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-02T00:27:11+0000",
+  "timestamp": "2026-07-02T00:57:23+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 65.0,
     "cores": 2,
     "load_avg": [
-      2.65,
       2.23,
-      2.21
+      2.27,
+      2.25
     ]
   },
   "memory": {
@@ -19,15 +19,15 @@
   },
   "disk": {
     "total": "193G",
-    "used": "90G",
+    "used": "91G",
     "available": "103G",
     "percent": "47%"
   },
   "uptime": {
     "days": 2,
-    "hours": 12,
-    "minutes": 52,
-    "total_seconds": 219179.04
+    "hours": 13,
+    "minutes": 23,
+    "total_seconds": 220991.18
   },
   "top_processes": [
     {
@@ -37,20 +37,20 @@
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
+      "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
+    {
       "user": "root",
-      "cpu": "30.0",
-      "mem": "1.1",
+      "cpu": "31.1",
+      "mem": "1.2",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
-      "user": "opc",
-      "cpu": "26.5",
-      "mem": "1.0",
-      "command": "node current/index.js"
-    },
-    {
       "user": "ubuntu",
-      "cpu": "15.0",
+      "cpu": "14.2",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
