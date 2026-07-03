@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T16:32:08+0000",
+  "timestamp": "2026-07-03T17:03:08+0000",
   "articles": [
     {
       "title": "Police criticise timing of decision on pubs staying open for England match",
@@ -29,12 +29,39 @@
       "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
       "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 03 Jul 2026 15:20:57 GMT",
-      "description": "Officials believe the suspect may not have acted alone and spent days casing out scene of the attack.",
+      "description": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Sinner terus tingkatkan performa untuk tembus babak keempat Wimbledon",
+      "link": "https://www.antaranews.com/berita/5634851/sinner-terus-tingkatkan-performa-untuk-tembus-babak-keempat-wimbledon",
+      "published": "Fri, 03 Jul 2026 23:58:44 +0700",
+      "description": "Juara bertahan Jannik Sinner terus meningkatkan performanya dari pertandingan ke pertandingan setelah memastikan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Jepang catat kenaikan penerimaan pajak 12 persen pada TA 2025",
+      "link": "https://www.antaranews.com/berita/5634848/jepang-catat-kenaikan-penerimaan-pajak-12-persen-pada-ta-2025",
+      "published": "Fri, 03 Jul 2026 23:58:37 +0700",
+      "description": "Kementerian Keuangan Jepang melaporkan pada Jumat bahwa penerimaan pajak sepanjang Tahun Anggaran (TA) 2025 naik 12 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "MU kembali pinjamkan Andre Onana ke Trabzonspor",
+      "link": "https://www.antaranews.com/berita/5634845/mu-kembali-pinjamkan-andre-onana-ke-trabzonspor",
+      "published": "Fri, 03 Jul 2026 23:57:01 +0700",
+      "description": "Klub Liga Inggris Manchester United kembali meminjamkan kiper Andre Onana ke klub Liga Turki Trabzonspor untuk ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Desak, Rajiah, dan Kadek Asih tembus putaran final Series Krakow",
+      "link": "https://www.antaranews.com/berita/5634843/desak-rajiah-dan-kadek-asih-tembus-putaran-final-series-krakow",
+      "published": "Fri, 03 Jul 2026 23:54:10 +0700",
+      "description": "Sebanyak tiga atlet panjat tebing putri Indonesia yakni Desak Made Rita, Rajiah Sallsabillah, dan Kadek Adi Asih ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
