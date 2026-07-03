@@ -1,64 +1,64 @@
 {
-  "timestamp": "2026-07-03T19:07:07+0000",
+  "timestamp": "2026-07-03T19:38:08+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 61.9,
+    "percent": 100.0,
     "cores": 2,
     "load_avg": [
-      2.9,
-      2.18,
-      2.12
+      1.94,
+      2.24,
+      2.17
     ]
   },
   "memory": {
     "total": 11.6,
     "free": 1.4,
-    "available": 6.9,
-    "used": 4.7,
-    "percent": 40.5
+    "available": 6.8,
+    "used": 4.8,
+    "percent": 41.4
   },
   "disk": {
     "total": "193G",
     "used": "94G",
-    "available": "100G",
+    "available": "99G",
     "percent": "49%"
   },
   "uptime": {
     "days": 4,
-    "hours": 7,
-    "minutes": 32,
-    "total_seconds": 372775.01
+    "hours": 8,
+    "minutes": 3,
+    "total_seconds": 374635.76
   },
   "top_processes": [
     {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "50.0",
-      "mem": "0.3",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "user": "root",
+      "cpu": "81.8",
+      "mem": "0.6",
+      "command": "node /usr/local/bin/pnpm dlx prisma@6.5.0 db push "
     },
     {
       "user": "root",
-      "cpu": "26.8",
-      "mem": "1.2",
+      "cpu": "50.9",
+      "mem": "0.3",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
-      "user": "ubuntu",
-      "cpu": "14.2",
-      "mem": "0.1",
-      "command": "python3 scripts/collect-vps.py"
+      "user": "root",
+      "cpu": "41.0",
+      "mem": "0.8",
+      "command": "node /usr/local/bin/pnpm run prisma-db-push"
+    },
+    {
+      "user": "opc",
+      "cpu": "34.3",
+      "mem": "1.0",
+      "command": "node current/index.js"
     },
     {
       "user": "ubuntu",
-      "cpu": "5.7",
-      "mem": "0.8",
-      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+      "cpu": "31.5",
+      "mem": "0.4",
+      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     }
   ]
 }
