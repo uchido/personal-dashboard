@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T16:01:11+0000",
+  "timestamp": "2026-07-03T16:32:08+0000",
   "articles": [
     {
       "title": "Police criticise timing of decision on pubs staying open for England match",
@@ -12,7 +12,7 @@
     {
       "title": "Three men found not guilty of journalist Lyra McKee's murder",
       "link": "https://www.bbc.co.uk/news/articles/cpd357j7020o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 15:53:29 GMT",
+      "published": "Fri, 03 Jul 2026 16:12:32 GMT",
       "description": "The 29-year-old was shot while observing rioting in Londonderry in April 2019.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Tim pelatih baru timnas U17: Nascimento pelatih, Bustomi asisten",
-      "link": "https://www.antaranews.com/berita/5634775/tim-pelatih-baru-timnas-u17-nascimento-pelatih-bustomi-asisten",
-      "published": "Fri, 03 Jul 2026 23:00:34 +0700",
-      "description": "Ketua Badan Tim Nasional (BTN) Sumardji mengungkapkan bahwa David Nascimento menjadi pelatih kepala baru timnas U17 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Oppo Bubble ditawarkan seharga Rp1.499.000 di Indonesia",
-      "link": "https://www.antaranews.com/berita/5634771/oppo-bubble-ditawarkan-seharga-rp1499000-di-indonesia",
-      "published": "Fri, 03 Jul 2026 22:53:41 +0700",
-      "description": "Oppo memperkenalkan Oppo Bubble bersamaan dengan peluncuran ponsel seri Reno16 di Indonesia, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Wilayah udara Teheran ditutup selama prosesi pemakaman Ali Khamenei",
-      "link": "https://www.antaranews.com/berita/5634768/wilayah-udara-teheran-ditutup-selama-prosesi-pemakaman-ali-khamenei",
-      "published": "Fri, 03 Jul 2026 22:51:14 +0700",
-      "description": "Wilayah udara di atas Teheran akan ditutup pada Senin (6/7) selama upacara pemakaman mantan pemimpin tertinggi Iran Ali ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemkot jaring kendaraan tak lolos uji emisi di Jakut",
-      "link": "https://www.antaranews.com/berita/5634765/pemkot-jaring-kendaraan-tak-lolos-uji-emisi-di-jakut",
-      "published": "Fri, 03 Jul 2026 22:50:11 +0700",
-      "description": "Pemerintah Kota (Pemkot) Jakarta Utara menjaring 19 kendaraan masyarakat yang tidak lolos uji emisi yang dilaksanakan ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
