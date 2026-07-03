@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-03T18:36:09+0000",
+  "timestamp": "2026-07-03T19:07:10+0000",
   "articles": [
     {
       "title": "Police criticise timing of decision on pubs staying open for England match",
       "link": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 14:22:16 GMT",
+      "published": "Fri, 03 Jul 2026 19:00:40 GMT",
       "description": "The \"late announcement\" extending opening hours to 05:00 on Monday means taking officers away from other duties, the National Police Chiefs' Council says.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "England v Mexico set to move to earlier kick-off time",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 18:59:32 GMT",
+      "description": "England's World Cup last-16 tie with Mexico could be moved to earlier on Sunday because of the threat of storms.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 15:20:57 GMT",
-      "description": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Bupati Langkat irit bicara seusai ditetapkan KPK jadi tersangka suap",
+      "link": "https://www.antaranews.com/berita/5634912/bupati-langkat-irit-bicara-seusai-ditetapkan-kpk-jadi-tersangka-suap",
+      "published": "Sat, 04 Jul 2026 01:53:43 +0700",
+      "description": "Bupati Langkat Syah Afandin alias Ondim irit berbicara ketika muncul di hadapan publik sesuai ditetapkan Komisi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Andi Gani serahkan ambulans ke Universitas Kuningan dukung aksi sosial",
+      "link": "https://www.antaranews.com/berita/5634909/andi-gani-serahkan-ambulans-ke-universitas-kuningan-dukung-aksi-sosial",
+      "published": "Sat, 04 Jul 2026 01:36:22 +0700",
+      "description": "Presiden Komisaris Ajaib Group Andi Gani Nena Wea menyerahkan bantuan corporate social responsibility (CSR) perusahaan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Agen sebut LeBron James diincar 10 klub usai tinggalkan Lakers",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5634904/jaylen-brown-mengaku-syok-ditukar-ke-76ers",
       "published": "Sat, 04 Jul 2026 01:27:43 +0700",
       "description": "Mantan bintang utama Boston Celtics Jaylen Brown mengaku terkejut setelah menerima keputusan manajemen klub yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Sabtu, sebagian Jakarta berpotensi cerah berawan pada siang dan malam",
-      "link": "https://www.antaranews.com/berita/5634901/sabtu-sebagian-jakarta-berpotensi-cerah-berawan-pada-siang-dan-malam",
-      "published": "Sat, 04 Jul 2026 01:24:49 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian besar wilayah Jakarta bakal cerah berawan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KPK sebut Bupati Langkat terima suap Rp800 juta dari total Rp1,1 M",
-      "link": "https://www.antaranews.com/berita/5634899/kpk-sebut-bupati-langkat-terima-suap-rp800-juta-dari-total-rp11-m",
-      "published": "Sat, 04 Jul 2026 01:17:50 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) mengatakan Bupati Langkat Syah Afandin alias Ondim (SAF) telah menerima uang hasil ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
