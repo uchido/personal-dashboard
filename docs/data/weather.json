@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-07-04T07:00:25+0000",
+  "timestamp": "2026-07-04T07:31:21+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Tanamodindi",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "29",
-      "feels_like_c": "34",
-      "humidity": "73",
-      "wind_speed_kmh": "5",
+      "feels_like_c": "33",
+      "humidity": "76",
+      "wind_speed_kmh": "4",
       "wind_dir": "NW",
-      "visibility_km": "10",
-      "pressure_mb": "1012",
-      "condition": "Light rain shower",
-      "condition_code": "353",
-      "uv_index": "9",
+      "visibility_km": "9",
+      "pressure_mb": "1011",
+      "condition": "Patchy rain nearby",
+      "condition_code": "176",
+      "uv_index": "4",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -29,7 +29,7 @@
           "date": "2026-07-05",
           "max_temp": "31",
           "min_temp": "17",
-          "condition": "Patchy rain nearby",
+          "condition": "Mist",
           "sunrise": "06:03 AM",
           "sunset": "06:07 PM"
         },
@@ -37,7 +37,7 @@
           "date": "2026-07-06",
           "max_temp": "29",
           "min_temp": "18",
-          "condition": "Patchy rain nearby",
+          "condition": "Mist",
           "sunrise": "06:03 AM",
           "sunset": "06:07 PM"
         }
@@ -45,7 +45,45 @@
     },
     {
       "name": "Yogyakarta",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "location": "Joho",
+      "region": "Daerah Istimewa Yogyakarta",
+      "country": "Indonesia",
+      "temp_c": "30",
+      "feels_like_c": "31",
+      "humidity": "54",
+      "wind_speed_kmh": "15",
+      "wind_dir": "SSE",
+      "visibility_km": "10",
+      "pressure_mb": "1010",
+      "condition": "Sunny",
+      "condition_code": "113",
+      "uv_index": "5",
+      "forecast": [
+        {
+          "date": "2026-07-04",
+          "max_temp": "30",
+          "min_temp": "20",
+          "condition": "Clear ",
+          "sunrise": "05:53 AM",
+          "sunset": "05:33 PM"
+        },
+        {
+          "date": "2026-07-05",
+          "max_temp": "30",
+          "min_temp": "22",
+          "condition": "Clear ",
+          "sunrise": "05:53 AM",
+          "sunset": "05:34 PM"
+        },
+        {
+          "date": "2026-07-06",
+          "max_temp": "30",
+          "min_temp": "22",
+          "condition": "Partly Cloudy ",
+          "sunrise": "05:53 AM",
+          "sunset": "05:34 PM"
+        }
+      ]
     }
   ]
 }
