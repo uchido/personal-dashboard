@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T22:47:57+0000",
+  "timestamp": "2026-07-05T23:18:57+0000",
   "locations": [
     {
       "name": "Palu",
@@ -52,9 +52,9 @@
       "feels_like_c": "17",
       "humidity": "92",
       "wind_speed_kmh": "4",
-      "wind_dir": "ENE",
-      "visibility_km": "3",
-      "pressure_mb": "1013",
+      "wind_dir": "E",
+      "visibility_km": "2",
+      "pressure_mb": "1014",
       "condition": "Smoky haze",
       "condition_code": "149",
       "uv_index": "0",
