@@ -1,33 +1,33 @@
 {
-  "timestamp": "2026-07-05T07:48:43+0000",
+  "timestamp": "2026-07-05T08:19:44+0000",
   "locations": [
     {
       "name": "Palu",
       "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "29",
-      "feels_like_c": "34",
-      "humidity": "77",
+      "temp_c": "28",
+      "feels_like_c": "33",
+      "humidity": "80",
       "wind_speed_kmh": "6",
-      "wind_dir": "NNW",
+      "wind_dir": "NW",
       "visibility_km": "10",
       "pressure_mb": "1011",
       "condition": "Light rain shower",
       "condition_code": "353",
-      "uv_index": "5",
+      "uv_index": "3",
       "forecast": [
         {
           "date": "2026-07-05",
           "max_temp": "31",
-          "min_temp": "18",
-          "condition": "Light rain shower",
+          "min_temp": "17",
+          "condition": "Patchy rain nearby",
           "sunrise": "06:03 AM",
           "sunset": "06:07 PM"
         },
         {
           "date": "2026-07-06",
-          "max_temp": "31",
+          "max_temp": "30",
           "min_temp": "18",
           "condition": "Mist",
           "sunrise": "06:03 AM",
@@ -35,8 +35,8 @@
         },
         {
           "date": "2026-07-07",
-          "max_temp": "30",
-          "min_temp": "18",
+          "max_temp": "31",
+          "min_temp": "17",
           "condition": "Mist",
           "sunrise": "06:03 AM",
           "sunset": "06:07 PM"
@@ -50,19 +50,19 @@
       "country": "Indonesia",
       "temp_c": "29",
       "feels_like_c": "31",
-      "humidity": "60",
-      "wind_speed_kmh": "17",
+      "humidity": "64",
+      "wind_speed_kmh": "20",
       "wind_dir": "SSE",
       "visibility_km": "10",
-      "pressure_mb": "1012",
+      "pressure_mb": "1011",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "7",
+      "uv_index": "5",
       "forecast": [
         {
           "date": "2026-07-05",
           "max_temp": "29",
-          "min_temp": "21",
+          "min_temp": "22",
           "condition": "Clear ",
           "sunrise": "05:53 AM",
           "sunset": "05:34 PM"
