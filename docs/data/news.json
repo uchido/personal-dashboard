@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-06T10:10:08+0000",
+  "timestamp": "2026-07-06T10:41:08+0000",
   "articles": [
     {
       "title": "Buckingham Palace says Prince Harry will not stay there despite his team announcing he would",
       "link": "https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 10:02:58 GMT",
+      "published": "Mon, 06 Jul 2026 10:31:46 GMT",
       "description": "Royal sources say the Duke of Sussex had not responded to the offer of accommodation at a Royal residence by the deadline last week.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Uefa says 'integrity of game at stake' after Fifa's decision to overturn US star's red card ban",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 08:36:59 GMT",
+      "description": "Uefa says Fifa's decision not to uphold Folarin Balogun's immediate ban at the World Cup is \"unprecedented, incomprehensible and unjustifiable\".",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-      "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 05:04:28 GMT",
-      "description": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Geoekonomi Indonesia setelah lahirnya ACCHK",
+      "link": "https://www.antaranews.com/berita/5637361/geoekonomi-indonesia-setelah-lahirnya-acchk",
+      "published": "Mon, 06 Jul 2026 17:39:50 +0700",
+      "description": "Lahirnya ASEAN Chamber of Commerce Hong Kong (ACCHK), pada 30 Juni 2026, menambah satu simpul baru dalam arsitektur ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Arema FC rekrut Alfaendra Dewangga dari Persib dua musim",
+      "link": "https://www.antaranews.com/berita/5637360/arema-fc-rekrut-alfaendra-dewangga-dari-persib-dua-musim",
+      "published": "Mon, 06 Jul 2026 17:39:19 +0700",
+      "description": "Arema FC mendatangkan pemain bertahan Alfeandra Dewangga dari Persib Bandung dengan durasi kontrak dua musim guna ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menaker pastikan Satgas PHK mitigasi potensi gelombang pemutusan kerja",
+      "link": "https://www.antaranews.com/berita/5637357/menaker-pastikan-satgas-phk-mitigasi-potensi-gelombang-pemutusan-kerja",
+      "published": "Mon, 06 Jul 2026 17:37:59 +0700",
+      "description": "Menteri Ketenagakerjaan (Menaker) Yassierli memastikan Satuan Tugas Pemutusan Hubungan Kerja (Satgas PHK) bekerja untuk ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Momen Prabowo antar kepulangan PM Wong dari Istana Merdeka",
+      "link": "https://www.antaranews.com/berita/5637353/momen-prabowo-antar-kepulangan-pm-wong-dari-istana-merdeka",
+      "published": "Mon, 06 Jul 2026 17:37:19 +0700",
+      "description": "Momen Presiden Prabowo Subianto mengantar kepulangan Perdana Menteri Lawrence Wong dari Istana Merdeka menjadi penutup ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
