@@ -1,9 +1,47 @@
 {
-  "timestamp": "2026-07-06T02:25:15+0000",
+  "timestamp": "2026-07-06T02:56:01+0000",
   "locations": [
     {
       "name": "Palu",
-      "error": "The read operation timed out"
+      "location": "Lolu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "temp_c": "30",
+      "feels_like_c": "34",
+      "humidity": "64",
+      "wind_speed_kmh": "4",
+      "wind_dir": "WNW",
+      "visibility_km": "10",
+      "pressure_mb": "1013",
+      "condition": "Patchy rain nearby",
+      "condition_code": "176",
+      "uv_index": "5",
+      "forecast": [
+        {
+          "date": "2026-07-06",
+          "max_temp": "31",
+          "min_temp": "18",
+          "condition": "Mist",
+          "sunrise": "06:03 AM",
+          "sunset": "06:07 PM"
+        },
+        {
+          "date": "2026-07-07",
+          "max_temp": "31",
+          "min_temp": "18",
+          "condition": "Mist",
+          "sunrise": "06:03 AM",
+          "sunset": "06:07 PM"
+        },
+        {
+          "date": "2026-07-08",
+          "max_temp": "30",
+          "min_temp": "18",
+          "condition": "Mist",
+          "sunrise": "06:03 AM",
+          "sunset": "06:08 PM"
+        }
+      ]
     },
     {
       "name": "Yogyakarta",
