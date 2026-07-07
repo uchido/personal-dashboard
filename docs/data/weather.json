@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-07-07T06:27:27+0000",
+  "timestamp": "2026-07-07T06:58:27+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Boyaoge",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "30",
+      "temp_c": "29",
       "feels_like_c": "34",
-      "humidity": "69",
+      "humidity": "74",
       "wind_speed_kmh": "8",
       "wind_dir": "NW",
       "visibility_km": "10",
       "pressure_mb": "1010",
-      "condition": "Patchy rain nearby",
-      "condition_code": "176",
-      "uv_index": "8",
+      "condition": "Light rain shower",
+      "condition_code": "353",
+      "uv_index": "6",
       "forecast": [
         {
           "date": "2026-07-07",
