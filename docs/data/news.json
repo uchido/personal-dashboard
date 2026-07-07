@@ -1,10 +1,18 @@
 {
-  "timestamp": "2026-07-07T15:22:35+0000",
+  "timestamp": "2026-07-07T15:53:36+0000",
   "articles": [
+    {
+      "title": "Harry loses High Court privacy case against Daily Mail publisher",
+      "link": "https://www.bbc.co.uk/news/articles/c9324nyqwjno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 14:41:35 GMT",
+      "description": "Judge Mr Justice Nicklin says the claimants had failed to prove the allegations.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Marine Le Pen found guilty, but court clears way for presidential run if she wears tag",
       "link": "https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 13:57:25 GMT",
+      "published": "Tue, 07 Jul 2026 15:46:05 GMT",
       "description": "The National Rally leader now has to decide whether she will run with an electronic tag and will speak on TV later.",
       "source": "BBC News",
       "category": "Global"
@@ -12,7 +20,7 @@
     {
       "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 14:08:57 GMT",
+      "published": "Tue, 07 Jul 2026 15:41:10 GMT",
       "description": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
       "source": "BBC News",
       "category": "Global"
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Zelensky presses Nato for air defence systems after intense Russian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 13:24:52 GMT",
-      "description": "The Ukrainian president says \"decisions for air defence\" should be \"one of the key outcomes\" of this week's summit in Turkey.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "PM Modi merasa terhormat menerima Bintang Adipurna dari Indonesia",
-      "link": "https://www.antaranews.com/berita/5639620/pm-modi-merasa-terhormat-menerima-bintang-adipurna-dari-indonesia",
-      "published": "Tue, 07 Jul 2026 22:19:54 +0700",
-      "description": "Perdana Menteri (PM) India Narendra Modi mengaku merasa terhormat menerima Bintang Republik Indonesia Adipurna, tanda ...",
+      "title": "OJK minta bank blokir 36 ribu rekening terindikasi judi online",
+      "link": "https://www.antaranews.com/berita/5639667/ojk-minta-bank-blokir-36-ribu-rekening-terindikasi-judi-online",
+      "published": "Tue, 07 Jul 2026 22:52:40 +0700",
+      "description": "Otoritas Jasa Keuangan (OJK) meminta perbankan melakukan enhanced due diligence (EDD) atau pemblokiran terhadap lebih ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Fairuz A. Rafiq-Sonny Septian bagikan kiat isi liburan sekolah anak",
-      "link": "https://www.antaranews.com/berita/5639619/fairuz-a-rafiq-sonny-septian-bagikan-kiat-isi-liburan-sekolah-anak",
-      "published": "Tue, 07 Jul 2026 22:17:13 +0700",
-      "description": "Pasangan selebritas Fairuz A. Rafiq dan Sonny Septian membagikan kiat yang dilakukan dalam memanfaatkan momen libur ...",
+      "title": "Dubes AS hormati perundingan ASEAN-China terkait Kode Etik",
+      "link": "https://www.antaranews.com/berita/5639664/dubes-as-hormati-perundingan-asean-china-terkait-kode-etik",
+      "published": "Tue, 07 Jul 2026 22:52:23 +0700",
+      "description": "Duta Besar Amerika Serikat (AS) untuk ASEAN Kevin Kim menyatakan bahwa AS menghormati diskusi dan negosiasi antara ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemkot Pontianak perkuat pemenuhan kebutuhan tenaga pendidik",
-      "link": "https://www.antaranews.com/video/5639255/pemkot-pontianak-perkuat-pemenuhan-kebutuhan-tenaga-pendidik",
-      "published": "Tue, 07 Jul 2026 22:15:59 +0700",
-      "description": "ANTARA - Pemerintah Kota Pontianak terus berupaya mengatasi kekurangan 484 tenaga pendidik yang tersebar di sekolah ...",
+      "title": "Indonesia U17 tutup uji coba lawan Malaysia U17 dengan kemenangan 3-0",
+      "link": "https://www.antaranews.com/berita/5639661/indonesia-u17-tutup-uji-coba-lawan-malaysia-u17-dengan-kemenangan-3-0",
+      "published": "Tue, 07 Jul 2026 22:49:36 +0700",
+      "description": "Timnas U17 Indonesia menutup laga uji coba melawan timnas U17 Malaysia dengan kemenangan 3-0 di Stadion Manahan, Solo, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Iran masih tunggu waktu tepat untuk konfirmasi kunjungan delegasi RI",
-      "link": "https://www.antaranews.com/berita/5639615/iran-masih-tunggu-waktu-tepat-untuk-konfirmasi-kunjungan-delegasi-ri",
-      "published": "Tue, 07 Jul 2026 22:15:17 +0700",
-      "description": "Duta Besar (Dubes) Republik Islam Iran Mohammad Boroujerdi mengatakan bahwa Pemerintah Iran tengah menunggu waktu yang ...",
+      "title": "Timnas disiplin speed tiba di Prancis untuk ikuti Series Chamonix 2026",
+      "link": "https://www.antaranews.com/berita/5639656/timnas-disiplin-speed-tiba-di-prancis-untuk-ikuti-series-chamonix-2026",
+      "published": "Tue, 07 Jul 2026 22:45:33 +0700",
+      "description": "Timnas panjat tebing disiplin speed, telah tiba di Prancis pada pukul dua pagi waktu setempat, guna mengikuti World ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
