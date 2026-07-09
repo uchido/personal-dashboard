@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-09T23:15:26+0000",
+  "timestamp": "2026-07-09T23:46:27+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 57.1,
+    "percent": 68.4,
     "cores": 2,
     "load_avg": [
-      2.12,
-      2.32,
-      2.28
+      1.85,
+      1.96,
+      2.07
     ]
   },
   "memory": {
@@ -25,20 +25,20 @@
   },
   "uptime": {
     "days": 10,
-    "hours": 11,
-    "minutes": 41,
-    "total_seconds": 906074.12
+    "hours": 12,
+    "minutes": 12,
+    "total_seconds": 907934.69
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
+      "cpu": "87.5",
       "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "command": "node /home/ubuntu/.npm-global/bin/9router"
     },
     {
       "user": "root",
-      "cpu": "38.8",
+      "cpu": "22.1",
       "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
