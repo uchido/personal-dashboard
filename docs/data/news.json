@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-07-09T09:18:30+0000",
+  "timestamp": "2026-07-09T09:49:31+0000",
   "articles": [
+    {
+      "title": "Why heatwaves hit women harder",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 23:49:12 GMT",
+      "description": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Disability benefit not fit for purpose, minister leading review says",
       "link": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&at_campaign=rss",
@@ -10,18 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "Met investigates donation to Jenrick's Tory leadership campaign",
-      "link": "https://www.bbc.co.uk/news/articles/cgev4jq4jngo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 00:50:56 GMT",
-      "description": "The former Conservative, now Reform UK, MP says the allegations are \"entirely false\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Starmer hints at bank holiday if England win World Cup",
-      "link": "https://www.bbc.co.uk/news/articles/c20y9g2v2wvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 01:25:24 GMT",
-      "description": "The prime minister says he does not want to \"jinx it\" but \"ask me again if we get to the final\".",
+      "title": "Burnham on course for No 10 as Labour nominations open",
+      "link": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Jul 2026 09:00:32 GMT",
+      "description": "The former mayor of Greater Manchester is unopposed in the race to replace Sir Keir Starmer.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Digitalisasi Pelayanan Jadi Kunci Jasa Raharja Hadir Lebih Cepat bagi Korban Kecelakaan",
-      "link": "https://www.antaranews.com/berita/5642331/digitalisasi-pelayanan-jadi-kunci-jasa-raharja-hadir-lebih-cepat-bagi-korban-kecelakaan",
-      "published": "Thu, 09 Jul 2026 16:17:47 +0700",
-      "description": "PT Jasa Raharja terus memperkuat komitmen dalam memberikan perlindungan dasar kepada masyarakat melalui pelayanan yang ...",
+      "title": "Kemendikdasmen perkuat pelatihan PMKKA guru berbasis mata pelajaran",
+      "link": "https://www.antaranews.com/berita/5642403/kemendikdasmen-perkuat-pelatihan-pmkka-guru-berbasis-mata-pelajaran",
+      "published": "Thu, 09 Jul 2026 16:47:40 +0700",
+      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) memperkuat implementasi pelatihan mandiri Pembelajaran ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ekonom: Pungutan pajak marketplace bantu menertibkan ekonomi digital",
-      "link": "https://www.antaranews.com/berita/5642329/ekonom-pungutan-pajak-marketplace-bantu-menertibkan-ekonomi-digital",
-      "published": "Thu, 09 Jul 2026 16:16:20 +0700",
-      "description": "Ekonom Center of Reform on Economics (CORE) Yusuf Rendy Manilet menilai kebijakan pemungutan Pajak Penghasilan (PPh) ...",
+      "title": "Tersangka korupsi penjualan susu BBPTUHPT Baturraden ditahan",
+      "link": "https://www.antaranews.com/berita/5642397/tersangka-korupsi-penjualan-susu-bbptuhpt-baturraden-ditahan",
+      "published": "Thu, 09 Jul 2026 16:45:57 +0700",
+      "description": "Kejaksaan Negeri Purwokerto menahan tersangka dugaan korupsi penjualan produksi susu di Balai Besar Pembibitan Ternak ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemendikdasmen latih guru perkuat kompetensi koding hingga AI",
-      "link": "https://www.antaranews.com/berita/5642328/kemendikdasmen-latih-guru-perkuat-kompetensi-koding-hingga-ai",
-      "published": "Thu, 09 Jul 2026 16:15:58 +0700",
-      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) menyelenggarakan pelatihan mandiri guna memperkuat ...",
+      "title": "Trump sebut Spanyol \"akhirnya kembali\" setelah diancam",
+      "link": "https://www.antaranews.com/berita/5642395/trump-sebut-spanyol-akhirnya-kembali-setelah-diancam",
+      "published": "Thu, 09 Jul 2026 16:45:12 +0700",
+      "description": "Presiden Amerika Serikat Donald Trump mengatakan Spanyol berbalik arah sepenuhnya&nbsp;setelah dia&nbsp;mengancam akan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "BPS: Pelaku usaha belum disensus disiapkan pengisian data via daring",
-      "link": "https://www.antaranews.com/berita/5642324/bps-pelaku-usaha-belum-disensus-disiapkan-pengisian-data-via-daring",
-      "published": "Thu, 09 Jul 2026 16:14:22 +0700",
-      "description": "BPS Kota Tangerang, Banten, memastikan bagi pelaku usaha di pusat perbelanjaan&nbsp;yang tidak dapat ditemui dan belum ...",
+      "title": "Pemkot Kendari libatkan remaja dalam pencegahan & penanganan stunting",
+      "link": "https://www.antaranews.com/video/5642267/pemkot-kendari-libatkan-remaja-dalam-pencegahan-penanganan-stunting",
+      "published": "Thu, 09 Jul 2026 16:42:40 +0700",
+      "description": "ANTARA - Pemerintah Kota Kendari melibatkan kalangan remaja termasuk pelajar dalam pencegahan dan penanganan stunting. ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
