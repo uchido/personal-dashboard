@@ -1,47 +1,9 @@
 {
-  "timestamp": "2026-07-09T14:59:21+0000",
+  "timestamp": "2026-07-09T15:30:36+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
-      "region": "Central Sulawesi",
-      "country": "Indonesia",
-      "temp_c": "21",
-      "feels_like_c": "16",
-      "humidity": "96",
-      "wind_speed_kmh": "4",
-      "wind_dir": "ENE",
-      "visibility_km": "2",
-      "pressure_mb": "1014",
-      "condition": "Mist",
-      "condition_code": "143",
-      "uv_index": "0",
-      "forecast": [
-        {
-          "date": "2026-07-09",
-          "max_temp": "31",
-          "min_temp": "17",
-          "condition": "Mist",
-          "sunrise": "06:04 AM",
-          "sunset": "06:08 PM"
-        },
-        {
-          "date": "2026-07-10",
-          "max_temp": "31",
-          "min_temp": "17",
-          "condition": "Mist",
-          "sunrise": "06:04 AM",
-          "sunset": "06:08 PM"
-        },
-        {
-          "date": "2026-07-11",
-          "max_temp": "31",
-          "min_temp": "17",
-          "condition": "Mist",
-          "sunrise": "06:04 AM",
-          "sunset": "06:08 PM"
-        }
-      ]
+      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
     },
     {
       "name": "Yogyakarta",
@@ -50,13 +12,13 @@
       "country": "Indonesia",
       "temp_c": "22",
       "feels_like_c": "17",
-      "humidity": "84",
-      "wind_speed_kmh": "6",
+      "humidity": "87",
+      "wind_speed_kmh": "4",
       "wind_dir": "SE",
       "visibility_km": "10",
       "pressure_mb": "1015",
-      "condition": "Clear ",
-      "condition_code": "113",
+      "condition": "Patchy rain nearby",
+      "condition_code": "176",
       "uv_index": "0",
       "forecast": [
         {
