@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-09T10:20:18+0000",
+  "timestamp": "2026-07-09T10:51:17+0000",
   "articles": [
     {
       "title": "Why heatwaves hit women harder",
       "link": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 08 Jul 2026 23:49:12 GMT",
       "description": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Family's 'unimaginable loss' as mum and daughters found dead",
+      "link": "https://www.bbc.co.uk/news/articles/clyr4l1p6d4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Jul 2026 10:27:02 GMT",
+      "description": "Bedfordshire Police is seeking Ndodana Mkhanyisi Tshuma, 45, also known as Mark.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Burnham on course for No 10 as Labour nominations open",
-      "link": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 09:00:32 GMT",
-      "description": "The former mayor of Greater Manchester is unopposed in the race to replace Sir Keir Starmer.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "It was 'love at first sight' with their adopted baby - then they were told he may have been trafficked",
       "link": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 08 Jul 2026 23:31:53 GMT",
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Prabowo: Ladang gas besar di Andaman-Masela dukung kemandirian energi",
-      "link": "https://www.antaranews.com/berita/5642469/prabowo-ladang-gas-besar-di-andaman-masela-dukung-kemandirian-energi",
-      "published": "Thu, 09 Jul 2026 17:19:02 +0700",
-      "description": "Presiden Prabowo Subianto mengungkapkan Indonesia menemukan ladang gas besar baru di perairan Andaman, Aceh&nbsp;serta ...",
+      "title": "Unpatti rancang sistem cicilan UKT untuk mahasiswa kurang mampu",
+      "link": "https://www.antaranews.com/berita/5642541/unpatti-rancang-sistem-cicilan-ukt-untuk-mahasiswa-kurang-mampu",
+      "published": "Thu, 09 Jul 2026 17:50:38 +0700",
+      "description": "Universitas Pattimura (Unpatti) Ambon merancang skema pembayaran uang kuliah tunggal (UKT) secara mencicil melalui ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Amazon tengah siapkan Alexa jadi asisten AI lebih canggih & responsif",
-      "link": "https://www.antaranews.com/berita/5642468/amazon-tengah-siapkan-alexa-jadi-asisten-ai-lebih-canggih-responsif",
-      "published": "Thu, 09 Jul 2026 17:16:50 +0700",
-      "description": "Perusahaan teknologi asal AS, Amazon, dikabarkan tengah menyiapkan asisten kecerdasan artifisial (artificial ...",
+      "title": "Prabowo soroti budaya kurang menghargai prestasi bangsa",
+      "link": "https://www.antaranews.com/berita/5642537/prabowo-soroti-budaya-kurang-menghargai-prestasi-bangsa",
+      "published": "Thu, 09 Jul 2026 17:48:55 +0700",
+      "description": "Presiden Prabowo Subianto menyoroti budaya kurang menghargai prestasi sendiri sebagai salah satu tantangan yang masih ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "‎Polres Sampang tangkap 12 tersangka kekerasan seksual terhadap anak",
-      "link": "https://www.antaranews.com/berita/5642467/polres-sampang-tangkap-12-tersangka-kekerasan-seksual-terhadap-anak",
-      "published": "Thu, 09 Jul 2026 17:14:08 +0700",
-      "description": "Kepolisian Resor (Polres) Sampang, Jawa Timur, menangkap 12 tersangka kasus dugaan kekerasan seksual terhadap seorang ...",
+      "title": "IESR: Penerapan B50 kurangi ketergantungan pada impor solar",
+      "link": "https://www.antaranews.com/berita/5642533/iesr-penerapan-b50-kurangi-ketergantungan-pada-impor-solar",
+      "published": "Thu, 09 Jul 2026 17:48:34 +0700",
+      "description": "Chief Executive Officer Institute for Essential Services Reform (IESR) Fabby Tumiwa mengatakan bahwa penerapan B50 ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Indonesia komitmen perkuat sistem internasional yang lebih efektif",
-      "link": "https://www.antaranews.com/berita/5642464/indonesia-komitmen-perkuat-sistem-internasional-yang-lebih-efektif",
-      "published": "Thu, 09 Jul 2026 17:11:47 +0700",
-      "description": "Menteri Luar Negeri RI Sugiono menyatakan bahwa Indonesia berkomitmen untuk berperan aktif dalam kerja sama ...",
+      "title": "Gubernur DKI upayakan anak yatim belum terima KJP jadi prioritas",
+      "link": "https://www.antaranews.com/berita/5642532/gubernur-dki-upayakan-anak-yatim-belum-terima-kjp-jadi-prioritas",
+      "published": "Thu, 09 Jul 2026 17:47:54 +0700",
+      "description": "Gubernur DKI Jakarta Pramono Anung Wibowo ingin anak-anak yatim yang belum menerima Kartu Jakarta Pintar (KJP) dapat ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
