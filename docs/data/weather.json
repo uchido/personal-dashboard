@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T07:45:28+0000",
+  "timestamp": "2026-07-09T08:16:15+0000",
   "locations": [
     {
       "name": "Palu",
@@ -45,7 +45,45 @@
     },
     {
       "name": "Yogyakarta",
-      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
+      "location": "Joho",
+      "region": "Daerah Istimewa Yogyakarta",
+      "country": "Indonesia",
+      "temp_c": "28",
+      "feels_like_c": "29",
+      "humidity": "50",
+      "wind_speed_kmh": "24",
+      "wind_dir": "SSE",
+      "visibility_km": "10",
+      "pressure_mb": "1012",
+      "condition": "Sunny",
+      "condition_code": "113",
+      "uv_index": "5",
+      "forecast": [
+        {
+          "date": "2026-07-09",
+          "max_temp": "29",
+          "min_temp": "20",
+          "condition": "Patchy rain nearby",
+          "sunrise": "05:53 AM",
+          "sunset": "05:34 PM"
+        },
+        {
+          "date": "2026-07-10",
+          "max_temp": "29",
+          "min_temp": "20",
+          "condition": "Clear ",
+          "sunrise": "05:53 AM",
+          "sunset": "05:35 PM"
+        },
+        {
+          "date": "2026-07-11",
+          "max_temp": "29",
+          "min_temp": "20",
+          "condition": "Patchy rain nearby",
+          "sunrise": "05:53 AM",
+          "sunset": "05:35 PM"
+        }
+      ]
     }
   ]
 }
