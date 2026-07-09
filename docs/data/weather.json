@@ -1,51 +1,51 @@
 {
-  "timestamp": "2026-07-08T23:29:20+0000",
+  "timestamp": "2026-07-09T00:00:11+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
-      "region": "Central Sulawesi",
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+    },
+    {
+      "name": "Yogyakarta",
+      "location": "Joho",
+      "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "17",
-      "feels_like_c": "13",
-      "humidity": "95",
+      "temp_c": "20",
+      "feels_like_c": "16",
+      "humidity": "87",
       "wind_speed_kmh": "4",
-      "wind_dir": "SSE",
-      "visibility_km": "2",
-      "pressure_mb": "1013",
-      "condition": "Mist",
-      "condition_code": "143",
+      "wind_dir": "ENE",
+      "visibility_km": "5",
+      "pressure_mb": "1015",
+      "condition": "Smoky haze",
+      "condition_code": "149",
       "uv_index": "0",
       "forecast": [
         {
           "date": "2026-07-09",
-          "max_temp": "30",
-          "min_temp": "17",
-          "condition": "Mist",
-          "sunrise": "06:04 AM",
-          "sunset": "06:08 PM"
+          "max_temp": "29",
+          "min_temp": "20",
+          "condition": "Patchy rain nearby",
+          "sunrise": "05:53 AM",
+          "sunset": "05:34 PM"
         },
         {
           "date": "2026-07-10",
-          "max_temp": "32",
-          "min_temp": "17",
-          "condition": "Mist",
-          "sunrise": "06:04 AM",
-          "sunset": "06:08 PM"
+          "max_temp": "29",
+          "min_temp": "20",
+          "condition": "Clear ",
+          "sunrise": "05:53 AM",
+          "sunset": "05:35 PM"
         },
         {
           "date": "2026-07-11",
-          "max_temp": "31",
-          "min_temp": "17",
-          "condition": "Mist",
-          "sunrise": "06:04 AM",
-          "sunset": "06:08 PM"
+          "max_temp": "30",
+          "min_temp": "21",
+          "condition": "Partly Cloudy ",
+          "sunrise": "05:53 AM",
+          "sunset": "05:35 PM"
         }
       ]
-    },
-    {
-      "name": "Yogyakarta",
-      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
     }
   ]
 }
