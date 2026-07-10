@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-10T17:51:47+0000",
+  "timestamp": "2026-07-10T18:23:01+0000",
   "articles": [
     {
       "title": "Ann Widdecombe murder probe: What we know so far",
       "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 10 Jul 2026 17:04:40 GMT",
       "description": "Police say they are searching for a suspect in connection with the former MP's death at her home on Dartmoor.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Anton du Beke 'devastated' over Ann Widdecombe death as politicians share shock at murder probe",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d370npe4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Jul 2026 17:49:00 GMT",
+      "description": "Kemi Badenoch said the Conservative Party was \"reeling\" as the former minister's death is investigated as murder.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -24,46 +32,6 @@
       "description": "The prime minister and opposition leader spoke after the police announced a murder investigation into the death of Ann Widdecombe.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
-      "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 14:08:26 GMT",
-      "description": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "PBB mendorong semua pihak beritikad baik atas isu nuklir Iran",
-      "link": "https://www.antaranews.com/berita/5644924/pbb-mendorong-semua-pihak-beritikad-baik-atas-isu-nuklir-iran",
-      "published": "Sat, 11 Jul 2026 00:42:31 +0700",
-      "description": "Perserikatan Bangsa-Bangsa (PBB), Jumat, menyerukan Iran, Amerika Serikat, dan seluruh pihak terkait agar melanjutkan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Melihat kesibukan BC Place sebagai salah satu stadion Piala Dunia 2026",
-      "link": "https://www.antaranews.com/video/5644837/melihat-kesibukan-bc-place-sebagai-salah-satu-stadion-piala-dunia-2026",
-      "published": "Sat, 11 Jul 2026 00:29:38 +0700",
-      "description": "ANTARA -&nbsp;Stadion BC Place di Kota Vancouver, Kanada, menjadi salah satu arena yang menjadi lokasi pertandingan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Polisi dalami kepemilikan rumah yang digeledah di Sentul",
-      "link": "https://www.antaranews.com/video/5644915/polisi-dalami-kepemilikan-rumah-yang-digeledah-di-sentul",
-      "published": "Sat, 11 Jul 2026 00:23:04 +0700",
-      "description": "ANTARA - Polda Metro Jaya masih mendalami status kepemilikan sejumlah aset yang digeledah dalam penyidikan dugaan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bank Tanah: Reforma Agraria cegah kesenjangan rakyat dan dunia usaha",
-      "link": "https://www.antaranews.com/berita/5644921/bank-tanah-reforma-agraria-cegah-kesenjangan-rakyat-dan-dunia-usaha",
-      "published": "Sat, 11 Jul 2026 00:11:30 +0700",
-      "description": "Badan Bank Tanah mengungkapkan tujuan dari kegiatan Reforma Agraria  yakni bagaimana mencegah kesenjangan antara dunia ...",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
