@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-07-11T17:07:38+0000",
+  "timestamp": "2026-07-11T17:38:09+0000",
   "articles": [
+    {
+      "title": "Village in shock as 'horrific' Ann Widdecombe murder case unfolds",
+      "link": "https://www.bbc.co.uk/news/articles/c0ky0e147jzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 16:18:17 GMT",
+      "description": "The residents of a tiny Devon village are left in shock after the death of Ann Widdecombe.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "TV presenter Dermot Murnaghan dies aged 68",
       "link": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&at_campaign=rss",
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Pubs can stay open for full Norway game - even if kick-off delayed",
-      "link": "https://www.bbc.co.uk/news/articles/cm204lgrv10o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 12:26:08 GMT",
-      "description": "The extended hours means fans can watch the entire game, even if the start is delayed.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
       "link": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 11 Jul 2026 11:45:55 GMT",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kondisi Wali Kota Bandung mulai stabil usai dilarikan ke rumah sakit",
-      "link": "https://www.antaranews.com/berita/5645825/kondisi-wali-kota-bandung-mulai-stabil-usai-dilarikan-ke-rumah-sakit",
-      "published": "Sun, 12 Jul 2026 00:01:17 +0700",
-      "description": "Kondisi Wali Kota Bandung Muhammad Farhan dilaporkan mulai stabil setelah menjalani penanganan medis usai dilarikan ke ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Joshua dan Victor atasi lawan untuk melaju ke semifinal Asian Boxing",
-      "link": "https://www.antaranews.com/berita/5645817/joshua-dan-victor-atasi-lawan-untuk-melaju-ke-semifinal-asian-boxing",
-      "published": "Sat, 11 Jul 2026 23:43:06 +0700",
-      "description": "Petinju putra tim nasional tinju Indonesia Joshua Toni Marties Lahin dan Viktor Wengkang berhasil mengatasi lawan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BPS apresiasi Pemprov Bali sukseskan Sensus Ekonomi 2026",
-      "link": "https://www.antaranews.com/video/5645779/bps-apresiasi-pemprov-bali-sukseskan-sensus-ekonomi-2026",
-      "published": "Sat, 11 Jul 2026 23:42:19 +0700",
-      "description": "ANTARA - Badan Pusat Statistik (BPS) meneguhkan penguatan komitmen bersama dalam menyukseskan Sensus Ekonomi 2026 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DPRD Jabar minta bisnis rugi oleh Jasa Sarana disetop",
-      "link": "https://www.antaranews.com/berita/5645816/dprd-jabar-minta-bisnis-rugi-oleh-jasa-sarana-disetop",
-      "published": "Sat, 11 Jul 2026 23:41:13 +0700",
-      "description": "Komisi III DPRD Jawa Barat mendesak manajemen Badan Usaha Milik Daerah (BUMD) PT Jasa Sarana untuk segera menghentikan ...",
+      "error": "unclosed token: line 662, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
