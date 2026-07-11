@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-07-11T17:38:09+0000",
+  "timestamp": "2026-07-11T18:09:10+0000",
   "articles": [
+    {
+      "title": "Ann Widdecombe attacked nearly 24 hours before she was found dead, police believe",
+      "link": "https://www.bbc.co.uk/news/articles/cgjx912wxw3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 17:23:04 GMT",
+      "description": "A 26-year-old white British man arrested on suspicion of her murder has been released and is no longer part of the investigation.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Village in shock as 'horrific' Ann Widdecombe murder case unfolds",
       "link": "https://www.bbc.co.uk/news/articles/c0ky0e147jzo?at_medium=RSS&at_campaign=rss",
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
-      "link": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 11:45:55 GMT",
-      "description": "Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "ANTARA gelar Pameran Foto Jurnalistik bertajuk \"Negeri Bola\" di Bali",
+      "link": "https://www.antaranews.com/video/5645823/antara-gelar-pameran-foto-jurnalistik-bertajuk-negeri-bola-di-bali",
+      "published": "Sun, 12 Jul 2026 00:57:59 +0700",
+      "description": "ANTARA - Lembaga Kantor Berita Nasional (LKBN) ANTARA menggelar Pameran Foto Jurnalistik &ldquo;Negeri Bola: Dari ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 662, column 6",
+      "title": "Pameran FIFA di Miami tampilkan jersei Indonesia dan trofi Jules Rimet",
+      "link": "https://www.antaranews.com/berita/5645851/pameran-fifa-di-miami-tampilkan-jersei-indonesia-dan-trofi-jules-rimet",
+      "published": "Sun, 12 Jul 2026 00:57:54 +0700",
+      "description": "Pameran FIFA Museum di Miami, Amerika Serikat, yang bertajuk &quot;Unidad - The World&#39;s Game&quot; menampilkan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Lecuona akhiri rentetan 25 kemenangan Bulega di WSBK Inggris 2026",
+      "link": "https://www.antaranews.com/berita/5645849/lecuona-akhiri-rentetan-25-kemenangan-bulega-di-wsbk-inggris-2026",
+      "published": "Sun, 12 Jul 2026 00:53:04 +0700",
+      "description": "Pembalap Aruba.it Racing-Ducati Iker Lecuona mengakhiri rentetan 25 kemenangan Nicolo Bulega setelah memenangi Race 1 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Gubernur Bali tutup PKB 2026 dengan 1,8 juta pengunjung sebulan",
+      "link": "https://www.antaranews.com/berita/5645845/gubernur-bali-tutup-pkb-2026-dengan-18-juta-pengunjung-sebulan",
+      "published": "Sun, 12 Jul 2026 00:48:53 +0700",
+      "description": "Gubernur Bali Wayan Koster resmi menutup festival seni terbesar di Pulau Dewata Pesta Kesenian Bali (PKB) XLVIII Tahun ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
