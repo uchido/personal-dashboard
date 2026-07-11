@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-07-11T10:24:02+0000",
+  "timestamp": "2026-07-11T10:55:17+0000",
   "locations": [
     {
       "name": "Palu",
       "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "27",
-      "feels_like_c": "30",
-      "humidity": "83",
+      "temp_c": "24",
+      "feels_like_c": "19",
+      "humidity": "92",
       "wind_speed_kmh": "4",
       "wind_dir": "NNW",
       "visibility_km": "10",
-      "pressure_mb": "1010",
-      "condition": "Patchy rain nearby",
-      "condition_code": "176",
+      "pressure_mb": "1011",
+      "condition": "Light rain shower",
+      "condition_code": "353",
       "uv_index": "0",
       "forecast": [
         {
           "date": "2026-07-11",
           "max_temp": "31",
-          "min_temp": "17",
+          "min_temp": "18",
           "condition": "Mist",
           "sunrise": "06:04 AM",
           "sunset": "06:08 PM"
@@ -29,14 +29,14 @@
           "date": "2026-07-12",
           "max_temp": "31",
           "min_temp": "18",
-          "condition": "Patchy rain nearby",
+          "condition": "Mist",
           "sunrise": "06:04 AM",
           "sunset": "06:08 PM"
         },
         {
           "date": "2026-07-13",
           "max_temp": "31",
-          "min_temp": "17",
+          "min_temp": "18",
           "condition": "Mist",
           "sunrise": "06:04 AM",
           "sunset": "06:08 PM"
@@ -45,45 +45,7 @@
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
-      "region": "Daerah Istimewa Yogyakarta",
-      "country": "Indonesia",
-      "temp_c": "26",
-      "feels_like_c": "22",
-      "humidity": "63",
-      "wind_speed_kmh": "22",
-      "wind_dir": "SSE",
-      "visibility_km": "10",
-      "pressure_mb": "1011",
-      "condition": "Sunny",
-      "condition_code": "113",
-      "uv_index": "1",
-      "forecast": [
-        {
-          "date": "2026-07-11",
-          "max_temp": "28",
-          "min_temp": "20",
-          "condition": "Clear ",
-          "sunrise": "05:53 AM",
-          "sunset": "05:35 PM"
-        },
-        {
-          "date": "2026-07-12",
-          "max_temp": "29",
-          "min_temp": "20",
-          "condition": "Partly Cloudy ",
-          "sunrise": "05:53 AM",
-          "sunset": "05:35 PM"
-        },
-        {
-          "date": "2026-07-13",
-          "max_temp": "30",
-          "min_temp": "20",
-          "condition": "Partly Cloudy ",
-          "sunrise": "05:53 AM",
-          "sunset": "05:35 PM"
-        }
-      ]
+      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
     }
   ]
 }
