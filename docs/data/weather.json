@@ -1,13 +1,51 @@
 {
-  "timestamp": "2026-07-12T05:00:38+0000",
+  "timestamp": "2026-07-12T05:31:35+0000",
   "locations": [
     {
       "name": "Palu",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
     },
     {
       "name": "Yogyakarta",
-      "error": "<urlopen error timed out>"
+      "location": "Joho",
+      "region": "Daerah Istimewa Yogyakarta",
+      "country": "Indonesia",
+      "temp_c": "28",
+      "feels_like_c": "29",
+      "humidity": "51",
+      "wind_speed_kmh": "6",
+      "wind_dir": "ESE",
+      "visibility_km": "10",
+      "pressure_mb": "1012",
+      "condition": "Sunny",
+      "condition_code": "113",
+      "uv_index": "8",
+      "forecast": [
+        {
+          "date": "2026-07-12",
+          "max_temp": "29",
+          "min_temp": "20",
+          "condition": "Partly Cloudy ",
+          "sunrise": "05:53 AM",
+          "sunset": "05:35 PM"
+        },
+        {
+          "date": "2026-07-13",
+          "max_temp": "30",
+          "min_temp": "20",
+          "condition": "Patchy rain nearby",
+          "sunrise": "05:53 AM",
+          "sunset": "05:35 PM"
+        },
+        {
+          "date": "2026-07-14",
+          "max_temp": "30",
+          "min_temp": "20",
+          "condition": "Clear ",
+          "sunrise": "05:53 AM",
+          "sunset": "05:35 PM"
+        }
+      ]
     }
   ]
 }
