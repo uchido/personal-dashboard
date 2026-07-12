@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-12T18:57:48+0000",
+  "timestamp": "2026-07-12T19:28:35+0000",
   "articles": [
     {
       "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
       "link": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 13:06:22 GMT",
+      "published": "Sun, 12 Jul 2026 19:04:36 GMT",
       "description": "Police say they are not looking for anyone else after a 28-year-old man was arrested in Rotherham, South Yorkshire.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Two men die trying to save children in sea",
+      "link": "https://www.bbc.co.uk/news/articles/cq81l5gj54zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 19:12:36 GMT",
+      "description": "Cleveland Police says the children are confirmed to be safe after being checked over in hospital.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,20 +26,20 @@
       "category": "Global"
     },
     {
-      "title": "We are living fewer years in good health: Is the NHS part of the problem?",
-      "link": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 00:42:35 GMT",
-      "description": "What is driving the UK's fall in healthy life expectancy?",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Tuchel wasn't happy with the performance. So why do England keep winning?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 12 Jul 2026 12:19:03 GMT",
       "description": "Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performances are not good.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "Mendagri minta Dekranasda-pemda gali potensi kerajinan lokal",
+      "link": "https://www.antaranews.com/berita/5646637/mendagri-minta-dekranasda-pemda-gali-potensi-kerajinan-lokal",
+      "published": "Mon, 13 Jul 2026 01:57:38 +0700",
+      "description": "Menteri Dalam Negeri (Mendagri) Muhammad Tito Karnavian meminta agar pemerintah daerah (pemda) bersama Dewan Kerajinan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Ramadhipa juara Race 2 Sachsenring, naik posisi ketiga klasemen",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/video/5646629/kirab-5000-tangkir-bubur-suro-semarakkan-penutupan-syafaat-festival",
       "published": "Mon, 13 Jul 2026 00:56:02 +0700",
       "description": "ANTARA -&nbsp;Puncak sekaligus penutupan Syafaat Festival Bubur Suro 2026 di Kelurahan Krapyak, Kota Pekalongan, Jawa ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Luis Figo antusias ikuti Pesta Bola HGI 2026",
-      "link": "https://www.antaranews.com/berita/5646628/luis-figo-antusias-ikuti-pesta-bola-hgi-2026",
-      "published": "Mon, 13 Jul 2026 00:18:32 +0700",
-      "description": "Legenda sepak bola tim nasional Portugal Luis Figo antusias mengikuti gelaran Pesta Bola HGI 2026, sebuah program ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
