@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-07-14T14:22:13+0000",
+  "timestamp": "2026-07-14T14:53:13+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 95.2,
+    "percent": 57.9,
     "cores": 2,
     "load_avg": [
-      2.05,
-      2.22,
-      2.24
+      2.44,
+      2.13,
+      2.17
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.2,
+    "free": 1.1,
     "available": 6.7,
     "used": 4.9,
     "percent": 42.2
@@ -25,22 +25,22 @@
   },
   "uptime": {
     "days": 15,
-    "hours": 2,
-    "minutes": 48,
-    "total_seconds": 1306080.95
+    "hours": 3,
+    "minutes": 19,
+    "total_seconds": 1307941.3
   },
   "top_processes": [
     {
-      "user": "root",
-      "cpu": "76.3",
-      "mem": "0.3",
-      "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
+      "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
     },
     {
-      "user": "opc",
-      "cpu": "39.7",
-      "mem": "0.9",
-      "command": "node current/index.js"
+      "user": "root",
+      "cpu": "34.4",
+      "mem": "1.1",
+      "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ubuntu",
