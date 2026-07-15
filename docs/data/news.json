@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-15T22:55:51+0000",
+  "timestamp": "2026-07-15T23:26:48+0000",
   "articles": [
     {
       "title": "William tells England to 'hold their heads high' after defeat",
       "link": "https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 15 Jul 2026 22:33:43 GMT",
       "description": "The Prince of Wales says England has \"inspired us all\" as he offers his commiserations over the loss to Argentina.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Argentina fans celebrate World Cup win over England",
+      "link": "https://www.bbc.co.uk/news/videos/c235lvr13vpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 21:58:36 GMT",
+      "description": "Argentina fans at home and in the US celebrate their progression to the World Cup final.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "French MPs approve assisted dying law with strict rules after years of argument",
-      "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Jul 2026 17:29:26 GMT",
-      "description": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Kriminal kemarin, obat keras ilegal hingga teror bom",
+      "link": "https://www.antaranews.com/berita/5651495/kriminal-kemarin-obat-keras-ilegal-hingga-teror-bom",
+      "published": "Thu, 16 Jul 2026 06:09:02 +0700",
+      "description": "Sejumlah peristiwa berkaitan dengan kriminal dan keamanan terjadi di DKI Jakarta pada Rabu (15/7), mulai dari penjual ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "143.449 wajib pajak baru dongkrak penerimaan negara",
+      "link": "https://www.antaranews.com/infografik/5651203/143449-wajib-pajak-baru-dongkrak-penerimaan-negara",
+      "published": "Thu, 16 Jul 2026 06:00:00 +0700",
+      "description": "Kementerian Keuangan (Kemenkeu) menjaring 143.449 wajib pajak baru sepanjang 2025. Perluasan basis pajak ini ampuh ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Tamu bilang pasangan Swift-Kelce terlihat saling mencintai",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5651489/layanan-sim-keliling-tersedia-di-lima-lokasi-jakarta-pada-kamis",
       "published": "Thu, 16 Jul 2026 05:42:48 +0700",
       "description": "Direktorat Lalu Lintas Polda Metro Jaya menyediakan layanan surat izin mengemudi (SIM Keliling) di lima lokasi Jakarta, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DKI Kemarin, sampah Rusun Waduk Pluit hingga truk tabrak JPO",
-      "link": "https://www.antaranews.com/berita/5651485/dki-kemarin-sampah-rusun-waduk-pluit-hingga-truk-tabrak-jpo",
-      "published": "Thu, 16 Jul 2026 05:40:41 +0700",
-      "description": "Sejumlah berita di Jakarta pada Rabu (15/7) masih layak untuk disimak hari ini, mulai dari penanganan sampah Rusun ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Lautaro yakin bakal menangkan Argentina sebelum masuk lapangan",
-      "link": "https://www.antaranews.com/berita/5651483/lautaro-yakin-bakal-menangkan-argentina-sebelum-masuk-lapangan",
-      "published": "Thu, 16 Jul 2026 05:34:53 +0700",
-      "description": "Penyerang tim nasional Argentina, Lautaro&nbsp;Martinez, mengaku dirinya sudah memiliki keyakinan akan menjadi penentu ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
