@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-07-15T05:21:29+0000",
+  "timestamp": "2026-07-15T05:52:29+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
+      "location": "Pusentasi",
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "32",
       "feels_like_c": "35",
-      "humidity": "52",
-      "wind_speed_kmh": "5",
-      "wind_dir": "N",
+      "humidity": "55",
+      "wind_speed_kmh": "6",
+      "wind_dir": "NNW",
       "visibility_km": "10",
-      "pressure_mb": "1013",
+      "pressure_mb": "1012",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "11",
+      "uv_index": "9",
       "forecast": [
         {
           "date": "2026-07-15",
