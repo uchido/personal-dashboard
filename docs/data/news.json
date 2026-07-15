@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-15T00:42:26+0000",
+  "timestamp": "2026-07-15T01:13:26+0000",
   "articles": [
     {
       "title": "Midnight social media curfew proposed for older UK teens",
       "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 14 Jul 2026 23:17:23 GMT",
       "description": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 00:28:35 GMT",
+      "description": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,12 @@
       "category": "Global"
     },
     {
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 23:17:27 GMT",
-      "description": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Mantan juara dunia Andy Ruiz bersiap untuk tugas pertama hadapi Knyba",
+      "link": "https://www.antaranews.com/berita/5649767/mantan-juara-dunia-andy-ruiz-bersiap-untuk-tugas-pertama-hadapi-knyba",
+      "published": "Wed, 15 Jul 2026 07:49:31 +0700",
+      "description": "Mantan juara dunia kelas berat (minimum 90,7kg) Andy Ruiz bersiap untuk tugas pertama bersama promotor Matchroom Boxing ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Humaniora kemarin, teror bom SD hingga ASN Jabar terindikasi judol",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5649761/iran-dan-as-saling-baku-tembak-di-selat-hormuz",
       "published": "Wed, 15 Jul 2026 07:23:38 +0700",
       "description": "Angkatan Laut Korps Garda Revolusi Iran (IRGC) dilaporkan saling baku tembak dengan pasukan Amerika Serikat di Selat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Indonesia bebaskan visa kunjungan untuk warga Kazakhstan",
-      "link": "https://www.antaranews.com/berita/5649760/indonesia-bebaskan-visa-kunjungan-untuk-warga-kazakhstan",
-      "published": "Wed, 15 Jul 2026 07:20:19 +0700",
-      "description": "Pemerintah Indonesia secara resmi memberikan fasilitas bebas visa kunjungan untuk warga Kazakhstan, mulai 9 Juli ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
