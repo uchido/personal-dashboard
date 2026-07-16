@@ -1,89 +1,13 @@
 {
-  "timestamp": "2026-07-16T15:28:03+0000",
+  "timestamp": "2026-07-16T15:59:06+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
-      "region": "Central Sulawesi",
-      "country": "Indonesia",
-      "temp_c": "18",
-      "feels_like_c": "13",
-      "humidity": "96",
-      "wind_speed_kmh": "4",
-      "wind_dir": "ESE",
-      "visibility_km": "10",
-      "pressure_mb": "1015",
-      "condition": "Light rain shower",
-      "condition_code": "353",
-      "uv_index": "0",
-      "forecast": [
-        {
-          "date": "2026-07-16",
-          "max_temp": "31",
-          "min_temp": "18",
-          "condition": "Partly Cloudy ",
-          "sunrise": "06:04 AM",
-          "sunset": "06:09 PM"
-        },
-        {
-          "date": "2026-07-17",
-          "max_temp": "31",
-          "min_temp": "17",
-          "condition": "Light rain shower",
-          "sunrise": "06:04 AM",
-          "sunset": "06:09 PM"
-        },
-        {
-          "date": "2026-07-18",
-          "max_temp": "31",
-          "min_temp": "17",
-          "condition": "Mist",
-          "sunrise": "06:04 AM",
-          "sunset": "06:09 PM"
-        }
-      ]
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
-      "region": "Daerah Istimewa Yogyakarta",
-      "country": "Indonesia",
-      "temp_c": "23",
-      "feels_like_c": "17",
-      "humidity": "91",
-      "wind_speed_kmh": "6",
-      "wind_dir": "SE",
-      "visibility_km": "10",
-      "pressure_mb": "1015",
-      "condition": "Partly Cloudy ",
-      "condition_code": "116",
-      "uv_index": "0",
-      "forecast": [
-        {
-          "date": "2026-07-16",
-          "max_temp": "30",
-          "min_temp": "21",
-          "condition": "Clear ",
-          "sunrise": "05:53 AM",
-          "sunset": "05:36 PM"
-        },
-        {
-          "date": "2026-07-17",
-          "max_temp": "30",
-          "min_temp": "21",
-          "condition": "Patchy rain nearby",
-          "sunrise": "05:53 AM",
-          "sunset": "05:36 PM"
-        },
-        {
-          "date": "2026-07-18",
-          "max_temp": "30",
-          "min_temp": "21",
-          "condition": "Patchy rain nearby",
-          "sunrise": "05:53 AM",
-          "sunset": "05:36 PM"
-        }
-      ]
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     }
   ]
 }
