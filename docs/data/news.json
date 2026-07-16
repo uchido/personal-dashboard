@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T22:11:09+0000",
+  "timestamp": "2026-07-16T22:42:10+0000",
   "articles": [
     {
       "title": "Sadiq Khan among 26 new peers to enter the Lords",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 668, column 6",
+      "title": "BP Tapera terus akselerasi penyaluran pembiayaan rumah bagi MBR",
+      "link": "https://www.antaranews.com/berita/5653148/bp-tapera-terus-akselerasi-penyaluran-pembiayaan-rumah-bagi-mbr",
+      "published": "Fri, 17 Jul 2026 05:40:40 +0700",
+      "description": "Badan Pengelola Tabungan Perumahan Rakyat (BP Tapera) terus mengakselerasi penyaluran pembiayaan rumah bagi Masyarakat ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Cara dapat diskon tiket kereta api 20 persen untuk lansia",
+      "link": "https://www.antaranews.com/berita/5653144/cara-dapat-diskon-tiket-kereta-api-20-persen-untuk-lansia",
+      "published": "Fri, 17 Jul 2026 05:39:37 +0700",
+      "description": "PT Kereta Api Indonesia (Persero) memberikan potongan harga atau reduksi tiket sebesar 20 persen bagi penumpang lanjut ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Juventus resmi datangkan bek serba bisa asal Turki Zeki Celik",
+      "link": "https://www.antaranews.com/berita/5653141/juventus-resmi-datangkan-bek-serba-bisa-asal-turki-zeki-celik",
+      "published": "Fri, 17 Jul 2026 05:39:10 +0700",
+      "description": "Juventus resmi mendatangkan pemain serba bisa asal Turki Zeki Celik dengan status bebas transfer setelah kontraknya ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Sebagian Jakarta diperkirakan hujan pada Jumat malam",
+      "link": "https://www.antaranews.com/berita/5653139/sebagian-jakarta-diperkirakan-hujan-pada-jumat-malam",
+      "published": "Fri, 17 Jul 2026 05:37:39 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan cuaca di sebagian wilayah DKI Jakarta hujan ringan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
