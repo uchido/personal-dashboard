@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-07-19T06:00:04+0000",
+  "timestamp": "2026-07-19T06:31:03+0000",
   "articles": [
+    {
+      "title": "Watch: Highlights as England beat France 6-4 in third-place play-off",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 01:12:34 GMT",
+      "description": "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
       "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
@@ -18,20 +26,17 @@
       "category": "Global"
     },
     {
-      "title": "Can new PM's casual style survive contact with No 10?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 00:08:17 GMT",
-      "description": "When Burnham becomes PM, he'll find it harder to wear the wardrobe that's central to his political brand.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
       "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 19 Jul 2026 05:10:57 GMT",
       "description": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 661, column 240",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
