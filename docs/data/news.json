@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T10:08:07+0000",
+  "timestamp": "2026-07-19T10:39:08+0000",
   "articles": [
     {
       "title": "Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
@@ -10,18 +10,18 @@
       "category": "Global"
     },
     {
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 09:37:32 GMT",
-      "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "title": "Messi on the brink of history - will it be his last World Cup game?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 09:55:22 GMT",
+      "description": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "New EU border system tripling time at passport control, airport boss says",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 01:47:59 GMT",
-      "description": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 10:22:35 GMT",
+      "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Pemprov Kepri ajak warga nobar final Piala Dunia di Bandara RHF",
-      "link": "https://www.antaranews.com/berita/5656107/pemprov-kepri-ajak-warga-nobar-final-piala-dunia-di-bandara-rhf",
-      "published": "Sun, 19 Jul 2026 17:07:37 +0700",
-      "description": "Pemerintah Provinsi Kepulauan Riau (Pemprov Kepri) bersama TVRI mengajak masyarakat nonton bareng (nobar) final Piala ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KJRI Johor Bahru pulangkan anak WNI di Malaysia ke Bandung",
-      "link": "https://www.antaranews.com/berita/5656103/kjri-johor-bahru-pulangkan-anak-wni-di-malaysia-ke-bandung",
-      "published": "Sun, 19 Jul 2026 17:07:15 +0700",
-      "description": "Konsulat Jenderal Republik Indonesia (KJRI) Johor Bahru memfasilitasi pemulangan anak warga negara Indonesia di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KAI Sumut inspeksi kondisi jalur kereta Rantauprapat Baru-Aek Nabara",
-      "link": "https://www.antaranews.com/berita/5656100/kai-sumut-inspeksi-kondisi-jalur-kereta-rantauprapat-baru-aek-nabara",
-      "published": "Sun, 19 Jul 2026 17:03:55 +0700",
-      "description": "PT Kereta Api Indonesia (KAI) Divre I Sumatera Utara (Sumut) bersama Balai Teknik Perkeretaapian (BTP) melakukan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kimi Antonelli siapkan strategi start di GP Belgia",
-      "link": "https://www.antaranews.com/berita/5656099/kimi-antonelli-siapkan-strategi-start-di-gp-belgia",
-      "published": "Sun, 19 Jul 2026 16:57:28 +0700",
-      "description": "Pembalap Mercedes Kimi Antonelli menyiapkan strategi start di balapan utama Grand Prix Belgia yang berlangsung di ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }

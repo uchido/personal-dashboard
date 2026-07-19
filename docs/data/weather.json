@@ -1,42 +1,42 @@
 {
-  "timestamp": "2026-07-19T10:08:07+0000",
+  "timestamp": "2026-07-19T10:39:07+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Boyapolo",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "28",
-      "feels_like_c": "31",
-      "humidity": "83",
-      "wind_speed_kmh": "5",
+      "temp_c": "22",
+      "feels_like_c": "18",
+      "humidity": "92",
+      "wind_speed_kmh": "4",
       "wind_dir": "NW",
       "visibility_km": "10",
-      "pressure_mb": "1010",
+      "pressure_mb": "1011",
       "condition": "Light rain shower",
       "condition_code": "353",
-      "uv_index": "2",
+      "uv_index": "0",
       "forecast": [
         {
           "date": "2026-07-19",
           "max_temp": "31",
           "min_temp": "18",
-          "condition": "Patchy rain nearby",
+          "condition": "Mist",
           "sunrise": "06:05 AM",
           "sunset": "06:09 PM"
         },
         {
           "date": "2026-07-20",
-          "max_temp": "32",
-          "min_temp": "17",
+          "max_temp": "31",
+          "min_temp": "18",
           "condition": "Mist",
           "sunrise": "06:05 AM",
           "sunset": "06:09 PM"
         },
         {
           "date": "2026-07-21",
-          "max_temp": "31",
-          "min_temp": "18",
+          "max_temp": "32",
+          "min_temp": "17",
           "condition": "Mist",
           "sunrise": "06:05 AM",
           "sunset": "06:09 PM"
