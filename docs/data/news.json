@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-19T08:04:04+0000",
+  "timestamp": "2026-07-19T08:35:05+0000",
   "articles": [
     {
-      "title": "Watch: Highlights as England beat France 6-4 in third-place play-off",
+      "title": "Watch: Highlights as England stun France 6-4 in third-place play-off",
       "link": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 19 Jul 2026 01:12:34 GMT",
       "description": "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966.",
@@ -18,14 +18,6 @@
       "category": "Global"
     },
     {
-      "title": "The hidden cost of the night shift and how to sleep it off",
-      "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 00:01:55 GMT",
-      "description": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
       "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 19 Jul 2026 02:17:07 GMT",
@@ -34,9 +26,12 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 665, column 11",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 01:47:59 GMT",
+      "description": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "source": "BBC News",
+      "category": "Global"
     }
   ]
 }
