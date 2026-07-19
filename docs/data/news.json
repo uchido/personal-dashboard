@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T07:33:04+0000",
+  "timestamp": "2026-07-19T08:04:04+0000",
   "articles": [
     {
       "title": "Watch: Highlights as England beat France 6-4 in third-place play-off",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Prix Versailles tetapkan tujuh bandara terindah di dunia 2026",
-      "link": "https://www.antaranews.com/berita/5655965/prix-versailles-tetapkan-tujuh-bandara-terindah-di-dunia-2026",
-      "published": "Sun, 19 Jul 2026 14:30:39 +0700",
-      "description": "Organisasi penghargaan arsitektur Prix Versailles menetapkan tujuh bandara di China, Jerman, India, Kamboja, dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DPRD Surabaya dukung camat dan lurah miliki \"hotline\" pengaduan",
-      "link": "https://www.antaranews.com/berita/5655961/dprd-surabaya-dukung-camat-dan-lurah-miliki-hotline-pengaduan",
-      "published": "Sun, 19 Jul 2026 14:28:48 +0700",
-      "description": "Wakil Ketua DPRD Surabaya Bahtiyar Rifai mendukung kebijakan Wali Kota Surabaya Eri Cahyadi yang meminta camat, lurah, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Seribuan warga Palembang ramaikan parade kebaya di Jembatan Ampera",
-      "link": "https://www.antaranews.com/berita/5655956/seribuan-warga-palembang-ramaikan-parade-kebaya-di-jembatan-ampera",
-      "published": "Sun, 19 Jul 2026 14:12:43 +0700",
-      "description": "Seribuan warga Kota Palembang, Sumatera Selatan meramaikan parade busana kebaya di Jembatan Ampera dalam rangka ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "NEXT: Hilirisasi ekspor ciptakan sumber ekonomi baru Indonesia",
-      "link": "https://www.antaranews.com/berita/5655953/next-hilirisasi-ekspor-ciptakan-sumber-ekonomi-baru-indonesia",
-      "published": "Sun, 19 Jul 2026 14:11:25 +0700",
-      "description": "Kepala Riset NEXT Indonesia Center Ade Holis mengatakan penguatan hilirisasi dan diversifikasi ekspor menjadi strategi ...",
+      "error": "no element found: line 665, column 11",
       "source": "Antara News",
       "category": "Indonesia"
     }
