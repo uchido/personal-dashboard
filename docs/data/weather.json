@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T16:51:13+0000",
+  "timestamp": "2026-07-19T17:22:13+0000",
   "locations": [
     {
       "name": "Palu",
@@ -52,7 +52,7 @@
       "feels_like_c": "17",
       "humidity": "92",
       "wind_speed_kmh": "4",
-      "wind_dir": "S",
+      "wind_dir": "SSE",
       "visibility_km": "10",
       "pressure_mb": "1015",
       "condition": "Patchy rain nearby",
@@ -69,7 +69,7 @@
         },
         {
           "date": "2026-07-20",
-          "max_temp": "28",
+          "max_temp": "29",
           "min_temp": "21",
           "condition": "Patchy rain nearby",
           "sunrise": "05:53 AM",
