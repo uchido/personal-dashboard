@@ -1,8 +1,16 @@
 {
-  "timestamp": "2026-07-19T10:39:08+0000",
+  "timestamp": "2026-07-19T11:10:08+0000",
   "articles": [
     {
-      "title": "Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
+      "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 10:29:14 GMT",
+      "description": "Burnham will replace Sir Keir Starmer as prime minister on Monday, following a meeting with King Charles III.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Digital ID plan to be scrapped in Burnham's first major policy pledge",
       "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 19 Jul 2026 08:55:06 GMT",
       "description": "A spokesperson for the incoming prime minister says his government would “put its focus where people need it right now”.",
@@ -20,21 +28,40 @@
     {
       "title": "Tate brothers arrested in US as further UK charges take total to 59",
       "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 10:22:35 GMT",
+      "published": "Sun, 19 Jul 2026 11:04:50 GMT",
       "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Russia launches major ballistic missile attack on Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 09:54:50 GMT",
-      "description": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Wakil Ketua MPR desak pernguatan sistem perlindungan kelompok rentan",
+      "link": "https://www.antaranews.com/berita/5656152/wakil-ketua-mpr-desak-pernguatan-sistem-perlindungan-kelompok-rentan",
+      "published": "Sun, 19 Jul 2026 18:07:08 +0700",
+      "description": "Wakil Ketua MPR RI Lestari Moerdijat mendesak penguatan sistem perlindungan bagi seluruh warga negara, terutama ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 664, column 6",
+      "title": "Final Piala Dunia 2026: Perebutan tahta Spanyol vs Argentina",
+      "link": "https://www.antaranews.com/infografik/5656055/final-piala-dunia-2026-perebutan-tahta-spanyol-vs-argentina",
+      "published": "Sun, 19 Jul 2026 18:00:00 +0700",
+      "description": "Tampil impresif sepanjang turnamen, Spanyol siap merebut takhta saat menantang juara bertahan Argentina di final Piala ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "75 Stasiun KAI Catat 7,64 Juta Aktivitas Naik-Turun Pelanggan di Sumatra",
+      "link": "https://www.antaranews.com/berita/5656148/75-stasiun-kai-catat-764-juta-aktivitas-naik-turun-pelanggan-di-sumatra",
+      "published": "Sun, 19 Jul 2026 17:57:55 +0700",
+      "description": "Perjalanan kereta api di Sumatra membentuk jaringan mobilitas yang tersebar dari pusat provinsi hingga kota-kota di ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Lanud Pattimura aksi bersih pantai sambut Hari Bakti ke-79 TNI AU",
+      "link": "https://www.antaranews.com/berita/5656141/lanud-pattimura-aksi-bersih-pantai-sambut-hari-bakti-ke-79-tni-au",
+      "published": "Sun, 19 Jul 2026 17:53:19 +0700",
+      "description": "Pangkalan TNI Angkatan Udara (Lanud) Pattimura melakukan aksi bersih pantai di kawasan Pelabuhan ikan Negeri (Desa) ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
