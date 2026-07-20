@@ -1,10 +1,18 @@
 {
-  "timestamp": "2026-07-20T18:10:39+0000",
+  "timestamp": "2026-07-20T18:41:39+0000",
   "articles": [
+    {
+      "title": "Who's in the cabinet?",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 18:31:15 GMT",
+      "description": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Faisal Islam: The new PM has big ideas - but what will they cost?",
       "link": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 16:51:54 GMT",
+      "published": "Mon, 20 Jul 2026 18:21:31 GMT",
       "description": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
       "source": "BBC News",
       "category": "Global"
@@ -12,56 +20,48 @@
     {
       "title": "Burnham promises help with your money. How could it affect you?",
       "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 15:10:48 GMT",
+      "published": "Mon, 20 Jul 2026 18:22:46 GMT",
       "description": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Burnham's policy choices reveal what kind of PM he wants to be",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 15:41:02 GMT",
-      "description": "The new prime minister has begun to set out key policies - starting with a vow to end rough sleeping.",
+      "title": "John Healey becomes chancellor weeks after shock resignation from defence job",
+      "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 18:24:47 GMT",
+      "description": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
-      "link": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 12:49:18 GMT",
-      "description": "Andy Burnham has become the UK's prime minister after being appointed by the King at Buckingham Palace.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "KemenPPPA gandeng Alfamidi semangati ratusan anak disabilitas",
+      "link": "https://www.antaranews.com/berita/5658008/kemenpppa-gandeng-alfamidi-semangati-ratusan-anak-disabilitas",
+      "published": "Tue, 21 Jul 2026 01:33:01 +0700",
+      "description": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak (KemenPPPA) bersama PT Midi Utama Indonesia Tbk (Alfamidi) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Petani Way Kanan mengadu ke KSP terkait izin panen di Register 44",
+      "link": "https://www.antaranews.com/berita/5658005/petani-way-kanan-mengadu-ke-ksp-terkait-izin-panen-di-register-44",
+      "published": "Tue, 21 Jul 2026 01:15:45 +0700",
+      "description": "Kepala Staf Kepresidenan Jenderal (Purn.) Dudung Abdurachman menerima audiensi kelompok tani tebu Way Kanan, Lampung, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Bupati Lombok Barat tiba di KPK usai diamankan terkait dugaan korupsi",
+      "link": "https://www.antaranews.com/video/5658001/bupati-lombok-barat-tiba-di-kpk-usai-diamankan-terkait-dugaan-korupsi",
+      "published": "Tue, 21 Jul 2026 01:13:31 +0700",
+      "description": "ANTARA - Bupati Lombok Barat Lalu Ahmad Zaini tiba di Gedung Merah Putih Komisi Pemberantasan Korupsi (KPK), Jakarta, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Balsa Sekulic tak sabar untuk debut bersama Persib Bandung",
       "link": "https://www.antaranews.com/berita/5658004/balsa-sekulic-tak-sabar-untuk-debut-bersama-persib-bandung",
       "published": "Tue, 21 Jul 2026 01:04:18 +0700",
       "description": "Penyerang anyar Balsa Sekulic mengatakan dirinya tak sabar untuk debut bersama klub BRI Super League Persib Bandung ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Persis Solo datangkan Terens Puhiri untuk pertajam lini depan",
-      "link": "https://www.antaranews.com/berita/5658003/persis-solo-datangkan-terens-puhiri-untuk-pertajam-lini-depan",
-      "published": "Tue, 21 Jul 2026 01:02:14 +0700",
-      "description": "Klub Pegadaian Championship Persis Solo resmi mendatangkan penyerang sayap Terens Puhiri untuk mempertajam lini depan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Komitmen hadapi perubahan iklim lewat Indonesia Net Zero Summit 2026",
-      "link": "https://www.antaranews.com/video/5657997/komitmen-hadapi-perubahan-iklim-lewat-indonesia-net-zero-summit-2026",
-      "published": "Tue, 21 Jul 2026 00:54:07 +0700",
-      "description": "ANTARA - Indonesia Net Zero Summit 2026 akan kembali digelar pada 1 Agustus 2026. Ketua sekaligus pendiri Foreign ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Polisi selidiki laporan dugaan penculikan atlet golf Jesslyn Wijaya",
-      "link": "https://www.antaranews.com/berita/5657999/polisi-selidiki-laporan-dugaan-penculikan-atlet-golf-jesslyn-wijaya",
-      "published": "Tue, 21 Jul 2026 00:41:24 +0700",
-      "description": "Polres Metro Jakarta Pusat menyelidiki laporan dugaan penculikan terhadap atlet golf putri Jesslyn Wijaya Lay yang ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
