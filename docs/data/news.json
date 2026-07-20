@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-20T14:03:04+0000",
+  "timestamp": "2026-07-20T14:33:34+0000",
   "articles": [
     {
       "title": "Burnham promises help with your money. How could it affect you?",
       "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 20 Jul 2026 13:03:23 GMT",
       "description": "New Prime Minister Andy Burnham says he wants life to be more affordable, but how could he do it?",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Burnham pledges to end rough sleeping in first speech as prime minister",
+      "link": "https://www.bbc.co.uk/news/articles/c0jl839j6z3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 14:11:09 GMT",
+      "description": "The Labour leader made a similar pledge as Greater Manchester mayor, although he failed to achieve this.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Burnham makes pledge to end rough sleeping in first speech as prime minister",
-      "link": "https://www.bbc.co.uk/news/articles/c0jl839j6z3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 13:57:48 GMT",
-      "description": "The Labour leader made a similar pledge as Greater Manchester mayor, although he failed to achieve this.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
       "link": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 20 Jul 2026 12:43:13 GMT",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Prabowo: 250 BUMN ditutup hingga 31 Juli, penghematan capai Rp50 triliun",
+      "link": "https://www.antaranews.com/berita/5657807/prabowo-250-bumn-ditutup-hingga-31-juli-penghematan-capai-rp50-triliun",
+      "published": "Mon, 20 Jul 2026 21:32:09 +0700",
+      "description": "Presiden Prabowo Subianto saat memberikan taklimat pada&nbsp;Sidang Kabinet Paripurna di Istana Negara, Jakarta, Senin, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Prabowo targetkan Indonesia miliki pemerintahan digital kelas dunia",
+      "link": "https://www.antaranews.com/berita/5657805/prabowo-targetkan-indonesia-miliki-pemerintahan-digital-kelas-dunia",
+      "published": "Mon, 20 Jul 2026 21:30:55 +0700",
+      "description": "Presiden Prabowo Subianto menargetkan Indonesia memiliki pemerintahan digital kelas dunia dengan seluruh layanan publik ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ledakan diduga akibat kebocoran pipa gas rusak lima rumah di Medan",
+      "link": "https://www.antaranews.com/foto/5657801/ledakan-diduga-akibat-kebocoran-pipa-gas-rusak-lima-rumah-di-medan",
+      "published": "Mon, 20 Jul 2026 21:29:49 +0700",
+      "description": "Suasana rumah yang terdampak ledakan di Kompleks Grand Polonia Medan, Kota Medan, Sumatera Utara, Senin (20/7/2026). ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Grogol Utara hasilkan jutaan rupiah dari pengelolaan sampah organik",
+      "link": "https://www.antaranews.com/berita/5657797/grogol-utara-hasilkan-jutaan-rupiah-dari-pengelolaan-sampah-organik",
+      "published": "Mon, 20 Jul 2026 21:27:24 +0700",
+      "description": "Kelurahan Grogol Utara, Kecamatan Kebayoran Lama, Jakarta Selatan, tepatnya di RT 09/07 menghasilkan omzet jutaan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
