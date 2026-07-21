@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-07-21T13:17:57+0000",
+  "timestamp": "2026-07-21T13:48:57+0000",
   "articles": [
-    {
-      "title": "Chris Mason: Starmer ally takes swipe at Burnham's first big policy",
-      "link": "https://www.bbc.co.uk/news/articles/c62xzn3j1p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 09:00:36 GMT",
-      "description": "Sir Keir Starmer's former right hand man Darren Jones says Andy Burnham's VAT cut is unfunded.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "London-based civil servants offered move to No 10 North in Manchester",
       "link": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&at_campaign=rss",
@@ -18,10 +10,10 @@
       "category": "Global"
     },
     {
-      "title": "Cause of Ann Widdecombe's death not yet established, inquest hears",
-      "link": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 09:56:49 GMT",
-      "description": "The 78-year-old was found with \"visible injuries\" at her home in Devon on 9 July.",
+      "title": "Ann Widdecombe was hit on head repeatedly with hammer, prosecutors say",
+      "link": "https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 13:34:58 GMT",
+      "description": "Joshua Kerry, 28, from Rotherham, in South Yorkshire, is charged with her murder and appeared in court.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Istana: Fundamental ekonomi kuat pangkas anggaran belum diperlukan",
-      "link": "https://www.antaranews.com/berita/5659376/istana-fundamental-ekonomi-kuat-pangkas-anggaran-belum-diperlukan",
-      "published": "Tue, 21 Jul 2026 20:16:18 +0700",
-      "description": "Menteri Sekretaris Negara Prasetyo Hadi menegaskan fundamental ekonomi dan kondisi fiskal Indonesia masih kuat sehingga ...",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 09:48:20 GMT",
+      "description": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "KPK tetapkan Bupati Lombok Barat tersangka kasus korupsi",
+      "link": "https://www.antaranews.com/video/5659397/kpk-tetapkan-bupati-lombok-barat-tersangka-kasus-korupsi",
+      "published": "Tue, 21 Jul 2026 20:47:27 +0700",
+      "description": "ANTARA - Komisi Pemberantasan Korupsi (KPK) resmi menetapkan tiga tersangka terkait dugaan korupsi di lingkungan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pertamina jelaskan \"fraud\" sopir sebabkan antrean panjang BBM di Sumut",
-      "link": "https://www.antaranews.com/berita/5659372/pertamina-jelaskan-fraud-sopir-sebabkan-antrean-panjang-bbm-di-sumut",
-      "published": "Tue, 21 Jul 2026 20:15:41 +0700",
-      "description": "Wakil Direktur Utama PT Pertamina (Persero) Oki Muraza menjelaskan antrean panjang pembelian bahan bakar minyak (BBM) ...",
+      "title": "Kamboja musnahkan obat-obatan terlarang senilai 500 juta dolar AS",
+      "link": "https://www.antaranews.com/berita/5659419/kamboja-musnahkan-obat-obatan-terlarang-senilai-500-juta-dolar-as",
+      "published": "Tue, 21 Jul 2026 20:46:03 +0700",
+      "description": "Wakil Perdana Menteri sekaligus Menteri Dalam Negeri Kamboja Sar Sokha mengatakan bahwa negaranya&nbsp;memusnahkan 5,62 ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Survei: 74 persen warga Malaysia manfaatkan AI untuk berbelanja",
-      "link": "https://www.antaranews.com/berita/5659371/survei-74-persen-warga-malaysia-manfaatkan-ai-untuk-berbelanja",
-      "published": "Tue, 21 Jul 2026 20:15:24 +0700",
-      "description": "Sekitar 74 persen warga Malaysia menggunakan kecerdasan buatan (AI) untuk membantu belanja, menurut hasil survei yang ...",
+      "title": "Purbaya sebut Bea Cukai batal dibubarkan setelah kinerjanya membaik",
+      "link": "https://www.antaranews.com/berita/5659416/purbaya-sebut-bea-cukai-batal-dibubarkan-setelah-kinerjanya-membaik",
+      "published": "Tue, 21 Jul 2026 20:45:49 +0700",
+      "description": "Menteri Keuangan (Menkeu) Purbaya Yudhi Sadewa menilai&nbsp;kinerja Direktorat Jenderal Bea dan Cukai (DJBC) telah ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kembalikan keindahan, warga bersihkan puluhan bangkai kapal di wilayah pesisir Pulau Bajo NTT",
-      "link": "https://www.antaranews.com/foto/5659367/kembalikan-keindahan-warga-bersihkan-puluhan-bangkai-kapal-di-wilayah-pesisir-pulau-bajo-ntt",
-      "published": "Tue, 21 Jul 2026 20:15:22 +0700",
-      "description": "Warga membongkar bangkai kapal di pesisir Pulau Bajo, Kelurahan Labuan Bajo, Manggarai Barat, Nusa Tenggara Timur ...",
+      "title": "Kemkomdigi lelang frekuensi 900 MHz tahun ini dan kaji lelang 3,5 GHz",
+      "link": "https://www.antaranews.com/berita/5659411/kemkomdigi-lelang-frekuensi-900-mhz-tahun-ini-dan-kaji-lelang-35-ghz",
+      "published": "Tue, 21 Jul 2026 20:43:01 +0700",
+      "description": "Kementerian Komunikasi dan Digital (Kemkomdigi) mengatakan pihaknya akan membuka lelang pita frekuensi 900 MHz pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
