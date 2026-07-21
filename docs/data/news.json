@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T09:10:02+0000",
+  "timestamp": "2026-07-21T09:40:54+0000",
   "articles": [
     {
       "title": "Who's in Andy Burnham's cabinet?",
@@ -10,31 +10,58 @@
       "category": "Global"
     },
     {
-      "title": "Chris Mason: New chancellor faces tough spending choices",
-      "link": "https://www.bbc.co.uk/news/articles/c24mnnnd18do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 07:21:06 GMT",
-      "description": "The appointment of John Healey is particularly fascinating, writes BBC political editor Chris Mason.",
+      "title": "Chris Mason: Starmer ally takes swipe at Burnham's first big policy",
+      "link": "https://www.bbc.co.uk/news/articles/c62xzn3j1p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 09:00:36 GMT",
+      "description": "Sir Keir Starmer's former right hand man Darren Jones says Andy Burnham's VAT cut is unfunded.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Man due in court charged with murder of Ann Widdecombe",
+      "link": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 09:26:45 GMT",
+      "description": "Joshua Kerry from South Yorkshire, is set to appear at Westminister Magistrates' Court on Tuesday.",
       "source": "BBC News",
       "category": "Global"
     },
     {
       "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
       "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 07:56:13 GMT",
+      "published": "Tue, 21 Jul 2026 09:16:21 GMT",
       "description": "The duties mark a major escalation in trade tensions between the North American neighbours.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 06:16:06 GMT",
-      "description": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Rupiah menguat seiring meredanya kekhawatiran investor pada fiskal RI",
+      "link": "https://www.antaranews.com/berita/5658816/rupiah-menguat-seiring-meredanya-kekhawatiran-investor-pada-fiskal-ri",
+      "published": "Tue, 21 Jul 2026 16:39:53 +0700",
+      "description": "Nilai tukar (kurs) rupiah pada penutupan perdagangan Rabu sore menguat 60 poin atau 0,33 persen menjadi Rp17.888 per ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "no element found: line 658, column 70",
+      "title": "Indonesia tempatkan enam wakil di babak utama ITF M15 Bali 2026",
+      "link": "https://www.antaranews.com/berita/5658812/indonesia-tempatkan-enam-wakil-di-babak-utama-itf-m15-bali-2026",
+      "published": "Tue, 21 Jul 2026 16:38:41 +0700",
+      "description": "Indonesia menempatkan enam wakil di babak utama seri pertama ITF M15 Amman Mineral Men&#39;s World Tennis Championship ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Komisi XI pastikan Indonesia tetap patuhi \"global minimum tax\" di PFII",
+      "link": "https://www.antaranews.com/berita/5658811/komisi-xi-pastikan-indonesia-tetap-patuhi-global-minimum-tax-di-pfii",
+      "published": "Tue, 21 Jul 2026 16:37:09 +0700",
+      "description": "Wakil Ketua Komisi XI DPR RI Mohamad Hekal menegaskan bahwa Indonesia tetap mematuhi global minimum tax (GMT), meski ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Bahlil: Penerapan B50 pangkas impor minyak jadi 700 barel per hari",
+      "link": "https://www.antaranews.com/berita/5658809/bahlil-penerapan-b50-pangkas-impor-minyak-jadi-700-barel-per-hari",
+      "published": "Tue, 21 Jul 2026 16:37:03 +0700",
+      "description": "Menteri Energi dan Sumber Daya Mineral (ESDM) Bahlil Lahadalia menyampaikan penerapan mandatori biodiesel B50 memangkas ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
