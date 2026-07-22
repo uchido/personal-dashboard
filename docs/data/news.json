@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-22T12:33:19+0000",
+  "timestamp": "2026-07-22T13:04:20+0000",
   "articles": [
     {
-      "title": "Burnham says he will review early prisoner release scheme",
+      "title": "Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper's killers",
       "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 12:30:48 GMT",
+      "published": "Wed, 22 Jul 2026 13:03:46 GMT",
       "description": "The prime minister says he cannot commit to changing the policy but wants to look at it in detail \"before we go further forward\".",
       "source": "BBC News",
       "category": "Global"
@@ -18,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "Some food prices have fallen – but inflation expected to rise from here",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 10:10:01 GMT",
-      "description": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
+      "title": "Ex-Southern Water boss charged with conspiracy to defraud over water tests",
+      "link": "https://www.bbc.co.uk/news/articles/c36d0njy7jjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 13:01:07 GMT",
+      "description": "The former boss is among four charged over an alleged plan to manipulate water quality tests",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Proyek BRT Rp1,3 triliun dimulai, target 2027 Bandung Raya bebas macet",
+      "link": "https://www.antaranews.com/berita/5661169/proyek-brt-rp13-triliun-dimulai-target-2027-bandung-raya-bebas-macet",
+      "published": "Wed, 22 Jul 2026 20:03:42 +0700",
+      "description": "Pemerintah resmi memulai pembangunan proyek raksasa Bus Rapid Transit (BRT) Cekungan Bandung Raya senilai Rp1,3 triliun ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menkop ajak pelaku UMKM bergabung ke koperasi",
+      "link": "https://www.antaranews.com/berita/5661167/menkop-ajak-pelaku-umkm-bergabung-ke-koperasi",
+      "published": "Wed, 22 Jul 2026 20:01:41 +0700",
+      "description": "Menteri Koperasi (Menkop) Ferry Juliantono mengajak pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) untuk ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ompreng harapan di garis depan tapal batas",
+      "link": "https://www.antaranews.com/berita/5661164/ompreng-harapan-di-garis-depan-tapal-batas",
+      "published": "Wed, 22 Jul 2026 20:00:38 +0700",
+      "description": "Motor bebek rakitan tahun 2007 itu lincah meliuk-liuk mencari jalur yang aman dilalui di lintasan jalan berbatu Desa ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "UI-UQ lahirkan 62 talenta global",
+      "link": "https://www.antaranews.com/berita/5661159/ui-uq-lahirkan-62-talenta-global",
+      "published": "Wed, 22 Jul 2026 19:59:35 +0700",
+      "description": "Universitas Indonesia (UI) dan The University of Queensland (UQ), Australia, melakukan wisuda 62 mahasiswa program ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
