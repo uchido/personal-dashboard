@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T02:13:09+0000",
+  "timestamp": "2026-07-22T02:44:10+0000",
   "articles": [
     {
       "title": "Burnham pulls back on suggestion to increase income tax allowance",
@@ -28,13 +28,40 @@
     {
       "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
       "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 01:37:15 GMT",
+      "published": "Wed, 22 Jul 2026 02:15:05 GMT",
       "description": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "BPBD Kalsel bangun lima pos karhutla di kawasan bandara internasional",
+      "link": "https://www.antaranews.com/berita/5659911/bpbd-kalsel-bangun-lima-pos-karhutla-di-kawasan-bandara-internasional",
+      "published": "Wed, 22 Jul 2026 09:43:19 +0700",
+      "description": "Badan Penanggulangan Bencana Daerah (BPBD) Kalimantan Selatan (Kalsel) membangun lima pos mempercepat penanganan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "HunterLab luncurkan Vista® L2 dengan rentang pengukuran yang diperluas menjadi 710 nm",
+      "link": "https://www.antaranews.com/berita/5659909/hunterlab-luncurkan-vista-l2-dengan-rentang-pengukuran-yang-diperluas-menjadi-710-nm",
+      "published": "Wed, 22 Jul 2026 09:39:57 +0700",
+      "description": "HunterLab adalah tolok ukur sejati di dunia dalam hal pengukuran warna. Hari ini HunterLab mengumumkan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Prabowo minta perwira TNI-Polri waspadai ancaman perang siber",
+      "link": "https://www.antaranews.com/berita/5659905/prabowo-minta-perwira-tni-polri-waspadai-ancaman-perang-siber",
+      "published": "Wed, 22 Jul 2026 09:39:35 +0700",
+      "description": "Presiden Prabowo Subianto meminta para perwira remaja TNI dan Polri mewaspadai perubahan bentuk ancaman terhadap ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Presiden minta perwira TNI-Polri kuasai AI dan bahasa asing",
+      "link": "https://www.antaranews.com/berita/5659904/presiden-minta-perwira-tni-polri-kuasai-ai-dan-bahasa-asing",
+      "published": "Wed, 22 Jul 2026 09:35:13 +0700",
+      "description": "Presiden Prabowo Subianto meminta 1.177 perwira remaja TNI dan Polri yang baru dilantik menguasai kecerdasan buatan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
