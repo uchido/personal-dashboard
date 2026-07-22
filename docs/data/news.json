@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-07-22T01:42:08+0000",
+  "timestamp": "2026-07-22T02:13:09+0000",
   "articles": [
+    {
+      "title": "Burnham pulls back on suggestion to increase income tax allowance",
+      "link": "https://www.bbc.co.uk/news/articles/c935g67wyvgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 01:43:54 GMT",
+      "description": "The new prime minister previously said voters were frustrated over the freeze in tax-free personal allowance.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Zelensky sacks Ukraine's top army commander after days of protests",
       "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Burnham tells cabinet to tackle living costs at first meeting",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 23:15:33 GMT",
-      "description": "The new prime minister chaired his first cabinet after announcing a cut to VAT on household electricity.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
       "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 22 Jul 2026 01:37:15 GMT",
@@ -34,7 +34,7 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 662, column 2",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
