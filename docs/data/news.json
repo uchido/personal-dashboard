@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T00:09:07+0000",
+  "timestamp": "2026-07-22T00:40:09+0000",
   "articles": [
     {
       "title": "Zelensky sacks Ukraine's top army commander after days of protests",
@@ -26,42 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Sackings, cabinet surprises and policies: Burnham's first 24 hours as PM",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjz907pppo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 17:14:44 GMT",
-      "description": "The new prime minister enters Number 10 in a flurry of activity - but he is still facing calls for a snap election.",
+      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+      "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 00:11:58 GMT",
+      "description": "Some senators pushed back on Hegseth's funding request as he testified at a pivotal time in the war.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Kemarin, pengumuman seleksi SPMB SNT hingga pengurangan anggaran MBG",
-      "link": "https://www.antaranews.com/berita/5659797/kemarin-pengumuman-seleksi-spmb-snt-hingga-pengurangan-anggaran-mbg",
-      "published": "Wed, 22 Jul 2026 06:54:08 +0700",
-      "description": "Sejumlah warta humaniora kemarin, Selasa (21/7), masih menarik dibaca hari ini, mulai dari Kementerian Pendidikan Dasar ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Jember Fashion Carnaval 2026 bawa isu pemulihan lingkungan dan sosial",
-      "link": "https://www.antaranews.com/berita/5659795/jember-fashion-carnaval-2026-bawa-isu-pemulihan-lingkungan-dan-sosial",
-      "published": "Wed, 22 Jul 2026 06:53:20 +0700",
-      "description": "Penyelenggaraan karnaval Jember Fashion Carnaval (JFC) KE-24 yang bertajuk &quot;HEAL: Humanity, Earth, and Life&quot; ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DKI kemarin, macet Cakung-Cilincing hingga SDN Kebayoran Lama roboh",
-      "link": "https://www.antaranews.com/berita/5659791/dki-kemarin-macet-cakung-cilincing-hingga-sdn-kebayoran-lama-roboh",
-      "published": "Wed, 22 Jul 2026 06:52:40 +0700",
-      "description": "Sejumlah berita seputar DKI Jakarta yang terjadi pada Selasa (21/7), mulai dari kemacetan Cakung-Cilincing hingga SDN ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Empat penggawa asing dipertahankan PSIM Yogyakarta",
-      "link": "https://www.antaranews.com/berita/5659789/empat-penggawa-asing-dipertahankan-psim-yogyakarta",
-      "published": "Wed, 22 Jul 2026 06:46:54 +0700",
-      "description": "Klub BRI Super League PSIM Yogyakarta mempertahankan empat penggawa asingnya yaitu Ze Valente, Ezequiel Vidal, Yusaku ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
