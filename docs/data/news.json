@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-22T02:44:10+0000",
+  "timestamp": "2026-07-22T03:15:10+0000",
   "articles": [
     {
       "title": "Burnham pulls back on suggestion to increase income tax allowance",
       "link": "https://www.bbc.co.uk/news/articles/c935g67wyvgo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 22 Jul 2026 01:43:54 GMT",
       "description": "The new prime minister previously said voters were frustrated over the freeze in tax-free personal allowance.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "US renews strikes on Iran as Trump threatens to attack Pickaxe Mountain",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 03:05:08 GMT",
+      "description": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-      "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 02:15:05 GMT",
-      "description": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "BPBD Kalsel bangun lima pos karhutla di kawasan bandara internasional",
-      "link": "https://www.antaranews.com/berita/5659911/bpbd-kalsel-bangun-lima-pos-karhutla-di-kawasan-bandara-internasional",
-      "published": "Wed, 22 Jul 2026 09:43:19 +0700",
-      "description": "Badan Penanggulangan Bencana Daerah (BPBD) Kalimantan Selatan (Kalsel) membangun lima pos mempercepat penanganan ...",
+      "title": "MPLS Sekolah Rakyat di Sulsel terkendala pemenuhan air",
+      "link": "https://www.antaranews.com/berita/5659960/mpls-sekolah-rakyat-di-sulsel-terkendala-pemenuhan-air",
+      "published": "Wed, 22 Jul 2026 10:14:33 +0700",
+      "description": "Masa pengenalan lingkungan sekolah (MPLS) Sekolah Rakyat di Sulawesi Selatan (Sulsel) terkendala pemenuhan air baku ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "HunterLab luncurkan Vista® L2 dengan rentang pengukuran yang diperluas menjadi 710 nm",
-      "link": "https://www.antaranews.com/berita/5659909/hunterlab-luncurkan-vista-l2-dengan-rentang-pengukuran-yang-diperluas-menjadi-710-nm",
-      "published": "Wed, 22 Jul 2026 09:39:57 +0700",
-      "description": "HunterLab adalah tolok ukur sejati di dunia dalam hal pengukuran warna. Hari ini HunterLab mengumumkan ...",
+      "title": "Ricky dan Radja tak lagi pulang sekolah saat hari hampir gelap",
+      "link": "https://www.antaranews.com/berita/5659957/ricky-dan-radja-tak-lagi-pulang-sekolah-saat-hari-hampir-gelap",
+      "published": "Wed, 22 Jul 2026 10:14:13 +0700",
+      "description": "Pagi itu, senyum Ricky dan Radja tampak berbeda. Dua siswa kelas VI SD Inpres Naimata, Kota Kupang, Nusa Tenggara ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Prabowo minta perwira TNI-Polri waspadai ancaman perang siber",
-      "link": "https://www.antaranews.com/berita/5659905/prabowo-minta-perwira-tni-polri-waspadai-ancaman-perang-siber",
-      "published": "Wed, 22 Jul 2026 09:39:35 +0700",
-      "description": "Presiden Prabowo Subianto meminta para perwira remaja TNI dan Polri mewaspadai perubahan bentuk ancaman terhadap ...",
+      "title": "Prabowo hargai pengorbanan orang tua perwira TNI-Polri",
+      "link": "https://www.antaranews.com/berita/5659953/prabowo-hargai-pengorbanan-orang-tua-perwira-tni-polri",
+      "published": "Wed, 22 Jul 2026 10:13:39 +0700",
+      "description": "Presiden Prabowo Subianto menyampaikan penghormatan dan rasa terima kasih kepada para orang tua serta keluarga perwira ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Presiden minta perwira TNI-Polri kuasai AI dan bahasa asing",
-      "link": "https://www.antaranews.com/berita/5659904/presiden-minta-perwira-tni-polri-kuasai-ai-dan-bahasa-asing",
-      "published": "Wed, 22 Jul 2026 09:35:13 +0700",
-      "description": "Presiden Prabowo Subianto meminta 1.177 perwira remaja TNI dan Polri yang baru dilantik menguasai kecerdasan buatan ...",
+      "title": "Ekonom nilai bank emas perkuat rantai pasok dan lindungi dari inflasi",
+      "link": "https://www.antaranews.com/berita/5659951/ekonom-nilai-bank-emas-perkuat-rantai-pasok-dan-lindungi-dari-inflasi",
+      "published": "Wed, 22 Jul 2026 10:12:10 +0700",
+      "description": "Direktur Eksekutif Institute for Development of Economics and Finance (Indef) Esther Sri Astuti menilai bank emas dapat ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
