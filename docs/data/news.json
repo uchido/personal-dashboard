@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-22T15:39:22+0000",
+  "timestamp": "2026-07-22T16:10:25+0000",
   "articles": [
     {
       "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
       "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 15:18:15 GMT",
+      "published": "Wed, 22 Jul 2026 15:43:55 GMT",
       "description": "Lissie Harper says the possible early release of prisoners is \"deplorable\", after reports that two of PC Harper's killers could be freed early.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Most bus fares in England to be capped at £2 from January",
+      "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 12:26:03 GMT",
+      "description": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
       "source": "BBC News",
       "category": "Global"
     },
@@ -20,48 +28,40 @@
     {
       "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water quality tests",
       "link": "https://www.bbc.co.uk/news/articles/c36d0njy7jjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 13:51:38 GMT",
+      "published": "Wed, 22 Jul 2026 16:07:15 GMT",
       "description": "Matthew Wright is accused alongside three others of trying to save the firm millions in penalties.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 11:40:11 GMT",
-      "description": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Rubio: Kuba punya dampak langsung terhadap keamanan nasional AS",
-      "link": "https://www.antaranews.com/berita/5661484/rubio-kuba-punya-dampak-langsung-terhadap-keamanan-nasional-as",
-      "published": "Wed, 22 Jul 2026 22:37:00 +0700",
-      "description": "Menteri Luar Negeri Marco Rubio pada Rabu mengatakan bahwa Kuba secara langsung mempengaruhi keamanan nasional Amerika ...",
+      "title": "DPR RI dorong kementerian dan pemkab promosikan pariwisata di Bintan",
+      "link": "https://www.antaranews.com/video/5661512/dpr-ri-dorong-kementerian-dan-pemkab-promosikan-pariwisata-di-bintan",
+      "published": "Wed, 22 Jul 2026 23:09:58 +0700",
+      "description": "ANTARA -&nbsp;Komisi VII DPR RI mendorong kerjasama antara Kementerian dan Pemerintah Kabupaten (Pemkab) Bintan, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Respons Iran terhadap serangan ke fasilitas nuklir tidak akan terbatas",
-      "link": "https://www.antaranews.com/berita/5661480/respons-iran-terhadap-serangan-ke-fasilitas-nuklir-tidak-akan-terbatas",
-      "published": "Wed, 22 Jul 2026 22:36:52 +0700",
-      "description": "Balasan Teheran terhadap kemungkinan serangan Amerika Serikat (AS) ke fasilitas nuklir Iran tak akan terbatas, dan ...",
+      "title": "BPBD Kalsel maksimalkan helikopter water bombing untuk atasi karhutla",
+      "link": "https://www.antaranews.com/video/5661504/bpbd-kalsel-maksimalkan-helikopter-water-bombing-untuk-atasi-karhutla",
+      "published": "Wed, 22 Jul 2026 23:09:24 +0700",
+      "description": "ANTARA - Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Kalimantan Selatan mencatat hingga 20 Juli 2026 lebih dari ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemkot Kendari resmikan gedung UPD dan luncurkan layanan donor darah",
-      "link": "https://www.antaranews.com/video/5661408/pemkot-kendari-resmikan-gedung-upd-dan-luncurkan-layanan-donor-darah",
-      "published": "Wed, 22 Jul 2026 22:36:15 +0700",
-      "description": "ANTARA - Pemerintah Kota Kendari meresmikan gedung Unit Pengelola Darah (UPD) di Rumah Sakit Umum Daerah (RSUD) Kota ...",
+      "title": "Kiat menumbuhkan keberanian anak untuk melaporkan tindak kekerasan",
+      "link": "https://www.antaranews.com/berita/5661523/kiat-menumbuhkan-keberanian-anak-untuk-melaporkan-tindak-kekerasan",
+      "published": "Wed, 22 Jul 2026 23:09:18 +0700",
+      "description": "Psikolog klinis Meiri Dias Tuti, M.Psi., Psikolog menyampaikan pentingnya orang tua membangun kedekatan dengan anak ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Seoul: AS tak minta Korsel kerahkan pasukan ke Selat Hormuz",
-      "link": "https://www.antaranews.com/berita/5661472/seoul-as-tak-minta-korsel-kerahkan-pasukan-ke-selat-hormuz",
-      "published": "Wed, 22 Jul 2026 22:32:07 +0700",
-      "description": "Kementerian Luar Negeri Korea Selatan pada Rabu menyatakan bahwa Amerika Serikat tidak meminta Seoul mengirim baik ...",
+      "title": "KPK tahan tiga tersangka yang diduga suap anggota DPR RI Anwar Sadad",
+      "link": "https://www.antaranews.com/video/5661485/kpk-tahan-tiga-tersangka-yang-diduga-suap-anggota-dpr-ri-anwar-sadad",
+      "published": "Wed, 22 Jul 2026 23:08:35 +0700",
+      "description": "ANTARA - Komisi Pemberantasan Korupsi (KPK) pada Rabu (22/7), menahan tiga tersangka kasus dana hibah untuk kelompok ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
