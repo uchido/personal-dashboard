@@ -1,9 +1,47 @@
 {
-  "timestamp": "2026-07-22T12:02:21+0000",
+  "timestamp": "2026-07-22T12:33:19+0000",
   "locations": [
     {
       "name": "Palu",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "location": "Lolu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "temp_c": "18",
+      "feels_like_c": "14",
+      "humidity": "88",
+      "wind_speed_kmh": "4",
+      "wind_dir": "S",
+      "visibility_km": "10",
+      "pressure_mb": "1012",
+      "condition": "Partly Cloudy ",
+      "condition_code": "116",
+      "uv_index": "0",
+      "forecast": [
+        {
+          "date": "2026-07-22",
+          "max_temp": "27",
+          "min_temp": "17",
+          "condition": "Light rain shower",
+          "sunrise": "06:05 AM",
+          "sunset": "06:09 PM"
+        },
+        {
+          "date": "2026-07-23",
+          "max_temp": "27",
+          "min_temp": "17",
+          "condition": "Clear ",
+          "sunrise": "06:05 AM",
+          "sunset": "06:09 PM"
+        },
+        {
+          "date": "2026-07-24",
+          "max_temp": "30",
+          "min_temp": "17",
+          "condition": "Partly Cloudy ",
+          "sunrise": "06:05 AM",
+          "sunset": "06:09 PM"
+        }
+      ]
     },
     {
       "name": "Yogyakarta",

@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-22T12:02:21+0000",
+  "timestamp": "2026-07-22T12:33:19+0000",
   "articles": [
     {
       "title": "Burnham says he will review early prisoner release scheme",
       "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 11:45:00 GMT",
+      "published": "Wed, 22 Jul 2026 12:30:48 GMT",
       "description": "The prime minister says he cannot commit to changing the policy but wants to look at it in detail \"before we go further forward\".",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Dokter: Wanita lebih rentan alami infeksi saluran kemih karena anatomi",
-      "link": "https://www.antaranews.com/berita/5661029/dokter-wanita-lebih-rentan-alami-infeksi-saluran-kemih-karena-anatomi",
-      "published": "Wed, 22 Jul 2026 19:01:56 +0700",
-      "description": "Dokter spesialis urologi RS Premier Bintaro Teguh Risesa Djufri&nbsp;mengatakan perempuan lebih rentan mengalami ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KPK tahan tiga tersangka penyuap anggota DPR RI Anwar Sadad",
-      "link": "https://www.antaranews.com/berita/5661027/kpk-tahan-tiga-tersangka-penyuap-anggota-dpr-ri-anwar-sadad",
-      "published": "Wed, 22 Jul 2026 19:01:04 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) menahan tiga tersangka kasus dana hibah untuk kelompok masyarakat di Pemerintah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Barantin bangun laboratorium di Cilacap dan Waingapu",
-      "link": "https://www.antaranews.com/berita/5661025/barantin-bangun-laboratorium-di-cilacap-dan-waingapu",
-      "published": "Wed, 22 Jul 2026 18:58:42 +0700",
-      "description": "Badan Karantina Indonesia (Barantin) tengah membangun laboratorium yang terintegrasi dengan instalasi karantina di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Wali Kota New York sebut PM Israel Netanyahu penjahat perang",
-      "link": "https://www.antaranews.com/video/5660995/wali-kota-new-york-sebut-pm-israel-netanyahu-penjahat-perang",
-      "published": "Wed, 22 Jul 2026 18:58:33 +0700",
-      "description": "ANTARA - Wali Kota New York, Amerika Serikat, Zohran Mamdani menyatakan bahwa Perdana Menteri Israel Benjamin Netanyahu ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
