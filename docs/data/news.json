@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-22T14:06:21+0000",
+  "timestamp": "2026-07-22T14:37:22+0000",
   "articles": [
     {
       "title": "Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper's killers",
       "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 22 Jul 2026 14:01:43 GMT",
       "description": "The prime minister says he cannot commit to changing the policy but wants to look at it in detail \"before we go further forward\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 12:40:46 GMT",
+      "description": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 11:40:11 GMT",
-      "description": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "BNPT: Perubahan pola ancaman terorisme tuntut adaptasi teknologi",
-      "link": "https://www.antaranews.com/berita/5661327/bnpt-perubahan-pola-ancaman-terorisme-tuntut-adaptasi-teknologi",
-      "published": "Wed, 22 Jul 2026 21:05:53 +0700",
-      "description": "Badan Nasional Penanggulangan Terorisme (BNPT) menegaskan perubahan pola ancaman terorisme menuntut seluruh pemangku ...",
+      "title": "ASDP beri kontribusi bagi pengembangan wilayah 3T",
+      "link": "https://www.antaranews.com/berita/5661399/asdp-beri-kontribusi-bagi-pengembangan-wilayah-3t",
+      "published": "Wed, 22 Jul 2026 21:35:04 +0700",
+      "description": "PT ASDP Indonesia Ferry (Persero) telah memberikan kontribusi bagi pengembangan wilayah 3T (terdepan, tertinggal, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Satgas PRR minta Pemda proaktif siapkan lahan hunian tetap",
-      "link": "https://www.antaranews.com/berita/5661319/satgas-prr-minta-pemda-proaktif-siapkan-lahan-hunian-tetap",
-      "published": "Wed, 22 Jul 2026 21:02:37 +0700",
-      "description": "Satuan Tugas Percepatan Rehabilitasi dan Rekonstruksi Pascabencana Sumatera (Satgas PRR) mendorong pemerintah daerah ...",
+      "title": "Diskatan Kuningan lirik buah naga jadi komoditas unggulan daerah",
+      "link": "https://www.antaranews.com/berita/5661397/diskatan-kuningan-lirik-buah-naga-jadi-komoditas-unggulan-daerah",
+      "published": "Wed, 22 Jul 2026 21:33:59 +0700",
+      "description": "Dinas Ketahanan Pangan dan Pertanian (Diskatan) Kabupaten Kuningan, Jawa Barat, menjadikan buah naga sebagai salah satu ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Khawatirkan China, Jepang ingin perkuat pertahanan dengan ASEAN",
-      "link": "https://www.antaranews.com/berita/5661316/khawatirkan-china-jepang-ingin-perkuat-pertahanan-dengan-asean",
-      "published": "Wed, 22 Jul 2026 21:01:37 +0700",
-      "description": "Menteri Luar Negeri Jepang Toshimitsu Motegi berjanji untuk meningkatkan kerja sama dengan Perhimpunan Bangsa-Bangsa ...",
+      "title": "Kapal Basarnas dari Mentawai terbakar saat perbaikan di Muara Baru",
+      "link": "https://www.antaranews.com/berita/5661393/kapal-basarnas-dari-mentawai-terbakar-saat-perbaikan-di-muara-baru",
+      "published": "Wed, 22 Jul 2026 21:33:17 +0700",
+      "description": "Kapal bertuliskan Basarnas terbakar saat sedang melakukan perawatan atau docking tahunan di PT Proskuneo Kadarusman di ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ratusan kasus narkoba diungkap selama Operasi Pekat II Candi 2026",
-      "link": "https://www.antaranews.com/video/5661127/ratusan-kasus-narkoba-diungkap-selama-operasi-pekat-ii-candi-2026",
-      "published": "Wed, 22 Jul 2026 21:01:00 +0700",
-      "description": "ANTARA - Direktorat Reserse Narkoba (Ditresnarkoba) Polda Jawa Tengah bersama polres jajaran mengungkap ratusan perkara ...",
+      "title": "BNPT fokus bangun ketahanan masyarakat dari paparan paham radikal",
+      "link": "https://www.antaranews.com/berita/5661389/bnpt-fokus-bangun-ketahanan-masyarakat-dari-paparan-paham-radikal",
+      "published": "Wed, 22 Jul 2026 21:32:09 +0700",
+      "description": "Badan Nasional Penanggulangan Terorisme (BNPT) berfokus membangun ketahanan masyarakat agar tidak mudah terpapar paham ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
