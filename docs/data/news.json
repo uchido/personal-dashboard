@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T00:40:09+0000",
+  "timestamp": "2026-07-22T01:11:08+0000",
   "articles": [
     {
       "title": "Zelensky sacks Ukraine's top army commander after days of protests",
@@ -32,11 +32,6 @@
       "description": "Some senators pushed back on Hegseth's funding request as he testified at a pivotal time in the war.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 660, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
