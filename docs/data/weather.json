@@ -1,89 +1,13 @@
 {
-  "timestamp": "2026-07-22T19:47:26+0000",
+  "timestamp": "2026-07-22T20:18:57+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
-      "region": "Central Sulawesi",
-      "country": "Indonesia",
-      "temp_c": "18",
-      "feels_like_c": "13",
-      "humidity": "90",
-      "wind_speed_kmh": "4",
-      "wind_dir": "S",
-      "visibility_km": "10",
-      "pressure_mb": "1012",
-      "condition": "Cloudy ",
-      "condition_code": "119",
-      "uv_index": "0",
-      "forecast": [
-        {
-          "date": "2026-07-23",
-          "max_temp": "30",
-          "min_temp": "18",
-          "condition": "Partly Cloudy ",
-          "sunrise": "06:05 AM",
-          "sunset": "06:09 PM"
-        },
-        {
-          "date": "2026-07-24",
-          "max_temp": "32",
-          "min_temp": "17",
-          "condition": "Mist",
-          "sunrise": "06:05 AM",
-          "sunset": "06:09 PM"
-        },
-        {
-          "date": "2026-07-25",
-          "max_temp": "31",
-          "min_temp": "17",
-          "condition": "Mist",
-          "sunrise": "06:05 AM",
-          "sunset": "06:09 PM"
-        }
-      ]
+      "error": "The read operation timed out"
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
-      "region": "Daerah Istimewa Yogyakarta",
-      "country": "Indonesia",
-      "temp_c": "20",
-      "feels_like_c": "16",
-      "humidity": "89",
-      "wind_speed_kmh": "4",
-      "wind_dir": "ESE",
-      "visibility_km": "10",
-      "pressure_mb": "1015",
-      "condition": "Patchy rain nearby",
-      "condition_code": "176",
-      "uv_index": "0",
-      "forecast": [
-        {
-          "date": "2026-07-23",
-          "max_temp": "26",
-          "min_temp": "20",
-          "condition": "Partly Cloudy ",
-          "sunrise": "05:53 AM",
-          "sunset": "05:37 PM"
-        },
-        {
-          "date": "2026-07-24",
-          "max_temp": "28",
-          "min_temp": "20",
-          "condition": "Patchy rain nearby",
-          "sunrise": "05:53 AM",
-          "sunset": "05:37 PM"
-        },
-        {
-          "date": "2026-07-25",
-          "max_temp": "29",
-          "min_temp": "19",
-          "condition": "Clear ",
-          "sunrise": "05:53 AM",
-          "sunset": "05:37 PM"
-        }
-      ]
+      "error": "The read operation timed out"
     }
   ]
 }
