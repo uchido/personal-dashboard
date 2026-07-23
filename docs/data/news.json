@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-23T02:30:33+0000",
+  "timestamp": "2026-07-23T03:01:37+0000",
   "articles": [
     {
       "title": "US signs landmark nuclear deal with Saudi Arabia",
       "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 23 Jul 2026 00:21:53 GMT",
       "description": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Houthis claim attack on oil tankers after US launches more strikes on Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 02:33:04 GMT",
+      "description": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-      "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 14:52:25 GMT",
-      "description": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "HAN 2026 pemerintah jamin pendidikan berkelanjutan anak pekerja migran",
-      "link": "https://www.antaranews.com/berita/5661941/han-2026-pemerintah-jamin-pendidikan-berkelanjutan-anak-pekerja-migran",
-      "published": "Thu, 23 Jul 2026 09:29:20 +0700",
-      "description": "Pemerintah&nbsp;menjamin pendidikan berkelanjutan bagi anak-anak Pekerja Migran Indonesia (PMI) di Malaysia baik secara ...",
+      "title": "Pemkot Jaksel ungkap penyebab ambruknya bangunan SDN Kebayoran Lama 09",
+      "link": "https://www.antaranews.com/berita/5661955/pemkot-jaksel-ungkap-penyebab-ambruknya-bangunan-sdn-kebayoran-lama-09",
+      "published": "Thu, 23 Jul 2026 09:50:20 +0700",
+      "description": "Pemerintah Kota Administrasi Jakarta Selatan mengungkapkan penyebab ambruknya bangunan Sekolah Dasar Negeri (SDN) ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Harga emas Antam pada Kamis naik Rp5.000 jadi Rp2,640 juta/gr",
-      "link": "https://www.antaranews.com/berita/5661937/harga-emas-antam-pada-kamis-naik-rp5000-jadi-rp2640-juta-gr",
-      "published": "Thu, 23 Jul 2026 09:25:45 +0700",
-      "description": "Harga emas Antam, yang dipantau dari laman Logam Mulia, di Jakarta, Kamis pukul 09.20 WIB naik Rp5.000 menjadi ...",
+      "title": "Kemenperin minta industri kooperatif sukseskan Sensus Ekonomi",
+      "link": "https://www.antaranews.com/berita/5661952/kemenperin-minta-industri-kooperatif-sukseskan-sensus-ekonomi",
+      "published": "Thu, 23 Jul 2026 09:45:16 +0700",
+      "description": "Kementerian Perindustrian (Kemenperin) meminta pelaku industri untuk bersikap kooperatif dalam mendukung pelaksanaan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "7 manfaat bersepeda untuk kesehatan, jaga jantung dan berat badan",
-      "link": "https://www.antaranews.com/berita/5661935/7-manfaat-bersepeda-untuk-kesehatan-jaga-jantung-dan-berat-badan",
-      "published": "Thu, 23 Jul 2026 09:25:04 +0700",
-      "description": "Bersepeda menjadi salah satu olahraga yang mudah dilakukan dan memberikan beragam manfaat bagi kesehatan fisik maupun ...",
+      "title": "Pentingnya ganti pelumas secara rutin pada kendaraan",
+      "link": "https://otomotif.antaranews.com/berita/5661951/pentingnya-ganti-pelumas-secara-rutin-pada-kendaraan",
+      "published": "Thu, 23 Jul 2026 09:44:47 +0700",
+      "description": "Perawatan berkala yang dilakukan oleh pemilik kendaraan, merupakan faktor penting untuk menjaga performa kendaraan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "InJourney Airports bukukan pendapatan Rp10,23 triliun pada Semester I",
-      "link": "https://www.antaranews.com/berita/5661933/injourney-airports-bukukan-pendapatan-rp1023-triliun-pada-semester-i",
-      "published": "Thu, 23 Jul 2026 09:22:18 +0700",
-      "description": "PT Angkasa Pura Indonesia atau InJourney Airports membukukan pendapatan Rp10,23 triliun pada semester I 2026 berkat ...",
+      "title": "Kepala Bapanas pastikan ketersediaan beras RI kuat hadapi kekeringan",
+      "link": "https://www.antaranews.com/berita/5661947/kepala-bapanas-pastikan-ketersediaan-beras-ri-kuat-hadapi-kekeringan",
+      "published": "Thu, 23 Jul 2026 09:41:12 +0700",
+      "description": "Kepala Badan Pangan Nasional (Bapanas) sekaligus Menteri Pertanian Andi Amran Sulaiman menegaskan ketersediaan stok ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
