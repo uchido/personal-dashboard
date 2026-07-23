@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T04:04:05+0000",
+  "timestamp": "2026-07-23T04:34:36+0000",
   "articles": [
     {
       "title": "US signs landmark nuclear deal with Saudi Arabia",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
+      "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 15:43:55 GMT",
+      "description": "Lissie Harper says the possible early release of prisoners is \"deplorable\", after reports that two of PC Harper's killers could be freed early.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Hope for thousands of MS patients as 'life-changing' drug now on NHS in England",
       "link": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 22 Jul 2026 23:38:58 GMT",
@@ -26,12 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "Rain to return this weekend as parts of UK on brink of drought",
-      "link": "https://www.bbc.co.uk/weather/articles/cx2rvej7lk7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 23:32:02 GMT",
-      "description": "Following weeks of mainly dry weather, we can welcome some rain this weekend, but it is not going to be that much, as Chris Fawkes explains.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Tanker meledak saat berusaha lewat Selat Hormuz penuh ranjau",
+      "link": "https://www.antaranews.com/berita/5662067/tanker-meledak-saat-berusaha-lewat-selat-hormuz-penuh-ranjau",
+      "published": "Thu, 23 Jul 2026 11:33:52 +0700",
+      "description": "Tiga tanker minyak&nbsp;mencoba melintasi wilayah Selat Hormuz yang telah dipasangi ranjau, di mana satu di antaranya ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pertumbuhan Kinerja Perkuat Layanan Jasa Raharja bagi Masyarakat",
+      "link": "https://www.antaranews.com/berita/5662065/pertumbuhan-kinerja-perkuat-layanan-jasa-raharja-bagi-masyarakat",
+      "published": "Thu, 23 Jul 2026 11:33:22 +0700",
+      "description": "PT Jasa Raharja (Persero) kembali mencatatkan kinerja positif sepanjang tahun buku 2025. Di tengah dinamika industri ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BI: Uang beredar M2 tumbuh 8,7 persen capai Rp10.432,8 T pada Juni",
+      "link": "https://www.antaranews.com/berita/5662063/bi-uang-beredar-m2-tumbuh-87-persen-capai-rp104328-t-pada-juni",
+      "published": "Thu, 23 Jul 2026 11:30:36 +0700",
+      "description": "Bank Indonesia (BI) melaporkan bahwa likuiditas perekonomian atau uang beredar dalam arti luas (M2) tumbuh positif pada ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Dishub DKI panggil 19 depo peti kemas usai macet parah di Cakung",
+      "link": "https://www.antaranews.com/berita/5662061/dishub-dki-panggil-19-depo-peti-kemas-usai-macet-parah-di-cakung",
+      "published": "Thu, 23 Jul 2026 11:25:29 +0700",
+      "description": "Dinas Perhubungan (Dishub) DKI Jakarta memanggil sekitar 19 pengelola depo peti&nbsp;kemas di kawasan Jakarta Timur dan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
