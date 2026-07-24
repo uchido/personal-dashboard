@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T07:27:02+0000",
+  "timestamp": "2026-07-24T07:58:02+0000",
   "articles": [
     {
       "title": "US hits dozens of trading partners with new wave of tariffs",
@@ -32,6 +32,11 @@
       "description": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "no element found: line 658, column 250",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
