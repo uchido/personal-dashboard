@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T11:04:06+0000",
+  "timestamp": "2026-07-24T11:35:07+0000",
   "articles": [
     {
       "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "BPJN Sumbar kebut perbaiki Jembatan Bungus agar distribusi BBM lancar",
-      "link": "https://www.antaranews.com/video/5664491/bpjn-sumbar-kebut-perbaiki-jembatan-bungus-agar-distribusi-bbm-lancar",
-      "published": "Fri, 24 Jul 2026 18:02:34 +0700",
-      "description": "ANTARA - Balai Pelaksana Jalan Nasional (BPJN) Sumatera Barat memastikan proses pemulihan Jembatan Bungus Teluk Kabung, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemulihan Aceh pascabencana masuk fase rehab rekon mulai Agustus 2026",
-      "link": "https://www.antaranews.com/berita/5664509/pemulihan-aceh-pascabencana-masuk-fase-rehab-rekon-mulai-agustus-2026",
-      "published": "Fri, 24 Jul 2026 18:02:00 +0700",
-      "description": "Satuan Tugas Percepatan Rehabilitasi dan Rekonstruksi (Satgas PRR) Sumatera menyatakan pemulihan Provinsi Aceh ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kevin Akbar siap main agresif di Ciputra Golfpreneur Tournament",
-      "link": "https://www.antaranews.com/berita/5664508/kevin-akbar-siap-main-agresif-di-ciputra-golfpreneur-tournament",
-      "published": "Fri, 24 Jul 2026 18:00:28 +0700",
-      "description": "Pegolf profesional Indonesia Kevin Caesario Akbar menyiapkan perubahan strategi permainan dengan pendekatan lebih ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kupas fakta Universitas Republik Indonesia",
-      "link": "https://www.antaranews.com/infografik/5664500/kupas-fakta-universitas-republik-indonesia",
-      "published": "Fri, 24 Jul 2026 18:00:00 +0700",
-      "description": "Presiden Prabowo Subianto melantik Gubernur dan Wakil Gubernur Universitas Republik Indonesia (URI), Rabu (22/7). ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
