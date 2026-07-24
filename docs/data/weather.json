@@ -1,89 +1,13 @@
 {
-  "timestamp": "2026-07-24T09:31:05+0000",
+  "timestamp": "2026-07-24T10:02:03+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
-      "region": "Central Sulawesi",
-      "country": "Indonesia",
-      "temp_c": "27",
-      "feels_like_c": "28",
-      "humidity": "84",
-      "wind_speed_kmh": "5",
-      "wind_dir": "NNW",
-      "visibility_km": "10",
-      "pressure_mb": "1009",
-      "condition": "Light rain shower",
-      "condition_code": "353",
-      "uv_index": "1",
-      "forecast": [
-        {
-          "date": "2026-07-24",
-          "max_temp": "30",
-          "min_temp": "17",
-          "condition": "Patchy rain nearby",
-          "sunrise": "06:05 AM",
-          "sunset": "06:09 PM"
-        },
-        {
-          "date": "2026-07-25",
-          "max_temp": "31",
-          "min_temp": "18",
-          "condition": "Mist",
-          "sunrise": "06:05 AM",
-          "sunset": "06:09 PM"
-        },
-        {
-          "date": "2026-07-26",
-          "max_temp": "31",
-          "min_temp": "18",
-          "condition": "Patchy rain nearby",
-          "sunrise": "06:05 AM",
-          "sunset": "06:09 PM"
-        }
-      ]
+      "error": "<urlopen error [Errno 111] Connection refused>"
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
-      "region": "Daerah Istimewa Yogyakarta",
-      "country": "Indonesia",
-      "temp_c": "26",
-      "feels_like_c": "21",
-      "humidity": "56",
-      "wind_speed_kmh": "27",
-      "wind_dir": "SSE",
-      "visibility_km": "10",
-      "pressure_mb": "1011",
-      "condition": "Sunny",
-      "condition_code": "113",
-      "uv_index": "2",
-      "forecast": [
-        {
-          "date": "2026-07-24",
-          "max_temp": "27",
-          "min_temp": "20",
-          "condition": "Patchy rain nearby",
-          "sunrise": "05:53 AM",
-          "sunset": "05:37 PM"
-        },
-        {
-          "date": "2026-07-25",
-          "max_temp": "29",
-          "min_temp": "19",
-          "condition": "Clear ",
-          "sunrise": "05:53 AM",
-          "sunset": "05:37 PM"
-        },
-        {
-          "date": "2026-07-26",
-          "max_temp": "29",
-          "min_temp": "19",
-          "condition": "Partly Cloudy ",
-          "sunrise": "05:53 AM",
-          "sunset": "05:38 PM"
-        }
-      ]
+      "error": "<urlopen error [Errno 111] Connection refused>"
     }
   ]
 }
