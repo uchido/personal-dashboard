@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T14:10:08+0000",
+  "timestamp": "2026-07-24T14:41:09+0000",
   "articles": [
     {
       "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
@@ -20,7 +20,7 @@
     {
       "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
       "link": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 13:58:23 GMT",
+      "published": "Fri, 24 Jul 2026 14:39:58 GMT",
       "description": "Two people are arrested after a vehicle was stopped in County Monaghan in an operation targeting dissident republican activity.",
       "source": "BBC News",
       "category": "Global"
@@ -28,13 +28,40 @@
     {
       "title": "Angela Rayner rules out rent controls in England",
       "link": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 12:19:43 GMT",
+      "published": "Fri, 24 Jul 2026 14:21:24 GMT",
       "description": "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 666, column 2",
+      "title": "TIMPORA Papua Barat Daya bahas strategi pengawasan orang asing",
+      "link": "https://www.antaranews.com/berita/5664913/timpora-papua-barat-daya-bahas-strategi-pengawasan-orang-asing",
+      "published": "Fri, 24 Jul 2026 21:39:07 +0700",
+      "description": "Tim Pengawasan Orang Asing (Timpora) Provinsi Papua Barat Daya membahas strategi pengawasan terpadu untuk mencegah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Situs bersejarah Palestina masuk Daftar UNESCO Warisan Dunia Terancam",
+      "link": "https://www.antaranews.com/berita/5664912/situs-bersejarah-palestina-masuk-daftar-unesco-warisan-dunia-terancam",
+      "published": "Fri, 24 Jul 2026 21:36:44 +0700",
+      "description": "Palestina berhasil mendaftarkan situs arkeologi Sebastia ke dalam Daftar Warisan Dunia UNESCO yang Terancam Punah, kata ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Wamendikdasmen tinjau pemanfaatan papan interaktif digital di Kepri",
+      "link": "https://www.antaranews.com/berita/5664908/wamendikdasmen-tinjau-pemanfaatan-papan-interaktif-digital-di-kepri",
+      "published": "Fri, 24 Jul 2026 21:36:16 +0700",
+      "description": "Wakil Menteri Pendidikan Dasar dan Menengah (Wamendikdasmen) Atip Latipulhayat meninjau implementasi digitalisasi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KPK geledah rumah Dirut PT AMGM terkait kasus korupsi Lombok Barat",
+      "link": "https://www.antaranews.com/berita/5664904/kpk-geledah-rumah-dirut-pt-amgm-terkait-kasus-korupsi-lombok-barat",
+      "published": "Fri, 24 Jul 2026 21:35:24 +0700",
+      "description": "Komisi Pemberantasan Korupsi menggeledah rumah Direktur Utama PT Air Minum Giri Menang (AMGM) Sudirman di Kota Mataram, ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
