@@ -1,27 +1,11 @@
 {
-  "timestamp": "2026-07-24T05:54:00+0000",
+  "timestamp": "2026-07-24T06:25:12+0000",
   "articles": [
     {
-      "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
+      "title": "US hits dozens of trading partners with new wave of tariffs",
       "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 04:27:15 GMT",
-      "description": "The tariffs target 60 trading partners over claims they failed to properly stop forced labour.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "PM to spend first day working from northern branch of No 10",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 01:44:39 GMT",
-      "description": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "UK complacent about war threat, warns defence boss",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Jul 2026 23:04:19 GMT",
-      "description": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn",
+      "published": "Fri, 24 Jul 2026 06:12:47 GMT",
+      "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +18,23 @@
       "category": "Global"
     },
     {
-      "title": "Anggota DPR minta korupsi pakan satwa KBS diusut tuntas",
-      "link": "https://www.antaranews.com/berita/5663933/anggota-dpr-minta-korupsi-pakan-satwa-kbs-diusut-tuntas",
-      "published": "Fri, 24 Jul 2026 12:52:17 +0700",
-      "description": "Anggota Komisi IV DPR RI, Rajiv, meminta penegak hukum mengusut tuntas kasus dugaan korupsi uang pakan hewan di Kebun ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "PM to spend first day working from northern branch of No 10",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Jul 2026 01:44:39 GMT",
+      "description": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Dubes: AS ingin berkontribusi terhadap stabilitas, keamanan ASEAN",
-      "link": "https://www.antaranews.com/berita/5663931/dubes-as-ingin-berkontribusi-terhadap-stabilitas-keamanan-asean",
-      "published": "Fri, 24 Jul 2026 12:51:52 +0700",
-      "description": "Duta Besar Amerika Serikat (AS) untuk Perhimpunan Bangsa-Bangsa Asia Tenggara (ASEAN) Kevin Kim menegaskan keinginan AS ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "UK complacent about war threat, warns BAE boss",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 23:04:19 GMT",
+      "description": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Urgensi pendirian dan peran Universitas Republik Indonesia",
-      "link": "https://www.antaranews.com/berita/5663927/urgensi-pendirian-dan-peran-universitas-republik-indonesia",
-      "published": "Fri, 24 Jul 2026 12:50:23 +0700",
-      "description": "Gagasan pendirian Universitas Republik Indonesia (URI) tidak dapat dipahami semata sebagai penambahan satu perguruan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Operator harus taat putusan MK soal sisa kuota tak boleh hangus",
-      "link": "https://www.antaranews.com/berita/5663925/operator-harus-taat-putusan-mk-soal-sisa-kuota-tak-boleh-hangus",
-      "published": "Fri, 24 Jul 2026 12:48:30 +0700",
-      "description": "Anggota Komisi I DPR RI Oleh Soleh mengatakan operator telekomunikasi harus menaati putusan Mahkamah Konstitusi yang ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
