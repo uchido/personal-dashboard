@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T09:00:11+0000",
+  "timestamp": "2026-07-24T09:31:05+0000",
   "locations": [
     {
       "name": "Palu",
@@ -45,7 +45,45 @@
     },
     {
       "name": "Yogyakarta",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "location": "Joho",
+      "region": "Daerah Istimewa Yogyakarta",
+      "country": "Indonesia",
+      "temp_c": "26",
+      "feels_like_c": "21",
+      "humidity": "56",
+      "wind_speed_kmh": "27",
+      "wind_dir": "SSE",
+      "visibility_km": "10",
+      "pressure_mb": "1011",
+      "condition": "Sunny",
+      "condition_code": "113",
+      "uv_index": "2",
+      "forecast": [
+        {
+          "date": "2026-07-24",
+          "max_temp": "27",
+          "min_temp": "20",
+          "condition": "Patchy rain nearby",
+          "sunrise": "05:53 AM",
+          "sunset": "05:37 PM"
+        },
+        {
+          "date": "2026-07-25",
+          "max_temp": "29",
+          "min_temp": "19",
+          "condition": "Clear ",
+          "sunrise": "05:53 AM",
+          "sunset": "05:37 PM"
+        },
+        {
+          "date": "2026-07-26",
+          "max_temp": "29",
+          "min_temp": "19",
+          "condition": "Partly Cloudy ",
+          "sunrise": "05:53 AM",
+          "sunset": "05:38 PM"
+        }
+      ]
     }
   ]
 }
