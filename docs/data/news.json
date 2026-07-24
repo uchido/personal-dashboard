@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-07-24T07:58:02+0000",
+  "timestamp": "2026-07-24T08:29:03+0000",
   "articles": [
+    {
+      "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+      "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Jul 2026 07:59:28 GMT",
+      "description": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "US hits dozens of trading partners with new wave of tariffs",
       "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 24 Jul 2026 07:12:13 GMT",
       "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "France orders evacuation of peninsula as hundreds flee wildfires by boat",
-      "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 07:07:24 GMT",
-      "description": "The fire has raged in the region for several days with officials on Friday morning saying it had continued to progress overnight.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,7 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 658, column 250",
+      "error": "no element found: line 657, column 78",
       "source": "Antara News",
       "category": "Indonesia"
     }
