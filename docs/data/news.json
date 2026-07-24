@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-24T06:25:12+0000",
+  "timestamp": "2026-07-24T06:56:01+0000",
   "articles": [
     {
       "title": "US hits dozens of trading partners with new wave of tariffs",
       "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 06:12:47 GMT",
+      "published": "Fri, 24 Jul 2026 06:47:08 GMT",
       "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 664, column 6",
+      "title": "Pemkot Jakpus minta IKJ perluas pembinaan seni hingga kelurahan",
+      "link": "https://www.antaranews.com/berita/5664031/pemkot-jakpus-minta-ikj-perluas-pembinaan-seni-hingga-kelurahan",
+      "published": "Fri, 24 Jul 2026 13:54:01 +0700",
+      "description": "Pemerintah Kota (Pemkot) Administrasi Jakarta Pusat (Jakpus) meminta&nbsp;Institut Kesenian Jakarta (IKJ) agar ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Lamine Yamal ungkap pesan Messi di final Piala Dunia",
+      "link": "https://www.antaranews.com/berita/5664027/lamine-yamal-ungkap-pesan-messi-di-final-piala-dunia",
+      "published": "Fri, 24 Jul 2026 13:53:09 +0700",
+      "description": "Pemain muda Spanyol Lamine Yamal mengungkapkan nasihat Lionel Messi seusai timnya mengalahkan Argentina 1-0 pada final ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Polda Metro Jaya siapkan \"hunting system\" sasar penutup plat nomor kendaraan",
+      "link": "https://www.antaranews.com/berita/5664023/polda-metro-jaya-siapkan-hunting-system-sasar-penutup-plat-nomor-kendaraan",
+      "published": "Fri, 24 Jul 2026 13:47:34 +0700",
+      "description": "Direktorat Lalu Lintas (Ditlantas) Polda Metro Jaya bersiap memberdayakan kembali sistem penindakan bergerak (hunting ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kementerian UMKM catat UMKM serap nyaris 97 persen tenaga kerja",
+      "link": "https://www.antaranews.com/berita/5664021/kementerian-umkm-catat-umkm-serap-nyaris-97-persen-tenaga-kerja",
+      "published": "Fri, 24 Jul 2026 13:42:24 +0700",
+      "description": "Sekretaris Kementerian Usaha Mikro Kecil dan Menengah (UMKM) Loto Srinaita Ginting menyampaikan sektor usaha mikro ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
