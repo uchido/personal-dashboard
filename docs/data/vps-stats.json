@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-07-25T00:30:15+0000",
+  "timestamp": "2026-07-25T01:01:16+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 63.2,
     "cores": 2,
     "load_avg": [
-      1.78,
-      2.01,
-      2.14
+      3.7,
+      2.43,
+      2.18
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.2,
-    "available": 6.4,
-    "used": 5.2,
-    "percent": 44.8
+    "free": 0.2,
+    "available": 6.0,
+    "used": 5.6,
+    "percent": 48.3
   },
   "disk": {
     "total": "193G",
@@ -25,40 +25,40 @@
   },
   "uptime": {
     "days": 25,
-    "hours": 12,
-    "minutes": 56,
-    "total_seconds": 2206563.03
+    "hours": 13,
+    "minutes": 27,
+    "total_seconds": 2208423.76
   },
   "top_processes": [
     {
+      "user": "ubuntu",
+      "cpu": "166",
+      "mem": "0.4",
+      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+    },
+    {
       "user": "root",
-      "cpu": "61.2",
+      "cpu": "47.4",
       "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
-      "user": "opc",
-      "cpu": "28.4",
-      "mem": "1.0",
-      "command": "node current/index.js"
+      "user": "ubuntu",
+      "cpu": "39.1",
+      "mem": "3.2",
+      "command": "/snap/chromium/3498/usr/lib/chromium-browser/chrom"
     },
     {
       "user": "ubuntu",
-      "cpu": "16.6",
+      "cpu": "19.4",
+      "mem": "1.6",
+      "command": "/snap/chromium/3498/usr/lib/chromium-browser/chrom"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "14.2",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "5.8",
-      "mem": "0.8",
-      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
-    },
-    {
-      "user": "root",
-      "cpu": "1.5",
-      "mem": "0.8",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
