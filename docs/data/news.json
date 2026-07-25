@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-25T21:10:39+0000",
+  "timestamp": "2026-07-25T21:41:39+0000",
   "articles": [
     {
       "title": "Police investigate donations by Tice company to Reform UK",
       "link": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 25 Jul 2026 18:04:50 GMT",
       "description": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+      "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 25 Jul 2026 21:33:00 GMT",
+      "description": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -22,14 +30,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 25 Jul 2026 14:18:32 GMT",
       "description": "Families visiting France have told the BBC how their holidays have become evacuation missions.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Cairngorm residents say wildfire response 'too slow'",
-      "link": "https://www.bbc.co.uk/news/articles/cdewlpgnlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Jul 2026 20:11:26 GMT",
-      "description": "Nethy Bridge residents were evacuated on Friday and a major incident was declared.",
       "source": "BBC News",
       "category": "Global"
     },
