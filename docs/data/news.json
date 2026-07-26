@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T08:32:50+0000",
+  "timestamp": "2026-07-26T09:04:07+0000",
   "articles": [
     {
       "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "BMKG NTB terbitkan peringatan banjir rob setinggi 1,9 meter",
-      "link": "https://www.antaranews.com/berita/5666603/bmkg-ntb-terbitkan-peringatan-banjir-rob-setinggi-19-meter",
-      "published": "Sun, 26 Jul 2026 15:29:34 +0700",
-      "description": "Badan meteorologi, Klimatologi, dan Geofisika (BMKG) menerbitkan peringatan dini potensi banjir rob yang berpotensi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Golfphoria 2026 Bidik Rekor Dunia, Bali International Golf Hadirkan Turnamen Bergaya Festival",
-      "link": "https://www.antaranews.com/berita/5666599/golfphoria-2026-bidik-rekor-dunia-bali-international-golf-hadirkan-turnamen-bergaya-festival",
-      "published": "Sun, 26 Jul 2026 15:27:26 +0700",
-      "description": "Jakarta (ANTARA) &ndash; Bali International Golf (BIG) kembali menggelar turnamen tahunan Golfphoria 2026 di Denpasar, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bekas puntung rokok picu kebarakan lahan di Pulau Tidung",
-      "link": "https://www.antaranews.com/berita/5666597/bekas-puntung-rokok-picu-kebarakan-lahan-di-pulau-tidung",
-      "published": "Sun, 26 Jul 2026 15:25:47 +0700",
-      "description": "Suku Dinas Penanggulangan Kebakaran dan Penyelamatan (Gulkarmat) Jakarta Utara dan Kepulauan Seribu menyatakan puntung ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Aksi ekstrem balap traktor 2026 di Klaten: cara unik gaet generasi muda terjun ke sawah!",
-      "link": "https://www.antaranews.com/foto/5666595/aksi-ekstrem-balap-traktor-2026-di-klaten-cara-unik-gaet-generasi-muda-terjun-ke-sawah",
-      "published": "Sun, 26 Jul 2026 15:23:09 +0700",
-      "description": "Dua peserta memacu kecepatan mesin traktor saat mengikuti Balap Traktor 2026 di Kebonarum, Klaten, Jawa Tengah, Minggu ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
