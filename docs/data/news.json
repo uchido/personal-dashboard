@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T21:59:03+0000",
+  "timestamp": "2026-07-26T22:30:05+0000",
   "articles": [
     {
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kazuyoshi Miura cetak gol pertama dalam empat tahun di usia 59 tahun",
-      "link": "https://www.antaranews.com/berita/5667049/kazuyoshi-miura-cetak-gol-pertama-dalam-empat-tahun-di-usia-59-tahun",
-      "published": "Mon, 27 Jul 2026 04:43:28 +0700",
-      "description": "Legenda sepak bola Jepang, Kazuyoshi Miura masih membuktikan kemampuannya setelah mencetak gol pertamanya dalam hampir ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pembalap McLaren Lando Norris juara Formula 1 GP Hungaria 2026",
-      "link": "https://www.antaranews.com/berita/5667048/pembalap-mclaren-lando-norris-juara-formula-1-gp-hungaria-2026",
-      "published": "Mon, 27 Jul 2026 04:40:00 +0700",
-      "description": "Pembalap McLaren, Lando Norris meraih kemenangan perdananya pada Formula 1 musim 2026 setelah tampil sebagai yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Real Madrid dan RB Leipzig capai kesepakatan untuk transfer Diomande",
-      "link": "https://www.antaranews.com/berita/5667047/real-madrid-dan-rb-leipzig-capai-kesepakatan-untuk-transfer-diomande",
-      "published": "Mon, 27 Jul 2026 04:34:49 +0700",
-      "description": "Real Madrid dikabarkan telah mencapai kesepakatan dengan klub Bundesliga, RB Leipzig untuk transfer winger asal Pantai ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Federico Chiesa tegaskan keinginan bertahan di Liverpool",
-      "link": "https://www.antaranews.com/berita/5667045/federico-chiesa-tegaskan-keinginan-bertahan-di-liverpool",
-      "published": "Mon, 27 Jul 2026 04:31:39 +0700",
-      "description": "Penyerang Italia, Federico Chiesa menegaskan keinginannya untuk tetap bertahan dan memperjuangkan tempatnya di ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
