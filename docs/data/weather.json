@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T23:32:04+0000",
+  "timestamp": "2026-07-27T00:03:04+0000",
   "locations": [
     {
       "name": "Palu",
@@ -51,7 +51,7 @@
       "temp_c": "20",
       "feels_like_c": "15",
       "humidity": "91",
-      "wind_speed_kmh": "6",
+      "wind_speed_kmh": "5",
       "wind_dir": "E",
       "visibility_km": "3",
       "pressure_mb": "1013",
