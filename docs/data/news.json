@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T04:11:09+0000",
+  "timestamp": "2026-07-27T04:42:09+0000",
   "articles": [
     {
       "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
@@ -32,6 +32,11 @@
       "description": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "no element found: line 660, column 125",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
