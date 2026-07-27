@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-27T12:58:17+0000",
+  "timestamp": "2026-07-27T13:29:17+0000",
   "articles": [
     {
-      "title": "How wildfires in France and Spain may affect your travel plans",
+      "title": "How wildfires in France and Spain might affect your travel plans",
       "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 12:09:48 GMT",
+      "published": "Mon, 27 Jul 2026 13:21:49 GMT",
       "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
       "source": "BBC News",
       "category": "Global"
@@ -12,7 +12,7 @@
     {
       "title": "NHS 'will collapse' without social care reform, PM tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 08:19:08 GMT",
+      "published": "Mon, 27 Jul 2026 13:16:10 GMT",
       "description": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Kemensos teken MoU perkuat perlindungan korban perdagangan orang",
+      "link": "https://www.antaranews.com/berita/5668189/kemensos-teken-mou-perkuat-perlindungan-korban-perdagangan-orang",
+      "published": "Mon, 27 Jul 2026 20:26:45 +0700",
+      "description": "Kementerian Sosial dan Jaringan Nasional Anti Perdagangan Orang (Jarnas Anti TPPO) menjalin kerja sama strategis untuk ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BGN: Penutupan SPPG tidak ganggu penyaluran MBG ke penerima manfaat",
+      "link": "https://www.antaranews.com/berita/5668185/bgn-penutupan-sppg-tidak-ganggu-penyaluran-mbg-ke-penerima-manfaat",
+      "published": "Mon, 27 Jul 2026 20:26:43 +0700",
+      "description": "Badan Gizi Nasional (BGN) memastikan penghentian sementara operasional 833 Satuan Pelayanan Pemenuhan Gizi (SPPG) yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemerintah edukasi hidup sehat di CFD, dongkrak usia harapan hidup",
+      "link": "https://www.antaranews.com/berita/5668183/pemerintah-edukasi-hidup-sehat-di-cfd-dongkrak-usia-harapan-hidup",
+      "published": "Mon, 27 Jul 2026 20:26:02 +0700",
+      "description": "Kementerian Kesehatan dan Pemerintah DKI Jakarta mengkampanyekan hidup sehat di kawasan Car Free Day Jalan HR Rasuna ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Aturan pembatasan nikotin butuh riset puluhan tahun",
+      "link": "https://www.antaranews.com/berita/5668179/aturan-pembatasan-nikotin-butuh-riset-puluhan-tahun",
+      "published": "Mon, 27 Jul 2026 20:25:30 +0700",
+      "description": "Ketua Kelompok Tanaman Semusim Direktorat Tanaman Semusim Kementan Yudi Wahyudi&nbsp;mengingatkan bahwa upaya ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
