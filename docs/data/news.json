@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-27T08:19:13+0000",
+  "timestamp": "2026-07-27T08:50:14+0000",
   "articles": [
     {
       "title": "NHS 'will collapse' without social care reform, PM tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 08:03:56 GMT",
+      "published": "Mon, 27 Jul 2026 08:19:08 GMT",
       "description": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
       "source": "BBC News",
       "category": "Global"
@@ -32,6 +32,11 @@
       "description": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 660, column 6",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
