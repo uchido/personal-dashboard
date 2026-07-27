@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-07-27T04:42:09+0000",
+  "timestamp": "2026-07-27T05:13:10+0000",
   "articles": [
+    {
+      "title": "NHS 'will collapse' without social care reform, PM tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 05:00:07 GMT",
+      "description": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Laura Kuenssberg: Our exclusive behind-the-scenes access at No 10 as Andy Burnham became PM",
+      "link": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 05:00:13 GMT",
+      "description": "Laura Kuenssberg was given unprecedented access to the new prime minister’s first days in power.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
       "link": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 27 Jul 2026 02:04:10 GMT",
       "description": "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Badenoch says PM must rule out tax rises to fund social care reform",
-      "link": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Jul 2026 21:00:27 GMT",
-      "description": "In a letter to the PM, the Conservative leader offers to work with him on adult social care reform.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -24,19 +32,6 @@
       "description": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "Berlin Pride attack suspect shot and killed during police operation",
-      "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Jul 2026 19:21:26 GMT",
-      "description": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "error": "no element found: line 660, column 125",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
