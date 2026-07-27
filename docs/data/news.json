@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T06:46:12+0000",
+  "timestamp": "2026-07-27T07:17:12+0000",
   "articles": [
     {
       "title": "NHS 'will collapse' without social care reform, PM tells BBC",
@@ -20,7 +20,7 @@
     {
       "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
       "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Jul 2026 21:30:20 GMT",
+      "published": "Mon, 27 Jul 2026 06:48:02 GMT",
       "description": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "AHY: Rencana Garuda jadi holding maskapai dapat mendukung konektivitas",
-      "link": "https://www.antaranews.com/berita/5667525/ahy-rencana-garuda-jadi-holding-maskapai-dapat-mendukung-konektivitas",
-      "published": "Mon, 27 Jul 2026 13:45:50 +0700",
-      "description": "Menteri Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan (Menko IPK) Agus Harimurti Yudhoyono (AHY) ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Prabowo gelar ratas bahas isu strategis perguruan tinggi",
-      "link": "https://www.antaranews.com/berita/5667524/prabowo-gelar-ratas-bahas-isu-strategis-perguruan-tinggi",
-      "published": "Mon, 27 Jul 2026 13:43:05 +0700",
-      "description": "Presiden Prabowo Subianto menggelar rapat terbatas (ratas) bersama sejumlah menteri dan kepala badan guna membahas ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kadin: Industri fesyen hingga farmasi jadi unggulan ekonomi syariah RI",
-      "link": "https://www.antaranews.com/berita/5667519/kadin-industri-fesyen-hingga-farmasi-jadi-unggulan-ekonomi-syariah-ri",
-      "published": "Mon, 27 Jul 2026 13:38:24 +0700",
-      "description": "Kamar Dagang dan Industri (Kadin) Indonesia menyebut industri fesyen, wisata ramah Muslim, farmasi, kosmetik halal, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Polisi identifikasi pelaku curanmor bersenjata di Tangerang",
-      "link": "https://www.antaranews.com/berita/5667517/polisi-identifikasi-pelaku-curanmor-bersenjata-di-tangerang",
-      "published": "Mon, 27 Jul 2026 13:37:55 +0700",
-      "description": "Polresta Tangerang mengidentifikasi pelaku pencurian kendaraan bermotor (curanmor) yang terlibat baku tembak dengan ...",
+      "error": "no element found: line 657, column 68",
       "source": "Antara News",
       "category": "Indonesia"
     }
