@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T15:02:24+0000",
+  "timestamp": "2026-07-27T15:33:20+0000",
   "articles": [
     {
       "title": "How wildfires in France and Spain might affect your travel plans",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
+      "link": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 13:22:22 GMT",
+      "description": "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
       "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 27 Jul 2026 11:50:13 GMT",
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Carly Simon reveals Parkinson's diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 14:04:01 GMT",
-      "description": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Polisi tetapkan lima tersangka pengeroyokan maling ayam di Tabanan",
+      "link": "https://www.antaranews.com/video/5668395/polisi-tetapkan-lima-tersangka-pengeroyokan-maling-ayam-di-tabanan",
+      "published": "Mon, 27 Jul 2026 22:32:06 +0700",
+      "description": "ANTARA -&nbsp;Kepolisian Resor Tabanan memeriksa 18 saksi dan menetapkan lima tersangka dalam kasus dugaan penganiayaan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 659, column 6",
+      "title": "PHRI nilai tempe berpotensi jadi identitas wisata kuliner Indonesia",
+      "link": "https://www.antaranews.com/berita/5668399/phri-nilai-tempe-berpotensi-jadi-identitas-wisata-kuliner-indonesia",
+      "published": "Mon, 27 Jul 2026 22:29:53 +0700",
+      "description": "Perhimpunan Hotel dan Restoran Indonesia (PHRI) menilai tempe berpotensi menjadi salah satu identitas wisata kuliner ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Qodari: Nakhoda baru BGN fokus tingkatkan kualitas layanan MBG",
+      "link": "https://www.antaranews.com/video/5668376/qodari-nakhoda-baru-bgn-fokus-tingkatkan-kualitas-layanan-mbg",
+      "published": "Mon, 27 Jul 2026 22:28:52 +0700",
+      "description": "ANTARA - Pemerintah menegaskan pergantian kepemimpinan di Badan Gizi Nasional (BGN) menjadi momentum memperkuat ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Perbanas yakin pengganti Perry Warjiyo di BI merupakan figur terbaik",
+      "link": "https://www.antaranews.com/berita/5668389/perbanas-yakin-pengganti-perry-warjiyo-di-bi-merupakan-figur-terbaik",
+      "published": "Mon, 27 Jul 2026 22:16:04 +0700",
+      "description": "Perhimpunan Bank Nasional (Perbanas) meyakini pemerintah dan otoritas terkait akan menetapkan figur terbaik yang ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
