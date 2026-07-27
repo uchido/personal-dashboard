@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T09:52:15+0000",
+  "timestamp": "2026-07-27T10:23:16+0000",
   "articles": [
     {
       "title": "NHS 'will collapse' without social care reform, PM tells BBC",
@@ -20,7 +20,7 @@
     {
       "title": "TV presenter and comedian Bill Oddie dies at 85",
       "link": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 09:32:41 GMT",
+      "published": "Mon, 27 Jul 2026 10:22:34 GMT",
       "description": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
       "source": "BBC News",
       "category": "Global"
@@ -32,11 +32,6 @@
       "description": "Under the new rules, members will be able to wear a top from the new range with their own trousers.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "no element found: line 661, column 2",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
