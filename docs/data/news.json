@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T09:21:13+0000",
+  "timestamp": "2026-07-27T09:52:15+0000",
   "articles": [
     {
       "title": "NHS 'will collapse' without social care reform, PM tells BBC",
@@ -18,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "Man and woman die after being pulled from sea off Cornish beach",
-      "link": "https://www.bbc.co.uk/news/articles/cy4k892z44jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 08:35:29 GMT",
-      "description": "A man and a woman both died at the scene after being recovered from the sea off Cornwall.",
+      "title": "TV presenter and comedian Bill Oddie dies at 85",
+      "link": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 09:32:41 GMT",
+      "description": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -32,6 +32,11 @@
       "description": "Under the new rules, members will be able to wear a top from the new range with their own trousers.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "no element found: line 661, column 2",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
