@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T01:36:06+0000",
+  "timestamp": "2026-07-27T02:07:07+0000",
   "articles": [
     {
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
@@ -32,6 +32,11 @@
       "description": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "no element found: line 661, column 36",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
