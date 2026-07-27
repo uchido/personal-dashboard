@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T14:31:28+0000",
+  "timestamp": "2026-07-27T15:02:24+0000",
   "articles": [
     {
       "title": "How wildfires in France and Spain might affect your travel plans",
@@ -26,42 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "TV presenter and comedian Bill Oddie dies at 85",
-      "link": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 12:47:47 GMT",
-      "description": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
+      "title": "Carly Simon reveals Parkinson's diagnosis",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 14:04:01 GMT",
+      "description": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Kemendagri: Satgas PKA jadi contoh penyelesaian konflik agraria",
-      "link": "https://www.antaranews.com/berita/5668292/kemendagri-satgas-pka-jadi-contoh-penyelesaian-konflik-agraria",
-      "published": "Mon, 27 Jul 2026 21:28:45 +0700",
-      "description": "Kementerian Dalam Negeri (Kemendagri) menilai Satuan Tugas Penyelesaian Konflik Agraria (Satgas PKA) Sulawesi Tengah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Indonesia punya empat wakil di ITF M15 Bali seri kedua",
-      "link": "https://www.antaranews.com/berita/5668288/indonesia-punya-empat-wakil-di-itf-m15-bali-seri-kedua",
-      "published": "Mon, 27 Jul 2026 21:28:12 +0700",
-      "description": "Indonesia dipastikan memiliki empat wakil pada babak utama seri kedua M-15 Amman Mineral Men&#39;s World Tennis ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Wadahi disabilitas, Gus Ipul apresiasi pameran seni Canvas of Dreams",
-      "link": "https://www.antaranews.com/berita/5668284/wadahi-disabilitas-gus-ipul-apresiasi-pameran-seni-canvas-of-dreams",
-      "published": "Mon, 27 Jul 2026 21:24:08 +0700",
-      "description": "Menteri Sosial (Mensos)&nbsp;Saifullah Yusuf (Gus Ipul) menyampaikan apresiasi atas terselenggaranya pameran seni ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "CdM Asian Games 2026 upayakan percepatan naturalisasi atlet",
-      "link": "https://www.antaranews.com/berita/5668280/cdm-asian-games-2026-upayakan-percepatan-naturalisasi-atlet",
-      "published": "Mon, 27 Jul 2026 21:24:00 +0700",
-      "description": "Chef de Mission (CdM) Kontingen Indonesia untuk Asian Games 2026 Todotua Pasaribu mengatakan timnya mengupayakan ...",
+      "error": "unclosed token: line 659, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
