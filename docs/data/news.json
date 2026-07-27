@@ -1,19 +1,11 @@
 {
-  "timestamp": "2026-07-27T08:50:14+0000",
+  "timestamp": "2026-07-27T09:21:13+0000",
   "articles": [
     {
       "title": "NHS 'will collapse' without social care reform, PM tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 27 Jul 2026 08:19:08 GMT",
       "description": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Behind-the-scenes at No 10 as Andy Burnham became PM",
-      "link": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 05:00:13 GMT",
-      "description": "Laura Kuenssberg was given unprecedented access to the new prime minister’s first days in power.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,17 +18,20 @@
       "category": "Global"
     },
     {
-      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 06:48:02 GMT",
-      "description": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "title": "Man and woman die after being pulled from sea off Cornish beach",
+      "link": "https://www.bbc.co.uk/news/articles/cy4k892z44jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 08:35:29 GMT",
+      "description": "A man and a woman both died at the scene after being recovered from the sea off Cornwall.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "Girlguiding unveils first major redesign of uniform range since 1990",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkez2g07po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 08:27:40 GMT",
+      "description": "Under the new rules, members will be able to wear a top from the new range with their own trousers.",
+      "source": "BBC News",
+      "category": "Global"
     }
   ]
 }
