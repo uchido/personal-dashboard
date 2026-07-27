@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T12:27:16+0000",
+  "timestamp": "2026-07-27T12:58:17+0000",
   "articles": [
     {
       "title": "How wildfires in France and Spain may affect your travel plans",
@@ -28,40 +28,13 @@
     {
       "title": "TV presenter and comedian Bill Oddie dies at 85",
       "link": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 12:13:38 GMT",
+      "published": "Mon, 27 Jul 2026 12:47:47 GMT",
       "description": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Pjs Gubernur BI: Pasar tak perlu panik usai Perry Warjiyo mundur",
-      "link": "https://www.antaranews.com/berita/5668075/pjs-gubernur-bi-pasar-tak-perlu-panik-usai-perry-warjiyo-mundur",
-      "published": "Mon, 27 Jul 2026 19:24:09 +0700",
-      "description": "Penjabat Sementara (Pjs) Gubernur Bank Indonesia (BI) Destry Damayanti meminta pelaku pasar tetap tenang usai ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Sekda Sulsel tekankan komunikasi soal mediasi Bupati Gowa",
-      "link": "https://www.antaranews.com/video/5668023/sekda-sulsel-tekankan-komunikasi-soal-mediasi-bupati-gowa",
-      "published": "Mon, 27 Jul 2026 19:21:33 +0700",
-      "description": "ANTARA - Pemerintah Provinsi Sulawesi Selatan menerima surat dari Bupati Gowa yang meminta fasilitasi terkait dinamika ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "MacBook Neo 2 bakal hadir 2027, dibekali Chip A19 Pro dan RAM 12GB",
-      "link": "https://www.antaranews.com/berita/5668071/macbook-neo-2-bakal-hadir-2027-dibekali-chip-a19-pro-dan-ram-12gb",
-      "published": "Mon, 27 Jul 2026 19:20:25 +0700",
-      "description": "Apple baru meluncurkan MacBook terjangkaunya, MacBook Neo, beberapa bulan lalu, namun, pengembangan generasi keduanya ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Prabowo panggil KSSK usai terima pengunduran diri Perry Warjiyo",
-      "link": "https://www.antaranews.com/video/5668051/prabowo-panggil-kssk-usai-terima-pengunduran-diri-perry-warjiyo",
-      "published": "Mon, 27 Jul 2026 19:19:33 +0700",
-      "description": "ANTARA - Presiden RI Prabowo Subianto memanggil Komite Stabilitas Sistem Keuangan (KSSK) di Kompleks Istana ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
