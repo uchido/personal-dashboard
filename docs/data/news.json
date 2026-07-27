@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-07-27T10:23:16+0000",
+  "timestamp": "2026-07-27T10:54:18+0000",
   "articles": [
     {
       "title": "NHS 'will collapse' without social care reform, PM tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 27 Jul 2026 08:19:08 GMT",
       "description": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 10:35:16 GMT",
+      "description": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "TV presenter and comedian Bill Oddie dies at 85",
+      "link": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 10:46:18 GMT",
+      "description": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,20 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "TV presenter and comedian Bill Oddie dies at 85",
-      "link": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 10:22:34 GMT",
-      "description": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Manggala Agni padamkan karhutla seluas 15 hektare di Ogan Ilir",
+      "link": "https://www.antaranews.com/berita/5667916/manggala-agni-padamkan-karhutla-seluas-15-hektare-di-ogan-ilir",
+      "published": "Mon, 27 Jul 2026 17:53:22 +0700",
+      "description": "Tim Manggala Agni bersama personel gabungan berhasil memadamkan kebakaran hutan dan lahan (karhutla) seluas sekitar 15 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "title": "Girlguiding unveils first major redesign of uniform range since 1990",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkez2g07po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 08:27:40 GMT",
-      "description": "Under the new rules, members will be able to wear a top from the new range with their own trousers.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Pemprov DKI instruksikan jajaran untuk jaga keamanan di Matraman",
+      "link": "https://www.antaranews.com/berita/5667913/pemprov-dki-instruksikan-jajaran-untuk-jaga-keamanan-di-matraman",
+      "published": "Mon, 27 Jul 2026 17:50:05 +0700",
+      "description": "Gubernur DKI Jakarta Pramono Anung Wibowo telah menginstruksikan jajaran agar berkoordinasi dengan aparat penegak hukum ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Lebih dari 60 persen penduduk RI masih rentan hepatitis B",
+      "link": "https://www.antaranews.com/berita/5667911/lebih-dari-60-persen-penduduk-ri-masih-rentan-hepatitis-b",
+      "published": "Mon, 27 Jul 2026 17:48:31 +0700",
+      "description": "Kementerian Kesehatan mengatakan lebih dari 60 persen penduduk Indonesia masih rentan terhadap hepatitis B meski ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KPK mulai panggil saksi pada kasus Bupati Lombok Barat nonaktif LAZ",
+      "link": "https://www.antaranews.com/berita/5667907/kpk-mulai-panggil-saksi-pada-kasus-bupati-lombok-barat-nonaktif-laz",
+      "published": "Mon, 27 Jul 2026 17:47:41 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) mulai memanggil saksi untuk diperiksa pada penyidikan kasus dugaan korupsi yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
