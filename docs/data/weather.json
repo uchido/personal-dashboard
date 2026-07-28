@@ -1,25 +1,63 @@
 {
-  "timestamp": "2026-07-28T10:13:41+0000",
+  "timestamp": "2026-07-28T10:44:39+0000",
   "locations": [
     {
       "name": "Palu",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "location": "Lolu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "temp_c": "22",
+      "feels_like_c": "18",
+      "humidity": "90",
+      "wind_speed_kmh": "4",
+      "wind_dir": "NNW",
+      "visibility_km": "10",
+      "pressure_mb": "1010",
+      "condition": "Light rain shower",
+      "condition_code": "353",
+      "uv_index": "0",
+      "forecast": [
+        {
+          "date": "2026-07-28",
+          "max_temp": "32",
+          "min_temp": "17",
+          "condition": "Mist",
+          "sunrise": "06:05 AM",
+          "sunset": "06:09 PM"
+        },
+        {
+          "date": "2026-07-29",
+          "max_temp": "30",
+          "min_temp": "18",
+          "condition": "Mist",
+          "sunrise": "06:05 AM",
+          "sunset": "06:09 PM"
+        },
+        {
+          "date": "2026-07-30",
+          "max_temp": "31",
+          "min_temp": "17",
+          "condition": "Mist",
+          "sunrise": "06:05 AM",
+          "sunset": "06:09 PM"
+        }
+      ]
     },
     {
       "name": "Yogyakarta",
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "28",
-      "feels_like_c": "30",
-      "humidity": "57",
-      "wind_speed_kmh": "23",
+      "temp_c": "25",
+      "feels_like_c": "17",
+      "humidity": "73",
+      "wind_speed_kmh": "17",
       "wind_dir": "SSE",
       "visibility_km": "10",
-      "pressure_mb": "1009",
+      "pressure_mb": "1010",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "2",
+      "uv_index": "0",
       "forecast": [
         {
           "date": "2026-07-28",

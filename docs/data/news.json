@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-28T10:13:42+0000",
+  "timestamp": "2026-07-28T10:44:40+0000",
   "articles": [
     {
       "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
       "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 09:46:52 GMT",
+      "published": "Tue, 28 Jul 2026 10:25:52 GMT",
       "description": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "People trapped inside Japan shopping centre after earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 10:39:34 GMT",
+      "description": "Some reports say there was an explosion at the Aeon Mall in Kumamoto, following the magnitude 7.1 earthquake which injured several people.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -20,48 +28,40 @@
     {
       "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
       "link": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 09:12:13 GMT",
+      "published": "Tue, 28 Jul 2026 10:16:37 GMT",
       "description": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-      "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 01:53:58 GMT",
-      "description": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Gempa magnitudo 7,1 guncang Jepang barat daya, picu peringatan tsunami",
-      "link": "https://www.antaranews.com/berita/5669496/gempa-magnitudo-71-guncang-jepang-barat-daya-picu-peringatan-tsunami",
-      "published": "Tue, 28 Jul 2026 17:11:29 +0700",
-      "description": "Gempa bumi dengan perkiraan magnitudo 7,1 mengguncang wilayah barat daya Jepang pada Selasa sore waktu setempat dan ...",
+      "title": "Ancaman El Nino, Mentan sebut stok pangan nasional aman",
+      "link": "https://www.antaranews.com/video/5669528/ancaman-el-nino-mentan-sebut-stok-pangan-nasional-aman",
+      "published": "Tue, 28 Jul 2026 17:43:50 +0700",
+      "description": "ANTARA - Pemerintah memastikan pasokan dan stok pangan nasional berada dalam kondisi aman, meski Indonesia dihadapkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menpora pastikan dukungan penuh laga Chelsea vs AC Milan di Jakarta",
-      "link": "https://www.antaranews.com/berita/5669492/menpora-pastikan-dukungan-penuh-laga-chelsea-vs-ac-milan-di-jakarta",
-      "published": "Tue, 28 Jul 2026 17:10:55 +0700",
-      "description": "Menteri Pemuda dan Olahraga Erick Thohir memastikan dukungan penuh dari pemerintahannya terhadap penyelenggaraan laga ...",
+      "title": "PVMBG: Pola erupsi gunung Lewotobi Laki-laki masih relatif stabil",
+      "link": "https://www.antaranews.com/berita/5669548/pvmbg-pola-erupsi-gunung-lewotobi-laki-laki-masih-relatif-stabil",
+      "published": "Tue, 28 Jul 2026 17:43:16 +0700",
+      "description": "Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) melaporkan aktivitas Gunung Lewotobi Laki-laki di Kabupaten ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pasar tunggu arah suku bunga Fed, IHSG Selasa ditutup melemah ke 6.130",
-      "link": "https://www.antaranews.com/berita/5669491/pasar-tunggu-arah-suku-bunga-fed-ihsg-selasa-ditutup-melemah-ke-6130",
-      "published": "Tue, 28 Jul 2026 17:06:38 +0700",
-      "description": "Indeks Harga Saham Gabungan (IHSG) Bursa Efek Indonesia (BEI) pada Selasa sore, ditutup melemah di tengah pelaku pasar ...",
+      "title": "Menhut pastikan pencegahan karhutla antisipasi dampak El Nino",
+      "link": "https://www.antaranews.com/berita/5669544/menhut-pastikan-pencegahan-karhutla-antisipasi-dampak-el-nino",
+      "published": "Tue, 28 Jul 2026 17:42:28 +0700",
+      "description": "Menteri Kehutanan (Menhut) Raja Juli Antoni mengatakan pemerintah mengantisipasi dampak fenomena El Nino termasuk ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Periklindo kembali gelar PEVC 2026, bahas ekosistem mobilitas listrik",
-      "link": "https://otomotif.antaranews.com/berita/5669487/periklindo-kembali-gelar-pevc-2026-bahas-ekosistem-mobilitas-listrik",
-      "published": "Tue, 28 Jul 2026 17:06:20 +0700",
-      "description": "Perkumpulan Industri Kendaraan Listrik Indonesia (Periklindo) akan kembali menggelar Periklindo Electric Vehicle ...",
+      "title": "Wamendagri ingatkan sayembara tangkap begal harus dalam koridor hukum",
+      "link": "https://www.antaranews.com/berita/5669543/wamendagri-ingatkan-sayembara-tangkap-begal-harus-dalam-koridor-hukum",
+      "published": "Tue, 28 Jul 2026 17:42:25 +0700",
+      "description": "Wakil Menteri Dalam Negeri Bima Arya Sugiarto mengingatkan jajaran kepala daerah, termasuk Gubernur Jawa Barat Dedi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
