@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-28T16:25:45+0000",
+  "timestamp": "2026-07-28T16:56:45+0000",
   "articles": [
     {
       "title": "The moment Tuesday's powerful earthquake hit Japan",
       "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 28 Jul 2026 15:32:37 GMT",
       "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 16:14:03 GMT",
+      "description": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Powell says student loan system at top of in-tray",
-      "link": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 14:50:02 GMT",
-      "description": "She says she stands by past comments that the interest charged on Plan 2 loans is \"egregious\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Gubernur Bali minta bendesa adat cegah pengeroyokan terulang",
-      "link": "https://www.antaranews.com/berita/5670137/gubernur-bali-minta-bendesa-adat-cegah-pengeroyokan-terulang",
-      "published": "Tue, 28 Jul 2026 23:17:05 +0700",
-      "description": "Gubernur Bali Wayan Koster meminta bendesa&nbsp;atau pemimpin adat memperkuat peran desa dalam mencegah aksi ...",
+      "title": "Anggota Komisi VII DPR dorong pengembangan wisata Aceh Barat Daya",
+      "link": "https://www.antaranews.com/berita/5670167/anggota-komisi-vii-dpr-dorong-pengembangan-wisata-aceh-barat-daya",
+      "published": "Tue, 28 Jul 2026 23:55:37 +0700",
+      "description": "Anggota Komisi VII DPR RI asal Aceh T Zulkarnaini Ampon Bang berkomitmen mengembangkan potensi destinasi pariwisata di ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "KSOP Priok dukung JICT percepat transformasi “green port”",
-      "link": "https://www.antaranews.com/berita/5670136/ksop-priok-dukung-jict-percepat-transformasi-green-port",
-      "published": "Tue, 28 Jul 2026 23:15:34 +0700",
-      "description": "Kantor Kesyahbandaran dan Otoritas Pelabuhan (KSOP) Utama Tanjung Priok mendukung penuh langkah PT Jakarta ...",
+      "title": "UEFA kecam keras usulan FIFA soal investasi swasta untuk Piala Dunia",
+      "link": "https://www.antaranews.com/berita/5670163/uefa-kecam-keras-usulan-fifa-soal-investasi-swasta-untuk-piala-dunia",
+      "published": "Tue, 28 Jul 2026 23:55:29 +0700",
+      "description": "Konfederasi Sepak Bola Eropa (UEFA) mengeluarkan pernyataan resmi mengecam keras usulan FIFA untuk menjual saham Piala ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Klasemen Grup B Piala AFF 2026: Malaysia ambil alih posisi puncak",
-      "link": "https://www.antaranews.com/berita/5670133/klasemen-grup-b-piala-aff-2026-malaysia-ambil-alih-posisi-puncak",
-      "published": "Tue, 28 Jul 2026 23:15:20 +0700",
-      "description": "Tim nasional Malaysia mengambil alih posisi puncak klasemen sementara Grup B Piala AFF 2026 setelah mencukur Laos 4-0 ...",
+      "title": "Mahasiswa UI kembangkan platform persiapan TOEFL berbasis AI",
+      "link": "https://www.antaranews.com/berita/5670160/mahasiswa-ui-kembangkan-platform-persiapan-toefl-berbasis-ai",
+      "published": "Tue, 28 Jul 2026 23:49:16 +0700",
+      "description": "Mahasiswa Fakultas Ilmu Komputer Universitas Indonesia (Fasilkom UI) mengembangkan Tofly, platform persiapan TOEFL ITP ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menaker sebut Rp5,9 triliun disiapkan untuk MagangHub-pelatihan vokasi",
-      "link": "https://www.antaranews.com/berita/5670128/menaker-sebut-rp59-triliun-disiapkan-untuk-maganghub-pelatihan-vokasi",
-      "published": "Tue, 28 Jul 2026 23:12:52 +0700",
-      "description": "Menteri Ketenagakerjaan (Menaker) Yassierli mengatakan pemerintah mengalokasikan tambahan anggaran Rp5,9 triliun untuk ...",
+      "title": "ESDM fasilitasi kemudahan perizinan distribusi LPG 3 kg untuk kopdes",
+      "link": "https://www.antaranews.com/berita/5670157/esdm-fasilitasi-kemudahan-perizinan-distribusi-lpg-3-kg-untuk-kopdes",
+      "published": "Tue, 28 Jul 2026 23:41:21 +0700",
+      "description": "Kementerian Energi dan Sumber Daya Mineral (ESDM)&nbsp;akan memfasilitasi kemudahan perizinan dan tata kelola ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
