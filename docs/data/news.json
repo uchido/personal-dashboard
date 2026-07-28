@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-07-28T11:15:54+0000",
+  "timestamp": "2026-07-28T11:46:41+0000",
   "articles": [
+    {
+      "title": "French patrol boat appears to fire gunshots in the Channel during BBC interview",
+      "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 11:44:06 GMT",
+      "description": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
       "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
@@ -10,17 +18,9 @@
       "category": "Global"
     },
     {
-      "title": "Fourth heatwave grips parts of UK with 35C forecast",
-      "link": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 00:18:58 GMT",
-      "description": "A fourth heatwave of the year is now under way for parts of the UK, with temperatures expected to climb into the mid-30s Celsius later this week.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
       "link": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 10:16:37 GMT",
+      "published": "Tue, 28 Jul 2026 11:38:26 GMT",
       "description": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "KemenHAM DKI tindaklanjuti kasus dugaan penyekapan pegawai padel",
-      "link": "https://www.antaranews.com/berita/5669603/kemenham-dki-tindaklanjuti-kasus-dugaan-penyekapan-pegawai-padel",
-      "published": "Tue, 28 Jul 2026 18:13:41 +0700",
-      "description": "Kantor Wilayah Kementerian Hak Asasi Manusia (Kanwil KemenHAM) DKI Jakarta menerbitkan surat rekomendasi kepada Polres ...",
+      "title": "Kelas rentan roboh, siswa SMAN 1 Lombok Barat belajar di kantin",
+      "link": "https://www.antaranews.com/video/5669607/kelas-rentan-roboh-siswa-sman-1-lombok-barat-belajar-di-kantin",
+      "published": "Tue, 28 Jul 2026 18:44:48 +0700",
+      "description": "ANTARA - Sekolah Menengah Atas Negeri (SMAN) 1 Gunung Sari Kabupaten Lombok Barat, Nusa Tenggara Barat, menyulap bagian ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "TPST Bantargebang di Bekasi terapkan sistem controlled landfill",
-      "link": "https://www.antaranews.com/berita/5669599/tpst-bantargebang-di-bekasi-terapkan-sistem-controlled-landfill",
-      "published": "Tue, 28 Jul 2026 18:12:58 +0700",
-      "description": "Pemerintah Provinsi DKI Jakarta mengambil langkah bertahap untuk memperbaiki pengelolaan sampah di Tempat Pengolahan ...",
+      "title": "Pemko Pontianak terjunkan tim gabungan cegah kebakaran hutan meluas",
+      "link": "https://www.antaranews.com/video/5669645/pemko-pontianak-terjunkan-tim-gabungan-cegah-kebakaran-hutan-meluas",
+      "published": "Tue, 28 Jul 2026 18:41:38 +0700",
+      "description": "ANTARA - Pemerintah Kota Pontianak bersama tim gabungan mengintensifkan operasi darat penanganan kebakaran hutan dan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Wamendagri minta daerah yang kesulitan bayar gaji tak PHK pegawai",
-      "link": "https://www.antaranews.com/berita/5669595/wamendagri-minta-daerah-yang-kesulitan-bayar-gaji-tak-phk-pegawai",
-      "published": "Tue, 28 Jul 2026 18:12:15 +0700",
-      "description": "Wakil Menteri Dalam Negeri (Wamendagri) Bima Arya Sugiarto meminta kepala daerah-kepala daerah yang mengalami kesulitan ...",
+      "title": "BNPB: Api kebakaran lahan di perbukitan Probolinggo kembali menyala",
+      "link": "https://www.antaranews.com/berita/5669651/bnpb-api-kebakaran-lahan-di-perbukitan-probolinggo-kembali-menyala",
+      "published": "Tue, 28 Jul 2026 18:40:33 +0700",
+      "description": "Badan Nasional Penanggulangan Bencana (BNPB) memastikan penindakan setelah menerima laporan titik api kebakaran hutan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bahlil: Impor minyak dari Rusia untuk perkuat cadangan energi nasional",
-      "link": "https://www.antaranews.com/berita/5669592/bahlil-impor-minyak-dari-rusia-untuk-perkuat-cadangan-energi-nasional",
-      "published": "Tue, 28 Jul 2026 18:11:54 +0700",
-      "description": "Pemerintah mengimpor minyak dari Rusia melalui skema kerja sama antarapemerintah (government to government/G2G) sebagai ...",
+      "title": "Wamen PU tekankan pentingnya proyek infrastruktur ramah lingkungan",
+      "link": "https://www.antaranews.com/video/5669473/wamen-pu-tekankan-pentingnya-proyek-infrastruktur-ramah-lingkungan",
+      "published": "Tue, 28 Jul 2026 18:38:28 +0700",
+      "description": "ANTARA - Wakil Menteri Pekerjaan Umum Diana Kusumastuti menekankan pentingnya penerapan prinsip ramah lingkungan dalam ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
