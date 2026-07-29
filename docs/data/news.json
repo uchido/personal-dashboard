@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T22:55:14+0000",
+  "timestamp": "2026-07-29T23:26:15+0000",
   "articles": [
     {
       "title": "More than half of England in drought, Environment Agency declares",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Prabowo naikkan tukin prajurit setelah delapan tahun tanpa penyesuaian",
-      "link": "https://www.antaranews.com/berita/5671941/prabowo-naikkan-tukin-prajurit-setelah-delapan-tahun-tanpa-penyesuaian",
-      "published": "Thu, 30 Jul 2026 05:54:24 +0700",
-      "description": "Presiden Prabowo Subianto menaikkan tunjangan kinerja (tukin) prajurit Tentara Nasional Indonesia (TNI) dan pegawai ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kelompok Houthi klaim tembak jatuh drone yang dioperasikan Arab Saudi",
-      "link": "https://www.antaranews.com/berita/5671937/kelompok-houthi-klaim-tembak-jatuh-drone-yang-dioperasikan-arab-saudi",
-      "published": "Thu, 30 Jul 2026 05:52:53 +0700",
-      "description": "Kelompok Houthi Yaman&nbsp;mengatakan bahwa pihaknya telah menembak jatuh sebuah drone yang dioperasikan oleh Arab ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "ESI: transisi investasi energi momentum RI perkuat industri hijau",
-      "link": "https://www.antaranews.com/berita/5671936/esi-transisi-investasi-energi-momentum-ri-perkuat-industri-hijau",
-      "published": "Thu, 30 Jul 2026 05:46:36 +0700",
-      "description": "Managing Director Energy Shift Institute (ESI) Putra Adhiguna menilai transisi energi global dimana investasi energi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mancini targetkan timnas Italia kembali raih trofi",
-      "link": "https://www.antaranews.com/berita/5671935/mancini-targetkan-timnas-italia-kembali-raih-trofi",
-      "published": "Thu, 30 Jul 2026 05:39:40 +0700",
-      "description": "Roberto Mancini menargetkan tim nasional Italia kembali meraih trofi setelah ia resmi menjalani periode kedua sebagai ...",
+      "error": "unclosed token: line 668, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
