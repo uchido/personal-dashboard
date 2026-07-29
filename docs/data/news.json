@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T08:58:02+0000",
+  "timestamp": "2026-07-29T09:29:02+0000",
   "articles": [
     {
       "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
@@ -26,7 +26,7 @@
       "category": "Global"
     },
     {
-      "title": "Today's 20-somethings really do have it worse - here's why",
+      "title": "Today's 20-somethings really do have it worse than their parents - here's why",
       "link": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 28 Jul 2026 23:52:23 GMT",
       "description": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "56 paket proyek rekontruksi bencana di Lhokseumawe masuk tahap lelang",
-      "link": "https://www.antaranews.com/video/5671012/56-paket-proyek-rekontruksi-bencana-di-lhokseumawe-masuk-tahap-lelang",
-      "published": "Wed, 29 Jul 2026 15:57:00 +0700",
-      "description": "ANTARA - Sebanyak 56 paket rehabilitasi dan rekonstruksi pascabencana dari Dinas Pekerjaan Umum dan Perumahan Rakyat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Wamendikti minta akademisi jadi problem solver di kawasan transmigrasi",
-      "link": "https://www.antaranews.com/berita/5671028/wamendikti-minta-akademisi-jadi-problem-solver-di-kawasan-transmigrasi",
-      "published": "Wed, 29 Jul 2026 15:53:43 +0700",
-      "description": "Wakil Menteri Pendidikan Tinggi, Sains, dan Teknologi (Wamendiktisaintek), Fauzan menegaskan bahwa perguruan tinggi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Irak konfirmasi 20 tentara tewas akibat serangan udara AS-Arab Saudi",
-      "link": "https://www.antaranews.com/berita/5671027/irak-konfirmasi-20-tentara-tewas-akibat-serangan-udara-as-arab-saudi",
-      "published": "Wed, 29 Jul 2026 15:49:53 +0700",
-      "description": "Pasukan Mobilisasi Rakyat (PMF) Irak mengatakan setidaknya 20 tentara tewas dan 32 lainnya terluka akibat serangan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kaltara dampingi peternak ayam petelur guna perkuat ketahanan pangan",
-      "link": "https://www.antaranews.com/video/5670875/kaltara-dampingi-peternak-ayam-petelur-guna-perkuat-ketahanan-pangan",
-      "published": "Wed, 29 Jul 2026 15:49:31 +0700",
-      "description": "ANTARA - Pemerintah Provinsi Kalimantan Utara terus memperkuat kemandirian dan ketahanan pangan daerah melalui program ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
