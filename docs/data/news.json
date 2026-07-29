@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-07-29T23:26:15+0000",
+  "timestamp": "2026-07-29T23:57:15+0000",
   "articles": [
     {
       "title": "More than half of England in drought, Environment Agency declares",
       "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 29 Jul 2026 14:37:30 GMT",
       "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "How the UK's extreme heat is shifting the conversation about air-con",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 23:33:01 GMT",
+      "description": "Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 21:36:06 GMT",
-      "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Police to take no further action against Polanski over guillotine re-post",
       "link": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 29 Jul 2026 19:53:48 GMT",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 668, column 6",
+      "title": "Gerai Samsat Keliling tersedia di 14 lokasi Jadetabek pada Kamis",
+      "link": "https://www.antaranews.com/berita/5672005/gerai-samsat-keliling-tersedia-di-14-lokasi-jadetabek-pada-kamis",
+      "published": "Thu, 30 Jul 2026 06:56:28 +0700",
+      "description": "Polda Metro Jaya menyediakan layanan Sistem Administrasi Manunggal Satu Atap (Samsat) Keliling untuk membantu para ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ini lokasi gerai SIM Keliling di Jakarta pada Kamis",
+      "link": "https://www.antaranews.com/berita/5672004/ini-lokasi-gerai-sim-keliling-di-jakarta-pada-kamis",
+      "published": "Thu, 30 Jul 2026 06:48:50 +0700",
+      "description": "Direktorat Lalu Lintas (Ditlantas) Polda Metro Jaya membuka layanan Surat Izin Mengemudi (SIM) Keliling di lima wilayah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "China menentang langkah sanksi AS terhadap lembaga penelitian",
+      "link": "https://www.antaranews.com/berita/5672001/china-menentang-langkah-sanksi-as-terhadap-lembaga-penelitian",
+      "published": "Thu, 30 Jul 2026 06:48:12 +0700",
+      "description": "China menyatakan ketidakpuasan dan tegas menentang setelah Departemen Pertahanan AS memasukkan beberapa lembaga ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "IRGC klaim sukses hantam pangkalan udara AS di Yordania",
+      "link": "https://www.antaranews.com/berita/5672000/irgc-klaim-sukses-hantam-pangkalan-udara-as-di-yordania",
+      "published": "Thu, 30 Jul 2026 06:41:54 +0700",
+      "description": "Korps Garda Revolusi Islam Iran (IRGC) mengatakan bahwa pasukannya menargetkan pangkalan udara AS di Yordania dengan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
