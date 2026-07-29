@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-07-29T11:02:06+0000",
+  "timestamp": "2026-07-29T11:33:04+0000",
   "articles": [
+    {
+      "title": "Seven areas of England officially in drought, Environment Agency says",
+      "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 11:24:19 GMT",
+      "description": "Scorching temperatures and very low levels of rain have seen droughts declared across much of England.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
       "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 29 Jul 2026 05:00:07 GMT",
       "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 09:39:56 GMT",
-      "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -32,6 +32,11 @@
       "description": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "no element found: line 666, column 12",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
