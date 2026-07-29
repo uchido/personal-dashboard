@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-29T11:33:04+0000",
+  "timestamp": "2026-07-29T12:04:09+0000",
   "articles": [
     {
-      "title": "Seven areas of England officially in drought, Environment Agency says",
+      "title": "More than half of England officially in drought, Environment Agency says",
       "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 11:24:19 GMT",
+      "published": "Wed, 29 Jul 2026 11:54:11 GMT",
       "description": "Scorching temperatures and very low levels of rain have seen droughts declared across much of England.",
       "source": "BBC News",
       "category": "Global"
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Boy, 7, dies after beach tragedy that killed mum and daughter",
+      "link": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 11:58:08 GMT",
+      "description": "Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "OpenAI says its rogue AI tried to hack other companies",
       "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 29 Jul 2026 08:49:27 GMT",
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "The evidence that shows today's 20-somethings really do have it worse than previous generations",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 23:52:23 GMT",
-      "description": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "KADIN: Investor lebih butuh kepastian daripada ketenangan",
+      "link": "https://www.antaranews.com/berita/5671404/kadin-investor-lebih-butuh-kepastian-daripada-ketenangan",
+      "published": "Wed, 29 Jul 2026 18:58:22 +0700",
+      "description": "Kamar Dagang dan Industri (KADIN) Indonesia memandang kepastian regulasi menjadi faktor utama dalam menjaga arus ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "no element found: line 666, column 12",
+      "title": "Pemkab Nabire siapkan sentra sawah baru antisipasi alih fungsi lahan",
+      "link": "https://www.antaranews.com/berita/5671399/pemkab-nabire-siapkan-sentra-sawah-baru-antisipasi-alih-fungsi-lahan",
+      "published": "Wed, 29 Jul 2026 18:55:30 +0700",
+      "description": "Pemerintah Kabupaten Nabire, Papua Tengah, menyiapkan kawasan persawahan baru sebagai langkah mengantisipasi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menhan minta prajurit Yon TP berikan kinerja terbaik untuk rakyat",
+      "link": "https://www.antaranews.com/berita/5671395/menhan-minta-prajurit-yon-tp-berikan-kinerja-terbaik-untuk-rakyat",
+      "published": "Wed, 29 Jul 2026 18:55:06 +0700",
+      "description": "Menteri Pertahanan (Menhan)&nbsp;Sjafrie&nbsp; Sjamsoeddin&nbsp;meminta prajurit Batalyon Teritorial Pembangunan (Yon ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemkab fungsikan pompa brigade pangan atasi sawah kering di Aceh Jaya",
+      "link": "https://www.antaranews.com/berita/5671391/pemkab-fungsikan-pompa-brigade-pangan-atasi-sawah-kering-di-aceh-jaya",
+      "published": "Wed, 29 Jul 2026 18:54:21 +0700",
+      "description": "Pemerintah Kabupaten Aceh Jaya memfungsikan pompa-pompa kelompok brigade pangan setempat sebagai langkah mengantisipasi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
