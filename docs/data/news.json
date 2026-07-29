@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T10:31:04+0000",
+  "timestamp": "2026-07-29T11:02:06+0000",
   "articles": [
     {
       "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
@@ -26,17 +26,12 @@
       "category": "Global"
     },
     {
-      "title": "Today's 20-somethings really do have it worse than their parents - here's why",
+      "title": "The evidence that shows today's 20-somethings really do have it worse than previous generations",
       "link": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 28 Jul 2026 23:52:23 GMT",
       "description": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 663, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
