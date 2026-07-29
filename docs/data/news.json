@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T10:00:11+0000",
+  "timestamp": "2026-07-29T10:31:04+0000",
   "articles": [
     {
       "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
@@ -18,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
-      "link": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 00:49:40 GMT",
-      "description": "The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.",
+      "title": "OpenAI says its rogue AI tried to hack other companies",
+      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 08:49:27 GMT",
+      "description": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Disnaker Pangkalpinang latih peracikan kopi dukung industri lokal",
-      "link": "https://www.antaranews.com/video/5671133/disnaker-pangkalpinang-latih-peracikan-kopi-dukung-industri-lokal",
-      "published": "Wed, 29 Jul 2026 16:59:59 +0700",
-      "description": "ANTARA - Dinas Tenaga Kerja Kota Pangkalpinang bekerja sama dengan Balai Pelatihan Vokasi dan Produktivitas (BPVP) ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Komisi XII dorong pengelolaan sampah jadi sistem bernilai ekonomi",
-      "link": "https://www.antaranews.com/berita/5671164/komisi-xii-dorong-pengelolaan-sampah-jadi-sistem-bernilai-ekonomi",
-      "published": "Wed, 29 Jul 2026 16:58:45 +0700",
-      "description": "Ketua Komisi XII DPR RI Bambang Patijaya mendorong pengelolaan sampah di Indonesia beralih dari pola buang dan angkut ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Gubernur NTB ajak pelaku usaha kembangkan industri garam rakyat",
-      "link": "https://www.antaranews.com/berita/5671160/gubernur-ntb-ajak-pelaku-usaha-kembangkan-industri-garam-rakyat",
-      "published": "Wed, 29 Jul 2026 16:58:21 +0700",
-      "description": "Gubernur Nusa Tenggara Barat (NTB) Lalu Muhamad Iqbal mengajak pelaku usaha mengembangkan industri garam rakyat guna ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "ASEAN berpeluang jadi pusat ajang internasional lewat kolaborasi",
-      "link": "https://www.antaranews.com/berita/5671157/asean-berpeluang-jadi-pusat-ajang-internasional-lewat-kolaborasi",
-      "published": "Wed, 29 Jul 2026 16:57:14 +0700",
-      "description": "ASEAN dinilai memiliki peluang besar untuk memperkuat posisinya sebagai destinasi penyelenggaraan ajang internasional ...",
+      "error": "unclosed token: line 663, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
