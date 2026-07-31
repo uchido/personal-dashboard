@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T20:54:59+0000",
+  "timestamp": "2026-07-31T21:26:07+0000",
   "locations": [
     {
       "name": "Palu",
@@ -8,13 +8,13 @@
       "country": "Indonesia",
       "temp_c": "17",
       "feels_like_c": "19",
-      "humidity": "95",
-      "wind_speed_kmh": "5",
+      "humidity": "94",
+      "wind_speed_kmh": "4",
       "wind_dir": "SE",
-      "visibility_km": "2",
-      "pressure_mb": "1011",
-      "condition": "Mist",
-      "condition_code": "143",
+      "visibility_km": "10",
+      "pressure_mb": "1012",
+      "condition": "Partly Cloudy ",
+      "condition_code": "116",
       "uv_index": "0",
       "forecast": [
         {
@@ -35,7 +35,7 @@
         },
         {
           "date": "2026-08-03",
-          "max_temp": "33",
+          "max_temp": "32",
           "min_temp": "17",
           "condition": "Mist",
           "sunrise": "06:04 AM",
@@ -45,45 +45,7 @@
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
-      "region": "Daerah Istimewa Yogyakarta",
-      "country": "Indonesia",
-      "temp_c": "20",
-      "feels_like_c": "23",
-      "humidity": "95",
-      "wind_speed_kmh": "4",
-      "wind_dir": "SW",
-      "visibility_km": "4",
-      "pressure_mb": "1011",
-      "condition": "Mist",
-      "condition_code": "143",
-      "uv_index": "0",
-      "forecast": [
-        {
-          "date": "2026-08-01",
-          "max_temp": "30",
-          "min_temp": "20",
-          "condition": "Partly Cloudy ",
-          "sunrise": "05:52 AM",
-          "sunset": "05:38 PM"
-        },
-        {
-          "date": "2026-08-02",
-          "max_temp": "30",
-          "min_temp": "20",
-          "condition": "Mist",
-          "sunrise": "05:51 AM",
-          "sunset": "05:38 PM"
-        },
-        {
-          "date": "2026-08-03",
-          "max_temp": "30",
-          "min_temp": "21",
-          "condition": "Partly Cloudy ",
-          "sunrise": "05:51 AM",
-          "sunset": "05:38 PM"
-        }
-      ]
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     }
   ]
 }
