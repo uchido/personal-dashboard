@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T01:34:05+0000",
+  "timestamp": "2026-08-01T02:05:05+0000",
   "articles": [
     {
       "title": "Fifa scraps controversial World Cup investment plan",
@@ -18,15 +18,7 @@
       "category": "Global"
     },
     {
-      "title": "What triggered the mass migrant crossings into Ceuta?",
-      "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 18:29:04 GMT",
-      "description": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Labour's Bev Craig elected mayor of Greater Manchester, replacing Andy Burnham",
+      "title": "Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham",
       "link": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 31 Jul 2026 22:53:54 GMT",
       "description": "Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley.",
@@ -34,34 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "AS-Israel disebut siapkan serangan besar ke infrastruktur energi Iran",
-      "link": "https://www.antaranews.com/berita/5675429/as-israel-disebut-siapkan-serangan-besar-ke-infrastruktur-energi-iran",
-      "published": "Sat, 01 Aug 2026 08:22:02 +0700",
-      "description": "Amerika Serikat dan Israel tengah mempersiapkan sebuah operasi pengeboman besar-besaran terhadap infrastruktur energi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+      "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 22:46:44 GMT",
+      "description": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public.",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Laporan: Otoritas Maroko diduga bantu imigran menyeberang ke Ceuta",
-      "link": "https://www.antaranews.com/berita/5675428/laporan-otoritas-maroko-diduga-bantu-imigran-menyeberang-ke-ceuta",
-      "published": "Sat, 01 Aug 2026 08:20:32 +0700",
-      "description": "Sejumlah imigran yang tiba di Ceuta, wilayah kantong Spanyol di Afrika, mengeklaim otoritas Maroko membantu mereka ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Spanyol sebut hampir semua imigran yang masuki Ceuta pulang ke Maroko",
-      "link": "https://www.antaranews.com/berita/5675425/spanyol-sebut-hampir-semua-imigran-yang-masuki-ceuta-pulang-ke-maroko",
-      "published": "Sat, 01 Aug 2026 08:19:34 +0700",
-      "description": "Hampir semua imigran yang memasuki Ceuta telah kembali ke Maroko, kata Menteri Luar Negeri Spanyol Jose Manuel Albares ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Polda Metro Jaya ungkap peredaran 27,96 kg ganja di Jakarta Timur",
-      "link": "https://www.antaranews.com/berita/5675424/polda-metro-jaya-ungkap-peredaran-2796-kg-ganja-di-jakarta-timur",
-      "published": "Sat, 01 Aug 2026 08:18:06 +0700",
-      "description": "Direktorat Reserse Narkoba Polda Metro Jaya membongkar jaringan peredaran narkotika di wilayah Jakarta Timur dengan ...",
+      "error": "unclosed token: line 663, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
