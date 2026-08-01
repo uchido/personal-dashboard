@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T15:31:17+0000",
+  "timestamp": "2026-08-01T16:02:19+0000",
   "locations": [
     {
       "name": "Palu",
@@ -8,7 +8,7 @@
       "country": "Indonesia",
       "temp_c": "18",
       "feels_like_c": "19",
-      "humidity": "95",
+      "humidity": "96",
       "wind_speed_kmh": "5",
       "wind_dir": "ESE",
       "visibility_km": "2",
@@ -37,7 +37,7 @@
           "date": "2026-08-03",
           "max_temp": "32",
           "min_temp": "17",
-          "condition": "Patchy rain nearby",
+          "condition": "Partly Cloudy ",
           "sunrise": "06:04 AM",
           "sunset": "06:09 PM"
         }
