@@ -1,13 +1,89 @@
 {
-  "timestamp": "2026-08-02T07:01:33+0000",
+  "timestamp": "2026-08-02T07:32:33+0000",
   "locations": [
     {
       "name": "Palu",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "location": "Lolu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "temp_c": "31",
+      "feels_like_c": "35",
+      "humidity": "59",
+      "wind_speed_kmh": "6",
+      "wind_dir": "NW",
+      "visibility_km": "10",
+      "pressure_mb": "1010",
+      "condition": "Patchy rain nearby",
+      "condition_code": "176",
+      "uv_index": "9",
+      "forecast": [
+        {
+          "date": "2026-08-02",
+          "max_temp": "32",
+          "min_temp": "17",
+          "condition": "Mist",
+          "sunrise": "06:04 AM",
+          "sunset": "06:09 PM"
+        },
+        {
+          "date": "2026-08-03",
+          "max_temp": "32",
+          "min_temp": "17",
+          "condition": "Partly Cloudy ",
+          "sunrise": "06:04 AM",
+          "sunset": "06:09 PM"
+        },
+        {
+          "date": "2026-08-04",
+          "max_temp": "32",
+          "min_temp": "18",
+          "condition": "Partly Cloudy ",
+          "sunrise": "06:04 AM",
+          "sunset": "06:09 PM"
+        }
+      ]
     },
     {
       "name": "Yogyakarta",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "location": "Joho",
+      "region": "Daerah Istimewa Yogyakarta",
+      "country": "Indonesia",
+      "temp_c": "29",
+      "feels_like_c": "31",
+      "humidity": "59",
+      "wind_speed_kmh": "18",
+      "wind_dir": "S",
+      "visibility_km": "10",
+      "pressure_mb": "1009",
+      "condition": "Partly Cloudy ",
+      "condition_code": "116",
+      "uv_index": "5",
+      "forecast": [
+        {
+          "date": "2026-08-02",
+          "max_temp": "30",
+          "min_temp": "20",
+          "condition": "Mist",
+          "sunrise": "05:51 AM",
+          "sunset": "05:38 PM"
+        },
+        {
+          "date": "2026-08-03",
+          "max_temp": "30",
+          "min_temp": "21",
+          "condition": "Mist",
+          "sunrise": "05:51 AM",
+          "sunset": "05:38 PM"
+        },
+        {
+          "date": "2026-08-04",
+          "max_temp": "29",
+          "min_temp": "21",
+          "condition": "Fog",
+          "sunrise": "05:51 AM",
+          "sunset": "05:38 PM"
+        }
+      ]
     }
   ]
 }
