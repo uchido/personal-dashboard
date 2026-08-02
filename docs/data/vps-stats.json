@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-02T13:44:37+0000",
+  "timestamp": "2026-08-02T14:15:37+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 65.0,
     "cores": 2,
     "load_avg": [
-      2.03,
-      2.34,
-      2.31
+      2.16,
+      2.49,
+      2.42
     ]
   },
   "memory": {
@@ -26,16 +26,10 @@
   "uptime": {
     "days": 34,
     "hours": 2,
-    "minutes": 10,
-    "total_seconds": 2945424.82
+    "minutes": 41,
+    "total_seconds": 2947285.32
   },
   "top_processes": [
-    {
-      "user": "ubuntu",
-      "cpu": "120",
-      "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
     {
       "user": "ubuntu",
       "cpu": "100",
@@ -44,13 +38,13 @@
     },
     {
       "user": "root",
-      "cpu": "45.8",
+      "cpu": "24.3",
       "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ubuntu",
-      "cpu": "14.2",
+      "cpu": "21.4",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -59,6 +53,12 @@
       "cpu": "5.9",
       "mem": "0.7",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "1.5",
+      "mem": "0.8",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
