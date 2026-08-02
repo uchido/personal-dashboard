@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-02T02:22:29+0000",
+  "timestamp": "2026-08-02T02:53:29+0000",
   "articles": [
     {
       "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
       "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 01 Aug 2026 20:09:27 GMT",
       "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 02:44:34 GMT",
+      "description": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 22:41:38 GMT",
-      "description": "There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "AMDATARA Beri Penghargaan kepada Tiga Inisiatif Lingkungan Lewat Anugerah Hijau 2026",
+      "link": "https://www.antaranews.com/berita/5676345/amdatara-beri-penghargaan-kepada-tiga-inisiatif-lingkungan-lewat-anugerah-hijau-2026",
+      "published": "Sun, 02 Aug 2026 09:48:32 +0700",
+      "description": "Jakarta (ANTARA) &mdash; AMDATARA (Perkumpulan Pengusaha Air Dalam Kemasan Nusantara) memberikan penghargaan kepada ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Mentan ajak organisasi mahasiswa dan pemuda bersama atasi mafia pangan",
+      "link": "https://www.antaranews.com/berita/5676343/mentan-ajak-organisasi-mahasiswa-dan-pemuda-bersama-atasi-mafia-pangan",
+      "published": "Sun, 02 Aug 2026 09:43:44 +0700",
+      "description": "Menteri Pertanian Andi Amran Sulaiman mengajak organisasi mahasiswa dan kepemudaan bersatu memerangi mafia pangan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "INZS 2026 perkuat komitmen Indonesia hadapi krisis iklim",
+      "link": "https://www.antaranews.com/video/5676087/inzs-2026-perkuat-komitmen-indonesia-hadapi-krisis-iklim",
+      "published": "Sun, 02 Aug 2026 09:34:18 +0700",
+      "description": "ANTARA - Pemerintah Indonesia terus mempercepat transisi energi sebagai bagian dari upaya mengatasi perubahan iklim ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "iPhone Air 2 diperkirakan hadir dengan peningkatan chip dan kamera",
       "link": "https://www.antaranews.com/berita/5676339/iphone-air-2-diperkirakan-hadir-dengan-peningkatan-chip-dan-kamera",
       "published": "Sun, 02 Aug 2026 09:21:49 +0700",
       "description": "Analis investasi Jeff Pu membagikan catatan riset baru berkenaan dengan&nbsp;iPhone Air 2 yang diperkirakan dirilis ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "13 orang tewas dalam kecelakaan pesawat di Peru",
-      "link": "https://www.antaranews.com/berita/5676335/13-orang-tewas-dalam-kecelakaan-pesawat-di-peru",
-      "published": "Sun, 02 Aug 2026 09:09:27 +0700",
-      "description": "Sebanyak 13 orang tewas dalam kecelakaan pesawat wisata kecil di atas kompleks arkeologi geoglyph Nazca di Peru ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bocoran spesifikasi kamera Samsung Galaxy S26 FE terungkap",
-      "link": "https://www.antaranews.com/berita/5676331/bocoran-spesifikasi-kamera-samsung-galaxy-s26-fe-terungkap",
-      "published": "Sun, 02 Aug 2026 08:54:33 +0700",
-      "description": "Bocoran informasi terbaru mengenai Samsung Galaxy S26 FE mengungkap spesifikasi sistem kamera yang diperkirakan akan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "PM Modi resmikan Bandara Internasional Alluri Sitarama Raju di India",
-      "link": "https://www.antaranews.com/berita/5676328/pm-modi-resmikan-bandara-internasional-alluri-sitarama-raju-di-india",
-      "published": "Sun, 02 Aug 2026 08:52:32 +0700",
-      "description": "Perdana Menteri (PM) India Narendra Modi meresmikan Bandara Internasional Alluri Sitarama Raju atau Bandara Vizag di ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
