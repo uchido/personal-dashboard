@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-02T00:49:27+0000",
+  "timestamp": "2026-08-02T01:20:27+0000",
   "articles": [
     {
       "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
       "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 01 Aug 2026 20:09:27 GMT",
       "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 00:55:16 GMT",
+      "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 00:02:18 GMT",
-      "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "BMKG prakirakan wilayah Jakarta berawan pada Minggu",
+      "link": "https://www.antaranews.com/berita/5676312/bmkg-prakirakan-wilayah-jakarta-berawan-pada-minggu",
+      "published": "Sun, 02 Aug 2026 08:05:33 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan cuaca di wilayah Jakarta berawan pada hari ini, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "SIM Keliling tersedia di dua lokasi Jakarta pada Minggu",
+      "link": "https://www.antaranews.com/berita/5676309/sim-keliling-tersedia-di-dua-lokasi-jakarta-pada-minggu",
+      "published": "Sun, 02 Aug 2026 07:55:11 +0700",
+      "description": "Direktorat Lalu Lintas Polda Metro Jaya menyediakan layanan surat izin mengemudi (SIM) Keliling&nbsp;di dua lokasi di ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Hukum sepekan, OTT Bupati Pemalang hingga jaksa geledah rumah Febrie",
+      "link": "https://www.antaranews.com/berita/5676308/hukum-sepekan-ott-bupati-pemalang-hingga-jaksa-geledah-rumah-febrie",
+      "published": "Sun, 02 Aug 2026 07:50:00 +0700",
+      "description": "Berbagai peristiwa hukum dalam sepekan mulai dari 26 Juli-1 Agustus 2026 yang menjadi sorotan, di antaranya KPK ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Sepekan, usul Pilkada tanpa wakil hingga Dasco pertemukan Hotman-PWI",
       "link": "https://www.antaranews.com/berita/5676305/sepekan-usul-pilkada-tanpa-wakil-hingga-dasco-pertemukan-hotman-pwi",
       "published": "Sun, 02 Aug 2026 07:46:38 +0700",
       "description": "Berbagai peristiwa politik dalam sepekan mulai dari 26 Juli-1 Agustus 2026 yang menjadi sorotan, di antaranya Anggota ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Qatar sambut baik penarikan proposal FFE meski akui ada keunggulan",
-      "link": "https://www.antaranews.com/berita/5676301/qatar-sambut-baik-penarikan-proposal-ffe-meski-akui-ada-keunggulan",
-      "published": "Sun, 02 Aug 2026 07:46:23 +0700",
-      "description": "Federasi Sepak Bola Qatar atau QFA menyambut baik penarikan usulan proposal FIFA Forward Enterprise (FFE) yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "PIHPS: Harga telur ayam Rp29.650/kg, bawang merah Rp40.450/kg",
-      "link": "https://www.antaranews.com/berita/5676299/pihps-harga-telur-ayam-rp29650-kg-bawang-merah-rp40450-kg",
-      "published": "Sun, 02 Aug 2026 07:43:00 +0700",
-      "description": "Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional yang dikelola Bank Indonesia mencatat harga pangan komoditas ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "M4CR disebut sebagai proyek rehabilitasi mangrove terbesar di dunia",
-      "link": "https://www.antaranews.com/berita/5676296/m4cr-disebut-sebagai-proyek-rehabilitasi-mangrove-terbesar-di-dunia",
-      "published": "Sun, 02 Aug 2026 07:38:37 +0700",
-      "description": "Sekretaris Direktorat Jenderal Pengelolaan Daerah Aliran Sungai dan Rehabilitasi Hutan Kementerian Kehutanan Muhammad ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
