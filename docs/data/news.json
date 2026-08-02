@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T17:21:44+0000",
+  "timestamp": "2026-08-02T17:52:44+0000",
   "articles": [
     {
       "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
@@ -10,10 +10,10 @@
       "category": "Global"
     },
     {
-      "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
+      "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
       "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 02 Aug 2026 14:28:15 GMT",
-      "description": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
+      "description": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -32,6 +32,14 @@
       "description": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "BI targetkan bawa wastra Sulsel ke pasar global",
+      "link": "https://www.antaranews.com/video/5676935/bi-targetkan-bawa-wastra-sulsel-ke-pasar-global",
+      "published": "Mon, 03 Aug 2026 00:50:09 +0700",
+      "description": "ANTARA - Kantor Perwakilan Bank Indonesia Provinsi Sulawesi Selatan bersama Pemerintah Provinsi Sulsel menyasar ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "BI Sulsel catat transaksi Rp1,35 miliar di Wastra Heritage Market",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5676931/kemenhub-kerahkan-kapal-patroli-evakuasi-km-mutiara-sentosa-ii",
       "published": "Mon, 03 Aug 2026 00:03:37 +0700",
       "description": "Kementerian Perhubungan mengerahkan kapal patroli Kesatuan Penjagaan Laut dan Pantai (KPLP) serta memperkuat koordinasi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Tong Tong Night Market masuk KEN, angkat UMKM dan budaya lokal",
-      "link": "https://www.antaranews.com/video/5676927/tong-tong-night-market-masuk-ken-angkat-umkm-dan-budaya-lokal",
-      "published": "Sun, 02 Aug 2026 23:59:19 +0700",
-      "description": "ANTARA - &lrm;Memasuki satu dekade penyelenggaraan, Tong Tong Night Market kembali meramaikan Kota Malang. Festival ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
