@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-08-02T14:15:41+0000",
+  "timestamp": "2026-08-02T14:46:41+0000",
   "articles": [
-    {
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 11:12:00 GMT",
-      "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
       "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
@@ -18,50 +10,58 @@
       "category": "Global"
     },
     {
-      "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 23:03:35 GMT",
-      "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 11:12:00 GMT",
+      "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-      "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 11:49:40 GMT",
-      "description": "The vessel with at least 250 people on board caught fire off Madura island.",
+      "title": "Man admits killing British woman found in suitcase, Greek police say",
+      "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 14:28:15 GMT",
+      "description": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "Fastest runner to cross the Alps says it was an incredible experience",
+      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 10:59:55 GMT",
+      "description": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "SAR gabungan evakuasi empat pendaki tersesat di Gunung Lokon-Tomohon",
+      "link": "https://www.antaranews.com/berita/5676825/sar-gabungan-evakuasi-empat-pendaki-tersesat-di-gunung-lokon-tomohon",
+      "published": "Sun, 02 Aug 2026 21:26:35 +0700",
+      "description": "Tim SAR gabungan berhasil menemukan dan mengevakuasi empat orang pendaki yang dilaporkan tersesat di kawasan Gunung ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemkab Cirebon pastikan siswa Sekolah Rakyat dapat pendampingan",
+      "link": "https://www.antaranews.com/berita/5676824/pemkab-cirebon-pastikan-siswa-sekolah-rakyat-dapat-pendampingan",
+      "published": "Sun, 02 Aug 2026 21:16:04 +0700",
+      "description": "Pemerintah Kabupaten Cirebon, Jawa Barat, memastikan seluruh siswa Sekolah Rakyat Terintegrasi 1 di daerahnya ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemkab Banyuwangi dan Injourney kolaborasi perkuat promosi pariwisata",
+      "link": "https://www.antaranews.com/berita/5676820/pemkab-banyuwangi-dan-injourney-kolaborasi-perkuat-promosi-pariwisata",
+      "published": "Sun, 02 Aug 2026 21:15:10 +0700",
+      "description": "Pemerintah Kabupaten (Pemkab) Banyuwangi, Jawa Timur (Jatim), berkolaborasi dengan PT Aviasi Pariwisata Indonesia ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Timnas Indonesia tidak akan terpancing provokasi Vietnam",
       "link": "https://www.antaranews.com/berita/5676819/timnas-indonesia-tidak-akan-terpancing-provokasi-vietnam",
       "published": "Sun, 02 Aug 2026 21:14:09 +0700",
       "description": "Kapten tim nasional sepak bola Indonesia Rizky Ridho memastikan skuadnya&nbsp;tidak akan terpancing oleh aksi-aksi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Andi Sultan raih medali emas Asian Taekwondo Indonesia Open Championships",
-      "link": "https://www.antaranews.com/foto/5676816/andi-sultan-raih-medali-emas-asian-taekwondo-indonesia-open-championships",
-      "published": "Sun, 02 Aug 2026 21:13:46 +0700",
-      "description": "Atlet Taekwondo Indonesia Andi Sultan mengibarkan bendera Merah Putih usai memenangkan pertandingan final nomor Poomsae ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mimi OH MY GIRL akan debut sebagai artis solo",
-      "link": "https://www.antaranews.com/berita/5676815/mimi-oh-my-girl-akan-debut-sebagai-artis-solo",
-      "published": "Sun, 02 Aug 2026 21:10:12 +0700",
-      "description": "Idol K-pop Mimi dari OH MY GIRL melalui agensinya mengumumkan bahwa sang idol tengah bersiap untuk debut sebagai artis ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Latihan Timnas Indonesia jelang lawan Vietnam",
-      "link": "https://www.antaranews.com/foto/5676812/latihan-timnas-indonesia-jelang-lawan-vietnam",
-      "published": "Sun, 02 Aug 2026 21:09:02 +0700",
-      "description": "Sejumlah pesepak bola Timnas Indonesia mengikuti sesi latihan di Stadion GBK, Jakarta, Minggu (2/8/2026). Latihan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
