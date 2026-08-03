@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-08-03T21:16:11+0000",
+  "timestamp": "2026-08-03T21:47:11+0000",
   "articles": [
+    {
+      "title": "Rapists and child sex offenders to be barred from early release scheme",
+      "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 21:35:15 GMT",
+      "description": "The widow of PC Andrew Harper says it is \"disgusting\" her husband's killers remain eligible for the scheme in England and Wales.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
       "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
@@ -26,42 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "France hits out at Reform UK plan to return migrants using Navy",
-      "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 16:48:58 GMT",
-      "description": "It comes after the party said it would override French objections to return migrants to France.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "John Herdman pastikan Marselino absen hingga akhir Piala AFF 2026",
-      "link": "https://www.antaranews.com/berita/5678600/john-herdman-pastikan-marselino-absen-hingga-akhir-piala-aff-2026",
-      "published": "Tue, 04 Aug 2026 04:14:04 +0700",
-      "description": "Pelatih tim nasional Indonesia John Herdman memastikan gelandang Marselino Ferdinan bakal absen hingga akhir turnamen ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dibungkam Vietnam 0-3, Skuad Garuda kejar kemenangan dari Singapura",
-      "link": "https://www.antaranews.com/video/5678599/dibungkam-vietnam-0-3-skuad-garuda-kejar-kemenangan-dari-singapura",
-      "published": "Tue, 04 Aug 2026 04:02:18 +0700",
-      "description": "ANTARA -&nbsp;Tim Nasional Indonesia harus menelan kekalahan atas Vietnam dengan skor 0-3, pada pertandingan grup A ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "John Herdman sebut kerapatan formasi timnas harus diperbaiki",
-      "link": "https://www.antaranews.com/berita/5678597/john-herdman-sebut-kerapatan-formasi-timnas-harus-diperbaiki",
-      "published": "Tue, 04 Aug 2026 02:23:09 +0700",
-      "description": "Pelatih tim nasional sepak bola Indonesia John&nbsp;Herdman menyebutkan kerapatan formasi tim asuhannya harus ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bahlil sebut peresmian tahap I PLTS 100 GW akan dilakukan di Bali",
-      "link": "https://www.antaranews.com/berita/5678596/bahlil-sebut-peresmian-tahap-i-plts-100-gw-akan-dilakukan-di-bali",
-      "published": "Tue, 04 Aug 2026 02:21:27 +0700",
-      "description": "Menteri Energi dan Sumber Daya Mineral (ESDM) Bahlil Lahadalia mengatakan peresmian tahap pertama program pembangkit ...",
+      "error": "unclosed token: line 659, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
