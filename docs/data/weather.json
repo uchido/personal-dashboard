@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-08-03T02:39:53+0000",
+  "timestamp": "2026-08-03T03:10:53+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
+      "location": "Palu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "29",
-      "feels_like_c": "31",
-      "humidity": "67",
-      "wind_speed_kmh": "5",
-      "wind_dir": "ESE",
+      "temp_c": "31",
+      "feels_like_c": "34",
+      "humidity": "58",
+      "wind_speed_kmh": "4",
+      "wind_dir": "ENE",
       "visibility_km": "10",
-      "pressure_mb": "1013",
+      "pressure_mb": "1012",
       "condition": "Sunny",
       "condition_code": "113",
-      "uv_index": "5",
+      "uv_index": "8",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -37,7 +37,7 @@
           "date": "2026-08-05",
           "max_temp": "32",
           "min_temp": "17",
-          "condition": "Partly Cloudy ",
+          "condition": "Mist",
           "sunrise": "06:04 AM",
           "sunset": "06:09 PM"
         }
@@ -48,16 +48,16 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "26",
-      "feels_like_c": "28",
-      "humidity": "73",
+      "temp_c": "27",
+      "feels_like_c": "29",
+      "humidity": "65",
       "wind_speed_kmh": "8",
-      "wind_dir": "ENE",
-      "visibility_km": "8",
+      "wind_dir": "E",
+      "visibility_km": "10",
       "pressure_mb": "1013",
       "condition": "Smoky haze",
       "condition_code": "149",
-      "uv_index": "2",
+      "uv_index": "5",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -69,7 +69,7 @@
         },
         {
           "date": "2026-08-04",
-          "max_temp": "31",
+          "max_temp": "30",
           "min_temp": "21",
           "condition": "Mist",
           "sunrise": "05:51 AM",
@@ -77,7 +77,7 @@
         },
         {
           "date": "2026-08-05",
-          "max_temp": "31",
+          "max_temp": "30",
           "min_temp": "21",
           "condition": "Patchy rain nearby",
           "sunrise": "05:51 AM",
