@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-08-04T23:06:36+0000",
+  "timestamp": "2026-08-04T23:37:36+0000",
   "articles": [
     {
       "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
       "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 04 Aug 2026 17:26:06 GMT",
       "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Temperatures to drop briefly ahead of next UK heatwave",
+      "link": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 23:14:49 GMT",
+      "description": "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+      "link": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 21:55:17 GMT",
+      "description": "A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
-      "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 19:31:26 GMT",
-      "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Humaniora kemarin, Gernas Rana hingga kebakaran Gunung Soputan",
+      "link": "https://www.antaranews.com/berita/5680192/humaniora-kemarin-gernas-rana-hingga-kebakaran-gunung-soputan",
+      "published": "Wed, 05 Aug 2026 06:33:15 +0700",
+      "description": "Sejumlah berita humaniora kemarin yang masih menarik untuk dibaca, mulai dari Gernas Rana enam kementerian hingga ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 19:00:43 GMT",
-      "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Spotify sudah punya 300 juta pelanggan Premium",
+      "link": "https://www.antaranews.com/berita/5680189/spotify-sudah-punya-300-juta-pelanggan-premium",
+      "published": "Wed, 05 Aug 2026 06:32:57 +0700",
+      "description": "Spotify dalam laporan keuangan terbarunya menyatakan bahwa layanan streaming-nya kini sudah memiliki 300 juta pelanggan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BMKG: Sebagian besar Jakarta cerah pada Rabu pagi",
+      "link": "https://www.antaranews.com/berita/5680187/bmkg-sebagian-besar-jakarta-cerah-pada-rabu-pagi",
+      "published": "Wed, 05 Aug 2026 06:09:43 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian besar wilayah DKI Jakarta cerah pada Rabu ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Kinerja KPK semester I-2026",
       "link": "https://www.antaranews.com/infografik/5679727/kinerja-kpk-semester-i-2026",
       "published": "Wed, 05 Aug 2026 06:00:00 +0700",
       "description": "Komisi Pemberantasan Korupsi (Dewas KPK) melakukan ribuan penindakan kasus tindak pidana korupsi selama semester ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemendagri godok usulan DAU bayar gaji PPPK di daerah",
-      "link": "https://www.antaranews.com/berita/5680183/kemendagri-godok-usulan-dau-bayar-gaji-pppk-di-daerah",
-      "published": "Wed, 05 Aug 2026 05:46:09 +0700",
-      "description": "Kementerian Dalam Negeri (Kemendagri) masih menggodok&nbsp;usulan penggunaan Dana Alokasi Umum (DAU) untuk membantu ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Vedanta Aluminium Laporkan Rekor Kinerja Q1 FY27; Laba Melonjak 205%, EBITDA Lebih dari Dua Kali Lipat Laporkan Rekor Kinerja Q1 FY27; Laba Melonjak 205%, EBITDA Lebih dari Dua Kali Lipat",
-      "link": "https://www.antaranews.com/berita/5680180/vedanta-aluminium-laporkan-rekor-kinerja-q1-fy27-laba-melonjak-205-ebitda-lebih-dari-dua-kali-lipat-laporkan-rekor-kinerja-q1-fy27-laba-melonjak-205-ebitda-lebih-dari-dua-kali-lipat",
-      "published": "Wed, 05 Aug 2026 05:43:00 +0700",
-      "description": "- Vedanta Aluminium Metal Limited (NSE: VAML, BSE: 544780), salah satu produsen aluminium terkemuka di dunia, hari ini ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Lucho ungkap suka cita Persib Bandung lolos ke final Piala Presiden",
-      "link": "https://www.antaranews.com/berita/5680179/lucho-ungkap-suka-cita-persib-bandung-lolos-ke-final-piala-presiden",
-      "published": "Wed, 05 Aug 2026 05:25:35 +0700",
-      "description": "Gelandang Persib Bandung Luciano Guaycochea atau yang kerap disapa Lucho mengungkapkan suka cita timnya berhasil lolos ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
