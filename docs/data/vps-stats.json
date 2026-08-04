@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-04T02:57:13+0000",
+  "timestamp": "2026-08-04T03:28:13+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 95.0,
     "cores": 2,
     "load_avg": [
-      2.18,
-      2.21,
-      2.21
+      2.01,
+      2.14,
+      2.15
     ]
   },
   "memory": {
@@ -26,14 +26,14 @@
   "uptime": {
     "days": 35,
     "hours": 15,
-    "minutes": 23,
-    "total_seconds": 3079380.43
+    "minutes": 54,
+    "total_seconds": 3081241.05
   },
   "top_processes": [
     {
       "user": "ubuntu",
       "cpu": "100",
-      "mem": "0.3",
+      "mem": "0.4",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
@@ -44,20 +44,20 @@
     },
     {
       "user": "root",
-      "cpu": "35.8",
-      "mem": "1.1",
+      "cpu": "89.3",
+      "mem": "1.0",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ubuntu",
-      "cpu": "13.3",
+      "cpu": "11.7",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "ubuntu",
       "cpu": "5.9",
-      "mem": "0.7",
+      "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
     }
   ]
