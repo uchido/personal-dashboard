@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-08-05T10:28:45+0000",
+  "timestamp": "2026-08-05T10:59:45+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 100.0,
+    "percent": 95.5,
     "cores": 2,
     "load_avg": [
-      1.76,
-      2.06,
-      2.17
+      3.06,
+      2.43,
+      2.28
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.0,
-    "available": 6.3,
-    "used": 5.3,
-    "percent": 45.7
+    "free": 1.3,
+    "available": 6.5,
+    "used": 5.1,
+    "percent": 44.0
   },
   "disk": {
     "total": "193G",
@@ -25,40 +25,40 @@
   },
   "uptime": {
     "days": 36,
-    "hours": 22,
-    "minutes": 54,
-    "total_seconds": 3192872.66
+    "hours": 23,
+    "minutes": 25,
+    "total_seconds": 3194733.02
   },
   "top_processes": [
     {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
       "user": "root",
-      "cpu": "53.7",
-      "mem": "0.7",
-      "command": "node /usr/local/bin/pnpm run prisma-db-push"
-    },
-    {
-      "user": "root",
-      "cpu": "37.0",
+      "cpu": "53.3",
       "mem": "0.0",
       "command": "/usr/local/bin/ruby /usr/local/bundle/bin/bundle e"
     },
     {
       "user": "ubuntu",
-      "cpu": "28.5",
+      "cpu": "30.7",
       "mem": "0.4",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
-      "user": "root",
-      "cpu": "23.3",
-      "mem": "0.8",
-      "command": "node /usr/local/bin/pnpm run pm2-run"
+      "user": "ubuntu",
+      "cpu": "25.0",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "15.0",
+      "mem": "0.1",
+      "command": "python3 scripts/collect-vps.py"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "5.9",
+      "mem": "0.7",
+      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
     }
   ]
 }
