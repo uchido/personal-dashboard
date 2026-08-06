@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T11:17:11+0000",
+  "timestamp": "2026-08-06T11:48:11+0000",
   "articles": [
     {
       "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Khofifah upayakan helikopter \"water bombing\" beroperasi di Bromo besok",
-      "link": "https://www.antaranews.com/berita/5682867/khofifah-upayakan-helikopter-water-bombing-beroperasi-di-bromo-besok",
-      "published": "Thu, 06 Aug 2026 18:15:24 +0700",
-      "description": "Gubernur Jawa Timur Khofifah Indar Parawansa mengupayakan helikopter pengebom air atau water bombing dari Badan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Sudinhub Jaktim urai kemacetan akibat proyek jalan di Cakung",
-      "link": "https://www.antaranews.com/berita/5682863/sudinhub-jaktim-urai-kemacetan-akibat-proyek-jalan-di-cakung",
-      "published": "Thu, 06 Aug 2026 18:14:15 +0700",
-      "description": "Suku Dinas (Sudin) Perhubungan Jakarta Timur mengerahkan personel untuk mengurai kepadatan lalu lintas akibat adanya ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Layanan pengukuran tanah terjadwal ATR/BPN telah dirasakan masyarakat",
-      "link": "https://www.antaranews.com/berita/5682861/layanan-pengukuran-tanah-terjadwal-atr-bpn-telah-dirasakan-masyarakat",
-      "published": "Thu, 06 Aug 2026 18:13:15 +0700",
-      "description": "Program pengukuran tanah terjadwal di Kantor Pertanahan (Kantah) Kementerian Agraria dan Tata Ruang/Badan Pertanahan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "SPK serahkan kesimpulan uji materiil UU Guru dan Dosen ke MK",
-      "link": "https://www.antaranews.com/berita/5682857/spk-serahkan-kesimpulan-uji-materiil-uu-guru-dan-dosen-ke-mk",
-      "published": "Thu, 06 Aug 2026 18:11:34 +0700",
-      "description": "Serikat Pekerja Kampus (SPK) didampingi Asosiasi Dosen Indonesia (ADI), dan Constitutional and Administrative Law ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
