@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-06T16:27:16+0000",
+  "timestamp": "2026-08-06T16:58:16+0000",
   "articles": [
     {
       "title": "Burnham orders review of grooming gang early releases",
       "link": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 06 Aug 2026 13:56:53 GMT",
       "description": "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 16:11:30 GMT",
+      "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -20,48 +28,40 @@
     {
       "title": "Stephen Bear jailed for breaching restraining order",
       "link": "https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 16:24:14 GMT",
+      "published": "Thu, 06 Aug 2026 16:38:03 GMT",
       "description": "The reality TV contestant is back in prison after admitting a harassment charge regarding Georgia Harrison.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Two police officers injured during second night of anti-immigration disorder in Norfolk",
-      "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 16:18:27 GMT",
-      "description": "Norfolk Police attend two nights of disorder in Thetford as MP condemns \"ugly scenes\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Warga Jakbar diimbau lakukan deteksi dini kanker payudara",
-      "link": "https://www.antaranews.com/berita/5683409/warga-jakbar-diimbau-lakukan-deteksi-dini-kanker-payudara",
-      "published": "Thu, 06 Aug 2026 23:20:24 +0700",
-      "description": "Pemerintah Kota Jakarta Barat (Pemkot Jakbar) menegaskan pentingnya deteksi dini sebagai upaya preventif dan ...",
+      "title": "KPK dalami selisih uang yang dikembalikan Menhut dari Suhardiman Amby",
+      "link": "https://www.antaranews.com/video/5683413/kpk-dalami-selisih-uang-yang-dikembalikan-menhut-dari-suhardiman-amby",
+      "published": "Thu, 06 Aug 2026 23:54:25 +0700",
+      "description": "ANTARA - Komisi Pemberantasan Korupsi (KPK) mendalami selisih uang yang dikembalikan Menteri Kehutanan Raja Juli Antoni ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menkum menargetkan kerja sama dengan 1.000 LBH di 2027",
-      "link": "https://www.antaranews.com/berita/5683408/menkum-menargetkan-kerja-sama-dengan-1000-lbh-di-2027",
-      "published": "Thu, 06 Aug 2026 23:19:06 +0700",
-      "description": "Menteri Hukum (Menkum)&nbsp;Supratman Andi Agtas menargetkan kerja sama dengan 1.000 lembaga bantuan hukum (LBH) atau ...",
+      "title": "Warga keluhkan dampak revitalisasi Kali Cakung Lama di Kelapa Gading",
+      "link": "https://www.antaranews.com/berita/5683433/warga-keluhkan-dampak-revitalisasi-kali-cakung-lama-di-kelapa-gading",
+      "published": "Thu, 06 Aug 2026 23:54:10 +0700",
+      "description": "Warga Kampung Rawa Indah, RT 04/03, Kelurahan Pegangsaan Dua, Kecamatan Kelapa Gading, Jakarta Utara, mengeluhkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menang dramatis, Persebaya Surabaya juara Piala Presiden 2026",
-      "link": "https://www.antaranews.com/foto/5683407/menang-dramatis-persebaya-surabaya-juara-piala-presiden-2026",
-      "published": "Thu, 06 Aug 2026 23:16:10 +0700",
-      "description": "Pesepak bola Persebaya Surabaya Ramadhan Sananta berselebrasi setelah mencetak gol ke gawang Persib Bandung pada final ...",
+      "title": "Dallas Mavericks perpanjang kontrak Naji Marshall",
+      "link": "https://www.antaranews.com/berita/5683429/dallas-mavericks-perpanjang-kontrak-naji-marshall",
+      "published": "Thu, 06 Aug 2026 23:47:51 +0700",
+      "description": "Dallas Mavericks memperpanjang kontrak forward Naji Marshall setelah pemain berumur 28 tahun itu mencatatkan musim ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemerintah sasar cakupan 5G nasional 2029 optimalkan pemanfaatan AI",
-      "link": "https://www.antaranews.com/berita/5683401/pemerintah-sasar-cakupan-5g-nasional-2029-optimalkan-pemanfaatan-ai",
-      "published": "Thu, 06 Aug 2026 23:13:12 +0700",
-      "description": "Kementerian Komunikasi dan Digital (Kemkomdigi) menyasar agar cakupan 5G nasional bisa terwujud di 2029, sehingga ke ...",
+      "title": "Hoki putra-putri Indonesia segrup dengan Jepang pada Asian Games 2026",
+      "link": "https://www.antaranews.com/berita/5683423/hoki-putra-putri-indonesia-segrup-dengan-jepang-pada-asian-games-2026",
+      "published": "Thu, 06 Aug 2026 23:43:13 +0700",
+      "description": "Tim nasional hoki lapangan Indonesia, baik putra maupun putri, berada satu grup atau pul dengan tuan rumah Jepang pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
