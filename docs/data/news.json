@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T07:40:08+0000",
+  "timestamp": "2026-08-06T08:11:09+0000",
   "articles": [
     {
       "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Mendukbangga tinjau keluarga berisiko stunting di Pangkalpinang",
-      "link": "https://www.antaranews.com/berita/5682411/mendukbangga-tinjau-keluarga-berisiko-stunting-di-pangkalpinang",
-      "published": "Thu, 06 Aug 2026 14:36:17 +0700",
-      "description": "Menteri Kependudukan dan Pembangunan Keluarga (Mendukbangga) Republik Indonesia, Wihaji meninjau Keluarga Berisiko ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "WFP peringatkan El Nino berisiko perparah kerawanan pangan di Afrika",
-      "link": "https://www.antaranews.com/berita/5682408/wfp-peringatkan-el-nino-berisiko-perparah-kerawanan-pangan-di-afrika",
-      "published": "Thu, 06 Aug 2026 14:35:55 +0700",
-      "description": "Program Pangan Dunia (WFP) PBB pada Selasa (4/8) memperingatkan bahwa lebih dari 18 juta orang di seluruh Afrika Timur ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menbud sebut tradisi lisan bagian dari program pemajuan kebudayaan",
-      "link": "https://www.antaranews.com/berita/5682405/menbud-sebut-tradisi-lisan-bagian-dari-program-pemajuan-kebudayaan",
-      "published": "Thu, 06 Aug 2026 14:32:42 +0700",
-      "description": "Menteri Kebudayaan Fadli Zon mengatakan bahwa tradisi lisan merupakan salah satu dari sepuluh obyek dari program ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemerintah fokus tingkatkan investasi dan pariwisata di Q3-2026",
-      "link": "https://www.antaranews.com/berita/5682404/pemerintah-fokus-tingkatkan-investasi-dan-pariwisata-di-q3-2026",
-      "published": "Thu, 06 Aug 2026 14:32:07 +0700",
-      "description": "Menteri Koordinator (Menko) Bidang Perekonomian Airlangga Hartarto mengatakan pemerintah fokus untuk meningkatkan ...",
+      "error": "unclosed token: line 658, column 188",
       "source": "Antara News",
       "category": "Indonesia"
     }
