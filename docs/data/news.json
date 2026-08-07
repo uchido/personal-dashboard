@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-07T00:43:23+0000",
+  "timestamp": "2026-08-07T01:14:24+0000",
   "articles": [
     {
       "title": "Thousands of rail passengers hit by power failure disruption",
       "link": "https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 06 Aug 2026 22:35:54 GMT",
       "description": "An outage in Manchester caused delays and cancellations, with services expected to be affected throughout the evening.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 00:54:03 GMT",
+      "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 00:06:17 GMT",
-      "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+      "title": "Boxer charged with killing aid worker in Greece after his wife gave police 'key' details",
+      "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 17:26:56 GMT",
+      "description": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Arrests in Norfolk town as disorder continues for third night",
-      "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 00:15:52 GMT",
-      "description": "The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Agus Fatoni: Alumni Kepamongprajaan wajib dukung program pemerintah",
-      "link": "https://www.antaranews.com/berita/5683529/agus-fatoni-alumni-kepamongprajaan-wajib-dukung-program-pemerintah",
-      "published": "Fri, 07 Aug 2026 07:42:45 +0700",
-      "description": "Ketua Umum Dewan Pengurus Nasional (DPN) Ikatan Keluarga Alumni Pendidikan Tinggi Kepamongprajaan (IKAPTK) Agus Fatoni ...",
+      "title": "Kamboja rilis peringatan perjalanan laut saat hadapi dampak 3 siklon",
+      "link": "https://www.antaranews.com/berita/5683539/kamboja-rilis-peringatan-perjalanan-laut-saat-hadapi-dampak-3-siklon",
+      "published": "Fri, 07 Aug 2026 08:13:13 +0700",
+      "description": "Kementerian Sumber Daya Air dan Meteorologi Kamboja pada Kamis (6/8) mengeluarkan peringatan cuaca yang mengimbau para ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Samsat Keliling tersedia di 14 titik wilayah Jadetabek pada Jumat",
-      "link": "https://www.antaranews.com/berita/5683525/samsat-keliling-tersedia-di-14-titik-wilayah-jadetabek-pada-jumat",
-      "published": "Fri, 07 Aug 2026 07:28:09 +0700",
-      "description": "Polda Metro Jaya menyediakan layanan Sistem Administrasi Manunggal Satu Atap (Samsat) Keliling di 14 titik wilayah yang ...",
+      "title": "Trailer baru GTA VI akan tayang perdana di Netflix pada 27 Agustus",
+      "link": "https://www.antaranews.com/berita/5683536/trailer-baru-gta-vi-akan-tayang-perdana-di-netflix-pada-27-agustus",
+      "published": "Fri, 07 Aug 2026 07:53:25 +0700",
+      "description": "Gim Grand Theft Auto VI (GTA VI) akan menampilkan trailer cuplikan permainan terlebih dahulu di layanan pemutaran film ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "SIM Keliling tersedia di lima lokasi Jakarta pada Jumat",
-      "link": "https://www.antaranews.com/berita/5683523/sim-keliling-tersedia-di-lima-lokasi-jakarta-pada-jumat",
-      "published": "Fri, 07 Aug 2026 07:20:02 +0700",
-      "description": "Direktorat Lalu Lintas Polda Metro Jaya menyediakan layanan surat izin mengemudi (SIM) Keliling&nbsp;di lima lokasi di ...",
+      "title": "Janice Tjen terhenti pada babak pertama ganda WTA 1000 Toronto",
+      "link": "https://www.antaranews.com/berita/5683535/janice-tjen-terhenti-pada-babak-pertama-ganda-wta-1000-toronto",
+      "published": "Fri, 07 Aug 2026 07:51:55 +0700",
+      "description": "Petenis Indonesia Janice Tjen terhenti pada babak pertama sektor ganda WTA 1000 National Bank Open 2026 di Toronto, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Politik kemarin, Investasi bidang pendidikan hingga komentar nakes",
-      "link": "https://www.antaranews.com/berita/5683520/politik-kemarin-investasi-bidang-pendidikan-hingga-komentar-nakes",
-      "published": "Fri, 07 Aug 2026 06:59:06 +0700",
-      "description": "Beragam peristiwa politik telah terjadi pada Kamis (6/8), mulai Presiden ingin investasi besar di bidang pendidikan ...",
+      "title": "Vivo S2 debut dengan layar AMOLED melengkung dan baterai 7.050mAh",
+      "link": "https://www.antaranews.com/berita/5683532/vivo-s2-debut-dengan-layar-amoled-melengkung-dan-baterai-7050mah",
+      "published": "Fri, 07 Aug 2026 07:49:28 +0700",
+      "description": "Vivo meluncurkan ponsel pintar Vivo S2 yang menandai kembalinya seri S setelah terakhir kali menghadirkan Vivo S1 pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
