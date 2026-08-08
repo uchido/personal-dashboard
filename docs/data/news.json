@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-08T06:41:54+0000",
+  "timestamp": "2026-08-08T07:12:55+0000",
   "articles": [
     {
       "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
       "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 08 Aug 2026 06:16:44 GMT",
       "description": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 22:50:58 GMT",
+      "description": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Infantino denies claims Uefa paid off alleged 'lover'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 22:50:58 GMT",
-      "description": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 07 Aug 2026 22:13:55 GMT",
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Mendag dorong RI-India perkuat akses pasar dan investasi",
-      "link": "https://www.antaranews.com/berita/5685556/mendag-dorong-ri-india-perkuat-akses-pasar-dan-investasi",
-      "published": "Sat, 08 Aug 2026 13:41:00 +0700",
-      "description": "Menteri Perdagangan (Mendag) RI Budi Santoso dan Menteri Perdagangan dan Industri India Piyush Goyal membahas penguatan ...",
+      "title": "Meksiko, Brasil pererat hubungan di tengah ketegangan Lula dan Trump",
+      "link": "https://www.antaranews.com/berita/5685576/meksiko-brasil-pererat-hubungan-di-tengah-ketegangan-lula-dan-trump",
+      "published": "Sat, 08 Aug 2026 14:07:56 +0700",
+      "description": "Meksiko dan Brasil sepakat memperdalam kerja sama di bidang perdagangan, energi, serta urusan multilateral dalam ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Media preview Teater Nadirah",
-      "link": "https://www.antaranews.com/foto/5685553/media-preview-teater-nadirah",
-      "published": "Sat, 08 Aug 2026 13:39:12 +0700",
-      "description": "Seniman teater dari Alumni Kelas Aktor Salihara (AKSARA) mementaskan pertunjukan teater berjudul Nadirah saat media ...",
+      "title": "BPIP tekankan pembentukan karakter dalam pendidikan Paskibraka",
+      "link": "https://www.antaranews.com/berita/5685573/bpip-tekankan-pembentukan-karakter-dalam-pendidikan-paskibraka",
+      "published": "Sat, 08 Aug 2026 14:04:11 +0700",
+      "description": "Badan Pembinaan Ideologi Pancasila (BPIP) menekankan pembentukan karakter dalam pendidikan Pasukan Pengibar Bendera ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Jenderal AS dorong Trump akhiri konflik dengan Iran",
-      "link": "https://www.antaranews.com/berita/5685552/jenderal-as-dorong-trump-akhiri-konflik-dengan-iran",
-      "published": "Sat, 08 Aug 2026 13:38:16 +0700",
-      "description": "Ketua Kepala Staf Gabungan Amerika Serikat Jenderal Dan Caine selama beberapa pekan terakhir mendesak Gedung Putih ...",
+      "title": "Itauma tanggapi status duel lawan Hrgovic jadi perebutan juara IBF",
+      "link": "https://www.antaranews.com/berita/5685569/itauma-tanggapi-status-duel-lawan-hrgovic-jadi-perebutan-juara-ibf",
+      "published": "Sat, 08 Aug 2026 13:56:37 +0700",
+      "description": "Petinju Moses Itauma menanggapi status duelnya melawan Filip Hrgovic dinaikkan menjadi perebutan gelar juara dunia ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "OpenAI memperlambat pengembangan model Astra",
-      "link": "https://www.antaranews.com/berita/5685551/openai-memperlambat-pengembangan-model-astra",
-      "published": "Sat, 08 Aug 2026 13:34:32 +0700",
-      "description": "Perusahaan kecerdasan artifisial&nbsp;OpenAI&nbsp;menangguhkan pengerjaan beberapa aspek dari model kecerdasan buatan ...",
+      "title": "Borneo Forum 2026 desak Pemerintah pangkas birokrasi replanting sawit",
+      "link": "https://www.antaranews.com/berita/5685568/borneo-forum-2026-desak-pemerintah-pangkas-birokrasi-replanting-sawit",
+      "published": "Sat, 08 Aug 2026 13:51:32 +0700",
+      "description": "Borneo Forum 2026 mendesak pemerintah memangkas birokrasi Program Peremajaan Sawit Rakyat (PSR), menyusul sorotan tajam ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
