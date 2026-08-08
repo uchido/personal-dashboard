@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T02:02:50+0000",
+  "timestamp": "2026-08-08T02:33:50+0000",
   "locations": [
     {
       "name": "Palu",
@@ -48,16 +48,16 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "21",
-      "feels_like_c": "24",
-      "humidity": "84",
-      "wind_speed_kmh": "4",
-      "wind_dir": "WNW",
+      "temp_c": "26",
+      "feels_like_c": "27",
+      "humidity": "62",
+      "wind_speed_kmh": "9",
+      "wind_dir": "SSE",
       "visibility_km": "10",
-      "pressure_mb": "1015",
+      "pressure_mb": "1016",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "1",
+      "uv_index": "5",
       "forecast": [
         {
           "date": "2026-08-08",
