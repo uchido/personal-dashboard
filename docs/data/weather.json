@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T22:29:31+0000",
+  "timestamp": "2026-08-09T23:00:32+0000",
   "locations": [
     {
       "name": "Palu",
@@ -45,16 +45,16 @@
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
+      "location": "Bojong",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
       "temp_c": "20",
       "feels_like_c": "23",
-      "humidity": "94",
+      "humidity": "93",
       "wind_speed_kmh": "4",
-      "wind_dir": "ENE",
-      "visibility_km": "4",
-      "pressure_mb": "1012",
+      "wind_dir": "N",
+      "visibility_km": "3",
+      "pressure_mb": "1013",
       "condition": "Smoky haze",
       "condition_code": "149",
       "uv_index": "0",
