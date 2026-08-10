@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-10T20:11:56+0000",
+  "timestamp": "2026-08-10T20:42:56+0000",
   "articles": [
     {
       "title": "More than two-thirds of England now in drought",
       "link": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 17:41:39 GMT",
       "description": "The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "New Forest firefighting to continue overnight as cars abandoned",
+      "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 20:24:05 GMT",
+      "description": "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,18 +26,10 @@
       "category": "Global"
     },
     {
-      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 16:52:47 GMT",
-      "description": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "New weight-loss pill approved for use in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 15:25:07 GMT",
-      "description": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab.",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 20:16:34 GMT",
+      "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
       "source": "BBC News",
       "category": "Global"
     },
