@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T21:13:56+0000",
+  "timestamp": "2026-08-10T21:44:56+0000",
   "locations": [
     {
       "name": "Palu",
@@ -52,16 +52,16 @@
       "feels_like_c": "22",
       "humidity": "93",
       "wind_speed_kmh": "4",
-      "wind_dir": "S",
+      "wind_dir": "SW",
       "visibility_km": "10",
       "pressure_mb": "1012",
-      "condition": "Partly Cloudy ",
-      "condition_code": "116",
+      "condition": "Clear ",
+      "condition_code": "113",
       "uv_index": "0",
       "forecast": [
         {
           "date": "2026-08-11",
-          "max_temp": "29",
+          "max_temp": "30",
           "min_temp": "19",
           "condition": "Clear ",
           "sunrise": "05:49 AM",
@@ -79,7 +79,7 @@
           "date": "2026-08-13",
           "max_temp": "31",
           "min_temp": "19",
-          "condition": "Clear ",
+          "condition": "Partly Cloudy ",
           "sunrise": "05:48 AM",
           "sunset": "05:39 PM"
         }
