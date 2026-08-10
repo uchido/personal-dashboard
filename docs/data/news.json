@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-08-10T17:36:53+0000",
+  "timestamp": "2026-08-10T18:07:54+0000",
   "articles": [
+    {
+      "title": "More than two-thirds of England now in drought",
+      "link": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 17:41:39 GMT",
+      "description": "The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Record 230 people cross Channel in one small boat",
       "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 14:58:24 GMT",
-      "description": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Gempa magnitudo 5,1 guncang Bengkulu tak berpotensi tsunami",
+      "link": "https://www.antaranews.com/berita/5688380/gempa-magnitudo-51-guncang-bengkulu-tak-berpotensi-tsunami",
+      "published": "Tue, 11 Aug 2026 00:48:12 +0700",
+      "description": "Gempa magnitudo 5,1 mengguncang Kecamatan Enggano, Kabupaten Bengkulu Utara, pada Selasa dini hari sekitar pukul 00.08 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "SNLIK 2026: 62,51 persen masyarakat tahu simpanannya di bank dijamin",
+      "link": "https://www.antaranews.com/berita/5688379/snlik-2026-6251-persen-masyarakat-tahu-simpanannya-di-bank-dijamin",
+      "published": "Tue, 11 Aug 2026 00:39:48 +0700",
+      "description": "Survei Nasional Literasi dan Inklusi Keuangan (SNLIK) Tahun 2026 mencatat sebanyak 62,51 persen responden mengetahui ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Pemeran arwah Fatimah di film Bisikan Desa Gringsing aslinya penakut",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/video/5688347/jelang-hut-ke-81-ri-bakom-imbau-masyarakat-bijak-sebar-info-di-medsos",
       "published": "Tue, 11 Aug 2026 00:24:11 +0700",
       "description": "ANTARA - Kepala Badan Komunikasi Pemerintah Bakom RI Muhammad Qodari mengimbau masyarakat bijak dalam menyebarkan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bayern Muenchen permanenkan gelandang muda Senegal Bara Sapoko Ndiaye",
-      "link": "https://www.antaranews.com/berita/5688373/bayern-muenchen-permanenkan-gelandang-muda-senegal-bara-sapoko-ndiaye",
-      "published": "Tue, 11 Aug 2026 00:23:20 +0700",
-      "description": "Bayern Munchen resmi mempermanenkan gelandang muda asal Senegal, Bara Sapoko Ndiaye di bursa transfer musim panas ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "ATR/BPN dan Kemendagri sepakati pengintegrasian NIB dan NOP",
-      "link": "https://www.antaranews.com/berita/5688371/atr-bpn-dan-kemendagri-sepakati-pengintegrasian-nib-dan-nop",
-      "published": "Tue, 11 Aug 2026 00:18:37 +0700",
-      "description": "Menteri Agraria dan Tata Ruang/Kepala Badan Pertanahan Nasional (ATR/BPN) Nusron Wahid dan Menteri Dalam Negeri ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
