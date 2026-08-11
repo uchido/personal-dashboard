@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-08-11T10:09:09+0000",
+  "timestamp": "2026-08-11T10:40:10+0000",
   "articles": [
     {
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
       "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 11 Aug 2026 09:58:45 GMT",
-      "description": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+      "description": "The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
       "source": "BBC News",
       "category": "Global"
     },
     {
       "title": "Amber Met Office extreme heat warning issued as temperatures could reach 38C",
       "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 09:49:45 GMT",
+      "published": "Tue, 11 Aug 2026 10:37:50 GMT",
       "description": "An amber weather warning for extreme heat has been issued for Thursday, when extreme temperatures are expected to peak.",
       "source": "BBC News",
       "category": "Global"
@@ -32,11 +32,6 @@
       "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 660, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
