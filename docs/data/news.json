@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T11:42:10+0000",
+  "timestamp": "2026-08-11T12:13:11+0000",
   "articles": [
     {
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
@@ -20,8 +20,8 @@
     {
       "title": "Councils to get more powers to stop vape and betting shops, PM announces",
       "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 09:23:58 GMT",
-      "description": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+      "published": "Tue, 11 Aug 2026 12:06:55 GMT",
+      "description": "Prime Minister Andy Burnham says town centres have been \"hollowed out\" by decades of decline.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Askrindo pertahankan peringkat kredit proyeksi stabil idAA+",
-      "link": "https://www.antaranews.com/berita/5689615/askrindo-pertahankan-peringkat-kredit-proyeksi-stabil-idaa-",
-      "published": "Tue, 11 Aug 2026 18:35:05 +0700",
-      "description": "PT Asuransi Kredit Indonesia (Persero) atau Askrindo mempertahankan peringkat kredit proyeksi stabil idAA+ (Stable ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kortastipidkor Polri: Dedi Congor tersangka kasus gratifikasi",
-      "link": "https://www.antaranews.com/berita/5689612/kortastipidkor-polri-dedi-congor-tersangka-kasus-gratifikasi",
-      "published": "Tue, 11 Aug 2026 18:33:26 +0700",
-      "description": "Korps Pemberantasan Tindak Pidana Korupsi (Kortastipidkor) Polri menyatakan bahwa Pejabat Fungsional Bea Cukai Madya, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dieng Culture Festival 28-30 Agustus 2026 usung \"Spirit of Harmony\"",
-      "link": "https://www.antaranews.com/berita/5689611/dieng-culture-festival-28-30-agustus-2026-usung-spirit-of-harmony",
-      "published": "Tue, 11 Aug 2026 18:31:34 +0700",
-      "description": "Pergelaran Dieng Culture Festival (DCF) 2026&nbsp;di kawasan Candi Dieng, Dieng Kulon, Kabupaten Banjarnegara, Jawa ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Program MBG pulau terluar di Simeuleu mulai Oktober 2026",
-      "link": "https://www.antaranews.com/berita/5689608/program-mbg-pulau-terluar-di-simeuleu-mulai-oktober-2026",
-      "published": "Tue, 11 Aug 2026 18:31:29 +0700",
-      "description": "Penanggung Jawab Badan Gizi Nasional (BGN) Kabupaten Simeulue Zainuddin menyatakan program Makanan Bergizi Gratis (MBG) ...",
+      "error": "unclosed token: line 662, column 8",
       "source": "Antara News",
       "category": "Indonesia"
     }
