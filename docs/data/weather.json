@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-08-11T03:57:02+0000",
+  "timestamp": "2026-08-11T04:28:04+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Masomba",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "32",
-      "feels_like_c": "34",
-      "humidity": "51",
-      "wind_speed_kmh": "4",
-      "wind_dir": "N",
+      "temp_c": "33",
+      "feels_like_c": "35",
+      "humidity": "43",
+      "wind_speed_kmh": "6",
+      "wind_dir": "NW",
       "visibility_km": "10",
-      "pressure_mb": "1012",
+      "pressure_mb": "1010",
       "condition": "Sunny",
       "condition_code": "113",
-      "uv_index": "8",
+      "uv_index": "12",
       "forecast": [
         {
           "date": "2026-08-11",
