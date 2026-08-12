@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-08-12T21:21:44+0000",
+  "timestamp": "2026-08-12T21:52:45+0000",
   "articles": [
+    {
+      "title": "Watch: Solar eclipse seen over UK skies",
+      "link": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 21:46:21 GMT",
+      "description": "Millions of people in the UK and Europe have been wowed by a once-in-a-generation solar eclipse.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
       "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
@@ -10,26 +18,18 @@
       "category": "Global"
     },
     {
-      "title": "Double killer and rapist given whole life sentence",
-      "link": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 14:25:00 GMT",
-      "description": "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
-      "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 19:05:38 GMT",
-      "description": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Students wait for A-level, T-level and BTec results",
       "link": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 12 Aug 2026 19:26:55 GMT",
       "description": "Another record number of students are expected to secure a place at their first choice of university.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Double killer and rapist given whole life sentence",
+      "link": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 14:25:00 GMT",
+      "description": "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.",
       "source": "BBC News",
       "category": "Global"
     },
