@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T15:58:03+0000",
+  "timestamp": "2026-08-13T16:29:03+0000",
   "articles": [
     {
       "title": "Water bills set to rise for many after firms permitted extra funding",
@@ -28,13 +28,40 @@
     {
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
       "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 15:40:31 GMT",
+      "published": "Thu, 13 Aug 2026 16:20:41 GMT",
       "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "no element found: line 658, column 44",
+      "title": "IRI Indonesia perluas gerakan lintas iman lindungi hutan Papua Barat",
+      "link": "https://www.antaranews.com/berita/5693420/iri-indonesia-perluas-gerakan-lintas-iman-lindungi-hutan-papua-barat",
+      "published": "Thu, 13 Aug 2026 23:27:59 +0700",
+      "description": "Interfaith Rainforest Initiative (IRI) Indonesia memperluas gerakan kolaborasi lintas iman guna mewujudkan keadilan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Anggota DPR-RI prihatin adanya kelangkaan semen di Aceh",
+      "link": "https://www.antaranews.com/berita/5693416/anggota-dpr-ri-prihatin-adanya-kelangkaan-semen-di-aceh",
+      "published": "Thu, 13 Aug 2026 23:27:19 +0700",
+      "description": "Anggota DPR RI Komisi VII daerah pemilihan Aceh I, Drs H Teuku Zulkarnaini Ampon Bang, menyatakan keprihatinan serius ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemprov Kalsel resmikan Masjid Syekh Muhammad Arsyad Al-Banjari",
+      "link": "https://www.antaranews.com/video/5693360/pemprov-kalsel-resmikan-masjid-syekh-muhammad-arsyad-al-banjari",
+      "published": "Thu, 13 Aug 2026 23:24:25 +0700",
+      "description": "ANTARA - Pemerintah Provinsi Kalimantan Selatan meresmikan Masjid Syekh Muhammad Arsyad Al-Banjari di kawasan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemerintah berupaya memastikan keamanan digitalisasi Perlinsos",
+      "link": "https://www.antaranews.com/berita/5693413/pemerintah-berupaya-memastikan-keamanan-digitalisasi-perlinsos",
+      "published": "Thu, 13 Aug 2026 23:24:16 +0700",
+      "description": "Kementerian Komunikasi dan Digital menyampaikan bahwa pemerintah berupaya memastikan pelaksanaan digitalisasi Program ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
