@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-08-13T07:41:54+0000",
+  "timestamp": "2026-08-13T08:12:55+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Nunu",
+      "location": "Palu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "33",
-      "feels_like_c": "37",
-      "humidity": "54",
-      "wind_speed_kmh": "9",
+      "temp_c": "31",
+      "feels_like_c": "36",
+      "humidity": "62",
+      "wind_speed_kmh": "8",
       "wind_dir": "NW",
       "visibility_km": "10",
-      "pressure_mb": "1010",
+      "pressure_mb": "1009",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "8",
+      "uv_index": "5",
       "forecast": [
         {
           "date": "2026-08-13",
-          "max_temp": "34",
+          "max_temp": "33",
           "min_temp": "18",
           "condition": "Mist",
           "sunrise": "06:03 AM",
@@ -27,15 +27,15 @@
         },
         {
           "date": "2026-08-14",
-          "max_temp": "33",
+          "max_temp": "31",
           "min_temp": "19",
-          "condition": "Patchy rain nearby",
+          "condition": "Mist",
           "sunrise": "06:03 AM",
           "sunset": "06:08 PM"
         },
         {
           "date": "2026-08-15",
-          "max_temp": "32",
+          "max_temp": "33",
           "min_temp": "18",
           "condition": "Mist",
           "sunrise": "06:03 AM",
