@@ -1,10 +1,18 @@
 {
-  "timestamp": "2026-08-13T17:00:20+0000",
+  "timestamp": "2026-08-13T17:31:04+0000",
   "articles": [
+    {
+      "title": "Aerial footage shows derailed train",
+      "link": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 17:09:23 GMT",
+      "description": "A train has derailed near Lewes in East Sussex, British Transport Police say.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
       "link": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 16:53:28 GMT",
+      "published": "Thu, 13 Aug 2026 17:22:42 GMT",
       "description": "An amber extreme heat warning is in place for parts of England until midnight.",
       "source": "BBC News",
       "category": "Global"
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Water bills set to rise for many after firms permitted extra funding",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 13:38:30 GMT",
-      "description": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Dwi Wahyudi klaim tidak kerja di LPEI saat kredit macet PT TI",
+      "link": "https://www.antaranews.com/berita/5693452/dwi-wahyudi-klaim-tidak-kerja-di-lpei-saat-kredit-macet-pt-ti",
+      "published": "Fri, 14 Aug 2026 00:29:24 +0700",
+      "description": "Direktur Pelaksana I Lembaga Pembiayaan Ekspor Indonesia (LPEI) periode 2009-2018 Dwi Wahyudi mengklaim tidak lagi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Langkah-langkah untuk mencegah gangguan pernapasan semasa kemarau",
+      "link": "https://www.antaranews.com/berita/5693448/langkah-langkah-untuk-mencegah-gangguan-pernapasan-semasa-kemarau",
+      "published": "Fri, 14 Aug 2026 00:28:51 +0700",
+      "description": "Ahli kesehatan Prof. Dr. R. Budi Haryanto, S.K.M., M.Kes., M.Sc menyampaikan penyakit pernapasan sering muncul ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Kanwil DJP Jakbar soroti pentingnya dunia usaha bagi sistem perpajakan",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5693441/bgn-tutup-permanen-504-dapur-mbg-tidak-layak",
       "published": "Thu, 13 Aug 2026 23:58:31 +0700",
       "description": "Badan Gizi Nasional (BGN) menutup permanen 504 dapur Makan Bergizi Gratis (MBG) hingga 10 Agustus 2026 sebagai komitmen ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dua anak muda Indonesia wakili negara di program global UNESCO",
-      "link": "https://www.antaranews.com/berita/5693439/dua-anak-muda-indonesia-wakili-negara-di-program-global-unesco",
-      "published": "Thu, 13 Aug 2026 23:57:55 +0700",
-      "description": "Dua talenta muda Indonesia, Salsabilla Nur Feranti dan Veldesen Yaputra, terpilih mewakili negara dalam program global ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Petugas gabungan bongkar sembilan bangunan liar di Kalideres Jakbar",
-      "link": "https://www.antaranews.com/berita/5693437/petugas-gabungan-bongkar-sembilan-bangunan-liar-di-kalideres-jakbar",
-      "published": "Thu, 13 Aug 2026 23:51:26 +0700",
-      "description": "Petugas gabungan membongkar dua bangunan semi permanen dan tujuh lapak parkir (garasi) kendaraan yang berdiri di atas ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
