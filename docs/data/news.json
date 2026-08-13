@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-13T21:08:08+0000",
+  "timestamp": "2026-08-13T21:39:08+0000",
   "articles": [
     {
-      "title": "Watch: Houses engulfed in flames across Stourbridge",
+      "title": "Two seriously hurt as passenger train derails in East Sussex",
+      "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 21:36:39 GMT",
+      "description": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
       "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 13 Aug 2026 20:26:25 GMT",
-      "description": "Multiple fires burned across the West Midlands and destroyed homes there.",
+      "description": "Multiple fires burned across the West Midlands and destroyed homes.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Son of 102-year-old says father died after being 'pushed off stage'",
-      "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 18:28:17 GMT",
-      "description": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Pemanfaatan AI dinilai dukung pengadaan barang-jasa yang transparan",
+      "link": "https://www.antaranews.com/berita/5693481/pemanfaatan-ai-dinilai-dukung-pengadaan-barang-jasa-yang-transparan",
+      "published": "Fri, 14 Aug 2026 04:36:29 +0700",
+      "description": "RMIT University Australia bersama BINUS&nbsp;University membantu Indonesia menerapkan pengadaan barang dan jasa yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Diskominfo Makassar raih penghargaan Public Service Of The Year Sulsel",
+      "link": "https://www.antaranews.com/berita/5693477/diskominfo-makassar-raih-penghargaan-public-service-of-the-year-sulsel",
+      "published": "Fri, 14 Aug 2026 04:13:24 +0700",
+      "description": "Dinas Komunikasi dan Informatika (Diskominfo) Kota Makassar meraih penghargaan Public Service of the Year Sulawesi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ekonom nilai streamlining Pertamina perkuat fokus bisnis dan efisiensi",
+      "link": "https://www.antaranews.com/berita/5693476/ekonom-nilai-streamlining-pertamina-perkuat-fokus-bisnis-dan-efisiensi",
+      "published": "Fri, 14 Aug 2026 04:09:46 +0700",
+      "description": "Ekonom Adidaya Institute Bramastyo B Prastowo menilai program penataan anak usaha atau business streamlining yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "ESDM pastikan tindak tegas bagi PETI penyuplai sindikat emas",
       "link": "https://www.antaranews.com/berita/5693473/esdm-pastikan-tindak-tegas-bagi-peti-penyuplai-sindikat-emas",
       "published": "Fri, 14 Aug 2026 03:57:40 +0700",
       "description": "Kementerian Energi dan Sumber Daya Mineral (ESDM) menegaskan bahwa pihaknya akan menindak tegas bagi perusahaan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dusan Vlahovic gabung Besiktas dengan status bebas transfer",
-      "link": "https://www.antaranews.com/berita/5693469/dusan-vlahovic-gabung-besiktas-dengan-status-bebas-transfer",
-      "published": "Fri, 14 Aug 2026 02:03:49 +0700",
-      "description": "Dusan Vlahovic memiliki klub baru setelah resmi gabung ke klub asal Turki Besiktas dari Juventus dengan status bebas ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Piala Super Spanyol 2027 akan digelar di Istanbul, Turki",
-      "link": "https://www.antaranews.com/berita/5693467/piala-super-spanyol-2027-akan-digelar-di-istanbul-turki",
-      "published": "Fri, 14 Aug 2026 01:47:45 +0700",
-      "description": "Piala Super Spanyol 2027 akan digelar di Istanbul, Turki. Turnamen tersebut untuk pertama kalinya sejak 2021, tidak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Gudang di kawasan Kelapa Dua Jakbar terbakar",
-      "link": "https://www.antaranews.com/berita/5693463/gudang-di-kawasan-kelapa-dua-jakbar-terbakar",
-      "published": "Fri, 14 Aug 2026 01:44:54 +0700",
-      "description": "Kebakaran menghanguskan gudang di kawasan Jalan Pos Pengumben Raya, RT. 07 / RW. 05 Kelapa Dua, Kebun Jeruk, Jakarta ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
