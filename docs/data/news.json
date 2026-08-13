@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-08-13T23:12:10+0000",
+  "timestamp": "2026-08-13T23:43:11+0000",
   "articles": [
-    {
-      "title": "Two seriously hurt as passenger train derails in East Sussex",
-      "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 21:36:39 GMT",
-      "description": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
       "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 13 Aug 2026 20:26:25 GMT",
       "description": "Multiple fires burned across the West Midlands and destroyed homes.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Two seriously hurt as passenger train derails in East Sussex",
+      "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 21:36:39 GMT",
+      "description": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -32,6 +32,14 @@
       "description": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "Polisi siapkan pengalihan arus lalin saat Pidato Kenegaraan Presiden",
+      "link": "https://www.antaranews.com/berita/5693499/polisi-siapkan-pengalihan-arus-lalin-saat-pidato-kenegaraan-presiden",
+      "published": "Fri, 14 Aug 2026 06:25:24 +0700",
+      "description": "Ditlantas Polda Metro Jaya menyiapkan skema pengalihan arus lalu lintas secara situasional di sekitar Kompleks Parlemen ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Penerimaan layanan imigrasi capai Rp6,5 triliun",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5693493/hasil-liga-europa-benfica-lolos-ke-play-off-rangers-tersingkir",
       "published": "Fri, 14 Aug 2026 05:52:27 +0700",
       "description": "Klub Portugal, Benfica memastikan lolos ke babak play-off Liga Europa 2026/27 setelah bermain imbang 1-1 melawan Hearts ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemarin, Prabowo resmikan 3.395 jembatan hingga motor listrik nasional",
-      "link": "https://www.antaranews.com/berita/5693491/kemarin-prabowo-resmikan-3395-jembatan-hingga-motor-listrik-nasional",
-      "published": "Fri, 14 Aug 2026 05:32:24 +0700",
-      "description": "Berbagai kabar politik telah diwartakan kantor berita ANTARA pada Kamis (13/8), mulai dari Presiden Prabowo Subianto ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
