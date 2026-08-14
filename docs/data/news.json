@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T04:22:14+0000",
+  "timestamp": "2026-08-14T04:53:15+0000",
   "articles": [
     {
       "title": "Multiple fires destroy homes and cause devastation in West Midlands",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Ketua MPR serukan penghentian perang di kawasan Timur Tengah dan dunia",
-      "link": "https://www.antaranews.com/berita/5693885/ketua-mpr-serukan-penghentian-perang-di-kawasan-timur-tengah-dan-dunia",
-      "published": "Fri, 14 Aug 2026 11:18:21 +0700",
-      "description": "Ketua Majelis Permusyawaratan Rakyat (MPR) RI Ahmad Muzani menyerukan penghentian perang di kawasan Timur Tengah dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "ASITA NTT: Kasus penipuan rusak citra pariwisata Labuan Bajo",
-      "link": "https://www.antaranews.com/berita/5693884/asita-ntt-kasus-penipuan-rusak-citra-pariwisata-labuan-bajo",
-      "published": "Fri, 14 Aug 2026 11:18:04 +0700",
-      "description": "Asosiasi Perusahaan Perjalanan Wisata Indonesia (ASITA) Nusa Tenggara Timur menyebut kasus penipuan paket wisata ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pengamat nilai pembenahan internal BGN perkuat tata kelola MBG",
-      "link": "https://www.antaranews.com/berita/5693883/pengamat-nilai-pembenahan-internal-bgn-perkuat-tata-kelola-mbg",
-      "published": "Fri, 14 Aug 2026 11:15:15 +0700",
-      "description": "Pengamat Kebijakan Publik sekaligus Guru Besar Sosiologi Hukum Fakultas Hukum Universitas Trisakti Trubus Rahardiansah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kampung halaman Cheng Ho lestarikan warisan pertukaran budaya maritim",
-      "link": "https://www.antaranews.com/berita/5693879/kampung-halaman-cheng-ho-lestarikan-warisan-pertukaran-budaya-maritim",
-      "published": "Fri, 14 Aug 2026 11:14:53 +0700",
-      "description": "Lebih dari 600 tahun silam, Zheng He --yang di Indonesia lebih dikenal sebagai Laksamana Cheng Ho-- memimpin tujuh ...",
+      "error": "no element found: line 661, column 4",
       "source": "Antara News",
       "category": "Indonesia"
     }
