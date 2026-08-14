@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-08-14T11:05:21+0000",
+  "timestamp": "2026-08-14T11:36:22+0000",
   "articles": [
+    {
+      "title": "Video shows scale of devastation in Stourbridge",
+      "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 07:26:53 GMT",
+      "description": "Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Farage's by-election victory won't stop questions about finances",
       "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
@@ -10,15 +18,7 @@
       "category": "Global"
     },
     {
-      "title": "Watch: Video shows scale of devastation in Stourbridge",
-      "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 07:26:53 GMT",
-      "description": "Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Eurovision proposes new rules to tackle mass voting",
+      "title": "Eurovision proposes new rules to reduce political voting",
       "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 10:23:08 GMT",
       "description": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 2, column 0",
+      "title": "Prabowo bertekad mulai bangun Giant Sea Wall di Pantai Utara Jawa",
+      "link": "https://www.antaranews.com/berita/5694780/prabowo-bertekad-mulai-bangun-giant-sea-wall-di-pantai-utara-jawa",
+      "published": "Fri, 14 Aug 2026 18:35:54 +0700",
+      "description": "Presiden Prabowo Subianto menyatakan dirinya bertekad untuk memulai pembangunan Giant Sea Wall di sepanjang Pantai ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Malaysia antusias sambut laga hadapi Indonesia",
+      "link": "https://www.antaranews.com/berita/5694776/malaysia-antusias-sambut-laga-hadapi-indonesia",
+      "published": "Fri, 14 Aug 2026 18:33:19 +0700",
+      "description": "Pelatih Timnas Putri U16 Malaysia Fairuz Montana menyambut antusias pertandingan menghadapi Timnas Putri U16 Indonesia ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menkum tegaskan pentingnya digitalisasi untuk tekan korupsi birokrasi",
+      "link": "https://www.antaranews.com/video/5694693/menkum-tegaskan-pentingnya-digitalisasi-untuk-tekan-korupsi-birokrasi",
+      "published": "Fri, 14 Aug 2026 18:32:54 +0700",
+      "description": "ANTARA - Menteri Hukum Supratman Andi Agtas menegaskan pentingnya digitalisasi untuk menekan praktik-praktik korupsi di ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemenpora tunjukkan komitmen dukung pengembangan atlet panjat tebing",
+      "link": "https://www.antaranews.com/berita/5694773/kemenpora-tunjukkan-komitmen-dukung-pengembangan-atlet-panjat-tebing",
+      "published": "Fri, 14 Aug 2026 18:30:12 +0700",
+      "description": "Sekretaris Umum Pengurus Pusat Federasi Panjat Tebing Indonesia (PP FPTI) Wahyu Pristiawan Buntoro menilai Kemenpora ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
