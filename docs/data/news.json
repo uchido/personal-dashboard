@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-14T11:36:22+0000",
+  "timestamp": "2026-08-14T12:07:22+0000",
   "articles": [
     {
       "title": "Video shows scale of devastation in Stourbridge",
       "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 07:26:53 GMT",
       "description": "Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
+      "link": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 11:20:52 GMT",
+      "description": "The investigation into a £5m gift received by Farage reopens, as he returns as the MP for Clacton.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 09:15:51 GMT",
-      "description": "The Office actress thanks well-wishers for their support after she revealed she had incurable cancer.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Prabowo bertekad mulai bangun Giant Sea Wall di Pantai Utara Jawa",
-      "link": "https://www.antaranews.com/berita/5694780/prabowo-bertekad-mulai-bangun-giant-sea-wall-di-pantai-utara-jawa",
-      "published": "Fri, 14 Aug 2026 18:35:54 +0700",
-      "description": "Presiden Prabowo Subianto menyatakan dirinya bertekad untuk memulai pembangunan Giant Sea Wall di sepanjang Pantai ...",
+      "title": "TNI AD hadirkan 16 sumur bor atasi krisis air bersih di Teluk Wondama",
+      "link": "https://www.antaranews.com/berita/5694853/tni-ad-hadirkan-16-sumur-bor-atasi-krisis-air-bersih-di-teluk-wondama",
+      "published": "Fri, 14 Aug 2026 19:06:38 +0700",
+      "description": "TNI Angkatan Darat melalui Komando Resor Militer (Korem) 182/Jazirah Onim menghadirkan 16 sumur bor sebagai upaya dalam ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Malaysia antusias sambut laga hadapi Indonesia",
-      "link": "https://www.antaranews.com/berita/5694776/malaysia-antusias-sambut-laga-hadapi-indonesia",
-      "published": "Fri, 14 Aug 2026 18:33:19 +0700",
-      "description": "Pelatih Timnas Putri U16 Malaysia Fairuz Montana menyambut antusias pertandingan menghadapi Timnas Putri U16 Indonesia ...",
+      "title": "Pengamat: Pertumbuhan ekonomi dan swasembada pangan modal diplomasi RI",
+      "link": "https://www.antaranews.com/berita/5694849/pengamat-pertumbuhan-ekonomi-dan-swasembada-pangan-modal-diplomasi-ri",
+      "published": "Fri, 14 Aug 2026 19:01:37 +0700",
+      "description": "Pengamat hubungan internasional Universitas Budi Luhur, Andrea Azzqy, menilai bahwa capaian pertumbuhan ekonomi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menkum tegaskan pentingnya digitalisasi untuk tekan korupsi birokrasi",
-      "link": "https://www.antaranews.com/video/5694693/menkum-tegaskan-pentingnya-digitalisasi-untuk-tekan-korupsi-birokrasi",
-      "published": "Fri, 14 Aug 2026 18:32:54 +0700",
-      "description": "ANTARA - Menteri Hukum Supratman Andi Agtas menegaskan pentingnya digitalisasi untuk menekan praktik-praktik korupsi di ...",
+      "title": "Kadin dorong RAPBN 2027 jadi pengungkit investasi",
+      "link": "https://www.antaranews.com/berita/5694845/kadin-dorong-rapbn-2027-jadi-pengungkit-investasi",
+      "published": "Fri, 14 Aug 2026 19:00:31 +0700",
+      "description": "Kamar Dagang dan Industri (Kadin) Indonesia mendorong agar Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemenpora tunjukkan komitmen dukung pengembangan atlet panjat tebing",
-      "link": "https://www.antaranews.com/berita/5694773/kemenpora-tunjukkan-komitmen-dukung-pengembangan-atlet-panjat-tebing",
-      "published": "Fri, 14 Aug 2026 18:30:12 +0700",
-      "description": "Sekretaris Umum Pengurus Pusat Federasi Panjat Tebing Indonesia (PP FPTI) Wahyu Pristiawan Buntoro menilai Kemenpora ...",
+      "title": "Gubernur Jateng: Pembangunan harus bermuara kesejahteraan rakyat",
+      "link": "https://www.antaranews.com/berita/5694840/gubernur-jateng-pembangunan-harus-bermuara-kesejahteraan-rakyat",
+      "published": "Fri, 14 Aug 2026 18:59:13 +0700",
+      "description": "Gubernur Jawa Tengah Ahmad Luthfi menegaskan bahwa seluruh program dan capaian pembangunan di wilayah tersebut harus ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
