@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T02:04:35+0000",
+  "timestamp": "2026-08-15T02:35:37+0000",
   "locations": [
     {
       "name": "Palu",
@@ -45,31 +45,31 @@
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
+      "location": "Muntuk",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "24",
-      "feels_like_c": "25",
-      "humidity": "72",
-      "wind_speed_kmh": "9",
+      "temp_c": "26",
+      "feels_like_c": "26",
+      "humidity": "63",
+      "wind_speed_kmh": "12",
       "wind_dir": "SSE",
       "visibility_km": "10",
       "pressure_mb": "1016",
       "condition": "Cloudy ",
       "condition_code": "119",
-      "uv_index": "2",
+      "uv_index": "5",
       "forecast": [
         {
           "date": "2026-08-15",
-          "max_temp": "30",
-          "min_temp": "21",
+          "max_temp": "29",
+          "min_temp": "20",
           "condition": "Patchy rain nearby",
           "sunrise": "05:48 AM",
           "sunset": "05:39 PM"
         },
         {
           "date": "2026-08-16",
-          "max_temp": "31",
+          "max_temp": "30",
           "min_temp": "20",
           "condition": "Partly Cloudy ",
           "sunrise": "05:47 AM",
@@ -78,7 +78,7 @@
         {
           "date": "2026-08-17",
           "max_temp": "31",
-          "min_temp": "20",
+          "min_temp": "21",
           "condition": "Mist",
           "sunrise": "05:47 AM",
           "sunset": "05:39 PM"
