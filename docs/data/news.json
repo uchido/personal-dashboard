@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-15T21:11:54+0000",
+  "timestamp": "2026-08-15T21:42:55+0000",
   "articles": [
     {
       "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
       "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 17:41:54 GMT",
-      "description": "Many residents forced to flee their houses following blazes in the West Midlands are still unsure when they will be allowed to return home.",
+      "published": "Sat, 15 Aug 2026 21:28:54 GMT",
+      "description": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +18,6 @@
       "category": "Global"
     },
     {
-      "title": "Analysis: Arday's death will send shockwaves through a divided academia",
-      "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 13:48:38 GMT",
-      "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
       "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 15 Aug 2026 20:00:15 GMT",
@@ -34,34 +26,42 @@
       "category": "Global"
     },
     {
+      "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 15 Aug 2026 11:53:19 GMT",
+      "description": "Scotland Yard copied in all those who had signed up to receive a monthly update.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Pramusim: gol John Stones bawa Inter Milan menang atas Real Betis",
+      "link": "https://www.antaranews.com/berita/5696661/pramusim-gol-john-stones-bawa-inter-milan-menang-atas-real-betis",
+      "published": "Sun, 16 Aug 2026 04:40:13 +0700",
+      "description": "Inter Milan meraih kemenangan tipis 1-0 atas Real Betis dalam laga uji coba pramusim 2026/27 di Stadion San Nicola, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pramusim: AC Milan menang meyakinkan 4-2 atas Manchester United",
+      "link": "https://www.antaranews.com/berita/5696660/pramusim-ac-milan-menang-meyakinkan-4-2-atas-manchester-united",
+      "published": "Sun, 16 Aug 2026 04:36:25 +0700",
+      "description": "AC Milan meraih kemenangan meyakinkan 4-2 atas Manchester United pada laga uji coba pramusim 2026/27 di Wroclaw ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Djed Spence resmi berlabuh ke Inter Milan dari Tottenham Hotspur",
+      "link": "https://www.antaranews.com/berita/5696656/djed-spence-resmi-berlabuh-ke-inter-milan-dari-tottenham-hotspur",
+      "published": "Sun, 16 Aug 2026 04:23:43 +0700",
+      "description": "Bek sayap timnas Inggris Djed Spence resmi berlabuh ke Inter Milan dari Tottenham Hotspur pada bursa transfer musim ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
       "title": "Polda Riau pulihkan pesisir terdampak abrasi",
       "link": "https://www.antaranews.com/video/5696652/polda-riau-pulihkan-pesisir-terdampak-abrasi",
       "published": "Sun, 16 Aug 2026 01:24:24 +0700",
       "description": "ANTARA - Polda Riau, Sabtu (15/8) mendorong pemulihan kawasan pesisir Desa Kuala Selat, Kabupaten Indragiri Hilir, yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bekuk Penang FC 1-0, Persebaya siap arungi Liga Super Indonesia",
-      "link": "https://www.antaranews.com/video/5696645/bekuk-penang-fc-1-0-persebaya-siap-arungi-liga-super-indonesia",
-      "published": "Sun, 16 Aug 2026 00:58:52 +0700",
-      "description": "ANTARA - Persebaya memetik kemenangan tipis 1-0 melawan Penang FC di Stadion Gelora Bung Tomo Surabaya, Sabtu malam ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "RS TC Hillers Maumere alihkan pelayanan medis ke area terbuka",
-      "link": "https://www.antaranews.com/video/5696649/rs-tc-hillers-maumere-alihkan-pelayanan-medis-ke-area-terbuka",
-      "published": "Sun, 16 Aug 2026 00:57:56 +0700",
-      "description": "ANTARA - Pasca gempa bumi 7,7 magnitudo yang melanda dataran flores, Rumah Sakit Tc Hillers Maumere,Nusa Tenggara ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Minggu, sebagian besar Jakarta berpotensi berawan seharian",
-      "link": "https://www.antaranews.com/berita/5696641/minggu-sebagian-besar-jakarta-berpotensi-berawan-seharian",
-      "published": "Sun, 16 Aug 2026 00:31:38 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian besar wilayah Jakarta bakal berawan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
