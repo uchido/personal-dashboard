@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-16T09:05:06+0000",
+  "timestamp": "2026-08-16T09:36:07+0000",
   "articles": [
     {
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 08:23:38 GMT",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+      "title": "People who fled Stourbridge fires start to return home",
+      "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 09:35:01 GMT",
+      "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "People who fled Stourbridge fires start to return home",
-      "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 08:51:30 GMT",
-      "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 08:23:38 GMT",
+      "description": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -32,6 +32,11 @@
       "description": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 657, column 6",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
