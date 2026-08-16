@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-16T11:40:10+0000",
+  "timestamp": "2026-08-16T12:11:09+0000",
   "articles": [
     {
       "title": "People who fled Stourbridge fires start to return home",
       "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 10:40:42 GMT",
+      "published": "Sun, 16 Aug 2026 11:45:39 GMT",
       "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
       "source": "BBC News",
       "category": "Global"
@@ -18,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 08:23:38 GMT",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+      "title": "Murder inquiry after man bitten by dog dies",
+      "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 11:57:41 GMT",
+      "description": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -32,11 +32,6 @@
       "description": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 663, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
