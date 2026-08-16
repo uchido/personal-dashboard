@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T18:54:15+0000",
+  "timestamp": "2026-08-16T19:25:16+0000",
   "locations": [
     {
       "name": "Palu",
@@ -54,7 +54,7 @@
       "wind_speed_kmh": "4",
       "wind_dir": "WNW",
       "visibility_km": "2",
-      "pressure_mb": "1015",
+      "pressure_mb": "1014",
       "condition": "Mist",
       "condition_code": "143",
       "uv_index": "0",
