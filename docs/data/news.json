@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-08-16T15:17:12+0000",
+  "timestamp": "2026-08-16T15:48:13+0000",
   "articles": [
+    {
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 15:14:01 GMT",
+      "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
       "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
@@ -12,7 +20,7 @@
     {
       "title": "People who fled Stourbridge fires start to return home",
       "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 14:21:05 GMT",
+      "published": "Sun, 16 Aug 2026 15:22:53 GMT",
       "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
       "source": "BBC News",
       "category": "Global"
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
-      "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 14:22:52 GMT",
-      "description": "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "BP3MI Kepri manfaatkan khutbah Jumat edukasi migrasi aman",
-      "link": "https://www.antaranews.com/berita/5697496/bp3mi-kepri-manfaatkan-khutbah-jumat-edukasi-migrasi-aman",
-      "published": "Sun, 16 Aug 2026 22:15:34 +0700",
-      "description": "Balai Pelayanan Pelindungan Pekerja Migran Indonesia (BP3MI) Kepulauan Riau menggandeng Forum Komunikasi Mubaligh Kota ...",
+      "title": "Harvey Malaihollo imbau komposer patuh notasi asli lagu perjuangan",
+      "link": "https://www.antaranews.com/berita/5697512/harvey-malaihollo-imbau-komposer-patuh-notasi-asli-lagu-perjuangan",
+      "published": "Sun, 16 Aug 2026 22:36:25 +0700",
+      "description": "Penyanyi senior Harvey Malaihollo mengimbau komposer baru untuk mematuhi notasi lagu-lagu perjuangan yang asli dan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Dari Monas untuk NTT, warga DKI maknai HUT RI dengan saling menguatkan",
-      "link": "https://www.antaranews.com/berita/5697493/dari-monas-untuk-ntt-warga-dki-maknai-hut-ri-dengan-saling-menguatkan",
-      "published": "Sun, 16 Aug 2026 22:14:12 +0700",
-      "description": "Peringatan Hari Ulang Tahun (HUT) ke-81 Kemerdekaan Republik Indonesia di kawasan Monumen Nasional (Monas), Jakarta ...",
+      "title": "Pertamina salurkan bantuan dan pastikan pasokan energi terjaga di NTT",
+      "link": "https://www.antaranews.com/berita/5697509/pertamina-salurkan-bantuan-dan-pastikan-pasokan-energi-terjaga-di-ntt",
+      "published": "Sun, 16 Aug 2026 22:25:44 +0700",
+      "description": "Pertamina Patra Niaga menyalurkan bantuan kemanusiaan sekaligus memastikan ketersediaan energi tetap terjaga bagi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "RSUD Ruteng gunakan tenda darurat untuk rawat pasien pascagempa",
-      "link": "https://www.antaranews.com/foto/5697491/rsud-ruteng-gunakan-tenda-darurat-untuk-rawat-pasien-pascagempa",
-      "published": "Sun, 16 Aug 2026 22:12:38 +0700",
-      "description": "Pasien yang menjalani perawatan beristirahat di tenda darurat RSUD Ruteng, Kabupaten Manggarai, NTT, Minggu ...",
+      "title": "Pigai: Jaga keamanan Papua Tengah harus tetap humanis",
+      "link": "https://www.antaranews.com/berita/5697507/pigai-jaga-keamanan-papua-tengah-harus-tetap-humanis",
+      "published": "Sun, 16 Aug 2026 22:25:30 +0700",
+      "description": "Menteri Hak Asasi Manusia Natalius Pigai meminta jajaran Forum Koordinasi Pimpinan Daerah (Forkopimda) Papua Tengah ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Dari NTT ke Jakarta, mengenalkan warisan kuliner nusantara",
-      "link": "https://www.antaranews.com/video/5697365/dari-ntt-ke-jakarta-mengenalkan-warisan-kuliner-nusantara",
-      "published": "Sun, 16 Aug 2026 22:09:04 +0700",
-      "description": "ANTARA - Di tengah momen kemerdekaan ke-81 Republik Indonesia, Nusa Tenggara Timur (NTT) justru menghadapi bencana ...",
+      "title": "HUT 81 RI di Monas: di balik kemeriahan, ada doa untuk warga NTT",
+      "link": "https://www.antaranews.com/berita/5697501/hut-81-ri-di-monas-di-balik-kemeriahan-ada-doa-untuk-warga-ntt",
+      "published": "Sun, 16 Aug 2026 22:21:21 +0700",
+      "description": "Semangat menyambut Hari Ulang Tahun (HUT) ke-81 Kemerdekaan Republik Indonesia di kawasan Monumen Nasional (Monas), ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
