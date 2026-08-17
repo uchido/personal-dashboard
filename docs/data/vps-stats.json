@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-08-17T11:57:29+0000",
+  "timestamp": "2026-08-17T12:28:30+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 63.2,
     "cores": 2,
     "load_avg": [
-      1.99,
-      2.16,
-      2.16
+      1.88,
+      2.01,
+      2.19
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.1,
-    "available": 6.2,
-    "used": 5.4,
-    "percent": 46.6
+    "free": 0.9,
+    "available": 6.0,
+    "used": 5.6,
+    "percent": 48.3
   },
   "disk": {
     "total": "193G",
@@ -26,25 +26,31 @@
   "uptime": {
     "days": 49,
     "hours": 0,
-    "minutes": 23,
-    "total_seconds": 4234997.02
+    "minutes": 54,
+    "total_seconds": 4236857.49
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "150",
-      "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
     },
     {
       "user": "root",
-      "cpu": "35.3",
-      "mem": "1.1",
+      "cpu": "41.3",
+      "mem": "1.2",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
+      "user": "opc",
+      "cpu": "17.6",
+      "mem": "1.0",
+      "command": "node current/index.js"
+    },
+    {
       "user": "ubuntu",
-      "cpu": "15.3",
+      "cpu": "14.2",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -53,12 +59,6 @@
       "cpu": "5.9",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
-    },
-    {
-      "user": "root",
-      "cpu": "1.5",
-      "mem": "0.8",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
