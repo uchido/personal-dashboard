@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T08:20:29+0000",
+  "timestamp": "2026-08-17T08:51:29+0000",
   "locations": [
     {
       "name": "Palu",
@@ -53,33 +53,33 @@
       "humidity": "84",
       "wind_speed_kmh": "33",
       "wind_dir": "WSW",
-      "visibility_km": "10",
-      "pressure_mb": "1010",
-      "condition": "Overcast ",
-      "condition_code": "122",
-      "uv_index": "6",
+      "visibility_km": "9",
+      "pressure_mb": "1009",
+      "condition": "Thundery outbreaks in nearby",
+      "condition_code": "200",
+      "uv_index": "3",
       "forecast": [
         {
           "date": "2026-08-17",
           "max_temp": "28",
-          "min_temp": "21",
-          "condition": "Mist",
+          "min_temp": "27",
+          "condition": "Overcast ",
           "sunrise": "05:47 AM",
           "sunset": "05:39 PM"
         },
         {
           "date": "2026-08-18",
           "max_temp": "28",
-          "min_temp": "28",
-          "condition": "Patchy rain nearby",
+          "min_temp": "27",
+          "condition": "Thundery outbreaks in nearby",
           "sunrise": "05:46 AM",
           "sunset": "05:39 PM"
         },
         {
           "date": "2026-08-19",
           "max_temp": "28",
-          "min_temp": "28",
-          "condition": "Overcast ",
+          "min_temp": "27",
+          "condition": "Thundery outbreaks in nearby",
           "sunrise": "05:46 AM",
           "sunset": "05:38 PM"
         }
