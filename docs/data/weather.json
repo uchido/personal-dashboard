@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T17:38:37+0000",
+  "timestamp": "2026-08-17T18:09:38+0000",
   "locations": [
     {
       "name": "Palu",
@@ -48,38 +48,38 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "27",
-      "feels_like_c": "31",
-      "humidity": "84",
-      "wind_speed_kmh": "31",
-      "wind_dir": "WSW",
-      "visibility_km": "10",
-      "pressure_mb": "1011",
-      "condition": "Light rain shower",
-      "condition_code": "353",
+      "temp_c": "21",
+      "feels_like_c": "23",
+      "humidity": "96",
+      "wind_speed_kmh": "7",
+      "wind_dir": "W",
+      "visibility_km": "4",
+      "pressure_mb": "1014",
+      "condition": "Mist",
+      "condition_code": "143",
       "uv_index": "0",
       "forecast": [
         {
-          "date": "2026-08-17",
-          "max_temp": "28",
-          "min_temp": "27",
-          "condition": "Overcast ",
-          "sunrise": "05:47 AM",
-          "sunset": "05:39 PM"
-        },
-        {
           "date": "2026-08-18",
-          "max_temp": "28",
-          "min_temp": "27",
-          "condition": "Thundery outbreaks in nearby",
+          "max_temp": "33",
+          "min_temp": "20",
+          "condition": "Mist",
           "sunrise": "05:46 AM",
           "sunset": "05:39 PM"
         },
         {
           "date": "2026-08-19",
-          "max_temp": "28",
-          "min_temp": "27",
-          "condition": "Thundery outbreaks in nearby",
+          "max_temp": "32",
+          "min_temp": "21",
+          "condition": "Overcast ",
+          "sunrise": "05:46 AM",
+          "sunset": "05:38 PM"
+        },
+        {
+          "date": "2026-08-20",
+          "max_temp": "32",
+          "min_temp": "20",
+          "condition": "Overcast ",
           "sunrise": "05:46 AM",
           "sunset": "05:38 PM"
         }
