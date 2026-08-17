@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-08-17T13:30:31+0000",
+  "timestamp": "2026-08-17T14:01:31+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 85.0,
+    "percent": 61.9,
     "cores": 2,
     "load_avg": [
-      2.02,
-      2.13,
-      2.2
+      2.07,
+      2.24,
+      2.27
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.9,
-    "available": 6.1,
-    "used": 5.5,
-    "percent": 47.4
+    "free": 1.1,
+    "available": 6.2,
+    "used": 5.4,
+    "percent": 46.6
   },
   "disk": {
     "total": "193G",
@@ -25,9 +25,9 @@
   },
   "uptime": {
     "days": 49,
-    "hours": 1,
-    "minutes": 56,
-    "total_seconds": 4240578.5
+    "hours": 2,
+    "minutes": 27,
+    "total_seconds": 4242439.06
   },
   "top_processes": [
     {
@@ -44,13 +44,13 @@
     },
     {
       "user": "root",
-      "cpu": "65.9",
-      "mem": "1.2",
+      "cpu": "59.4",
+      "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ubuntu",
-      "cpu": "13.3",
+      "cpu": "21.4",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
