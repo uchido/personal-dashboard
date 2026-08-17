@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-17T03:41:24+0000",
+  "timestamp": "2026-08-17T04:12:25+0000",
   "articles": [
     {
       "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 16 Aug 2026 19:58:14 GMT",
       "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Actress Hayden Panettiere dies aged 36, US media report",
+      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 04:03:52 GMT",
+      "description": "A representative for the actress confirmed the news to US outlet ABC News, but did not provide further details of her death.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 02:51:27 GMT",
-      "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Megawati pimpin peringatan HUT Ke-81 RI di Lenteng Agung",
-      "link": "https://www.antaranews.com/berita/5697841/megawati-pimpin-peringatan-hut-ke-81-ri-di-lenteng-agung",
-      "published": "Mon, 17 Aug 2026 10:38:39 +0700",
-      "description": "Presiden Kelima RI yang juga Ketua Umum Partai Demokrasi Indonesia Perjuangan (PDIP), Megawati Soekarnoputri memimpin ...",
+      "title": "Harga emas Galeri24, Antam, dan UBS kompak naik di Pegadaian",
+      "link": "https://www.antaranews.com/berita/5697884/harga-emas-galeri24-antam-dan-ubs-kompak-naik-di-pegadaian",
+      "published": "Mon, 17 Aug 2026 11:06:02 +0700",
+      "description": "Harga emas Galeri24, Antam, dan UBS di laman Pegadaian dikutip di Jakarta, Senin, pukul 10.54 WIB, menunjukkan kenaikan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Hari Kemerdekaan, UI resmikan SATU UI transformasi layanan akademik",
-      "link": "https://www.antaranews.com/berita/5697840/hari-kemerdekaan-ui-resmikan-satu-ui-transformasi-layanan-akademik",
-      "published": "Mon, 17 Aug 2026 10:29:28 +0700",
-      "description": "Universitas Indonesia (UI) meresmikan SATU UI (Sistem Akademik Terpadu Universitas Indonesia) bertepatan dengan ...",
+      "title": "Paskibraka \"Indonesia Berdaulat\" sukses kibarkan Merah Putih di Istana",
+      "link": "https://www.antaranews.com/berita/5697883/paskibraka-indonesia-berdaulat-sukses-kibarkan-merah-putih-di-istana",
+      "published": "Mon, 17 Aug 2026 11:05:58 +0700",
+      "description": "Tim Pasukan Pengibar Bendera Pusaka (Paskibraka) &quot;Indonesia Berdaulat&quot; sukses menjalankan tugas mengibarkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Prabowo ajak heningkan cipta untuk korban bencana di sejumlah wilayah",
-      "link": "https://www.antaranews.com/berita/5697836/prabowo-ajak-heningkan-cipta-untuk-korban-bencana-di-sejumlah-wilayah",
-      "published": "Mon, 17 Aug 2026 10:28:34 +0700",
-      "description": "Presiden Prabowo Subianto mengajak seluruh peserta upacara peringatan HUT ke-81 Kemerdekaan RI untuk mendoakan ...",
+      "title": "Kolonel Inf. Priyo Handoyo jadi komandan upacara HUT RI di Istana",
+      "link": "https://www.antaranews.com/berita/5697881/kolonel-inf-priyo-handoyo-jadi-komandan-upacara-hut-ri-di-istana",
+      "published": "Mon, 17 Aug 2026 11:04:44 +0700",
+      "description": "Perwira TNI Angkatan Darat atas nama Kolonel Infanteri Priyo Handoyo memimpin pasukan Upacara Peringatan Detik-Detik ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Presiden Prabowo bacakan Teks Proklamasi dalam upacara HUT ke-81 RI",
-      "link": "https://www.antaranews.com/berita/5697835/presiden-prabowo-bacakan-teks-proklamasi-dalam-upacara-hut-ke-81-ri",
-      "published": "Mon, 17 Aug 2026 10:24:38 +0700",
-      "description": "Presiden Prabowo Subianto membacakan teks Proklamasi Kemerdekaan Republik Indonesia saat memimpin Upacara Peringatan ...",
+      "title": "HUT ke-81 RI, Pemerintah tegaskan percepatan penanganan gempa M7,7 NTT",
+      "link": "https://www.antaranews.com/berita/5697879/hut-ke-81-ri-pemerintah-tegaskan-percepatan-penanganan-gempa-m77-ntt",
+      "published": "Mon, 17 Aug 2026 11:00:46 +0700",
+      "description": "Pemerintah Indonesia menegaskan komitmennya untuk mempercepat penanganan darurat dan pemulihan pascagempa bumi M 7,7 ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
