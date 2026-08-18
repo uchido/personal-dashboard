@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-18T00:52:45+0000",
+  "timestamp": "2026-08-18T01:23:45+0000",
   "articles": [
     {
       "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 17 Aug 2026 19:25:05 GMT",
       "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Russia warns UK over supplying drones to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 01:16:41 GMT",
+      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Fifa executive leaves job three weeks after speaking out against Infantino plan",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 20:46:08 GMT",
-      "description": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Young adults are taking prescription drugs instead of alcohol - and it's dividing experts",
       "link": "https://www.bbc.co.uk/news/articles/c1d1lpl9vrxo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 18 Aug 2026 00:00:02 GMT",
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Kodam Udayana mulai fokus pulihkan listrik hingga jalan pascagempa NTT",
-      "link": "https://www.antaranews.com/berita/5699141/kodam-udayana-mulai-fokus-pulihkan-listrik-hingga-jalan-pascagempa-ntt",
-      "published": "Tue, 18 Aug 2026 07:44:29 +0700",
-      "description": "Kodam IX/Udayana bersama pemangku kepentingan lainnya tidak hanya fokus pada penyaluran bantuan, tetapi juga pemulihan ...",
+      "title": "Jepang tuntaskan tahap ke-22 pembuangan limbah terkontaminasi nuklir",
+      "link": "https://www.antaranews.com/berita/5699156/jepang-tuntaskan-tahap-ke-22-pembuangan-limbah-terkontaminasi-nuklir",
+      "published": "Tue, 18 Aug 2026 08:18:15 +0700",
+      "description": "Putaran ke-22 pembuangan air limbah terkontaminasi nuklir dari Pembangkit Listrik Tenaga Nuklir (PLTN) Fukushima ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pigai: Masyarakat Papua boleh tuntut kesejahteraan asal bukan merdeka",
-      "link": "https://www.antaranews.com/berita/5699137/pigai-masyarakat-papua-boleh-tuntut-kesejahteraan-asal-bukan-merdeka",
-      "published": "Tue, 18 Aug 2026 07:42:10 +0700",
-      "description": "Menteri Hak Asasi Manusia (HAM) Natalius Pigai menegaskan masyarakat Papua boleh menuntut kesejahteraan, keadilan, dan ...",
+      "title": "Kemenkes siagakan 9 HEOC, pastikan penanganan kesehatan pascagempa NTT",
+      "link": "https://www.antaranews.com/berita/5699152/kemenkes-siagakan-9-heoc-pastikan-penanganan-kesehatan-pascagempa-ntt",
+      "published": "Tue, 18 Aug 2026 08:13:46 +0700",
+      "description": "Kementerian Kesehatan (Kemenkes) telah mengaktifkan sembilan Health Emergency Operation Center (HEOC) guna memperkuat ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Politik kemarin, antusiasme warga hingga pelaksanaan HUT Ke-81 RI",
-      "link": "https://www.antaranews.com/berita/5699135/politik-kemarin-antusiasme-warga-hingga-pelaksanaan-hut-ke-81-ri",
-      "published": "Tue, 18 Aug 2026 07:29:28 +0700",
-      "description": "Beragam peristiwa politik telah kami beritakan pada Senin (17/8)&nbsp;dan berikut lima berita pilihan untuk Anda baca ...",
+      "title": "Dinsos: Siswa Sekolah Rakyat Sulsel mulai unjuk potensi diri",
+      "link": "https://www.antaranews.com/berita/5699147/dinsos-siswa-sekolah-rakyat-sulsel-mulai-unjuk-potensi-diri",
+      "published": "Tue, 18 Aug 2026 08:04:40 +0700",
+      "description": "Kepala Dinas Sosial (Dinsos) Sulawesi Selatan (Sulsel)&nbsp;Abdul Malik Faisal menilai sejumlah siswa Sekolah Rakyat ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Hukum kemarin, remisi HUT RI hingga penyelidikan Hari Damai Aceh",
-      "link": "https://www.antaranews.com/berita/5699131/hukum-kemarin-remisi-hut-ri-hingga-penyelidikan-hari-damai-aceh",
-      "published": "Tue, 18 Aug 2026 07:27:30 +0700",
-      "description": "Beragam peristiwa hukum telah kami beritakan pada Senin (17/8)&nbsp;dan berikut lima berita pilihan untuk Anda baca ...",
+      "title": "China siap berikan bantuan untuk bencana gempa di NTT",
+      "link": "https://www.antaranews.com/berita/5699145/china-siap-berikan-bantuan-untuk-bencana-gempa-di-ntt",
+      "published": "Tue, 18 Aug 2026 07:52:47 +0700",
+      "description": "China menyatakan prihatin atas gempa bumi di Flores, Nusa Tenggara Timur (NTT) dan siap memberikan bantuan sesuai ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
