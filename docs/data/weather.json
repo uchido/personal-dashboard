@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-08-18T14:49:59+0000",
+  "timestamp": "2026-08-18T15:20:59+0000",
   "locations": [
     {
       "name": "Palu",
       "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "21",
-      "feels_like_c": "24",
-      "humidity": "98",
-      "wind_speed_kmh": "5",
-      "wind_dir": "ESE",
-      "visibility_km": "0",
-      "pressure_mb": "1013",
-      "condition": "Fog",
-      "condition_code": "248",
+      "temp_c": "20",
+      "feels_like_c": "22",
+      "humidity": "97",
+      "wind_speed_kmh": "6",
+      "wind_dir": "SE",
+      "visibility_km": "2",
+      "pressure_mb": "1014",
+      "condition": "Mist",
+      "condition_code": "143",
       "uv_index": "0",
       "forecast": [
         {
@@ -27,9 +27,9 @@
         },
         {
           "date": "2026-08-19",
-          "max_temp": "29",
-          "min_temp": "19",
-          "condition": "Mist",
+          "max_temp": "30",
+          "min_temp": "18",
+          "condition": "Fog",
           "sunrise": "06:02 AM",
           "sunset": "06:07 PM"
         },
@@ -37,7 +37,7 @@
           "date": "2026-08-20",
           "max_temp": "30",
           "min_temp": "18",
-          "condition": "Fog",
+          "condition": "Clear ",
           "sunrise": "06:01 AM",
           "sunset": "06:06 PM"
         }
@@ -50,13 +50,13 @@
       "country": "Indonesia",
       "temp_c": "22",
       "feels_like_c": "24",
-      "humidity": "89",
-      "wind_speed_kmh": "9",
+      "humidity": "91",
+      "wind_speed_kmh": "8",
       "wind_dir": "W",
       "visibility_km": "10",
       "pressure_mb": "1014",
-      "condition": "Overcast ",
-      "condition_code": "122",
+      "condition": "Cloudy ",
+      "condition_code": "119",
       "uv_index": "0",
       "forecast": [
         {
@@ -71,13 +71,13 @@
           "date": "2026-08-19",
           "max_temp": "32",
           "min_temp": "21",
-          "condition": "Mist",
+          "condition": "Partly Cloudy ",
           "sunrise": "05:46 AM",
           "sunset": "05:38 PM"
         },
         {
           "date": "2026-08-20",
-          "max_temp": "32",
+          "max_temp": "33",
           "min_temp": "20",
           "condition": "Overcast ",
           "sunrise": "05:46 AM",
