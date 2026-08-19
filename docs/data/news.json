@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-08-19T05:18:14+0000",
+  "timestamp": "2026-08-19T05:49:14+0000",
   "articles": [
-    {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 04:44:41 GMT",
-      "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Three dead after family get into difficulty in sea",
       "link": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
@@ -26,12 +18,25 @@
       "category": "Global"
     },
     {
-      "title": "Demand for degree apprenticeships quadruples in three years",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 04:44:41 GMT",
+      "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Demand for degree apprenticeships in England quadruples in three years",
       "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 19 Aug 2026 05:00:12 GMT",
       "description": "The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 658, column 236",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
