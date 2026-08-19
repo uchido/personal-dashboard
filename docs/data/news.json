@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-19T06:20:15+0000",
+  "timestamp": "2026-08-19T06:51:15+0000",
   "articles": [
     {
-      "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+      "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
       "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 19 Aug 2026 03:42:16 GMT",
       "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
@@ -32,6 +32,11 @@
       "description": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks about her husband's own diagnosis.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "no element found: line 662, column 123",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
