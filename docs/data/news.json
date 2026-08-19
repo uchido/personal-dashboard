@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-08-19T05:49:14+0000",
+  "timestamp": "2026-08-19T06:20:15+0000",
   "articles": [
-    {
-      "title": "Three dead after family get into difficulty in sea",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 21:30:56 GMT",
-      "description": "A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off Shoreham on the Sussex coast.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
       "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
@@ -34,9 +26,12 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 658, column 236",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
+      "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 23:37:18 GMT",
+      "description": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks about her husband's own diagnosis.",
+      "source": "BBC News",
+      "category": "Global"
     }
   ]
 }
