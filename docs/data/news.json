@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-19T01:10:10+0000",
+  "timestamp": "2026-08-19T01:41:10+0000",
   "articles": [
     {
       "title": "Three dead after family get into difficulty in sea",
       "link": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 18 Aug 2026 21:30:56 GMT",
-      "description": "A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off the Sussex coast.",
+      "description": "A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off Shoreham on the Sussex coast.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 01:31:15 GMT",
+      "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -24,46 +32,6 @@
       "description": "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
-      "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 23:37:18 GMT",
-      "description": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks for the first time about her husband's own diagnosis.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Rabu, layanan Samsat Keliling tersedia di 14 wilayah Jadetabek",
-      "link": "https://www.antaranews.com/berita/5700769/rabu-layanan-samsat-keliling-tersedia-di-14-wilayahjadetabek",
-      "published": "Wed, 19 Aug 2026 08:09:05 +0700",
-      "description": "Polda Metro Jaya menyediakan layanan Sistem Administrasi Manunggal Satu Atap (Samsat) Keliling di 14 wilayah yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Gerai SIM keliling tersedia di lima lokasi Jakarta pada Rabu",
-      "link": "https://www.antaranews.com/berita/5700765/geraisim-keliling-tersedia-di-lima-lokasi-jakarta-pada-rabu",
-      "published": "Wed, 19 Aug 2026 08:02:25 +0700",
-      "description": "Direktorat Lalu Lintas Polda Metro Jaya membuka gerai layanan Surat Izin Mengemudi (SIM) Keliling di lima lokasi di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Garuda perkuat transformasi lewat \"High speed inflight connectivity\"",
-      "link": "https://www.antaranews.com/berita/5700764/garuda-perkuat-transformasi-lewat-high-speed-inflight-connectivity",
-      "published": "Wed, 19 Aug 2026 07:56:06 +0700",
-      "description": "Maskapai penerbangan nasional, Garuda Indonesia memperkuat transformasi layanan melalui pelaksanaan pilot project high ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "PIHPS: Harga cabai rawit Rp67.350/kg, telur ayam Rp29.350/kg",
-      "link": "https://www.antaranews.com/berita/5700760/pihps-harga-cabai-rawit-rp67350-kg-telur-ayam-rp29350-kg",
-      "published": "Wed, 19 Aug 2026 07:51:09 +0700",
-      "description": "Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional, yang dikelola Bank Indonesia, mencatat harga komoditas cabai ...",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
