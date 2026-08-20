@@ -1,35 +1,35 @@
 {
-  "timestamp": "2026-08-20T08:41:40+0000",
+  "timestamp": "2026-08-20T09:12:55+0000",
   "locations": [
     {
       "name": "Palu",
       "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "26",
+      "temp_c": "25",
       "feels_like_c": "28",
-      "humidity": "74",
-      "wind_speed_kmh": "7",
+      "humidity": "75",
+      "wind_speed_kmh": "5",
       "wind_dir": "WNW",
       "visibility_km": "9",
       "pressure_mb": "1012",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "5",
+      "uv_index": "2",
       "forecast": [
         {
           "date": "2026-08-20",
           "max_temp": "30",
           "min_temp": "18",
-          "condition": "Fog",
+          "condition": "Mist",
           "sunrise": "06:01 AM",
           "sunset": "06:06 PM"
         },
         {
           "date": "2026-08-21",
-          "max_temp": "30",
+          "max_temp": "29",
           "min_temp": "18",
-          "condition": "Mist",
+          "condition": "Fog",
           "sunrise": "06:01 AM",
           "sunset": "06:06 PM"
         },
@@ -37,7 +37,7 @@
           "date": "2026-08-22",
           "max_temp": "30",
           "min_temp": "19",
-          "condition": "Mist",
+          "condition": "Fog",
           "sunrise": "06:01 AM",
           "sunset": "06:06 PM"
         }
@@ -48,22 +48,22 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "32",
-      "feels_like_c": "32",
-      "humidity": "38",
-      "wind_speed_kmh": "12",
+      "temp_c": "29",
+      "feels_like_c": "30",
+      "humidity": "48",
+      "wind_speed_kmh": "20",
       "wind_dir": "SSW",
       "visibility_km": "10",
       "pressure_mb": "1011",
       "condition": "Sunny",
       "condition_code": "113",
-      "uv_index": "6",
+      "uv_index": "1",
       "forecast": [
         {
           "date": "2026-08-20",
           "max_temp": "32",
           "min_temp": "20",
-          "condition": "Mist",
+          "condition": "Overcast ",
           "sunrise": "05:46 AM",
           "sunset": "05:38 PM"
         },
@@ -71,7 +71,7 @@
           "date": "2026-08-21",
           "max_temp": "33",
           "min_temp": "20",
-          "condition": "Cloudy ",
+          "condition": "Mist",
           "sunrise": "05:45 AM",
           "sunset": "05:38 PM"
         },
@@ -79,7 +79,7 @@
           "date": "2026-08-22",
           "max_temp": "33",
           "min_temp": "20",
-          "condition": "Cloudy ",
+          "condition": "Partly Cloudy ",
           "sunrise": "05:45 AM",
           "sunset": "05:38 PM"
         }
