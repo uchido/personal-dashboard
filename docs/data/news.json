@@ -1,19 +1,11 @@
 {
-  "timestamp": "2026-08-21T07:26:02+0000",
+  "timestamp": "2026-08-21T07:57:03+0000",
   "articles": [
     {
       "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
       "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 00:33:21 GMT",
+      "published": "Fri, 21 Aug 2026 07:43:30 GMT",
       "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Will Harry's return heal deep-rooted rift with William?",
-      "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 04:07:22 GMT",
-      "description": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +18,52 @@
       "category": "Global"
     },
     {
-      "title": "My student day out in London turned to terror - now survivors like me won't be forgotten",
+      "title": "Will Harry's return heal deep-rooted rift with William?",
+      "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 04:07:22 GMT",
+      "description": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
       "link": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 00:11:18 GMT",
       "description": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "Apindo dorong industri fokus pada \"debottlenecking\" guna cegah PHK",
+      "link": "https://www.antaranews.com/berita/5704984/apindo-dorong-industri-fokus-pada-debottlenecking-guna-cegah-phk",
+      "published": "Fri, 21 Aug 2026 14:54:03 +0700",
+      "description": "Ketua Umum Asosiasi Pengusaha Indonesia (Apindo) Shinta Kamdani mendorong industri untuk fokus pada penyelesaian ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Indonesia-China sepakat tingkatkan kerja sama bidang pertahanan",
+      "link": "https://www.antaranews.com/video/5704937/indonesia-china-sepakat-tingkatkan-kerja-sama-bidang-pertahanan",
+      "published": "Fri, 21 Aug 2026 14:53:34 +0700",
+      "description": "ANTARA - Menteri Pertahanan Indonesia Sjafrie Sjamsoeddin menerima kunjungan kerja Menteri Pertahanan China Laksamana ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Verstappen tak bisa bayangkan dirinya kenakan seragam tim lain",
+      "link": "https://www.antaranews.com/berita/5704980/verstappen-tak-bisa-bayangkan-dirinya-kenakan-seragam-tim-lain",
+      "published": "Fri, 21 Aug 2026 14:52:28 +0700",
+      "description": "Pembalap Red Bull Max Verstappen mengaku tak bisa membayangkan dirinya mengenakan seragam tim lain terkecuali Red ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Waspadai ancaman JADEPUFFER, agen AI ransomware pertama di dunia",
+      "link": "https://www.antaranews.com/berita/5704977/waspadai-ancaman-jadepuffer-agen-ai-ransomware-pertama-di-dunia",
+      "published": "Fri, 21 Aug 2026 14:52:05 +0700",
+      "description": "Perusahaan keamanan siber, Kaspersky, mengingatkan masyarakat agar dapat mewaspadai JADEPUFFER yang merupakan agen ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
