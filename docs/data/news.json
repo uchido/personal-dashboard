@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-21T13:38:09+0000",
+  "timestamp": "2026-08-21T14:09:10+0000",
   "articles": [
     {
       "title": "Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher",
       "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 13:30:20 GMT",
-      "description": "The seven claimants, who include Sir Elton John and Liz Hurley, could potentially have to pay up to £25m more.",
+      "published": "Fri, 21 Aug 2026 13:57:57 GMT",
+      "description": "The seven claimants, who include Sir Elton John and Liz Hurley, could potentially have to pay up to £25m more after losing their High Court privacy case.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kuba kecam sanksi baru AS terhadap sejumlah pejabat dan entitas",
-      "link": "https://www.antaranews.com/berita/5705735/kuba-kecam-sanksi-baru-as-terhadap-sejumlah-pejabat-dan-entitas",
-      "published": "Fri, 21 Aug 2026 20:37:34 +0700",
-      "description": "Menteri Luar Negeri Kuba Bruno Rodriguez pada Kamis (20/8) mengecam peningkatan sanksi yang diberlakukan Amerika ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "WSJ: Biaya kesehatan pemberi kerja di AS diprediksi naik paling besar",
-      "link": "https://www.antaranews.com/berita/5705732/wsj-biaya-kesehatan-pemberi-kerja-di-as-diprediksi-naik-paling-besar",
-      "published": "Fri, 21 Aug 2026 20:33:41 +0700",
-      "description": "menyebutkan&nbsp;    Para pemberi kerja di Amerika Serikat (AS) memperkirakan biaya layanan kesehatan bagi pekerja ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kasus LPEI, delapan terdakwa dituntut hingga 13 tahun penjara",
-      "link": "https://www.antaranews.com/berita/5705731/kasus-lpei-delapan-terdakwa-dituntut-hingga-13-tahun-penjara",
-      "published": "Fri, 21 Aug 2026 20:32:53 +0700",
-      "description": "Delapan terdakwa kasus korupsi pembiayaan ekspor nasional pada Lembaga Pembiayaan Ekspor Indonesia (LPEI) periode ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "PGN dukung Suadesa Festival 2026 di Sleman perluas pasar UMKM desa",
-      "link": "https://www.antaranews.com/berita/5705727/pgn-dukung-suadesa-festival-2026-di-sleman-perluas-pasar-umkm-desa",
-      "published": "Fri, 21 Aug 2026 20:32:42 +0700",
-      "description": "PT Perusahaan Gas Negara Tbk (PGN) mendukung gelaran Suadesa Festival 2026 di Kawasan Kuliner Tiyasan, Ngaglik, ...",
+      "error": "no element found: line 658, column 254",
       "source": "Antara News",
       "category": "Indonesia"
     }
