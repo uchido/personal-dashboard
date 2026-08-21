@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-21T03:48:59+0000",
+  "timestamp": "2026-08-21T04:20:00+0000",
   "articles": [
     {
       "title": "El Niño weather system set to be 'strongest in living memory', warns Met Office",
       "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 00:33:21 GMT",
       "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Will Harry's return heal rift with his brother? Don't hold your breath",
+      "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 04:07:22 GMT",
+      "description": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "What happened to Harry and Meghan's American dream?",
-      "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 02:57:34 GMT",
-      "description": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "French becoming more effective in stopping small boat crossings, UK says",
       "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 20 Aug 2026 22:23:24 GMT",
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Camat Tanah Abang optimistis wilayah tetap kondusif jelang unjuk rasa",
-      "link": "https://www.antaranews.com/berita/5704641/camat-tanah-abang-optimistis-wilayah-tetap-kondusif-jelang-unjuk-rasa",
-      "published": "Fri, 21 Aug 2026 10:47:08 +0700",
-      "description": "Camat Tanah Abang Utami optimistis wilayahnya tetap kondusif menjelang rencana aksi unjuk rasa pada 27 Agustus ...",
+      "title": "Polisi selidiki kecelakaan maut mobil tabrak truk di Tol Jagorawi",
+      "link": "https://www.antaranews.com/berita/5704684/polisi-selidiki-kecelakaan-maut-mobil-tabrak-truk-di-tol-jagorawi",
+      "published": "Fri, 21 Aug 2026 11:15:39 +0700",
+      "description": "Satuan Lalu Lintas Polres Metro Jakarta Timur menyelidiki kecelakaan lalu lintas yang menewaskan dua penumpang mobil ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "BRI Perkenalkan Tampilan Baru Qlola by BRI, Perkuat Solusi Digital Terintegrasi bagi Ekosistem Bisnis",
-      "link": "https://www.antaranews.com/berita/5704637/bri-perkenalkan-tampilan-baru-qlola-by-bri-perkuat-solusi-digital-terintegrasi-bagi-ekosistem-bisnis",
-      "published": "Fri, 21 Aug 2026 10:45:57 +0700",
-      "description": "Jakarta (ANTARA) &ndash; PT Bank Rakyat Indonesia (Persero) Tbk atau BRI resmi memperkenalkan tampilan terbaru Qlola by ...",
+      "title": "Arteta: Saya lebih bersemangat dan lebih lapar dari sebelumnya",
+      "link": "https://www.antaranews.com/berita/5704680/arteta-saya-lebih-bersemangat-dan-lebih-lapar-dari-sebelumnya",
+      "published": "Fri, 21 Aug 2026 11:13:46 +0700",
+      "description": "Manajer Arsenal Mikel Arteta mengatakan merasa lebih bersemangat dan lebih lapar dari sebelumnya menjelang laga pertama ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Vance: AS masuk 'fase baru' tekanan ekonomi atas Iran",
-      "link": "https://www.antaranews.com/berita/5704635/vance-as-masuk-fase-baru-tekanan-ekonomi-atas-iran",
-      "published": "Fri, 21 Aug 2026 10:45:47 +0700",
-      "description": "Wakil Presiden Amerika Serikat J.D.&nbsp;Vance mengatakan pihaknya telah memasuki &quot;fase baru&quot; dalam perang ...",
+      "title": "Indonesia-FAO luncurkan kerangka pangan berkelanjutan 2026-2030",
+      "link": "https://www.antaranews.com/berita/5704679/indonesia-fao-luncurkan-kerangka-pangan-berkelanjutan-2026-2030",
+      "published": "Fri, 21 Aug 2026 11:13:42 +0700",
+      "description": "Pemerintah Indonesia dan Organisasi Pangan dan Pertanian Perserikatan Bangsa-Bangsa (FAO) meluncurkan Kerangka Kerja ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Basarnas lanjutkan evakuasi medis korban luka berat gempa NTT",
-      "link": "https://www.antaranews.com/berita/5704632/basarnas-lanjutkan-evakuasi-medis-korban-luka-berat-gempa-ntt",
-      "published": "Fri, 21 Aug 2026 10:45:36 +0700",
-      "description": "Basarnas melanjutkan evakuasi medis terhadap dua orang korban bencana gempa bumi yang mengalami luka berat dan ...",
+      "title": "Barantin lepas ekpor komoditas tropis senilai Rp40,8 miliar ke China",
+      "link": "https://www.antaranews.com/berita/5704675/barantin-lepas-ekpor-komoditas-tropis-senilai-rp408-miliar-ke-china",
+      "published": "Fri, 21 Aug 2026 11:12:14 +0700",
+      "description": "Badan Karantina Indonesia (Barantin) bersama Pemerintah Provinsi (Pemprov) Banten, melepas ekspor tiga komoditas tropis ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
