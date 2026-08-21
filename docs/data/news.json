@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T14:09:10+0000",
+  "timestamp": "2026-08-21T14:40:11+0000",
   "articles": [
     {
       "title": "Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher",
@@ -32,11 +32,6 @@
       "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "no element found: line 658, column 254",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
