@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T09:30:05+0000",
+  "timestamp": "2026-08-21T10:01:05+0000",
   "articles": [
     {
       "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
@@ -12,7 +12,7 @@
     {
       "title": "Meghan could return to acting once back in UK",
       "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 02:52:29 GMT",
+      "published": "Fri, 21 Aug 2026 09:48:00 GMT",
       "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
       "source": "BBC News",
       "category": "Global"
@@ -20,7 +20,7 @@
     {
       "title": "Will Harry's return heal deep-rooted rift with William?",
       "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 04:07:22 GMT",
+      "published": "Fri, 21 Aug 2026 09:48:08 GMT",
       "description": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.",
       "source": "BBC News",
       "category": "Global"
@@ -32,6 +32,11 @@
       "description": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "no element found: line 665, column 0",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
