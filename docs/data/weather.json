@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-08-22T09:16:27+0000",
+  "timestamp": "2026-08-22T09:47:28+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
+      "location": "Tanamodindi",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "26",
+      "temp_c": "25",
       "feels_like_c": "29",
-      "humidity": "75",
-      "wind_speed_kmh": "7",
+      "humidity": "83",
+      "wind_speed_kmh": "4",
       "wind_dir": "NW",
-      "visibility_km": "10",
+      "visibility_km": "9",
       "pressure_mb": "1011",
-      "condition": "Patchy light rain in area with thunder",
-      "condition_code": "386",
-      "uv_index": "5",
+      "condition": "Thundery outbreaks in nearby",
+      "condition_code": "200",
+      "uv_index": "1",
       "forecast": [
         {
           "date": "2026-08-22",
