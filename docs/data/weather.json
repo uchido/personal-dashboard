@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T18:34:36+0000",
+  "timestamp": "2026-08-22T19:05:38+0000",
   "locations": [
     {
       "name": "Palu",
@@ -10,9 +10,9 @@
       "feels_like_c": "22",
       "humidity": "98",
       "wind_speed_kmh": "5",
-      "wind_dir": "SE",
+      "wind_dir": "SSE",
       "visibility_km": "0",
-      "pressure_mb": "1014",
+      "pressure_mb": "1013",
       "condition": "Fog",
       "condition_code": "248",
       "uv_index": "0",
@@ -45,45 +45,7 @@
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
-      "region": "Daerah Istimewa Yogyakarta",
-      "country": "Indonesia",
-      "temp_c": "20",
-      "feels_like_c": "22",
-      "humidity": "89",
-      "wind_speed_kmh": "10",
-      "wind_dir": "WSW",
-      "visibility_km": "10",
-      "pressure_mb": "1014",
-      "condition": "Patchy rain nearby",
-      "condition_code": "176",
-      "uv_index": "0",
-      "forecast": [
-        {
-          "date": "2026-08-23",
-          "max_temp": "32",
-          "min_temp": "20",
-          "condition": "Patchy rain nearby",
-          "sunrise": "05:44 AM",
-          "sunset": "05:38 PM"
-        },
-        {
-          "date": "2026-08-24",
-          "max_temp": "31",
-          "min_temp": "20",
-          "condition": "Patchy rain nearby",
-          "sunrise": "05:44 AM",
-          "sunset": "05:38 PM"
-        },
-        {
-          "date": "2026-08-25",
-          "max_temp": "31",
-          "min_temp": "20",
-          "condition": "Clear ",
-          "sunrise": "05:43 AM",
-          "sunset": "05:38 PM"
-        }
-      ]
+      "error": "HTTP Error 500: Internal Server Error"
     }
   ]
 }
