@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-08-22T01:31:17+0000",
+  "timestamp": "2026-08-22T02:02:18+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 65.0,
     "cores": 2,
     "load_avg": [
-      1.8,
-      2.24,
-      2.28
+      1.61,
+      2.0,
+      2.17
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.1,
+    "free": 1.0,
     "available": 6.1,
     "used": 5.5,
     "percent": 47.4
@@ -20,25 +20,31 @@
   "disk": {
     "total": "193G",
     "used": "150G",
-    "available": "44G",
+    "available": "43G",
     "percent": "78%"
   },
   "uptime": {
     "days": 53,
-    "hours": 13,
-    "minutes": 57,
-    "total_seconds": 4629425.26
+    "hours": 14,
+    "minutes": 28,
+    "total_seconds": 4631285.67
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "200",
+      "cpu": "100",
       "mem": "0.3",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
+      "user": "opc",
+      "cpu": "48.8",
+      "mem": "1.0",
+      "command": "node current/index.js"
+    },
+    {
       "user": "root",
-      "cpu": "39.4",
+      "cpu": "38.6",
       "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
@@ -53,12 +59,6 @@
       "cpu": "5.9",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
-    },
-    {
-      "user": "root",
-      "cpu": "1.5",
-      "mem": "0.8",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
