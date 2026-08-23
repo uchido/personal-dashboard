@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T22:29:06+0000",
+  "timestamp": "2026-08-23T23:00:07+0000",
   "articles": [
     {
       "title": "Families of two police officers killed in crash say they were heroes",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Jakarta bakal cerah berawan sepanjang Senin",
-      "link": "https://www.antaranews.com/berita/5708195/jakarta-bakal-cerah-berawan-sepanjang-senin",
-      "published": "Mon, 24 Aug 2026 05:20:22 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan hampir seluruh wilayah DKI Jakarta cerah berawan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Febry Arnold, diaspora Indonesia pemburu maraton",
-      "link": "https://www.antaranews.com/berita/5708193/febry-arnold-diaspora-indonesia-pemburu-maraton",
-      "published": "Mon, 24 Aug 2026 05:19:57 +0700",
-      "description": "Diaspora Indonesia Febry Arnold menjadikan maraton atau ajang lari 42,195 kilometer sebagai bagian dari perjalanan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Juventus petik kemenangan 1-0 atas Frosinone di pekan pertama Serie A",
-      "link": "https://www.antaranews.com/berita/5708189/juventus-petik-kemenangan-1-0-atas-frosinone-di-pekan-pertama-serie-a",
-      "published": "Mon, 24 Aug 2026 05:14:54 +0700",
-      "description": "Juventus memetik kemenangan 1-0 atas Frosinone dalam pertandingan pekan pertama liga Italia (Serie A) 2026/27 di Stadio ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Gempa magnitudo 5,2 guncang Manggarai NTT tak berpotensi tsunami",
-      "link": "https://www.antaranews.com/berita/5708187/gempa-magnitudo-52-guncang-manggarai-ntt-tak-berpotensi-tsunami",
-      "published": "Mon, 24 Aug 2026 05:03:55 +0700",
-      "description": "Gempa magnitudo 5,2 mengguncang Ruteng, Kabupaten Manggarai, Provinsi Nusa Tenggara Timur (NTT) pada Senin, sekitar ...",
+      "error": "unclosed token: line 658, column 8",
       "source": "Antara News",
       "category": "Indonesia"
     }
