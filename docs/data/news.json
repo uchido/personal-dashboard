@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T17:19:01+0000",
+  "timestamp": "2026-08-23T17:50:02+0000",
   "articles": [
     {
       "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
@@ -10,18 +10,18 @@
       "category": "Global"
     },
     {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 05:46:43 GMT",
-      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "CrossCountry cancels 'almost all' UK services after power cut",
       "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 23 Aug 2026 14:05:16 GMT",
       "description": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "source": "BBC News",
       "category": "Global"
     },
