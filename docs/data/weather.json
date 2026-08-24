@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T13:28:22+0000",
+  "timestamp": "2026-08-24T13:59:22+0000",
   "locations": [
     {
       "name": "Palu",
@@ -45,40 +45,40 @@
     },
     {
       "name": "Yogyakarta",
-      "location": "Sanan",
+      "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "22",
-      "feels_like_c": "20",
-      "humidity": "78",
-      "wind_speed_kmh": "21",
-      "wind_dir": "SE",
+      "temp_c": "21",
+      "feels_like_c": "22",
+      "humidity": "84",
+      "wind_speed_kmh": "9",
+      "wind_dir": "WSW",
       "visibility_km": "10",
-      "pressure_mb": "1015",
-      "condition": "Clear ",
-      "condition_code": "113",
+      "pressure_mb": "1016",
+      "condition": "Patchy rain nearby",
+      "condition_code": "176",
       "uv_index": "0",
       "forecast": [
         {
           "date": "2026-08-24",
-          "max_temp": "29",
-          "min_temp": "21",
-          "condition": "Partly Cloudy ",
+          "max_temp": "32",
+          "min_temp": "20",
+          "condition": "Patchy rain nearby",
           "sunrise": "05:44 AM",
           "sunset": "05:38 PM"
         },
         {
           "date": "2026-08-25",
-          "max_temp": "29",
-          "min_temp": "21",
+          "max_temp": "33",
+          "min_temp": "20",
           "condition": "Clear ",
           "sunrise": "05:43 AM",
           "sunset": "05:38 PM"
         },
         {
           "date": "2026-08-26",
-          "max_temp": "28",
-          "min_temp": "21",
+          "max_temp": "32",
+          "min_temp": "20",
           "condition": "Clear ",
           "sunrise": "05:43 AM",
           "sunset": "05:38 PM"
