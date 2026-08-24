@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-24T07:16:15+0000",
+  "timestamp": "2026-08-24T07:47:15+0000",
   "articles": [
     {
       "title": "Families of two police officers killed in crash say they were heroes",
       "link": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 06:54:47 GMT",
+      "published": "Mon, 24 Aug 2026 07:18:06 GMT",
       "description": "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.",
       "source": "BBC News",
       "category": "Global"
@@ -32,6 +32,11 @@
       "description": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 660, column 6",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
