@@ -1,47 +1,9 @@
 {
-  "timestamp": "2026-08-24T20:11:28+0000",
+  "timestamp": "2026-08-24T20:42:28+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
-      "region": "Central Sulawesi",
-      "country": "Indonesia",
-      "temp_c": "19",
-      "feels_like_c": "22",
-      "humidity": "97",
-      "wind_speed_kmh": "5",
-      "wind_dir": "SSE",
-      "visibility_km": "0",
-      "pressure_mb": "1013",
-      "condition": "Fog",
-      "condition_code": "248",
-      "uv_index": "0",
-      "forecast": [
-        {
-          "date": "2026-08-25",
-          "max_temp": "28",
-          "min_temp": "19",
-          "condition": "Fog",
-          "sunrise": "06:00 AM",
-          "sunset": "06:05 PM"
-        },
-        {
-          "date": "2026-08-26",
-          "max_temp": "30",
-          "min_temp": "19",
-          "condition": "Fog",
-          "sunrise": "06:00 AM",
-          "sunset": "06:05 PM"
-        },
-        {
-          "date": "2026-08-27",
-          "max_temp": "30",
-          "min_temp": "19",
-          "condition": "Fog",
-          "sunrise": "06:00 AM",
-          "sunset": "06:05 PM"
-        }
-      ]
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "name": "Yogyakarta",
