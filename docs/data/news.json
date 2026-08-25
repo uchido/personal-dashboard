@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-25T16:51:50+0000",
+  "timestamp": "2026-08-25T17:22:50+0000",
   "articles": [
     {
       "title": "Father's house rammed before son died in A66 crash",
       "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 15:26:11 GMT",
+      "published": "Tue, 25 Aug 2026 17:21:18 GMT",
       "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 16:56:20 GMT",
+      "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Man dies in crash after police pursuit",
-      "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 16:06:56 GMT",
-      "description": "Two women are also hurt and one remains in hospital in critical condition.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "KPH: karhutla di Tarakan karena kriteria gambut sulit padam total",
+      "link": "https://www.antaranews.com/video/5710917/kph-karhutla-di-tarakan-karena-kriteria-gambut-sulit-padam-total",
+      "published": "Wed, 26 Aug 2026 00:11:48 +0700",
+      "description": "ANTARA - Unit Pelaksana Teknik Daerah (UPTD) Kesatuan Pengelolaan Hutan (KPH) Tarakan mencatat sedikitnya 44 kasus ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "10.684 bibit karang ditanam untuk pulihkan laut di Kepulauan Seribu",
+      "link": "https://www.antaranews.com/berita/5710924/10684-bibit-karang-ditanam-untuk-pulihkan-laut-di-kepulauan-seribu",
+      "published": "Tue, 25 Aug 2026 23:58:24 +0700",
+      "description": "Pemerintah Provinsi (Pemprov)&nbsp;DKI Jakarta memperluas upaya pemulihan ekosistem laut dengan menanam 10.684 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Java United boyong Jonata Machado dan Kaio Nunes",
+      "link": "https://www.antaranews.com/berita/5710921/java-united-boyong-jonata-machado-dan-kaio-nunes",
+      "published": "Tue, 25 Aug 2026 23:51:14 +0700",
+      "description": "Klub&nbsp;Java United resmi memboyong pemain asing anyar Jonata Machado dan Kaio Nunes pada bursa transfer pemain musim ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Festival AHU layani konsultasi masalah administrasi hukum warga",
       "link": "https://www.antaranews.com/berita/5710919/festival-ahu-layani-konsultasi-masalah-administrasi-hukum-warga",
       "published": "Tue, 25 Aug 2026 23:47:15 +0700",
       "description": "Direktorat Jenderal Administrasi Hukum Umum (Ditjen AHU) Kementerian Hukum mendekatkan berbagai layanan administrasi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KDMP Pulau Sembur sediakan mesin pembuat es penuhi kebutuhan nelayan",
-      "link": "https://www.antaranews.com/video/5710893/kdmp-pulau-sembur-sediakan-mesin-pembuat-es-penuhi-kebutuhan-nelayan",
-      "published": "Tue, 25 Aug 2026 23:44:11 +0700",
-      "description": "ANTARA - Koperasi Desa Merah Putih (KDMP) di Pulau Sembur, Kota Batam, Kepulauan Riau menyediakan cold storage yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Van Gastel nilai PSIM Yogyakarta masih perlu tingkatkan mentalitas",
-      "link": "https://www.antaranews.com/berita/5710913/van-gastel-nilai-psim-yogyakarta-masih-perlu-tingkatkan-mentalitas",
-      "published": "Tue, 25 Aug 2026 23:40:31 +0700",
-      "description": "Pelatih PSIM Yogyakarta Jean-Paul van Gastel menilai tim asuhannya tersebut masih perlu meningkatkan mentalitas ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dirut ANTARA: Museum Tsunami Aceh jadi pengingat kesiapsiagaan bencana",
-      "link": "https://www.antaranews.com/berita/5710912/dirut-antara-museum-tsunami-aceh-jadi-pengingat-kesiapsiagaan-bencana",
-      "published": "Tue, 25 Aug 2026 23:39:45 +0700",
-      "description": "Direktur Utama Perum LKBN ANTARA, Benny Siga Butarbutar menyatakan bahwa Museum Tsunami Aceh menjadi pengingat, ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
