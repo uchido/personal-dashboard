@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-26T17:40:15+0000",
+  "timestamp": "2026-08-26T18:11:15+0000",
   "articles": [
     {
       "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
       "link": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 26 Aug 2026 12:36:04 GMT",
       "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Meta's $18bn settlement a landmark victory for US states",
+      "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 17:44:39 GMT",
+      "description": "The deal has been reached during a California federal court trial over claims brought by US states.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Prince Harry and Meghan land in UK days after announcing move",
-      "link": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 13:01:51 GMT",
-      "description": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Siswa SDN Kauman 07 Batang Galang Dana untuk Korban Gempa NTT",
-      "link": "https://www.antaranews.com/video/5712692/siswa-sdn-kauman-07-batang-galang-dana-untuk-korban-gempa-ntt",
-      "published": "Thu, 27 Aug 2026 00:31:58 +0700",
-      "description": "ANTARA - Sekitar 340 siswa SD Negeri Kauman 07 Batang, Jawa Tengah, bersama para guru menggelar doa bersama dan ...",
+      "title": "Gubernur Sumut: P-APBD fokus infrastruktur dan pemulihan pascabencana",
+      "link": "https://www.antaranews.com/berita/5712711/gubernur-sumut-p-apbd-fokus-infrastruktur-dan-pemulihan-pascabencana",
+      "published": "Thu, 27 Aug 2026 01:00:48 +0700",
+      "description": "Gubernur Sumatera Utara (Sumut) Bobby Nasution menyatakan bahwa Perubahan APBD Sumut tahun anggaran 2026 difokuskan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Denny Sumargo akui andil istri pengaruhi karakternya di film Baby Udon",
-      "link": "https://www.antaranews.com/berita/5712708/denny-sumargo-akui-andil-istri-pengaruhi-karakternya-di-film-baby-udon",
-      "published": "Thu, 27 Aug 2026 00:20:20 +0700",
-      "description": "Aktor Denny&nbsp;Sumargo&nbsp;mengungkapkan rahasianya bisa memerankan Hajime&nbsp;Kondoh, seorang suami dengan ...",
+      "title": "Malang Migrant Center perkuat perlindungan pekerja migran",
+      "link": "https://www.antaranews.com/video/5712671/malang-migrant-center-perkuat-perlindungan-pekerja-migran",
+      "published": "Thu, 27 Aug 2026 00:56:09 +0700",
+      "description": "ANTARA - Pemerintah memperkuat perlindungan pekerja migran Indonesia melalui peresmian Malang Migrant Center di ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Anggota DPR ajak warga Bengkulu sukseskan Sensus Ekonomi 2026",
-      "link": "https://www.antaranews.com/berita/5712701/anggota-dpr-ajak-warga-bengkulu-sukseskan-sensus-ekonomi-2026",
-      "published": "Thu, 27 Aug 2026 00:07:35 +0700",
-      "description": "Anggota DPR Komisi X Dewi Coryati mengajak warga Bengkulu menyukseskan pelaksanaan Sensus Ekonomi Nasional (SEN) ...",
+      "title": "15 hari Manggala Agni berjibaku padamkan karhutla OKI",
+      "link": "https://www.antaranews.com/video/5712705/15-hari-manggala-agni-berjibaku-padamkan-karhutla-oki",
+      "published": "Thu, 27 Aug 2026 00:52:18 +0700",
+      "description": "ANTARA - Selama 15 hari, tim Manggala Agni masih memadamkan kebakaran hutan dan lahan di Desa Kotabumi, Kabupaten Ogan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Dokter Ortopedi: Kurang gerak picu masalah kesehatan tulang sendi",
-      "link": "https://www.antaranews.com/video/5712427/dokter-ortopedi-kurang-gerak-picu-masalah-kesehatan-tulang-sendi",
-      "published": "Thu, 27 Aug 2026 00:04:25 +0700",
-      "description": "ANTARA - Masyarakat perlu mewaspadai dampak akibat kurang gerak, karena dapat memicu masalah kesehatan tulang dan ...",
+      "title": "Tiga kelas terbakar, siswa SDN 11 Palu belajar di tenda",
+      "link": "https://www.antaranews.com/video/5712707/tiga-kelas-terbakar-siswa-sdn-11-palu-belajar-di-tenda",
+      "published": "Thu, 27 Aug 2026 00:48:43 +0700",
+      "description": "ANTARA - Siswa SDN 11 Palu, Sulawesi Tengah, mengikuti kegiatan belajar mengajar di tenda darurat pada Rabu (26/8), ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
