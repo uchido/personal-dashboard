@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-26T15:36:14+0000",
+  "timestamp": "2026-08-26T16:07:13+0000",
   "articles": [
     {
       "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
       "link": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 26 Aug 2026 12:36:04 GMT",
       "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Rocky Horror star Tim Curry dies at 80",
+      "link": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 15:57:06 GMT",
+      "description": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-      "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 11:32:11 GMT",
-      "description": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Hasil RUPS I.League: Amali mundur, Yunus Nusi jadi Komisaris Utama",
+      "link": "https://www.antaranews.com/berita/5712633/hasil-rups-ileague-amali-mundur-yunus-nusi-jadi-komisaris-utama",
+      "published": "Wed, 26 Aug 2026 23:01:44 +0700",
+      "description": "Wakil Ketua Umum PSSI Zainudin Amali mundur dari Komisaris Utama I.League dan sebagai gantinya posisi tersebut diisi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "no element found: line 674, column 72",
+      "title": "Dokter: Gaya hidup yang picu plak numpuk berisiko jantung bermasalah",
+      "link": "https://www.antaranews.com/berita/5712629/dokter-gaya-hidup-yang-picu-plak-numpuk-berisiko-jantung-bermasalah",
+      "published": "Wed, 26 Aug 2026 22:53:22 +0700",
+      "description": "Dokter Spesialis Jantung dari IHC RS Pusat Pertamina Maya Munigar Apandi&nbsp;menyampaikan plak atau kerak di pembuluh ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "PSSI tegaskan kabar Rizky Ridho dicoret dari timnas adalah hoaks",
+      "link": "https://www.antaranews.com/berita/5712627/pssi-tegaskan-kabar-rizky-ridho-dicoret-dari-timnas-adalah-hoaks",
+      "published": "Wed, 26 Aug 2026 22:51:59 +0700",
+      "description": "Sekretaris Jenderal (Sekjen) PSSI Yunus Nusi menegaskan kabar Rizky Ridho dicoret dari skuad timnas Indonesia untuk ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Asosiasi PKL dorong penguatan UMKM sebagai penggerak ekonomi rakyat",
+      "link": "https://www.antaranews.com/berita/5712623/asosiasi-pkl-dorong-penguatan-umkm-sebagai-penggerak-ekonomi-rakyat",
+      "published": "Wed, 26 Aug 2026 22:50:22 +0700",
+      "description": "Asosiasi Pedagang Kaki Lima Indonesia (APKLI) Perjuangan mendorong penguatan peran PKL dan usaha mikro, kecil, dan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
