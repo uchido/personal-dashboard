@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T09:55:06+0000",
+  "timestamp": "2026-08-26T10:26:08+0000",
   "articles": [
     {
       "title": "Watch: The life of an iconic country singer",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Menkum tegaskan Indonesia tak akan mengemis royalti",
+      "link": "https://www.antaranews.com/berita/5711949/menkum-tegaskan-indonesia-tak-akan-mengemis-royalti",
+      "published": "Wed, 26 Aug 2026 17:24:24 +0700",
+      "description": "Menteri Hukum (Menkum) Supratman Andi Agtas&nbsp;dalam pertemuan Global Forum on Intellectual Property (GFIP) pada ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Unjuk rasa besok di DPR, Polda Metro estimasi massa capai 500 orang",
+      "link": "https://www.antaranews.com/berita/5711947/unjuk-rasa-besok-di-dpr-polda-metro-estimasi-massa-capai-500-orang",
+      "published": "Wed, 26 Aug 2026 17:22:09 +0700",
+      "description": "Polda Metro Jaya memperkirakan jumlah peserta atau massa aksi penyampaian pendapat di muka umum pada Kamis (27/8), ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BNPB: Pengungsi gempa NTT berkurang 6.094 Jiwa",
+      "link": "https://www.antaranews.com/berita/5711943/bnpb-pengungsi-gempa-ntt-berkurang-6094-jiwa",
+      "published": "Wed, 26 Aug 2026 17:21:21 +0700",
+      "description": "Badan Nasional Penanggulangan Bencana (BNPB) mengatakan jumlah pengungsi gempa bumi di Nusa Tenggara Timur (NTT) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Prabowo minta petugas yang bekerja keras tangani gempa NTT diberi penghargaan",
+      "link": "https://www.antaranews.com/berita/5711941/prabowo-minta-petugas-yang-bekerja-keras-tangani-gempa-ntt-diberi-penghargaan",
+      "published": "Wed, 26 Aug 2026 17:20:47 +0700",
+      "description": "Presiden Prabowo Subianto meminta para petugas yang telah bekerja keras dan berkorban dalam penanganan gempa bumi di ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
