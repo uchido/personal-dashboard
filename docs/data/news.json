@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-26T10:26:08+0000",
+  "timestamp": "2026-08-26T10:57:08+0000",
   "articles": [
     {
-      "title": "Watch: The life of an iconic country singer",
+      "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
       "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 25 Aug 2026 18:27:22 GMT",
       "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
@@ -18,50 +18,23 @@
       "category": "Global"
     },
     {
-      "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
-      "link": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 05:14:12 GMT",
-      "description": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.",
+      "title": "Cosmic radiation link in flight attendant's breast cancer, French court finds",
+      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 10:29:36 GMT",
+      "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
-      "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 09:28:03 GMT",
-      "description": "Yellow warnings updated as torrential downpours affect parts of England and Wales, delivering some of the wettest weather in several weeks.",
+      "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
+      "link": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 23:13:34 GMT",
+      "description": "Big companies used to go out of their way to support Pride. Now, there's a nervousness in the air, Darren Milby writes",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Menkum tegaskan Indonesia tak akan mengemis royalti",
-      "link": "https://www.antaranews.com/berita/5711949/menkum-tegaskan-indonesia-tak-akan-mengemis-royalti",
-      "published": "Wed, 26 Aug 2026 17:24:24 +0700",
-      "description": "Menteri Hukum (Menkum) Supratman Andi Agtas&nbsp;dalam pertemuan Global Forum on Intellectual Property (GFIP) pada ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Unjuk rasa besok di DPR, Polda Metro estimasi massa capai 500 orang",
-      "link": "https://www.antaranews.com/berita/5711947/unjuk-rasa-besok-di-dpr-polda-metro-estimasi-massa-capai-500-orang",
-      "published": "Wed, 26 Aug 2026 17:22:09 +0700",
-      "description": "Polda Metro Jaya memperkirakan jumlah peserta atau massa aksi penyampaian pendapat di muka umum pada Kamis (27/8), ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BNPB: Pengungsi gempa NTT berkurang 6.094 Jiwa",
-      "link": "https://www.antaranews.com/berita/5711943/bnpb-pengungsi-gempa-ntt-berkurang-6094-jiwa",
-      "published": "Wed, 26 Aug 2026 17:21:21 +0700",
-      "description": "Badan Nasional Penanggulangan Bencana (BNPB) mengatakan jumlah pengungsi gempa bumi di Nusa Tenggara Timur (NTT) ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Prabowo minta petugas yang bekerja keras tangani gempa NTT diberi penghargaan",
-      "link": "https://www.antaranews.com/berita/5711941/prabowo-minta-petugas-yang-bekerja-keras-tangani-gempa-ntt-diberi-penghargaan",
-      "published": "Wed, 26 Aug 2026 17:20:47 +0700",
-      "description": "Presiden Prabowo Subianto meminta para petugas yang telah bekerja keras dan berkorban dalam penanganan gempa bumi di ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
