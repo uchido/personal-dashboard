@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-26T09:24:06+0000",
+  "timestamp": "2026-08-26T09:55:06+0000",
   "articles": [
     {
-      "title": "The life of an iconic country singer",
+      "title": "Watch: The life of an iconic country singer",
       "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 25 Aug 2026 18:27:22 GMT",
       "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
@@ -12,7 +12,7 @@
     {
       "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
       "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 07:48:50 GMT",
+      "published": "Wed, 26 Aug 2026 09:31:51 GMT",
       "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
       "source": "BBC News",
       "category": "Global"
@@ -26,42 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
+      "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
       "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 23:11:15 GMT",
-      "description": "Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks",
+      "published": "Wed, 26 Aug 2026 09:28:03 GMT",
+      "description": "Yellow warnings updated as torrential downpours affect parts of England and Wales, delivering some of the wettest weather in several weeks.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Zulhas menargetkan pembenahan tata kelola MBG sebelum 20 Oktober 2026",
-      "link": "https://www.antaranews.com/berita/5711809/zulhas-menargetkan-pembenahan-tata-kelola-mbg-sebelum-20-oktober-2026",
-      "published": "Wed, 26 Aug 2026 16:23:20 +0700",
-      "description": "Menteri Koordinator (Menko) Bidang Pangan Zulkifli Hasan (Zulhas) menargetkan sebagian besar persoalan tata kelola ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bank Sampoerna cetak pertumbuhan laba 41 persen pada semester I 2026",
-      "link": "https://www.antaranews.com/berita/5711807/bank-sampoerna-cetak-pertumbuhan-laba-41-persen-pada-semester-i-2026",
-      "published": "Wed, 26 Aug 2026 16:20:30 +0700",
-      "description": "PT Bank Sahabat Sampoerna (Bank Sampoerna) mencetak pertumbuhan laba bersih sebesar 41,29 persen (year-on-year/yoy) ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Polisi selidiki pemuda yang motornya dirampas mata elang di Jaktim",
-      "link": "https://www.antaranews.com/berita/5711805/polisi-selidiki-pemuda-yang-motornya-dirampas-mata-elang-di-jaktim",
-      "published": "Wed, 26 Aug 2026 16:19:59 +0700",
-      "description": "Kepolisian Sektor (Polsek) Jatinegara menyelidiki&nbsp;seorang pemuda yang mengaku sepeda motornya dirampas oleh mata ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "MPR dorong LCC Empat Pilar menjangkau lebih banyak sekolah",
-      "link": "https://www.antaranews.com/berita/5711804/mpr-dorong-lcc-empat-pilar-menjangkau-lebih-banyak-sekolah",
-      "published": "Wed, 26 Aug 2026 16:19:56 +0700",
-      "description": "Anggota Badan Sosialisasi MPR RI Nurwayah menilai Lomba Cerdas Cermat (LCC) Empat Pilar MPR RI 2026 efektif menjadi ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
