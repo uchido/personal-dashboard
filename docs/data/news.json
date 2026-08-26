@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T08:22:07+0000",
+  "timestamp": "2026-08-26T08:53:06+0000",
   "articles": [
     {
       "title": "The life of an iconic country singer",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Pangdam: 2.190 personel gabungan siaga hadapi karhutla di Tanah Papua",
-      "link": "https://www.antaranews.com/berita/5711629/pangdam-2190-personel-gabungan-siaga-hadapi-karhutla-di-tanah-papua",
-      "published": "Wed, 26 Aug 2026 15:20:07 +0700",
-      "description": "Pangdam XVII/Cenderawasih Mayjen TNI Febriel Buyung Sikumbang mengatakan sebanyak 2.190 personel gabungan disiagakan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "China telah rumuskan hampir 200 standar utama untuk sektor AI",
-      "link": "https://www.antaranews.com/berita/5711625/china-telah-rumuskan-hampir-200-standar-utama-untuk-sektor-ai",
-      "published": "Wed, 26 Aug 2026 15:19:21 +0700",
-      "description": "Wakil Menteri Perindustrian dan Teknologi Informasi China Xin Guobin mengatakan negaranya telah merumuskan hampir 200 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bawaslu ajak mahasiswa jadi agen literasi digital pemilu",
-      "link": "https://www.antaranews.com/berita/5711623/bawaslu-ajak-mahasiswa-jadi-agen-literasi-digital-pemilu",
-      "published": "Wed, 26 Aug 2026 15:17:22 +0700",
-      "description": "Badan Pengawas Pemilu (Bawaslu) mengajak mahasiswa Universitas Airlangga (Unair) menjadi agen literasi digital dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Janice Tjen terhenti pada delapan besar Monterrey Open",
-      "link": "https://www.antaranews.com/berita/5711620/janice-tjen-terhenti-pada-delapan-besar-monterrey-open",
-      "published": "Wed, 26 Aug 2026 15:15:11 +0700",
-      "description": "Janice Tjen terhenti pada babak delapan besar WTA 500 Monterrey Open 2026 setelah menyerah 4-6, 3-6 di tangan petenis ...",
+      "error": "unclosed token: line 665, column 4",
       "source": "Antara News",
       "category": "Indonesia"
     }
