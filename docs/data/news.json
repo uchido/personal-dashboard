@@ -1,19 +1,11 @@
 {
-  "timestamp": "2026-08-27T02:27:23+0000",
+  "timestamp": "2026-08-27T02:58:24+0000",
   "articles": [
     {
       "title": "BBC visits hospital in Kathmandu as families wait for news",
       "link": "https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 26 Aug 2026 21:15:34 GMT",
       "description": "More than 150 people have been killed after a massive flash flood on the Nepal-Tibet border, as hundreds still missing.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-      "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 21:27:23 GMT",
-      "description": "The deal has been reached during a California federal court trial over claims brought by US states.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +18,50 @@
       "category": "Global"
     },
     {
-      "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
-      "link": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 23:07:22 GMT",
-      "description": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour.",
+      "title": "New thunderstorm warnings for parts of UK as rain set to continue",
+      "link": "https://www.bbc.co.uk/weather/articles/cvgydkpdn99o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 19:15:35 GMT",
+      "description": "The Met Office has issued fresh thunderstorm warnings for Thursday with the potential for England and Wales to see flash flooding as the unsettled weather continues.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "170 pendaki masih berada di Ranu Kumbolo saat karhutla Semeru",
-      "link": "https://www.antaranews.com/berita/5712971/170-pendaki-masih-berada-di-ranu-kumbolo-saat-karhutla-semeru",
-      "published": "Thu, 27 Aug 2026 09:26:20 +0700",
-      "description": "Sekitar 170 pendaki dikabarkan masih berada di kawasan Ranu Kumbolo saat terjadi kebakaran hutan dan Iahan (karhutIa) ...",
+      "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+      "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 23:04:24 GMT",
+      "description": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "PIHPS: Harga cabai rawit Rp81.800/kg, telur ayam Rp28.860/kg",
+      "link": "https://www.antaranews.com/berita/5713027/pihps-harga-cabai-rawit-rp81800-kg-telur-ayam-rp28860-kg",
+      "published": "Thu, 27 Aug 2026 09:57:14 +0700",
+      "description": "Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional, yang dikelola Bank Indonesia, mencatat harga komoditas cabai ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "TXT akan gelar tur “Steal the Wind” ke Jakarta pada 2027",
-      "link": "https://www.antaranews.com/berita/5712969/txt-akan-gelar-tur-steal-the-wind-ke-jakarta-pada-2027",
-      "published": "Thu, 27 Aug 2026 09:24:55 +0700",
-      "description": "Grup Kpop Tomorrow x Together (TXT) dikabarkan bersiap menggelar tur dunia bertajuk ...",
+      "title": "Kawasaki segarkan W230 dengan warna baru",
+      "link": "https://otomotif.antaranews.com/berita/5713025/kawasaki-segarkan-w230-dengan-warna-baru",
+      "published": "Thu, 27 Aug 2026 09:55:17 +0700",
+      "description": "Produsen otomotif roda dua asal Jepang, Kawasaki secara resmi telah menghadirkan pembaruan untuk W230, melalui pilihan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Polisi selidiki penyebab kebakaran hanguskan 60 rumah di Muara Angke",
-      "link": "https://www.antaranews.com/berita/5712965/polisi-selidiki-penyebab-kebakaran-hanguskan-60-rumah-di-muara-angke",
-      "published": "Thu, 27 Aug 2026 09:24:21 +0700",
-      "description": "Polsek Sunda Kelapa, Polres Pelabuhan Tanjung Priok, menyelidiki penyebab kebakaran yang menghanguskan 60 rumah ...",
+      "title": "Kemendes siap fasilitasi pengembangan ekonomi kreatif desa lewat film",
+      "link": "https://www.antaranews.com/berita/5713024/kemendes-siap-fasilitasi-pengembangan-ekonomi-kreatif-desa-lewat-film",
+      "published": "Thu, 27 Aug 2026 09:51:51 +0700",
+      "description": "Direktur Penyerasian Pembangunan Sosial Budaya dan Kelembagaan Kementerian Desa dan Pembangunan Daerah Tertinggal ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bandara Internasional Hang Nadim tambah rute baru Batam - Penang",
-      "link": "https://www.antaranews.com/berita/5712963/bandara-internasional-hang-nadim-tambah-rute-baru-batam-penang",
-      "published": "Thu, 27 Aug 2026 09:22:19 +0700",
-      "description": "Bandara Internasional Batam (PT BIB) Kepulauan Riau (Kepri) membuka rute penerbangan baru Batam Hang Nadim - Penang ...",
+      "title": "Panitia Muktamar NU perketat pengamanan jelang kedatangan Presiden",
+      "link": "https://www.antaranews.com/berita/5713020/panitia-muktamar-nu-perketat-pengamanan-jelang-kedatangan-presiden",
+      "published": "Thu, 27 Aug 2026 09:47:18 +0700",
+      "description": "Panitia Muktamar Ke-35 memperketat pengamanan terutama VVIP menjelang kedatangan Presiden Prabowo Subianto dalam rangka ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
