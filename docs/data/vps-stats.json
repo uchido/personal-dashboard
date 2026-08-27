@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-08-27T16:55:34+0000",
+  "timestamp": "2026-08-27T17:26:34+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 96.0,
+    "percent": 100.0,
     "cores": 2,
     "load_avg": [
-      2.39,
-      2.18,
-      2.22
+      2.46,
+      2.22,
+      2.19
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.0,
-    "available": 5.7,
-    "used": 5.9,
-    "percent": 50.9
+    "free": 1.1,
+    "available": 5.6,
+    "used": 6.0,
+    "percent": 51.7
   },
   "disk": {
     "total": "193G",
@@ -26,38 +26,38 @@
   "uptime": {
     "days": 59,
     "hours": 5,
-    "minutes": 21,
-    "total_seconds": 5116881.6
+    "minutes": 52,
+    "total_seconds": 5118741.99
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "43.7",
+      "cpu": "233",
       "mem": "0.4",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
+      "user": "opc",
+      "cpu": "89.7",
+      "mem": "0.6",
+      "command": "node current/index.js"
+    },
+    {
       "user": "root",
-      "cpu": "40.1",
-      "mem": "0.5",
-      "command": "/opt/unified-monitoring-agent/embedded/bin/ruby /o"
+      "cpu": "19.5",
+      "mem": "1.1",
+      "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ubuntu",
-      "cpu": "11.7",
+      "cpu": "12.5",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "ubuntu",
       "cpu": "5.9",
-      "mem": "0.7",
+      "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
     }
   ]
