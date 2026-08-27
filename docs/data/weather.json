@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-08-27T13:49:33+0000",
+  "timestamp": "2026-08-27T14:20:34+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lengaru",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "21",
       "feels_like_c": "25",
-      "humidity": "98",
+      "humidity": "99",
       "wind_speed_kmh": "4",
       "wind_dir": "ENE",
-      "visibility_km": "9",
-      "pressure_mb": "1014",
-      "condition": "Patchy rain nearby",
-      "condition_code": "176",
+      "visibility_km": "0",
+      "pressure_mb": "1016",
+      "condition": "Fog",
+      "condition_code": "248",
       "uv_index": "0",
       "forecast": [
         {
@@ -27,8 +27,8 @@
         },
         {
           "date": "2026-08-28",
-          "max_temp": "26",
-          "min_temp": "20",
+          "max_temp": "27",
+          "min_temp": "19",
           "condition": "Fog",
           "sunrise": "05:59 AM",
           "sunset": "06:04 PM"
