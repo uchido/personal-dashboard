@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-08-28T04:17:46+0000",
+  "timestamp": "2026-08-28T04:48:46+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 61.1,
+    "percent": 95.0,
     "cores": 2,
     "load_avg": [
-      2.33,
-      2.24,
-      2.22
+      2.66,
+      2.66,
+      2.5
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.1,
-    "available": 5.4,
-    "used": 6.2,
-    "percent": 53.4
+    "free": 0.9,
+    "available": 5.3,
+    "used": 6.3,
+    "percent": 54.3
   },
   "disk": {
     "total": "193G",
@@ -25,40 +25,40 @@
   },
   "uptime": {
     "days": 59,
-    "hours": 16,
-    "minutes": 43,
-    "total_seconds": 5157813.4
+    "hours": 17,
+    "minutes": 14,
+    "total_seconds": 5159674.16
   },
   "top_processes": [
     {
-      "user": "ubuntu",
-      "cpu": "200",
-      "mem": "0.3",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
-    {
       "user": "root",
-      "cpu": "20.2",
-      "mem": "1.2",
+      "cpu": "68.9",
+      "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
-      "user": "ubuntu",
-      "cpu": "13.3",
-      "mem": "0.1",
-      "command": "python3 scripts/collect-vps.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "5.9",
-      "mem": "0.7",
-      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+      "user": "root",
+      "cpu": "66.0",
+      "mem": "0.8",
+      "command": "node /root/.cache/pnpm/dlx/591e3721dc1e8d0c5422e09"
     },
     {
       "user": "root",
-      "cpu": "1.5",
+      "cpu": "42.7",
+      "mem": "1.4",
+      "command": "node /usr/local/bin/pnpm dlx prisma@6.5.0 db push "
+    },
+    {
+      "user": "root",
+      "cpu": "17.6",
       "mem": "0.8",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+      "command": "node /usr/local/bin/pnpm run prisma-db-push"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "14.2",
+      "mem": "0.1",
+      "command": "python3 scripts/collect-vps.py"
     }
   ]
 }
