@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-30T17:47:46+0000",
+  "timestamp": "2026-08-30T18:18:46+0000",
   "articles": [
     {
       "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
       "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 16:48:13 GMT",
       "description": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Seven killed and 23 missing in boat capsizing off northern Cyprus",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 16:48:02 GMT",
+      "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,18 +26,10 @@
       "category": "Global"
     },
     {
-      "title": "British woman killed in stabbing at German railway station",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:11:46 GMT",
-      "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Man Utd pay tribute to 'proud Red' officer who died in A66 crash",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:30:05 GMT",
-      "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
+      "title": "\"A giant leap forward\": Nasa launches powerful new space telescope to explore mysteries of the Universe",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 15:28:08 GMT",
+      "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
       "source": "BBC News",
       "category": "Global"
     },
