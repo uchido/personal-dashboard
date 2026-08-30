@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-08-30T23:28:53+0000",
+  "timestamp": "2026-08-30T23:59:53+0000",
   "articles": [
     {
       "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
       "link": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 18:33:36 GMT",
       "description": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+      "link": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 23:33:35 GMT",
+      "description": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -20,48 +28,40 @@
     {
       "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 21:15:42 GMT",
+      "published": "Sun, 30 Aug 2026 23:53:03 GMT",
       "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 16:30:05 GMT",
-      "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Mencari jalan tanpa membelah kota",
+      "link": "https://www.antaranews.com/berita/5718012/mencari-jalan-tanpa-membelah-kota",
+      "published": "Mon, 31 Aug 2026 06:54:05 +0700",
+      "description": "Jalan tol dibangun untuk mempercepat perjalanan. Di kota yang sudah padat, pertanyaan pentingnya bukan hanya seberapa ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Wisata ke \"danau surgawi\" di Xinjiang",
+      "link": "https://www.antaranews.com/berita/5718009/wisata-ke-danau-surgawi-di-xinjiang",
+      "published": "Mon, 31 Aug 2026 06:36:20 +0700",
+      "description": "Pegunungan bersalju, gurun yang terik,&nbsp;padang rumput hijau, hingga danau berair jernih membentuk harmoni visual di ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Senin, SIM Keliling tersedia di lima lokasi Jakarta",
+      "link": "https://www.antaranews.com/berita/5718007/senin-sim-keliling-tersedia-di-lima-lokasi-jakarta",
+      "published": "Mon, 31 Aug 2026 06:30:05 +0700",
+      "description": "Direktorat Lalu Lintas (Ditlantas) Polda Metro Jaya membuka lima lokasi layanan SIM (Surat Izin Mengemudi) Keliling ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "DKI kemarin, keberadaan orang asing hingga Festival Kalibaru",
       "link": "https://www.antaranews.com/berita/5718004/dki-kemarin-keberadaan-orang-asing-hingga-festival-kalibaru",
       "published": "Mon, 31 Aug 2026 06:26:33 +0700",
       "description": "Sejumlah peristiwa penting dan menarik terjadi di Jakarta pada Minggu (30/8) masih menarik untuk dibaca antara lain ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Humaniora kemarin, pengungsi gempa NTT hingga Rais Aam PBNU",
-      "link": "https://www.antaranews.com/berita/5718000/humaniora-kemarin-pengungsi-gempa-ntt-hingga-rais-aam-pbnu",
-      "published": "Mon, 31 Aug 2026 06:21:04 +0700",
-      "description": "Sejumlah berita humaniora pada Minggu yang menarik perhatian pembaca dan masih layak untuk disimak pagi ini, mulai dari ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "AS Monaco pimpin klasemen sementara setelah tekuk Marseille 2-0",
-      "link": "https://www.antaranews.com/berita/5717997/as-monaco-pimpin-klasemen-sementara-setelah-tekuk-marseille-2-0",
-      "published": "Mon, 31 Aug 2026 06:18:07 +0700",
-      "description": "AS Monaco memimpin klasemen sementara Liga Prancis (Ligue 1) 2026/27 setelah menekuk Olympique Marseille 2-0 dalam ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BMKG prakirakan hujan ringan bakal guyur sejumlah kota pada Senin",
-      "link": "https://www.antaranews.com/berita/5717995/bmkg-prakirakan-hujan-ringan-bakal-guyur-sejumlah-kota-pada-senin",
-      "published": "Mon, 31 Aug 2026 06:11:18 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan hujan ringan berpotensi mengguyur sejumlah kota ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
