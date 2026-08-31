@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-31T10:20:03+0000",
+  "timestamp": "2026-08-31T10:51:03+0000",
   "articles": [
     {
       "title": "Early release scheme could see dangerous criminals released, Conservatives warn",
       "link": "https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 08:20:54 GMT",
-      "description": "Nick Timothy's comments follow an announcement from the prime minister that some prisoners serving indefinite sentences could be freed to increase prison capacity.",
+      "published": "Mon, 31 Aug 2026 10:44:29 GMT",
+      "description": "The warning comes after the prime minister said some prisoners serving indefinite sentences could be freed to increase prison capacity.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kandungan air dan serat semangka bantu lancarkan BAB",
-      "link": "https://www.antaranews.com/berita/5718888/kandungan-air-dan-serat-semangka-bantu-lancarkan-bab",
-      "published": "Mon, 31 Aug 2026 17:17:41 +0700",
-      "description": "Mengonsumsi semangka dapat membantu melancarkan buang air besar (BAB) karena buah tersebut kaya akan air dan mengandung ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Tiket Indonesia Masters 2026 habis terjual",
-      "link": "https://www.antaranews.com/berita/5718887/tiket-indonesia-masters-2026-habis-terjual",
-      "published": "Mon, 31 Aug 2026 17:15:56 +0700",
-      "description": "Tiket Pontianak Indonesia Masters 2026 terjual habis sejak Jumat pekan lalu atau lebih cepat dari perkiraan panitia ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Wamenkeu: Pertumbuhan ekonomi jadi fondasi penguatan penerimaan negara",
-      "link": "https://www.antaranews.com/berita/5718885/wamenkeu-pertumbuhan-ekonomi-jadi-fondasi-penguatan-penerimaan-negara",
-      "published": "Mon, 31 Aug 2026 17:14:41 +0700",
-      "description": "Wakil Menteri Keuangan Suahasil Nazara menyatakan pemerintah terus mendorong pertumbuhan ekonomi sebagai fondasi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "ITS kirim bantuan dan tim asesmen infrastruktur ke NTT pascagempa",
-      "link": "https://www.antaranews.com/berita/5718884/its-kirim-bantuan-dan-tim-asesmen-infrastruktur-ke-ntt-pascagempa",
-      "published": "Mon, 31 Aug 2026 17:14:17 +0700",
-      "description": "Institut Teknologi Sepuluh Nopember (ITS) mengirim bantuan kemanusiaan dan tim asesmen infrastruktur untuk mendukung ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
