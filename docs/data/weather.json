@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-31T21:42:13+0000",
+  "timestamp": "2026-08-31T22:13:14+0000",
   "locations": [
     {
       "name": "Palu",
@@ -8,8 +8,8 @@
       "country": "Indonesia",
       "temp_c": "19",
       "feels_like_c": "20",
-      "humidity": "94",
-      "wind_speed_kmh": "7",
+      "humidity": "91",
+      "wind_speed_kmh": "5",
       "wind_dir": "SE",
       "visibility_km": "10",
       "pressure_mb": "1014",
@@ -19,25 +19,25 @@
       "forecast": [
         {
           "date": "2026-09-01",
-          "max_temp": "30",
-          "min_temp": "18",
+          "max_temp": "29",
+          "min_temp": "19",
           "condition": "Mist",
           "sunrise": "05:58 AM",
           "sunset": "06:03 PM"
         },
         {
           "date": "2026-09-02",
-          "max_temp": "30",
-          "min_temp": "18",
+          "max_temp": "31",
+          "min_temp": "19",
           "condition": "Fog",
           "sunrise": "05:58 AM",
           "sunset": "06:03 PM"
         },
         {
           "date": "2026-09-03",
-          "max_temp": "30",
+          "max_temp": "31",
           "min_temp": "19",
-          "condition": "Mist",
+          "condition": "Fog",
           "sunrise": "05:57 AM",
           "sunset": "06:03 PM"
         }
@@ -48,11 +48,11 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "21",
-      "feels_like_c": "23",
-      "humidity": "93",
-      "wind_speed_kmh": "9",
-      "wind_dir": "WNW",
+      "temp_c": "22",
+      "feels_like_c": "25",
+      "humidity": "94",
+      "wind_speed_kmh": "5",
+      "wind_dir": "W",
       "visibility_km": "10",
       "pressure_mb": "1014",
       "condition": "Clear ",
@@ -63,7 +63,7 @@
           "date": "2026-09-01",
           "max_temp": "34",
           "min_temp": "21",
-          "condition": "Clear ",
+          "condition": "Patchy rain nearby",
           "sunrise": "05:40 AM",
           "sunset": "05:37 PM"
         },
@@ -71,15 +71,15 @@
           "date": "2026-09-02",
           "max_temp": "34",
           "min_temp": "21",
-          "condition": "Overcast ",
+          "condition": "Partly Cloudy ",
           "sunrise": "05:39 AM",
           "sunset": "05:37 PM"
         },
         {
           "date": "2026-09-03",
           "max_temp": "34",
-          "min_temp": "20",
-          "condition": "Clear ",
+          "min_temp": "21",
+          "condition": "Mist",
           "sunrise": "05:39 AM",
           "sunset": "05:37 PM"
         }
