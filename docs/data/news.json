@@ -1,10 +1,18 @@
 {
-  "timestamp": "2026-09-01T11:08:28+0000",
+  "timestamp": "2026-09-01T11:39:31+0000",
   "articles": [
+    {
+      "title": "Keir Starmer announces he is standing down as MP",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 11:34:07 GMT",
+      "description": "The former prime minister said he would now turn his focus to international affairs.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Laundry rooms to be turned into cells to tackle prison overcrowding",
       "link": "https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 10:34:25 GMT",
+      "published": "Tue, 01 Sep 2026 11:17:40 GMT",
       "description": "The government says £110m has been fast-tracked from existing budgets to speed up the building of new cells.",
       "source": "BBC News",
       "category": "Global"
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
-      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 07:02:58 GMT",
-      "description": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Tumor yang menyebar ke otak tak selalu perlu operasi",
-      "link": "https://www.antaranews.com/berita/5720845/tumor-yang-menyebar-ke-otak-tak-selalu-perlu-operasi",
-      "published": "Tue, 01 Sep 2026 18:05:31 +0700",
-      "description": "Dokter Spesialis Bedah Saraf MRCCC Siloam Semanggi Dr. dr. Made Agus Mahendra Inggas, SpBS mengatakan tumor yang ...",
+      "title": "Wamendagri: Humas pemerintah harus peka dengan percakapan publik",
+      "link": "https://www.antaranews.com/berita/5720921/wamendagri-humas-pemerintah-harus-peka-dengan-percakapan-publik",
+      "published": "Tue, 01 Sep 2026 18:37:42 +0700",
+      "description": "Wakil Menteri Dalam Negeri Bima Arya Sugiarto mengatakan humas pemerintah tidak hanya bertugas menyampaikan kebijakan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Aismoli: Infrastruktur motor listrik perlu sesuaikan pola mobilitas",
-      "link": "https://otomotif.antaranews.com/berita/5720841/aismoli-infrastruktur-motor-listrik-perlu-sesuaikan-pola-mobilitas",
-      "published": "Tue, 01 Sep 2026 18:04:39 +0700",
-      "description": "Asosiasi Industri Sepeda Motor Listrik Indonesia (Aismoli) menilai pembangunan infrastruktur pendukung sepeda motor ...",
+      "title": "MRP minta eksekutif-legislatif Papua Tengah hentikan saling serang",
+      "link": "https://www.antaranews.com/berita/5720920/mrp-minta-eksekutif-legislatif-papua-tengah-hentikan-saling-serang",
+      "published": "Tue, 01 Sep 2026 18:37:36 +0700",
+      "description": "Majelis Rakyat Papua (MRP) Papua Tengah meminta lembaga eksekutif dan legislatif menghentikan saling serang di ruang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Jumlah penumpang angkutan umum di Jakarta meningkat pada Juli 2026",
-      "link": "https://www.antaranews.com/berita/5720840/jumlah-penumpang-angkutan-umum-di-jakarta-meningkat-pada-juli-2026",
-      "published": "Tue, 01 Sep 2026 18:03:22 +0700",
-      "description": "Badan Pusat Statistik (BPS) DKI Jakarta mengemukakan jumlah penumpang transportasi umum di Jakarta yakni Transjakarta, ...",
+      "title": "Smesco identifikasi 267 UMKM siap ekspor dari 100 ribu data UMKM",
+      "link": "https://www.antaranews.com/berita/5720917/smesco-identifikasi-267-umkm-siap-ekspor-dari-100-ribu-data-umkm",
+      "published": "Tue, 01 Sep 2026 18:36:38 +0700",
+      "description": "Lembaga Layanan Pemasaran Koperasi dan Usaha Kecil dan Menengah (Smesco) mengidentifikasi sebanyak 267 usaha mikro ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "MK pertanyakan alasan gugatan masa jabatan Kapolri ditarik pemohon",
-      "link": "https://www.antaranews.com/berita/5720837/mk-pertanyakan-alasan-gugatan-masa-jabatan-kapolri-ditarik-pemohon",
-      "published": "Tue, 01 Sep 2026 18:02:45 +0700",
-      "description": "Mahkamah Konstitusi (MK) mempertanyakan alasan pemohon pengujian matriil Undang-Undang Polri menyoal masa jabatan ...",
+      "title": "Kemenhut ingatkan dampak karhutla terhadap ekosistem dan ekonomi",
+      "link": "https://www.antaranews.com/berita/5720913/kemenhut-ingatkan-dampak-karhutla-terhadap-ekosistem-dan-ekonomi",
+      "published": "Tue, 01 Sep 2026 18:35:33 +0700",
+      "description": "Kementerian Kehutanan (Kemenhut) mengingatkan besarnya dampak kebakaran hutan dan lahan (karhutla) yang tidak hanya ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
