@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-01T01:19:17+0000",
+  "timestamp": "2026-09-01T01:50:18+0000",
   "articles": [
     {
       "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
       "link": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 20:27:52 GMT",
       "description": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Shein shares slide in long-awaited stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 01:39:32 GMT",
+      "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Hundreds remember Heaton Park synagogue attack victims at memorial event",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z4wlxj04o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 21:05:10 GMT",
-      "description": "The chief rabbi and Angela Rayner are among speakers at the event, nearly a year on from the attack.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "PU salurkan 25 ribu liter air irigasi selamatkan sawah di Sumbawa",
-      "link": "https://www.antaranews.com/berita/5719848/pu-salurkan-25-ribu-liter-air-irigasi-selamatkan-sawah-di-sumbawa",
-      "published": "Tue, 01 Sep 2026 08:13:07 +0700",
-      "description": "Kementerian Pekerjaan Umum (PU) menyalurkan 25 ribu liter air irigasi untuk menyelamatkan 18,6 hektare sawah yang ...",
+      "title": "Alcaraz menang mudah pada laga pembukanya di US Open",
+      "link": "https://www.antaranews.com/berita/5719859/alcaraz-menang-mudah-pada-laga-pembukanya-di-us-open",
+      "published": "Tue, 01 Sep 2026 08:47:23 +0700",
+      "description": "Carlos Alcaraz mengawali upayanya mempertahankan gelar US Open dengan kemenangan mudah atas Roman Safiullin 6-4, 6-4, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Trump rencanakan AS akan kembali serang Iran",
-      "link": "https://www.antaranews.com/berita/5719844/trump-rencanakan-as-akan-kembali-serang-iran",
-      "published": "Tue, 01 Sep 2026 08:12:30 +0700",
-      "description": "Presiden Amerika Serikat Donald Trump pada Senin (31/8) mengatakan bahwa militer AS tidak menutup kemungkinan dapat ...",
+      "title": "Menaker: Lulusan perguruan tinggi harus kuasai keterampilan digital",
+      "link": "https://www.antaranews.com/berita/5719856/menaker-lulusan-perguruan-tinggi-harus-kuasai-keterampilan-digital",
+      "published": "Tue, 01 Sep 2026 08:43:24 +0700",
+      "description": "Menteri Ketenagakerjaan (Menaker) Yassierli menegaskan bahwa lulusan perguruan tinggi perlu membangun kompetensi dan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Trump pertimbangkan serang Iran, cegah pemulihan militer Teheran",
-      "link": "https://www.antaranews.com/berita/5719840/trump-pertimbangkan-serang-iran-cegah-pemulihan-militer-teheran",
-      "published": "Tue, 01 Sep 2026 08:07:31 +0700",
-      "description": "Presiden Amerika Serikat Donald Trump mempertimbangkan diluncurkannya serangkaian serangan terhadap fasilitas radar dan ...",
+      "title": "Putra Naya Rivera, Josey dapat peran dalam sebuah film",
+      "link": "https://www.antaranews.com/berita/5719855/putra-naya-rivera-josey-dapat-peran-dalam-sebuah-film",
+      "published": "Tue, 01 Sep 2026 08:35:31 +0700",
+      "description": "Anak laki-laki dari mendiang&nbsp;Naya Rivera dan Ryan Dorsey yakni Josey Hollis Dorsey, mendapatkan peran dalam film ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemkot Jakpus fokus bantuan darurat bagi korban kebakaran Kebon Kelapa",
-      "link": "https://www.antaranews.com/berita/5719837/pemkot-jakpus-fokus-bantuan-darurat-bagi-korban-kebakaran-kebon-kelapa",
-      "published": "Tue, 01 Sep 2026 08:02:40 +0700",
-      "description": "Pemerintah Kota Jakarta Pusat memprioritaskan penanganan darurat dan penyaluran bantuan natura bagi warga terdampak ...",
+      "title": "IRGC: Iran masih gunakan perang konvensional, siap perang asimetris",
+      "link": "https://www.antaranews.com/berita/5719851/irgc-iran-masih-gunakan-perang-konvensional-siap-perang-asimetris",
+      "published": "Tue, 01 Sep 2026 08:20:28 +0700",
+      "description": "Penasihat senior komandan IRGC, Brigjen Mohammad Reza Naqdi mengatakan militer Iran masih menjalankan pertempuran ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
