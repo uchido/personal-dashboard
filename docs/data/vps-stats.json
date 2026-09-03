@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T21:32:22+0000",
+  "timestamp": "2026-09-03T22:03:23+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 65.0,
+    "percent": 61.9,
     "cores": 2,
     "load_avg": [
-      2.31,
-      2.45,
-      2.33
+      2.25,
+      2.23,
+      2.25
     ]
   },
   "memory": {
@@ -25,32 +25,20 @@
   },
   "uptime": {
     "days": 66,
-    "hours": 9,
-    "minutes": 58,
-    "total_seconds": 5738290.15
+    "hours": 10,
+    "minutes": 29,
+    "total_seconds": 5740150.64
   },
   "top_processes": [
     {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.2",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
       "user": "root",
-      "cpu": "22.3",
-      "mem": "1.1",
+      "cpu": "79.7",
+      "mem": "1.2",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ubuntu",
-      "cpu": "17.6",
+      "cpu": "21.4",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -59,6 +47,18 @@
       "cpu": "5.9",
       "mem": "0.7",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "1.5",
+      "mem": "0.8",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "opc",
+      "cpu": "1.4",
+      "mem": "1.2",
+      "command": "temporal-server --env docker start"
     }
   ]
 }
