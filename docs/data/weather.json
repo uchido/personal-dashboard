@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-09-03T14:49:19+0000",
+  "timestamp": "2026-09-03T15:20:20+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Palu",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "21",
+      "temp_c": "20",
       "feels_like_c": "24",
-      "humidity": "98",
+      "humidity": "99",
       "wind_speed_kmh": "4",
       "wind_dir": "ESE",
       "visibility_km": "0",
-      "pressure_mb": "1014",
+      "pressure_mb": "1015",
       "condition": "Fog",
       "condition_code": "248",
       "uv_index": "0",
@@ -27,8 +27,8 @@
         },
         {
           "date": "2026-09-04",
-          "max_temp": "29",
-          "min_temp": "20",
+          "max_temp": "30",
+          "min_temp": "19",
           "condition": "Fog",
           "sunrise": "05:57 AM",
           "sunset": "06:02 PM"
@@ -37,7 +37,7 @@
           "date": "2026-09-05",
           "max_temp": "29",
           "min_temp": "19",
-          "condition": "Mist",
+          "condition": "Fog",
           "sunrise": "05:57 AM",
           "sunset": "06:02 PM"
         }
@@ -52,11 +52,11 @@
       "feels_like_c": "22",
       "humidity": "90",
       "wind_speed_kmh": "12",
-      "wind_dir": "WSW",
+      "wind_dir": "WNW",
       "visibility_km": "10",
-      "pressure_mb": "1016",
-      "condition": "Cloudy ",
-      "condition_code": "119",
+      "pressure_mb": "1015",
+      "condition": "Overcast ",
+      "condition_code": "122",
       "uv_index": "0",
       "forecast": [
         {
@@ -71,14 +71,14 @@
           "date": "2026-09-04",
           "max_temp": "33",
           "min_temp": "20",
-          "condition": "Patchy rain nearby",
+          "condition": "Cloudy ",
           "sunrise": "05:38 AM",
           "sunset": "05:37 PM"
         },
         {
           "date": "2026-09-05",
           "max_temp": "32",
-          "min_temp": "20",
+          "min_temp": "21",
           "condition": "Clear ",
           "sunrise": "05:38 AM",
           "sunset": "05:37 PM"
