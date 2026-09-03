@@ -1,56 +1,56 @@
 {
-  "timestamp": "2026-09-03T15:51:17+0000",
+  "timestamp": "2026-09-03T16:22:17+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 100.0,
+    "percent": 55.0,
     "cores": 2,
     "load_avg": [
-      2.1,
-      2.25,
-      2.25
+      2.27,
+      2.2,
+      2.17
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.3,
-    "available": 6.0,
-    "used": 5.6,
-    "percent": 48.3
+    "free": 1.1,
+    "available": 5.7,
+    "used": 5.9,
+    "percent": 50.9
   },
   "disk": {
     "total": "193G",
     "used": "164G",
-    "available": "30G",
+    "available": "29G",
     "percent": "85%"
   },
   "uptime": {
     "days": 66,
     "hours": 4,
-    "minutes": 17,
-    "total_seconds": 5717824.8
+    "minutes": 48,
+    "total_seconds": 5719685.11
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
+      "cpu": "125",
       "mem": "0.4",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
       "user": "root",
-      "cpu": "92.7",
-      "mem": "0.7",
+      "cpu": "37.6",
+      "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
+      "user": "opc",
+      "cpu": "23.1",
+      "mem": "0.8",
+      "command": "node current/index.js"
+    },
+    {
       "user": "ubuntu",
-      "cpu": "13.3",
+      "cpu": "14.2",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
