@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-09-03T06:02:11+0000",
+  "timestamp": "2026-09-03T06:33:11+0000",
   "articles": [
     {
       "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
       "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 03 Sep 2026 05:00:04 GMT",
       "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Watch: Drop in small boats crossings forces smugglers to adapt",
+      "link": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 06:21:09 GMT",
+      "description": "A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 06:01:54 GMT",
+      "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 23:36:49 GMT",
-      "description": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "The overlooked factor driving the childhood obesity crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 00:47:45 GMT",
-      "description": "At a specialist childhood obesity clinic, almost all of the children are not in school. Why?",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Korsel dorong rezim perdamaian di Semenanjung Korea",
-      "link": "https://www.antaranews.com/berita/5723959/korsel-dorong-rezim-perdamaian-di-semenanjung-korea",
-      "published": "Thu, 03 Sep 2026 13:00:36 +0700",
-      "description": "Presiden Korea Selatan Lee Jae Myung, Rabu (2/9), memperbarui seruannya untuk mengganti gencatan senjata yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Logo baru APKLI Merah Putih dapat restu DPR",
-      "link": "https://www.antaranews.com/berita/5723956/logo-baru-apkli-merah-putih-dapat-restu-dpr",
-      "published": "Thu, 03 Sep 2026 13:00:36 +0700",
-      "description": "Ketua Asosiasi Usaha Kecil, Mikro dan PKL Indonesia (APKLI) Merah Putih Ali Mahsun Atmo mengatakan logo organisasi yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bezzecchi, Pecco, dan Morbi bakal main basket 3x3 jelang GP Misano",
-      "link": "https://www.antaranews.com/berita/5723953/bezzecchi-pecco-dan-morbi-bakal-main-basket-3x3-jelang-gp-misano",
-      "published": "Thu, 03 Sep 2026 13:00:16 +0700",
-      "description": "Pembalap Marco Bezzecchi, Francesco &quot;Pecco&quot; Bagnaia, dan Franco Morbidelli bakal bermain basket 3x3 jelang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Satpol PP kerahkan 250 personel jaga Jalan Raya Bogor dari PKL",
-      "link": "https://www.antaranews.com/berita/5723949/satpol-pp-kerahkan-250-personel-jaga-jalan-raya-bogor-dari-pkl",
-      "published": "Thu, 03 Sep 2026 12:59:07 +0700",
-      "description": "Satuan Polisi Pamong Praja (Satpol PP) Jakarta Timur (Jaktim) mengerahkan sebanyak 250 personel untuk menjaga Jalan ...",
+      "error": "unclosed token: line 662, column 2",
       "source": "Antara News",
       "category": "Indonesia"
     }
