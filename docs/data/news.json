@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T06:33:11+0000",
+  "timestamp": "2026-09-03T07:04:12+0000",
   "articles": [
     {
       "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
@@ -34,7 +34,7 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 662, column 2",
+      "error": "no element found: line 663, column 0",
       "source": "Antara News",
       "category": "Indonesia"
     }
