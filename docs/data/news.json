@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-04T18:43:48+0000",
+  "timestamp": "2026-09-04T19:14:49+0000",
   "articles": [
     {
       "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
       "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 04 Sep 2026 16:50:00 GMT",
       "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+      "link": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 19:13:15 GMT",
+      "description": "The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Oasis fans say cryptic codes in chip shop video point to Glasgow gigs next year",
-      "link": "https://www.bbc.co.uk/news/articles/c1dlr6geeq6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 12:06:37 GMT",
-      "description": "Internet sleuths spotted sets of numbers in posters suggesting the map co-ordinates for Celtic's Parkhead stadium in Glasgow.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Maresca buka peluang turunkan Enzo Fernandez kontra Coventry City",
-      "link": "https://www.antaranews.com/berita/5726948/maresca-buka-peluang-turunkan-enzo-fernandez-kontra-coventry-city",
-      "published": "Sat, 05 Sep 2026 01:17:42 +0700",
-      "description": "Pelatih Manchester City Enzo Maresca membuka peluang menurunkan rekrutan anyar gelandang Enzo Fernandez kontra Coventry ...",
+      "title": "Carrick sebut Benjamin Sesko miliki peluang turun sejak menit pertama",
+      "link": "https://www.antaranews.com/berita/5726963/carrick-sebut-benjamin-sesko-miliki-peluang-turun-sejak-menit-pertama",
+      "published": "Sat, 05 Sep 2026 01:59:22 +0700",
+      "description": "Pelatih Manchester United Michael Carrick menyebutkan penyerang Benjamin Sesko&nbsp;memiliki peluang turun sejak menit ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Putri Mahkota Swedia kagumi Terowongan Silaturahmi Istiqlal-Katedral",
-      "link": "https://www.antaranews.com/video/5726944/putri-mahkota-swedia-kagumi-terowongan-silaturahmi-istiqlal-katedral",
-      "published": "Sat, 05 Sep 2026 01:08:18 +0700",
-      "description": "ANTARA - Putri Mahkota Swedia sekaligus Duta Besar Kehormatan United Nations Development Programme (UNDP), Victoria, ...",
+      "title": "ESDM dan BPH Migas inspeksi distribusi BBM subsidi di SPBU Muna Barat",
+      "link": "https://www.antaranews.com/video/5726956/esdm-dan-bph-migas-inspeksi-distribusi-bbm-subsidi-di-spbu-muna-barat",
+      "published": "Sat, 05 Sep 2026 01:56:51 +0700",
+      "description": "ANTARA - Kementerian Energi dan Sumber Daya Mineral (ESDM) bersama Badan Pengatur Hilir Minyak dan Gas Bumi (BPH Migas) ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Dewa United siap tempur hadapi Persik Kediri",
-      "link": "https://www.antaranews.com/berita/5726947/dewa-united-siap-tempur-hadapi-persik-kediri",
-      "published": "Sat, 05 Sep 2026 01:02:56 +0700",
-      "description": "Pelatih Dewa United Osmar Loss menegaskan tim asuhannya siap tempur menghadapi Persik Kediri pada pekan pertama BRI ...",
+      "title": "Menbud dorong revitalisasi Desa Adat Sade disertai mitigasi",
+      "link": "https://www.antaranews.com/berita/5726960/menbud-dorong-revitalisasi-desa-adat-sade-disertai-mitigasi",
+      "published": "Sat, 05 Sep 2026 01:53:09 +0700",
+      "description": "Menteri Kebudayaan (Menbud) Fadli Zon mendorong rancangan merevitalisasi Desa Adat Sade di Kabupaten Lombok Tengah, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Isenmulang FC dan Java United FC disanksi pengurangan dua poin",
-      "link": "https://www.antaranews.com/berita/5726940/isenmulang-fc-dan-java-united-fc-disanksi-pengurangan-dua-poin",
-      "published": "Sat, 05 Sep 2026 00:58:30 +0700",
-      "description": "Operator kompetisi I.League menetapkan sanksi pengurangan dua poin kepada Isenmulang Kalteng FC dan Java United FC ...",
+      "title": "Menbud dukung sineas Indonesia produksi banyak film tema kepahlawanan",
+      "link": "https://www.antaranews.com/video/5726952/menbud-dukung-sineas-indonesia-produksi-banyak-film-tema-kepahlawanan",
+      "published": "Sat, 05 Sep 2026 01:48:29 +0700",
+      "description": "ANTARA - Menteri Kebudayaan Fadli Zon di Jakarta, Jumat (4/9), menaruh harapan besar kepada sineas Tanah Air agar bisa ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
