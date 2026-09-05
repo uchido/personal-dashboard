@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-05T08:41:03+0000",
+  "timestamp": "2026-09-05T09:12:04+0000",
   "articles": [
     {
       "title": "Cleveland police chief proud of force but being 'let down' by funding",
@@ -26,12 +26,17 @@
       "category": "Global"
     },
     {
-      "title": "Masked protesters block access at Port of Dover",
+      "title": "Disruption at Port of Dover as masked men hold protest",
       "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 08:40:00 GMT",
+      "published": "Sat, 05 Sep 2026 08:54:49 GMT",
       "description": "Images appear to show hundreds of protesters, all dressed in black and wearing face coverings.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 668, column 6",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
