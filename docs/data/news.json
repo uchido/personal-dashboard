@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-05T09:12:04+0000",
+  "timestamp": "2026-09-05T09:43:04+0000",
   "articles": [
     {
       "title": "Cleveland police chief proud of force but being 'let down' by funding",
@@ -18,23 +18,50 @@
       "category": "Global"
     },
     {
+      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 06:37:46 GMT",
+      "description": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Reform promises to increase tax-free personal allowance to £15,000",
       "link": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 07:41:42 GMT",
+      "published": "Sat, 05 Sep 2026 09:13:29 GMT",
       "description": "The party says the tax cut will be paid for by reducing public spending by £80bn.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Disruption at Port of Dover as masked men hold protest",
-      "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 08:54:49 GMT",
-      "description": "Images appear to show hundreds of protesters, all dressed in black and wearing face coverings.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "WN Sri Lanka selundupkan 101 ekor burung lewat Bandara Soetta",
+      "link": "https://www.antaranews.com/berita/5727451/wn-sri-lanka-selundupkan-101-ekor-burung-lewat-bandara-soetta",
+      "published": "Sat, 05 Sep 2026 16:42:57 +0700",
+      "description": "Petugas gabungan dari Aviation Security (Avsec), Bea Cukai, dan Badan Karantina Indonesia (Barantin) berhasil ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 668, column 6",
+      "title": "BPH Migas pastikan kebutuhan BBM subsidi Muna Barat jadi prioritas",
+      "link": "https://www.antaranews.com/berita/5727448/bph-migas-pastikan-kebutuhan-bbm-subsidi-muna-barat-jadi-prioritas",
+      "published": "Sat, 05 Sep 2026 16:41:55 +0700",
+      "description": "Badan Pengatur Hilir Minyak dan Gas Bumi (BPH Migas) memastikan kebutuhan bahan bakar minyak (BBM) bersubsidi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Noah Jupe dapat peran rahasia dalam  \"Avengers Secret Wars\"",
+      "link": "https://www.antaranews.com/berita/5727444/noah-jupe-dapat-peran-rahasia-dalam-avengers-secret-wars",
+      "published": "Sat, 05 Sep 2026 16:33:08 +0700",
+      "description": "Aktor Noah Jupe akan mendapatkan peran rahasia dan bergabung dalam Marvel Cinematic Universe dalam &quot;Avengers ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Jelang debut, OPPO A7 Pro terkonfirmasi tersedia dalam tiga warna",
+      "link": "https://www.antaranews.com/berita/5727440/jelang-debut-oppo-a7-pro-terkonfirmasi-tersedia-dalam-tiga-warna",
+      "published": "Sat, 05 Sep 2026 16:33:06 +0700",
+      "description": "Menjelang debut resminya di China pada 11 September 2026, OPPO A7 Pro terkonfirmasi bakal hadir dalam tiga pilihan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
