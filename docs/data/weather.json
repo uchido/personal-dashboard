@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-09-06T06:23:24+0000",
+  "timestamp": "2026-09-06T06:54:25+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Palu",
+      "location": "Mebere",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "30",
-      "feels_like_c": "31",
-      "humidity": "46",
-      "wind_speed_kmh": "7",
-      "wind_dir": "NNW",
-      "visibility_km": "10",
-      "pressure_mb": "1013",
+      "temp_c": "27",
+      "feels_like_c": "29",
+      "humidity": "65",
+      "wind_speed_kmh": "8",
+      "wind_dir": "WNW",
+      "visibility_km": "9",
+      "pressure_mb": "1012",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "14",
+      "uv_index": "9",
       "forecast": [
         {
           "date": "2026-09-06",
