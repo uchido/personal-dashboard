@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T12:25:55+0000",
+  "timestamp": "2026-09-07T12:59:11+0000",
   "articles": [
     {
       "title": "How anti-migrant boat protests were organised and who is behind them",
@@ -20,7 +20,7 @@
     {
       "title": "Murder arrests over baby girl's death in woodland",
       "link": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 12:10:42 GMT",
+      "published": "Mon, 07 Sep 2026 12:36:09 GMT",
       "description": "Police say they have arrested two men and two women as part of their investigation.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Polri siapkan personel hadapi potensi bencana alam-konflik sosial",
-      "link": "https://www.antaranews.com/berita/5730171/polri-siapkan-personel-hadapi-potensi-bencana-alam-konflik-sosial",
-      "published": "Mon, 07 Sep 2026 19:23:53 +0700",
-      "description": "Polri menyiapkan personel hingga sarana prasarana dalam rangka menghadapi berbagai potensi bencana alam maupun konflik ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KemenPPPA: Keselamatan anak harus jadi prioritas penanganan karhutla",
-      "link": "https://www.antaranews.com/berita/5730168/kemenpppa-keselamatan-anak-harus-jadi-prioritas-penanganan-karhutla",
-      "published": "Mon, 07 Sep 2026 19:20:04 +0700",
-      "description": "Menteri Pemberdayaan Perempuan dan Perlindungan Anak Arifah Fauzi menekankan kepentingan terbaik anak harus menjadi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemerintah putus akses 7.908 iklan loker fiktif lindungi pencari kerja",
-      "link": "https://www.antaranews.com/berita/5730164/pemerintah-putus-akses-7908-iklan-loker-fiktif-lindungi-pencari-kerja",
-      "published": "Mon, 07 Sep 2026 19:17:13 +0700",
-      "description": "Pemerintah melalui Kementerian Komunikasi dan Digital (Kemkomdigi) serta Kementerian Pelindungan Pekerja Migran ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Komisi X dukung PJJ sekolah selama erupsi Anak Krakatau",
-      "link": "https://www.antaranews.com/video/5730087/komisi-x-dukung-pjj-sekolah-selama-erupsi-anak-krakatau",
-      "published": "Mon, 07 Sep 2026 19:17:03 +0700",
-      "description": "ANTARA - Komisi X DPR RI mendukung Pembelajaran Jarak Jauh (PJJ) yang diberlakukan di sejumlah wilayah yang terdampak ...",
+      "error": "no element found: line 666, column 228",
       "source": "Antara News",
       "category": "Indonesia"
     }
