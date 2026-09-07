@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-09-07T20:44:00+0000",
+  "timestamp": "2026-09-07T21:15:00+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 100.0,
+    "percent": 70.0,
     "cores": 2,
     "load_avg": [
-      2.37,
-      2.35,
-      2.34
+      2.36,
+      2.48,
+      2.36
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.9,
-    "available": 5.7,
-    "used": 5.9,
-    "percent": 50.9
+    "free": 1.1,
+    "available": 5.9,
+    "used": 5.7,
+    "percent": 49.1
   },
   "disk": {
     "total": "193G",
@@ -26,39 +26,39 @@
   "uptime": {
     "days": 70,
     "hours": 9,
-    "minutes": 9,
-    "total_seconds": 6080987.48
+    "minutes": 40,
+    "total_seconds": 6082847.91
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
+      "cpu": "85.7",
+      "mem": "0.4",
+      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
       "user": "root",
-      "cpu": "69.3",
-      "mem": "0.5",
+      "cpu": "38.4",
+      "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
-      "user": "root",
-      "cpu": "64.0",
-      "mem": "1.1",
-      "command": "node /usr/local/bin/pnpm dlx prisma@6.5.0 db push "
-    },
-    {
-      "user": "root",
-      "cpu": "27.1",
-      "mem": "0.7",
-      "command": "node /usr/local/bin/pnpm run prisma-db-push"
+      "user": "ubuntu",
+      "cpu": "14.2",
+      "mem": "0.1",
+      "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "ubuntu",
-      "cpu": "25.0",
-      "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "cpu": "5.9",
+      "mem": "0.7",
+      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "1.5",
+      "mem": "0.8",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
