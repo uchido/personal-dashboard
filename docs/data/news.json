@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-07T09:19:51+0000",
+  "timestamp": "2026-09-07T09:50:53+0000",
   "articles": [
     {
       "title": "Watch: Anti-migrant boat protesters block roads in Portsmouth",
       "link": "https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 05:57:30 GMT",
       "description": "The government condemned \"the intimidating and thuggish behaviour\" of the demonstrators.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Jaguar Land Rover to cut 4,000 jobs",
+      "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 09:39:17 GMT",
+      "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "How significant are the historic gains of Germany's AfD for the rest of Europe?",
-      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 04:07:23 GMT",
-      "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Kemendidkasmen: SNT jawab kebutuhan murid dengan kecerdasan istimewa",
-      "link": "https://www.antaranews.com/berita/5729755/kemendidkasmen-snt-jawab-kebutuhan-murid-dengan-kecerdasan-istimewa",
-      "published": "Mon, 07 Sep 2026 16:13:25 +0700",
-      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) mengatakan penyelenggaraan program Sekolah Nasional ...",
+      "title": "BPBD Ngawi salurkan air bersih bagi 1.884 warga kekeringan di 15 desa",
+      "link": "https://www.antaranews.com/berita/5729828/bpbd-ngawi-salurkan-air-bersih-bagi-1884-warga-kekeringan-di-15-desa",
+      "published": "Mon, 07 Sep 2026 16:49:15 +0700",
+      "description": "Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Ngawi, Jawa Timur menyalurkan bantuan air bersih bagi sebanyak ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Cegah keracunan MBG, Pemkab Malang siapkan 1.000 alat Test Food",
-      "link": "https://www.antaranews.com/video/5729745/cegah-keracunan-mbg-pemkab-malang-siapkan-1000-alat-test-food",
-      "published": "Mon, 07 Sep 2026 16:12:47 +0700",
-      "description": "ANTARA -&nbsp;&lrm;&lrm;Kunjungan kerja Staf Khusus Kepala Staf Kepresidenan, Alfret Denny Djoike Tuejeh ke Kabupaten ...",
+      "title": "OJK targetkan integrasi ekosistem asuransi kesehatan akhir 2026",
+      "link": "https://www.antaranews.com/berita/5729825/ojk-targetkan-integrasi-ekosistem-asuransi-kesehatan-akhir-2026",
+      "published": "Mon, 07 Sep 2026 16:48:55 +0700",
+      "description": "Otoritas Jasa Keuangan (OJK) menargetkan seluruh perusahaan asuransi kesehatan menerapkan Koordinasi Antar ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "OJK: Mekanisme \"price discovery\" bursa mineral tengah dirumuskan",
-      "link": "https://www.antaranews.com/berita/5729753/ojk-mekanisme-price-discovery-bursa-mineral-tengah-dirumuskan",
-      "published": "Mon, 07 Sep 2026 16:12:24 +0700",
-      "description": "Ketua Dewan Komisioner Otoritas Jasa Keuangan (OJK) Friderica Widyasari Dewi menyampaikan bahwa mekanisme price ...",
+      "title": "Bandara Haluoleo batalkan 4 penerbangan dampak erupsi Anak Krakatau",
+      "link": "https://www.antaranews.com/berita/5729824/bandara-haluoleo-batalkan-4-penerbangan-dampak-erupsi-anak-krakatau",
+      "published": "Mon, 07 Sep 2026 16:48:01 +0700",
+      "description": "Bandara&nbsp;Haluoleo Kendari, Sulawesi Tenggara (Sultra), membatalkan sebanyak empat penerbangan rute ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kanada siapkan sanksi tambahan untuk menekan Iran",
-      "link": "https://www.antaranews.com/berita/5729751/kanada-siapkan-sanksi-tambahan-untuk-menekan-iran",
-      "published": "Mon, 07 Sep 2026 16:11:54 +0700",
-      "description": "Kanada pada Minggu berjanji berkoordinasi dengan sekutu internasional untuk menjatuhkan sanksi tambahan dan ...",
+      "title": "Polres Cianjur bersihkan abu vulkanik dengan dua water canon",
+      "link": "https://www.antaranews.com/berita/5729820/polres-cianjur-bersihkan-abu-vulkanik-dengan-dua-water-canon",
+      "published": "Mon, 07 Sep 2026 16:47:30 +0700",
+      "description": "Kepolisian Resor Cianjur, Jawa Barat, bersama Pemkab Cianjur membersihkan abu vulkanik Gunung Anak Krakatau yang jatuh ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
