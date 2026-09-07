@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-07T00:28:42+0000",
+  "timestamp": "2026-09-07T00:59:43+0000",
   "articles": [
     {
       "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 23:02:45 GMT",
-      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+      "description": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 00:57:38 GMT",
+      "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 22:00:36 GMT",
-      "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "BGN sesuaikan sementara MBG di area terdampak erupsi Anak Krakatau",
+      "link": "https://www.antaranews.com/berita/5729075/bgn-sesuaikan-sementara-mbg-di-area-terdampak-erupsi-anak-krakatau",
+      "published": "Mon, 07 Sep 2026 07:50:29 +0700",
+      "description": "Badan Gizi Nasional (BGN) melakukan penyesuaian sementara terhadap program Makan Bergizi Gratis (MBG) di wilayah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Gerai Samsat Keliling tersedia di 14 wilayah pada Senin",
+      "link": "https://www.antaranews.com/berita/5729073/gerai-samsat-keliling-tersedia-di-14-wilayah-pada-senin",
+      "published": "Mon, 07 Sep 2026 07:42:46 +0700",
+      "description": "Polda Metro Jaya menyediakan layanan Sistem Administrasi Manunggal Satu Atap (Samsat) Keliling untuk memudahkan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Hukum kemarin, polisi bersihkan abu vulkanik dan bagikan masker",
+      "link": "https://www.antaranews.com/berita/5729071/hukum-kemarin-polisi-bersihkan-abu-vulkanik-dan-bagikan-masker",
+      "published": "Mon, 07 Sep 2026 07:39:31 +0700",
+      "description": "Sejumlah peristiwa hukum dan keamanan menjadi perhatian publik pada Minggu (6/9), mulai dari pesawat aerosport yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Kemarin, penutupan sementara 8 bandara hingga siap hadapi El Nino",
       "link": "https://www.antaranews.com/berita/5729069/kemarin-penutupan-sementara-8-bandara-hingga-siap-hadapi-el-nino",
       "published": "Mon, 07 Sep 2026 07:19:27 +0700",
       "description": "Berbagai peristiwa ekonomi diberitakan oleh Kantor Berita ANTARA pada Minggu (06/09), mulai dari penutupan sementara ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ukraina siap patuhi gencatan senjata saat perundingan berlangsung",
-      "link": "https://www.antaranews.com/berita/5729068/ukraina-siap-patuhi-gencatan-senjata-saat-perundingan-berlangsung",
-      "published": "Mon, 07 Sep 2026 07:17:48 +0700",
-      "description": "Ukraina siap untuk mematuhi gencatan senjata dalam serangan udara terhadap kota-kota Rusia yang terlibat dalam proses ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Warga Suriah hadapi mahalnya kebutuhan imbas tekanan ekonomi",
-      "link": "https://www.antaranews.com/berita/5729065/warga-suriah-hadapi-mahalnya-kebutuhan-imbas-tekanan-ekonomi",
-      "published": "Mon, 07 Sep 2026 07:14:59 +0700",
-      "description": "Di lorong-lorong sempit pasar tua Damaskus, para orang tua pada Sabtu (5/9) berpindah dari satu toko ke toko lainnya, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Politik kemarin, Prabowo minta waspada zona terdampak Anak Krakatau",
-      "link": "https://www.antaranews.com/berita/5729061/politik-kemarin-prabowo-minta-waspada-zona-terdampak-anak-krakatau",
-      "published": "Mon, 07 Sep 2026 07:10:28 +0700",
-      "description": "Rangkaian kabar politik dan kebijakan publik pada Minggu (6/9) bergerak dari penanganan dampak aktivitas Gunung Anak ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
