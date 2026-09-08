@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-08T03:27:09+0000",
+  "timestamp": "2026-09-08T03:58:10+0000",
   "articles": [
     {
       "title": "UK government expected to announce restrictions on trade with West Bank settlements",
       "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 01:50:55 GMT",
       "description": "Foreign Secretary Ed Miliband is expected to outline proposals targeting goods from Israeli-occupied areas on Tuesday.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "A&E did not get the basics right - now my son's life is ruined at 32",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 03:49:39 GMT",
+      "description": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-      "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 15:41:52 GMT",
-      "description": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Juara WBC Ryan Garcia dan Conor Benn lolos ujian berat badan",
-      "link": "https://www.antaranews.com/berita/5730832/juara-wbc-ryan-garcia-dan-conor-benn-lolos-ujian-berat-badan",
-      "published": "Tue, 08 Sep 2026 10:21:21 +0700",
-      "description": "World Boxing Council (WBC) menyatakan juara dunia kelas welter (66,7 kg) Ryan Garcia dan penantang Conor Benn lolos ...",
+      "title": "Rybakina tekuk Osaka di US Open, selangkah menuju peringkat satu dunia",
+      "link": "https://www.antaranews.com/berita/5730873/rybakina-tekuk-osaka-di-us-open-selangkah-menuju-peringkat-satu-dunia",
+      "published": "Tue, 08 Sep 2026 10:55:37 +0700",
+      "description": "Elena Rybakina melaju ke perempat final US Open untuk pertama kali setelah mengalahkan juara dua kali Naomi Osaka 6-1, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ahli: Negara perlu hadirkan mekanisme verifikasi \"delay\" penerbangan",
-      "link": "https://www.antaranews.com/berita/5730829/ahli-negara-perlu-hadirkan-mekanisme-verifikasi-delay-penerbangan",
-      "published": "Tue, 08 Sep 2026 10:20:47 +0700",
-      "description": "Konsultan hukum Saiful Anam yang dihadirkan sebagai ahli dari pemohon pengujian materiil Undang-Undang Penerbangan soal ...",
+      "title": "Kemdiktisaintek dirikan AKPT untuk perkuat visi kepemimpinan kampus",
+      "link": "https://www.antaranews.com/berita/5730869/kemdiktisaintek-dirikan-akpt-untuk-perkuat-visi-kepemimpinan-kampus",
+      "published": "Tue, 08 Sep 2026 10:55:14 +0700",
+      "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi (Kemdiktisaintek) resmi membuka Akademi Kepemimpinan Pendidikan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Zheng bangkit singkirkan Swiatek, Gauff ke perempat final US Open",
-      "link": "https://www.antaranews.com/berita/5730828/zheng-bangkit-singkirkan-swiatek-gauff-ke-perempat-final-us-open",
-      "published": "Tue, 08 Sep 2026 10:16:05 +0700",
-      "description": "Petenis China Zheng Qinwen menciptakan kejutan di US Open 2026 setelah bangkit dari ketertinggalan 0-5 untuk ...",
+      "title": "Febrie Adriansyah diperiksa Kejagung terkait kasus korupsi dan TPPU",
+      "link": "https://www.antaranews.com/berita/5730868/febrie-adriansyah-diperiksa-kejagung-terkait-kasus-korupsi-dan-tppu",
+      "published": "Tue, 08 Sep 2026 10:53:14 +0700",
+      "description": "Mantan Jaksa Agung Muda Bidang Tindak Pidana Khusus (Jampidsus) Febrie Adriansyah diperiksa oleh penyidik Tim 9 ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bapanas: Capaian SPHP beras 2026 lampaui 2025 usai ditambah 1 juta ton",
-      "link": "https://www.antaranews.com/berita/5730827/bapanas-capaian-sphp-beras-2026-lampaui-2025-usai-ditambah-1-juta-ton",
-      "published": "Tue, 08 Sep 2026 10:13:38 +0700",
-      "description": "Badan Pangan Nasional (Bapanas) menyatakan penyaluran program stabilisasi pasokan dan harga pangan (SPHP) beras 2026 ...",
+      "title": "Baznas bagikan makanan bagi pekerja terdampak debu vulkanik di Jakarta",
+      "link": "https://www.antaranews.com/berita/5730867/baznas-bagikan-makanan-bagi-pekerja-terdampak-debu-vulkanik-di-jakarta",
+      "published": "Tue, 08 Sep 2026 10:51:25 +0700",
+      "description": "Badan Amil Zakat Nasional (Baznas) melalui Program Bank Makanan mendistribusikan 250 paket makanan siap saji kepada ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
