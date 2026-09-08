@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08T21:32:27+0000",
+  "timestamp": "2026-09-08T22:03:27+0000",
   "articles": [
     {
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
@@ -12,8 +12,16 @@
     {
       "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
       "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 20:45:56 GMT",
+      "published": "Tue, 08 Sep 2026 21:46:31 GMT",
       "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 21:46:21 GMT",
+      "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,12 @@
       "category": "Global"
     },
     {
-      "title": "Glastonbury confirms ticket sale dates - and highest ever price",
-      "link": "https://www.bbc.co.uk/news/articles/c0klzvdn8epo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 18:10:14 GMT",
-      "description": "The festival will return in June after taking a fallow year, but tickets have topped £400 for the first time.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Manchester City hantam Porto 2-0 berkat ketajaman Erling Haaland",
+      "link": "https://www.antaranews.com/berita/5732255/manchester-city-hantam-porto-2-0-berkat-ketajaman-erling-haaland",
+      "published": "Wed, 09 Sep 2026 05:02:27 +0700",
+      "description": "Manchester City menghantam Porto dengan skor 2-0 berkat ketajaman penyerang Erling Haaland pada pertandingan Liga ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Real Betis bangkit dari ketertinggalan dan kalahkan Lille 3-2",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5732248/aston-villa-kalahkan-club-brugge-3-2",
       "published": "Wed, 09 Sep 2026 04:24:45 +0700",
       "description": "Aston Villa mengalahkan Club Brugge dengan skor 3-2 pada pertandingan fase liga Liga Champions di Stadion Jan Breydel, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Iraola sebut Liverpool harus menekan kontra Atletico Madrid",
-      "link": "https://www.antaranews.com/berita/5732247/iraola-sebut-liverpool-harus-menekan-kontra-atletico-madrid",
-      "published": "Wed, 09 Sep 2026 04:19:35 +0700",
-      "description": "Pelatih Liverpool Andoni Iraola menyebutkan tim asuhannya harus menekan sejak menit pertama kontra Atletico Madrid pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
