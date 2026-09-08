@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-09-08T17:24:23+0000",
+  "timestamp": "2026-09-08T17:55:24+0000",
   "articles": [
+    {
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 17:48:37 GMT",
+      "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Ports denied request to land 120 migrants in RNLI boats",
       "link": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss",
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Monty Don to leave Gardeners' World after more than 20 years",
-      "link": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:43:32 GMT",
-      "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Polri maksimalkan pencarian jurnalis hilang kontak di Selat Sunda",
-      "link": "https://www.antaranews.com/berita/5732217/polri-maksimalkan-pencarian-jurnalis-hilang-kontak-di-selat-sunda",
-      "published": "Wed, 09 Sep 2026 00:18:55 +0700",
-      "description": "Polri bersama Basarnas dan unsur terkait memaksimalkan upaya pencarian sejumlah jurnalis yang hilang kontak saat ...",
+      "title": "ESDM sebut pengujian B50 telah uji tambang selama 1.000 jam",
+      "link": "https://www.antaranews.com/berita/5732229/esdm-sebut-pengujian-b50-telah-uji-tambang-selama-1000-jam",
+      "published": "Wed, 09 Sep 2026 00:53:38 +0700",
+      "description": "Kementerian Energi dan Sumber Daya Mineral (KemenESDM) menyatakan bahwa B50 atau biosolar telah melewati uji tambang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "GM PLN UID Sulselrabar tinjau optimalisasi pembangkit listrik",
-      "link": "https://www.antaranews.com/berita/5732213/gm-pln-uid-sulselrabar-tinjau-optimalisasi-pembangkit-listrik",
-      "published": "Wed, 09 Sep 2026 00:11:59 +0700",
-      "description": "General Manager PLN Unit Induk Distribusi Sulawesi Selatan, Sulawesi Tenggara, dan Sulawesi Barat (UID Sulselrabar) ...",
+      "title": "SAR Banten siapkan dua drone termal cari jurnalis di Selat Sunda",
+      "link": "https://www.antaranews.com/berita/5732228/sar-banten-siapkan-dua-drone-termalcari-jurnalis-di-selat-sunda",
+      "published": "Wed, 09 Sep 2026 00:53:11 +0700",
+      "description": "Kantor SAR Banten menyiapkan dua drone termal (pesawat nirawak termal) untuk membantu pencarian rombongan jurnalis yang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kansar Banten cek informasi di Pulau Sebesi cari jurnalis hilang",
-      "link": "https://www.antaranews.com/berita/5732209/kansar-banten-cek-informasi-di-pulau-sebesi-cari-jurnalis-hilang",
-      "published": "Wed, 09 Sep 2026 00:09:31 +0700",
-      "description": "Kantor SAR Banten melakukan pengecekan informasi mengenai kemungkinan kapal yang membawa lima pewarta foto, termasuk ...",
+      "title": "Flick sebut Barcelona siap tempur hadapi Feyenoord",
+      "link": "https://www.antaranews.com/berita/5732225/flick-sebut-barcelona-siap-tempur-hadapi-feyenoord",
+      "published": "Wed, 09 Sep 2026 00:47:50 +0700",
+      "description": "Pelatih Barcelona Hansi Flick menegaskan tim asuhannya siap tempur menghadapi Feyenoord pada pertandingan pertama fase ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Terima dukungan Jepang, Menpora dorong perluasan kerja sama olahraga",
-      "link": "https://www.antaranews.com/video/5732196/terima-dukungan-jepang-menpora-dorong-perluasan-kerja-sama-olahraga",
-      "published": "Tue, 08 Sep 2026 23:59:15 +0700",
-      "description": "ANTARA - Menteri Pemuda dan Olahraga Erick Thohir mendorong perluasan kerja sama olahraga antara Indonesia dan Jepang. ...",
+      "title": "Tiga petenis Indonesia siap susul Nathan Barki ke babak kedua ITF M15",
+      "link": "https://www.antaranews.com/berita/5732221/tiga-petenis-indonesia-siap-susul-nathan-barki-ke-babak-kedua-itf-m15",
+      "published": "Wed, 09 Sep 2026 00:32:51 +0700",
+      "description": "Tiga petenis Indonesia, Anthony Susanto, Rafalentino Ali Da Costa, dan Muhammad Rifqi Fitriadi, siap menyusul Nathan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
