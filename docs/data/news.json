@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-09T18:12:48+0000",
+  "timestamp": "2026-09-09T18:43:49+0000",
   "articles": [
     {
       "title": "Police launch criminal investigation into Reform UK donations",
       "link": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 17:21:14 GMT",
       "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Air traffic failure was avoidable, says transport secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 18:21:16 GMT",
+      "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 13:28:58 GMT",
-      "description": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Mykhailo Mudryk cedera pergelangan kaki, bakal absen beberapa pekan",
+      "link": "https://www.antaranews.com/berita/5734113/mykhailo-mudryk-cedera-pergelangan-kaki-bakal-absen-beberapa-pekan",
+      "published": "Thu, 10 Sep 2026 01:42:35 +0700",
+      "description": "Tottenham Hotspur mendapat kabar buruk setelah penyerang Mykhailo Mudryk mengalami cedera pergelangan kaki dalam sesi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Konsep tata ruang ciptakan ruang ketiga inklusif bagi masyarakat",
+      "link": "https://www.antaranews.com/video/5734112/konsep-tata-ruang-ciptakan-ruang-ketiga-inklusif-bagi-masyarakat",
+      "published": "Thu, 10 Sep 2026 01:39:58 +0700",
+      "description": "ANTARA - Pernahkah ada tempat yang membuat kita ingin berlama-lama, tak hanya untuk melakukan aktivitas tertentu, namun ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KPK akui sempat segel ruangan Dirjen Bea Cukai Djaka Budhi Utama",
+      "link": "https://www.antaranews.com/berita/5734109/kpk-akui-sempat-segel-ruangan-dirjen-bea-cukai-djaka-budhi-utama",
+      "published": "Thu, 10 Sep 2026 01:14:27 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) mengakui sempat menyegel ruangan Direktur Jenderal Bea dan Cukai Kementerian ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "KPK duga anggota DPRD jadi perantara pada kasus Anom Widiyantoro",
       "link": "https://www.antaranews.com/berita/5734108/kpk-duga-anggota-dprd-jadi-perantara-pada-kasus-anom-widiyantoro",
       "published": "Thu, 10 Sep 2026 01:11:54 +0700",
       "description": "Komisi Pemberantasan Korupsi (KPK) menduga anggota DPRD di Jawa Tengah menjadi perantara pada klaster dugaan pemerasan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Atlet voli putri Papua Mediol Yoku siap berjuang di Asian Games 2026",
-      "link": "https://asiangames.antaranews.com/berita/5734107/atlet-voli-putri-papua-mediol-yoku-siap-berjuang-di-asian-games-2026",
-      "published": "Thu, 10 Sep 2026 01:06:56 +0700",
-      "description": "Atlet voli putri asal Papua, Mediol Stiovanny Yoku, siap berjuang dan memberikan kemampuan terbaik saat menjalani debut ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pertamina siaga jaga kesehatan petugas di tengah asap karhutla",
-      "link": "https://www.antaranews.com/video/5734100/pertamina-siaga-jaga-kesehatan-petugas-di-tengah-asap-karhutla",
-      "published": "Thu, 10 Sep 2026 00:57:40 +0700",
-      "description": "ANTARA - Di tengah ancaman karhutla yang masih terjadi di Sumatera Selatan, kondisi kesehatan personel ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "ANTARA Kalbar dan PLN salurkan bantuan alat pemadam karhutla",
-      "link": "https://www.antaranews.com/video/5734097/antara-kalbar-dan-pln-salurkan-bantuan-alat-pemadam-karhutla",
-      "published": "Thu, 10 Sep 2026 00:27:46 +0700",
-      "description": "ANTARA -&nbsp;Lembaga Kantor Berita ANTARA biro Kalimantan Barat bersama PT PLN Nusantara Power Unit Pembangkitan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
