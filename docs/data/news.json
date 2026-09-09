@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-09-09T05:48:35+0000",
+  "timestamp": "2026-09-09T06:19:35+0000",
   "articles": [
-    {
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 01:45:15 GMT",
-      "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
       "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
@@ -26,42 +18,50 @@
       "category": "Global"
     },
     {
-      "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 04:26:38 GMT",
-      "description": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran.",
+      "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 04:59:08 GMT",
+      "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Pemkot Batam genjot PAD perkuat kapasitas fiskal daerah",
-      "link": "https://www.antaranews.com/berita/5732721/pemkot-batam-genjot-pad-perkuat-kapasitas-fiskal-daerah",
-      "published": "Wed, 09 Sep 2026 12:46:46 +0700",
-      "description": "Pemerintah Kota (Pemkot) Batam, Kepulauan Riau (Kepri) mengoptimalisasi Pendapatan Asli Daerah (PAD) melalui ...",
+      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 23:11:32 GMT",
+      "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "MedcoEnergi ungkap strategi hadapi volatilitas harga minyak dunia",
+      "link": "https://www.antaranews.com/berita/5732764/medcoenergi-ungkap-strategi-hadapi-volatilitas-harga-minyak-dunia",
+      "published": "Wed, 09 Sep 2026 13:17:40 +0700",
+      "description": "PT Medco Energi Internasional Tbk (MedcoEnergi) mengungkapkan strategi perusahaan dalam menghadapi volatilitas harga ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "realme 16 Pro Harry Potter Edition bakal diboyong ke Indonesia",
-      "link": "https://www.antaranews.com/berita/5732719/realme-16-pro-harry-potter-edition-bakal-diboyong-ke-indonesia",
-      "published": "Wed, 09 Sep 2026 12:45:25 +0700",
-      "description": "Merek ponsel asal China realme akan memboyong ponsel 16 Pro edisi khusus Harry&nbsp;Potter&nbsp;ke Indonesia pada 21 ...",
+      "title": "TNI-AS siapkan latihan penembakan sasaran \"drone\" di SGS 2026",
+      "link": "https://www.antaranews.com/berita/5732760/tni-as-siapkan-latihan-penembakan-sasaran-drone-di-sgs-2026",
+      "published": "Wed, 09 Sep 2026 13:14:55 +0700",
+      "description": "TNI bersama militer Amerika Serikat mematangkan persiapan latihan penembakan sasaran udara berupa pesawat nirawak ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "KPPG Sleman periksa indikasi gangguan kesehatan penerima MBG di Bantul",
-      "link": "https://www.antaranews.com/berita/5732717/kppg-sleman-periksa-indikasi-gangguan-kesehatan-penerima-mbg-di-bantul",
-      "published": "Wed, 09 Sep 2026 12:44:26 +0700",
-      "description": "Kantor Pelayanan Pemenuhan Gizi (KPPG) Sleman, Daerah Istimewa Yogyakarta (DIY) melakukan pemeriksaan terkait indikasi ...",
+      "title": "Taylor Swift tampil dengan gaya rambut baru",
+      "link": "https://www.antaranews.com/berita/5732759/taylor-swift-tampil-dengan-gaya-rambut-baru",
+      "published": "Wed, 09 Sep 2026 13:12:44 +0700",
+      "description": "Penyanyi Taylor Swift tampil dengan potongan rambut yang lebih pendek saat makan malam bersama suaminya, Travis Kelce, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "KPK panggil Direktur Brantas Abipraya Suradi jadi saksi kasus Lamongan",
-      "link": "https://www.antaranews.com/berita/5732716/kpk-panggil-direktur-brantas-abipraya-suradi-jadi-saksi-kasus-lamongan",
-      "published": "Wed, 09 Sep 2026 12:42:32 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) memanggil Direktur Keuangan, Manajemen Risiko, dan IT PT Brantas Abipraya (Persero) ...",
+      "title": "Sleman tingkatkan produktivitas padi lewat teknologi PM AAS",
+      "link": "https://www.antaranews.com/berita/5732755/sleman-tingkatkan-produktivitas-padi-lewat-teknologi-pm-aas",
+      "published": "Wed, 09 Sep 2026 13:12:20 +0700",
+      "description": "Pemerintah Kabupaten Sleman, Daerah Istimewa Yogyakarta, mulai menerapkan inovasi teknologi pertanian modern melalui ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
