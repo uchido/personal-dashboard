@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-10T15:24:08+0000",
+  "timestamp": "2026-09-10T15:55:09+0000",
   "assets": [
     {
-      "price": 77191,
-      "price_idr": 1356846718,
-      "change_24h": -1.31,
-      "change_24h_idr": -0.91,
+      "price": 77148,
+      "price_idr": 1356612642,
+      "change_24h": -1.88,
+      "change_24h_idr": -1.38,
       "symbol": "BTC",
       "name": "Bitcoin"
     },
     {
-      "price": 4363.95,
-      "price_idr": 76708502,
-      "change_24h": -0.39,
-      "change_24h_idr": 0.01,
+      "price": 4367.44,
+      "price_idr": 76799167,
+      "change_24h": -0.76,
+      "change_24h_idr": -0.26,
       "symbol": "XAU",
       "name": "Gold"
     }
