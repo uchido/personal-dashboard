@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-10T00:55:56+0000",
+  "timestamp": "2026-09-10T01:26:56+0000",
   "articles": [
     {
       "title": "Police launch criminal investigation into Reform UK donations",
       "link": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 20:22:00 GMT",
       "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Iran war will not end until after November US elections, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 23:46:06 GMT",
+      "description": "The president also tells reporters he does not think oil prices will come down until after the crucial November vote.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "AI is becoming harder to control – can humans stay in charge?",
-      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 23:17:33 GMT",
-      "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 22:17:22 GMT",
+      "description": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-      "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:21:13 GMT",
-      "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Menjaga air sebelum keran",
-      "link": "https://www.antaranews.com/berita/5734167/menjaga-air-sebelum-keran",
-      "published": "Thu, 10 Sep 2026 07:54:23 +0700",
-      "description": "Air biasanya baru terasa sangat penting ketika alirannya berubah. Keruh, berbusa, berbau, atau tiba-tiba mengecil. Pada ...",
+      "title": "Apa yang terjadi di dalam gunung sebelum erupsi? Ini prosesnya",
+      "link": "https://www.antaranews.com/berita/5734199/apa-yang-terjadi-di-dalam-gunung-sebelum-erupsi-ini-prosesnya",
+      "published": "Thu, 10 Sep 2026 08:21:53 +0700",
+      "description": "Aktivitas gunung api di Indonesia kembali menjadi perhatian dalam beberapa waktu terakhir. Gunung Anak Krakatau di ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Daftar nominasi Ballon d'Or 2026: Messi masuk, Ronaldo absen",
-      "link": "https://www.antaranews.com/berita/5734164/daftar-nominasi-ballon-dor-2026-messi-masuk-ronaldo-absen",
-      "published": "Thu, 10 Sep 2026 07:52:27 +0700",
-      "description": "Daftar nominasi Ballon d&#39;Or 2026 resmi diumumkan pada Selasa (8/9). Sebanyak 30 pemain masuk dalam daftar ...",
+      "title": "DKI kemarin, seputar dana obligasi hingga anggaran ikan sapu-sapu",
+      "link": "https://www.antaranews.com/berita/5734197/dki-kemarin-seputar-dana-obligasi-hingga-anggaran-ikan-sapu-sapu",
+      "published": "Thu, 10 Sep 2026 08:20:37 +0700",
+      "description": "Sejumlah berita seputar wilayah DKI Jakarta pada Rabu (9/9) yang masih layak dibaca hari ini antara lain seputar ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Matchday 1 Liga Champions, PSG hajar Slovan Bratislava 6-1",
-      "link": "https://www.antaranews.com/foto/5734160/matchday-1-liga-champions-psg-hajar-slovan-bratislava-6-1",
-      "published": "Thu, 10 Sep 2026 07:29:39 +0700",
-      "description": "Pesepak&nbsp;bola Paris Saint-Germain&nbsp;(PSG) Mika Godts berebut bola&nbsp;dengan pesepak&nbsp;bola SK Slovan ...",
+      "title": "Kenapa abu vulkanik bisa menyuburkan tanah? Ini penjelasannya",
+      "link": "https://www.antaranews.com/berita/5734193/kenapa-abu-vulkanik-bisa-menyuburkan-tanah-ini-penjelasannya",
+      "published": "Thu, 10 Sep 2026 08:16:09 +0700",
+      "description": "Erupsi Gunung Anak Krakatau di Selat Sunda menjadi perhatian dalam beberapa hari terakhir setelah abu vulkanik menyebar ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemarin, dana Rp11 triliun untuk rekening massal hingga satgas KDMP",
-      "link": "https://www.antaranews.com/berita/5734156/kemarin-dana-rp11-triliun-untuk-rekening-massal-hingga-satgas-kdmp",
-      "published": "Thu, 10 Sep 2026 07:24:15 +0700",
-      "description": "Berbagai peristiwa ekonomi diberitakan oleh Kantor Berita ANTARA pada Rabu (09/09), mulai dari pemerintah akan ...",
+      "title": "Bupati Sumbawa pastikan tambang Lawang Tuwa dihentikan",
+      "link": "https://www.antaranews.com/berita/5734191/bupati-sumbawa-pastikan-tambang-lawang-tuwa-dihentikan",
+      "published": "Thu, 10 Sep 2026 08:15:00 +0700",
+      "description": "Bupati Sumbawa H. Syarafuddin Jarot memastikan aktivitas pertambangan tanpa izin di kawasan Lawang Tuwa, Kecamatan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
