@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-10T13:51:11+0000",
+  "timestamp": "2026-09-10T14:22:11+0000",
   "articles": [
     {
       "title": "England's mayors to get power to impose tourist tax",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 12:33:48 GMT",
+      "published": "Thu, 10 Sep 2026 14:13:27 GMT",
       "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
       "source": "BBC News",
       "category": "Global"
@@ -26,42 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Why some experts increasingly fear AI will take over",
-      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 23:17:33 GMT",
-      "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+      "title": "Two arrested in London on suspicion of assisting Iran's intelligence service",
+      "link": "https://www.bbc.co.uk/news/articles/c62mqzj5vnpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 13:48:09 GMT",
+      "description": "Police say the arrests are not connected to incidents linked to Jewish and Iranian communities in London earlier this year.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Pakar: Indonesia perlu optimalkan BRICS untuk ketahanan energi, pangan",
-      "link": "https://www.antaranews.com/berita/5735500/pakar-indonesia-perlu-optimalkan-brics-untuk-ketahanan-energi-pangan",
-      "published": "Thu, 10 Sep 2026 20:50:24 +0700",
-      "description": "Akademisi Hubungan Internasional Universitas Islam Internasional Indonesia (UIII) Moch Faisal Karim menyatakan bahwa ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Telkomsat perluas konektivitas satelit untuk dukung digitalisasi sektor maritim",
-      "link": "https://www.antaranews.com/berita/5735496/telkomsat-perluas-konektivitas-satelit-untuk-dukung-digitalisasi-sektor-maritim",
-      "published": "Thu, 10 Sep 2026 20:49:40 +0700",
-      "description": "Jakarta (ANTARA) &mdash; PT Telkom Satelit Indonesia (Telkomsat) memperluas pemanfaatan konektivitas berbasis satelit ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KPK usut deposito hingga aset milik mantan Kakanwil DJP Jakarta Khusus",
-      "link": "https://www.antaranews.com/berita/5735492/kpk-usut-deposito-hingga-aset-milik-mantan-kakanwil-djp-jakarta-khusus",
-      "published": "Thu, 10 Sep 2026 20:49:28 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) mengusut penempatan deposito hingga aset milik tersangka kasus dugaan gratifikasi di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "PBB peringatkan persediaan kebutuhan pokok di Jalur Gaza menipis",
-      "link": "https://www.antaranews.com/berita/5735488/pbb-peringatkan-persediaan-kebutuhan-pokok-di-jalur-gaza-menipis",
-      "published": "Thu, 10 Sep 2026 20:46:07 +0700",
-      "description": "Juru Bicara PBB St&eacute;phane Dujarric memperingatkan bahwa persediaan kebutuhan pokok di Jalur Gaza tidak memadai di ...",
+      "error": "no element found: line 665, column 11",
       "source": "Antara News",
       "category": "Indonesia"
     }
