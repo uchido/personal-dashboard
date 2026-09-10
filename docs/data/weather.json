@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T04:33:00+0000",
+  "timestamp": "2026-09-10T05:04:01+0000",
   "locations": [
     {
       "name": "Palu",
@@ -8,14 +8,14 @@
       "country": "Indonesia",
       "temp_c": "29",
       "feels_like_c": "30",
-      "humidity": "54",
-      "wind_speed_kmh": "6",
-      "wind_dir": "NNW",
+      "humidity": "55",
+      "wind_speed_kmh": "8",
+      "wind_dir": "NW",
       "visibility_km": "10",
-      "pressure_mb": "1012",
+      "pressure_mb": "1011",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "12",
+      "uv_index": "13",
       "forecast": [
         {
           "date": "2026-09-10",
@@ -48,16 +48,16 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "25",
-      "feels_like_c": "26",
-      "humidity": "66",
-      "wind_speed_kmh": "9",
-      "wind_dir": "SSW",
+      "temp_c": "28",
+      "feels_like_c": "29",
+      "humidity": "52",
+      "wind_speed_kmh": "12",
+      "wind_dir": "SW",
       "visibility_km": "10",
-      "pressure_mb": "1014",
-      "condition": "Cloudy ",
-      "condition_code": "119",
-      "uv_index": "6",
+      "pressure_mb": "1013",
+      "condition": "Patchy rain nearby",
+      "condition_code": "176",
+      "uv_index": "10",
       "forecast": [
         {
           "date": "2026-09-10",
