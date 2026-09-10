@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-10T14:22:11+0000",
+  "timestamp": "2026-09-10T14:53:12+0000",
   "articles": [
     {
       "title": "England's mayors to get power to impose tourist tax",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 14:13:27 GMT",
+      "published": "Thu, 10 Sep 2026 14:46:09 GMT",
       "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
       "source": "BBC News",
       "category": "Global"
@@ -18,14 +18,6 @@
       "category": "Global"
     },
     {
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 07:12:32 GMT",
-      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Two arrested in London on suspicion of assisting Iran's intelligence service",
       "link": "https://www.bbc.co.uk/news/articles/c62mqzj5vnpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 13:48:09 GMT",
@@ -34,7 +26,42 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 665, column 11",
+      "title": "Drone display recreates the Twin Towers over New York City",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 14:19:26 GMT",
+      "description": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "BKSDA-YIARI selamatkan 15 orang utan dalam sebulan akibat karhutla",
+      "link": "https://www.antaranews.com/berita/5735633/bksda-yiari-selamatkan-15-orang-utan-dalam-sebulan-akibat-karhutla",
+      "published": "Thu, 10 Sep 2026 21:48:55 +0700",
+      "description": "Balai Konservasi Sumber Daya Alam (BKSDA) Kalimantan Barat bersama Yayasan Inisiasi Alam Rehabilitasi Indonesia (YIARI) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "TPK Semarang: Arus peti kemas didominasi ekspor impor",
+      "link": "https://www.antaranews.com/berita/5735631/tpk-semarang-arus-peti-kemas-didominasi-ekspor-impor",
+      "published": "Thu, 10 Sep 2026 21:46:23 +0700",
+      "description": "PT Pelindo Terminal Petikemas menyebutkan bahwa arus peti kemas di Terminal Peti Kemas (TPK) Semarang, Jawa Tengah, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemkot Jakbar gandeng KADIN dan swasta percantik wilayah dengan mural",
+      "link": "https://www.antaranews.com/berita/5735628/pemkot-jakbar-gandeng-kadin-dan-swasta-percantik-wilayah-dengan-mural",
+      "published": "Thu, 10 Sep 2026 21:43:39 +0700",
+      "description": "Pemerintah Kota Jakarta Barat&nbsp;menggandeng Kamar Dagang dan Industri (KADIN) serta PT Mowilex Indonesia untuk ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kapolda Jatim dorong pelestarian pesisir lewat penanaman Cemara Udang",
+      "link": "https://www.antaranews.com/video/5735487/kapolda-jatim-dorong-pelestarian-pesisir-lewat-penanaman-cemara-udang",
+      "published": "Thu, 10 Sep 2026 21:41:36 +0700",
+      "description": "ANTARA - Kapolda Jawa Timur&nbsp; Irjen Pol Nanang Avianto bersama ketua Bhayangkari daerah Jawa Timur Dewi Avianto ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
