@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T09:12:06+0000",
+  "timestamp": "2026-09-10T09:43:06+0000",
   "articles": [
     {
       "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Imigrasi Jakpus luncurkan layanan informasi inklusif \"Si Mayor Smile\"",
-      "link": "https://www.antaranews.com/berita/5734857/imigrasi-jakpus-luncurkan-layanan-informasi-inklusif-si-mayor-smile",
-      "published": "Thu, 10 Sep 2026 16:11:45 +0700",
-      "description": "Kantor Imigrasi Kelas I Non TPI Jakarta Pusat meluncurkan Si Mayor Smile&nbsp;(Sistem Layanan Informasi yang Inklusif, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "PT Timah targetkan tambahan cadangan 30 ribu ton pada 2026",
-      "link": "https://www.antaranews.com/berita/5734851/pt-timah-targetkan-tambahan-cadangan-30-ribu-ton-pada-2026",
-      "published": "Thu, 10 Sep 2026 16:10:17 +0700",
-      "description": "PT Timah (Persero) Tbk menargetkan penambahan cadangan timah sekitar 30 ribu ton pada 2026 untuk mengganti deplesi atau ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Nelayan bantu pencarian korban speed boat hilang kontak di Selat Sunda",
-      "link": "https://www.antaranews.com/video/5734795/nelayan-bantu-pencarian-korban-speed-boat-hilang-kontak-di-selat-sunda",
-      "published": "Thu, 10 Sep 2026 16:09:07 +0700",
-      "description": "ANTARA - Sejumlah nelayan di Carita, Kabupaten Pandeglang, Banten, Kamis (10/9), terjun membantu proses pencarian ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Komisi VII DPR RI pantau penyaluran KUR di Depok",
-      "link": "https://www.antaranews.com/berita/5734847/komisi-vii-dpr-ri-pantau-penyaluran-kur-di-depok",
-      "published": "Thu, 10 Sep 2026 16:07:12 +0700",
-      "description": "Komisi VII DPR RI memantau penyaluran Kredit Usaha Rakyat (KUR) di Kota Depok, Jawa Barat, agar tepat sasaran bagi para ...",
+      "error": "no element found: line 658, column 168",
       "source": "Antara News",
       "category": "Indonesia"
     }
