@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-10T07:08:03+0000",
+  "timestamp": "2026-09-10T07:39:04+0000",
   "articles": [
     {
-      "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
+      "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
       "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 06:56:38 GMT",
       "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
@@ -10,31 +10,58 @@
       "category": "Global"
     },
     {
-      "title": "Four takeaways from Trump's speech at first Republican midterms convention",
-      "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 04:07:44 GMT",
-      "description": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
+      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 07:12:32 GMT",
+      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
       "source": "BBC News",
       "category": "Global"
     },
     {
       "title": "England's mayors to be given power to introduce tourist tax",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 02:48:38 GMT",
-      "description": "The government is expected to outline how local leaders will be able to impose levies on overnight stays.",
+      "published": "Thu, 10 Sep 2026 07:17:03 GMT",
+      "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Migraines and acne among five more conditions pharmacists can treat",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 00:01:35 GMT",
-      "description": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
+      "title": "RNLI reviews security after volunteers targeted online",
+      "link": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 07:12:21 GMT",
+      "description": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Luhut mengajak masyarakat jadi agen pelayanan perlinsos digital",
+      "link": "https://www.antaranews.com/berita/5734620/luhut-mengajak-masyarakat-jadi-agen-pelayanan-perlinsos-digital",
+      "published": "Thu, 10 Sep 2026 14:38:26 +0700",
+      "description": "Ketua Dewan Ekonomi Nasional (DEN) Luhut Binsar Pandjaitan mengajak masyarakat untuk menjadi Agen Perlindungan Sosial ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Luhut pastikan 50 juta warga miskin masuk sistem perlinsos digital",
+      "link": "https://www.antaranews.com/berita/5734616/luhut-pastikan-50-juta-warga-miskin-masuk-sistem-perlinsos-digital",
+      "published": "Thu, 10 Sep 2026 14:37:39 +0700",
+      "description": "Ketua Komite Percepatan Transformasi Digital Pemerintah (KPTDP) sekaligus Ketua Dewan Ekonomi Nasional (DEN) Luhut ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Gangguan teknis batalkan 2.000 lebih penerbangan di Inggris",
+      "link": "https://www.antaranews.com/berita/5734612/gangguan-teknis-batalkan-2000-lebih-penerbangan-di-inggris",
+      "published": "Thu, 10 Sep 2026 14:37:17 +0700",
+      "description": "Pimpinan penyedia layanan pengendalian lalu lintas udara utama Inggris, Rabu (9/9), menepis kemungkinan adanya serangan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemenekraf gandeng PH, kembangkan bisnis seni pertunjukan",
+      "link": "https://www.antaranews.com/berita/5734611/kemenekraf-gandeng-ph-kembangkan-bisnis-seni-pertunjukan",
+      "published": "Thu, 10 Sep 2026 14:35:00 +0700",
+      "description": "Kementerian Ekonomi Kreatif (Kemenekraf) memperkuat kolaborasi dengan pelaku industri untuk mengembangkan ekosistem ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
