@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T18:16:37+0000",
+  "timestamp": "2026-09-11T18:47:38+0000",
   "articles": [
     {
       "title": "MPs vote against fresh attempt to legalise assisted dying",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 18:13:54 GMT",
+      "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 16:58:34 GMT",
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 16:13:39 GMT",
-      "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Jurnalis Malang Raya berdoa untuk pewarta yang hilang di Selat Sunda",
+      "link": "https://www.antaranews.com/video/5737375/jurnalis-malang-raya-berdoa-untuk-pewarta-yang-hilang-di-selat-sunda",
+      "published": "Sat, 12 Sep 2026 01:25:25 +0700",
+      "description": "ANTARA - &lrm;Puluhan jurnalis Malang Raya menggelar doa bersama untuk keselamatan lima pewarta dan tiga kru kapal yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Bukit Asam tata kelistrikan seluruh gedung bersejarah di Sawahlunto",
+      "link": "https://www.antaranews.com/video/5737369/bukit-asam-tata-kelistrikan-seluruh-gedung-bersejarah-di-sawahlunto",
+      "published": "Sat, 12 Sep 2026 01:22:56 +0700",
+      "description": "ANTARA - Pascakebakaran yang menghanguskan Gedung Pusat Kebudayaan atau GPK Sawahlunto beberapa waktu lalu, PT. Bukit ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Undip kumpulkan pakar dunia bahas tata kelola lingkungan",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5737367/samuel-wattimena-minta-pengelola-desa-wisata-bersinergi",
       "published": "Sat, 12 Sep 2026 00:30:36 +0700",
       "description": "Anggota Komisi VII DPR RI Samuel Wattimena meminta pengelola desa wisata saling bersinergi untuk mengembangkan potensi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Jelang Persija vs Persib, Menpora: Kasus Kanjuruhan tak boleh terulang",
-      "link": "https://www.antaranews.com/video/5737360/jelang-persija-vs-persib-menpora-kasus-kanjuruhan-tak-boleh-terulang",
-      "published": "Sat, 12 Sep 2026 00:20:08 +0700",
-      "description": "ANTARA - Menteri Pemuda dan Olahraga (Menpora) Erick Thohir, Jumat (11/9), meminta agar semua pihak dapat menjaga ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Persib vs Persija, Polisi Karawang cegah konvoi ke Jakarta",
-      "link": "https://www.antaranews.com/berita/5737364/persib-vs-persija-polisi-karawang-cegah-konvoi-ke-jakarta",
-      "published": "Sat, 12 Sep 2026 00:09:30 +0700",
-      "description": "Polresta Karawang mengimbau pendukung Persib Bandung menyaksikan laga melawan Persija Jakarta melalui kegiatan nonton ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
