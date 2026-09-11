@@ -1,22 +1,6 @@
 {
-  "timestamp": "2026-09-11T07:56:28+0000",
+  "timestamp": "2026-09-11T08:27:28+0000",
   "articles": [
-    {
-      "title": "UK economy grew faster than expected in July",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 07:45:18 GMT",
-      "description": "The economy expanded by 0.4%, official figures show, whereas economists had predicted no growth.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Assisted dying bill for England and Wales faces new vote in Commons",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 06:12:23 GMT",
-      "description": "The proposal was backed by a majority of MPs last year but did not become law after its progress was stalled by peers.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
       "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
@@ -26,42 +10,58 @@
       "category": "Global"
     },
     {
-      "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+      "title": "AI boom helps drive surprise UK growth in July",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:04:22 GMT",
+      "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
       "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 02:46:30 GMT",
+      "published": "Fri, 11 Sep 2026 08:15:25 GMT",
       "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Sudin Dukcapil layani warga berkebutuhan khusus di Pulau Lancang",
-      "link": "https://www.antaranews.com/berita/5736396/sudin-dukcapil-layani-warga-berkebutuhan-khusus-di-pulau-lancang",
-      "published": "Fri, 11 Sep 2026 14:55:44 +0700",
-      "description": "Suku Dinas Kependudukan dan Pencatatan Sipil (Sudin&nbsp;Dukcapil) Kabupaten Kepulauan Seribu memberikan pelayanan bagi ...",
+      "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+      "link": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 23:22:33 GMT",
+      "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Anggota DPR dukung Bea Cukai perkuat penindakan rokok ilegal",
+      "link": "https://www.antaranews.com/berita/5736465/anggota-dpr-dukung-bea-cukai-perkuat-penindakan-rokok-ilegal",
+      "published": "Fri, 11 Sep 2026 15:22:07 +0700",
+      "description": "Anggota Komisi III DPR RI Abdullah&nbsp;mendukung Bea Cukai memperkuat penindakan terhadap rokok ilegal yang telah ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Google hadirkan aplikasi Gemini khusus PC Windows",
-      "link": "https://www.antaranews.com/berita/5736392/google-hadirkan-aplikasi-gemini-khusus-pc-windows",
-      "published": "Fri, 11 Sep 2026 14:54:16 +0700",
-      "description": "Google merilis aplikasi Gemini yang khusus dirancang untuk komputer dengan sistem operasi&nbsp;Windows 10 dan ...",
+      "title": "Harga minyak WTI tembus 100 dolar AS saat konflik di Timur Tengah",
+      "link": "https://www.antaranews.com/berita/5736461/harga-minyak-wti-tembus-100-dolar-as-saat-konflik-di-timur-tengah",
+      "published": "Fri, 11 Sep 2026 15:21:53 +0700",
+      "description": "Harga kontrak berjangka minyak mentah West Texas Intermediate (WTI) untuk pengiriman Oktober menembus angka 100 dolar ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Anggota DPR nilai usul perpanjangan jabatan kades ancam demokrasi desa",
-      "link": "https://www.antaranews.com/berita/5736391/anggota-dpr-nilai-usul-perpanjangan-jabatan-kades-ancam-demokrasi-desa",
-      "published": "Fri, 11 Sep 2026 14:51:55 +0700",
-      "description": "Anggota Komisi II DPR RI Muhammad Khozin menilai usulan perpanjangan masa jabatan kepala desa (kades) yang akan ...",
+      "title": "Wapres Gibran kunjungi siswi yang bermasalah dengan menu MBG di Karo",
+      "link": "https://www.antaranews.com/berita/5736459/wapres-gibran-kunjungi-siswi-yang-bermasalah-dengan-menu-mbg-di-karo",
+      "published": "Fri, 11 Sep 2026 15:20:46 +0700",
+      "description": "Wakil Presiden RI Gibran Rakabuming Raka,Jumat pagi meninjau langsung kondisi para siswa SMAN 1 Kabanjahe, Kabupaten ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "KPK panggil Ketua DPRD Kota Bengkulu hingga ASN Pemkot Tangerang",
-      "link": "https://www.antaranews.com/berita/5736387/kpk-panggil-ketua-dprd-kota-bengkulu-hingga-asn-pemkot-tangerang",
-      "published": "Fri, 11 Sep 2026 14:51:32 +0700",
-      "description": "Komisi Pemberantasan Korupsi memanggil Ketua DPRD Kota Bengkulu Herimanto (HER) dan aparatur sipil ...",
+      "title": "Tekan inflasi dan bantu warga Kejati Sultra gelar pangan murah",
+      "link": "https://www.antaranews.com/video/5736375/tekan-inflasi-dan-bantu-warga-kejati-sultra-gelar-pangan-murah",
+      "published": "Fri, 11 Sep 2026 15:18:57 +0700",
+      "description": "ANTARA - Kejaksaan Tinggi Sulawesi Tenggara (Kejati Sultra) menggelar Gerakan Pangan Murah (GPM) di pelataran eks MTQ ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
