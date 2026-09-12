@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-12T04:36:49+0000",
+  "timestamp": "2026-09-12T05:07:50+0000",
   "articles": [
     {
       "title": "Reform receives record £36m donation from crypto billionaire",
       "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 23:27:18 GMT",
       "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 04:43:10 GMT",
+      "description": "The East-West pipeline has helped the country - the world's largest crude oil exporter - bypass closures in the Strait of Hormuz.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 02:29:49 GMT",
-      "description": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "PIHPS catat harga cabai rawit Rp90.050/kg, telur ayam Rp29.900/kg",
-      "link": "https://www.antaranews.com/berita/5737595/pihps-catat-harga-cabai-rawit-rp90050-kg-telur-ayam-rp29900-kg",
-      "published": "Sat, 12 Sep 2026 11:35:30 +0700",
-      "description": "Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional yang dikelola Bank Indonesia, mencatat harga komoditas cabai ...",
+      "title": "Zverev melaju ke final US Open setelah kalahkan Khachanov",
+      "link": "https://www.antaranews.com/berita/5737612/zverev-melaju-ke-final-us-open-setelah-kalahkan-khachanov",
+      "published": "Sat, 12 Sep 2026 12:04:09 +0700",
+      "description": "Alexander Zverev melaju ke final US Open 2026 setelah mengalahkan petenis Rusia Karen Khachanov dalam semifinal di ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "RSUD Kebayoran Baru perkuat layanan ibu-bayi melalui IGD Ponek 24 jam",
-      "link": "https://www.antaranews.com/berita/5737591/rsud-kebayoran-baru-perkuat-layanan-ibu-bayi-melalui-igd-ponek-24-jam",
-      "published": "Sat, 12 Sep 2026 11:30:01 +0700",
-      "description": "RSUD Kebayoran Baru, Jakarta Selatan memperkuat pelayanan ibu dan bayi melalui Instalasi Gawat Darurat Pelayanan ...",
+      "title": "Bawa Bubur Cirebon ke Jantung Kota Taipei, Kisah Mantan PMI Tati Purwanti yang Bertumbuh Bersama BRI",
+      "link": "https://www.antaranews.com/berita/5737609/bawa-bubur-cirebon-ke-jantung-kota-taipei-kisah-mantan-pmi-tati-purwanti-yang-bertumbuh-bersama-bri",
+      "published": "Sat, 12 Sep 2026 11:53:54 +0700",
+      "description": "Jakarta (ANTARA) &ndash; Lebih dari dua dekade lalu, Tati Purwanti meninggalkan Indramayu untuk bekerja sebagai Pekerja ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Terusan sunga ke laut utama China akan dibuka, hubungkan China  barat daya dengan laut",
-      "link": "https://www.antaranews.com/berita/5737588/terusan-sunga-ke-laut-utama-china-akan-dibuka-hubungkan-china-barat-daya-dengan-laut",
-      "published": "Sat, 12 Sep 2026 11:29:44 +0700",
-      "description": "Kanal Pinglu di daerah otonom etnis Zhuang Guangxi, China selatan, akan mulai beroperasi pada 16 September. Kanal ...",
+      "title": "TNI berupaya melahirkan atlet petembak terbaik lewat Panglima TNI CUP",
+      "link": "https://www.antaranews.com/berita/5737605/tni-berupaya-melahirkan-atlet-petembak-terbaik-lewat-panglima-tni-cup",
+      "published": "Sat, 12 Sep 2026 11:51:48 +0700",
+      "description": "TNI AU berupaya melahirkan atlet petembak terbaik nasional dengan menggelar kompetisi Panglima TNI CUP 2026 di Lapangan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Daftar lengkap harga emas tiga jenama di Pegadaian pada Sabtu",
-      "link": "https://www.antaranews.com/berita/5737587/daftar-lengkap-harga-emas-tiga-jenama-di-pegadaian-pada-sabtu",
-      "published": "Sat, 12 Sep 2026 11:21:58 +0700",
-      "description": "Harga emas di laman Pegadaian dikutip dari Jakarta, Sabtu, pukul 11.00 WIB, menunjukkan harga emas jenama Galeri24, ...",
+      "title": "1.597 petugas Bekasi amankan mobilitas suporter Persija-Persib",
+      "link": "https://www.antaranews.com/berita/5737601/1597-petugas-bekasi-amankan-mobilitas-suporter-persija-persib",
+      "published": "Sat, 12 Sep 2026 11:42:34 +0700",
+      "description": "Sebanyak 1.597 petugas di wilayah Kabupaten Bekasi, Jawa Barat dikerahkan untuk mengamankan mobilitas suporter ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
