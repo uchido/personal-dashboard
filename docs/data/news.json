@@ -1,6 +1,22 @@
 {
-  "timestamp": "2026-09-12T21:09:08+0000",
+  "timestamp": "2026-09-12T21:40:09+0000",
   "articles": [
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 21:16:47 GMT",
+      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 17:28:53 GMT",
+      "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Reform receives second £36m donation in two days as crypto investor matches record",
       "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
@@ -10,26 +26,10 @@
       "category": "Global"
     },
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 17:42:38 GMT",
-      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 13:56:20 GMT",
-      "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
-      "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 12:51:24 GMT",
-      "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 21:25:28 GMT",
+      "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
       "source": "BBC News",
       "category": "Global"
     },
