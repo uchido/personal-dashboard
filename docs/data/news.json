@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-12T09:46:55+0000",
+  "timestamp": "2026-09-12T10:17:56+0000",
   "articles": [
     {
       "title": "Reform receives record £36m donation from crypto billionaire",
       "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 06:19:50 GMT",
       "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+      "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 10:07:00 GMT",
+      "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
-      "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 23:06:39 GMT",
-      "description": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Nissan bakal hidupkan kembali Pixo sebagai mobil listrik",
-      "link": "https://otomotif.antaranews.com/berita/5737861/nissan-bakal-hidupkan-kembali-pixo-sebagai-mobil-listrik",
-      "published": "Sat, 12 Sep 2026 16:35:48 +0700",
-      "description": "Nissan&nbsp;diwartakan bakal menghidupkan kembali Pixo, kendaraan berbahan bakar bensin yang dipasarkan di ...",
+      "title": "Akademisi: Pertahankan kondisi tanaman jaga hijauan pakan saat kemarau",
+      "link": "https://www.antaranews.com/berita/5737885/akademisi-pertahankan-kondisi-tanaman-jaga-hijauan-pakan-saat-kemarau",
+      "published": "Sat, 12 Sep 2026 17:14:37 +0700",
+      "description": "Akademisi Universitas Gadjah Mada (UGM) Miftahush Shirothul Haq menekankan pentingnya mempertahankan kondisi tanaman ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Prabowo disambut PM Modi saat tiba di KTT ke-18 BRICS",
-      "link": "https://www.antaranews.com/berita/5737857/prabowo-disambut-pm-modi-saat-tiba-di-ktt-ke-18-brics",
-      "published": "Sat, 12 Sep 2026 16:24:01 +0700",
-      "description": "Presiden Prabowo Subianto disambut Perdana Menteri India Narendra Modi saat tiba di Bharat Mandapam, New Delhi, India, ...",
+      "title": "China ancam batalkan pertemuan Xi-Trump jika AS jual senjata ke Taiwan",
+      "link": "https://www.antaranews.com/berita/5737881/china-ancam-batalkan-pertemuan-xi-trump-jika-as-jual-senjata-ke-taiwan",
+      "published": "Sat, 12 Sep 2026 17:12:52 +0700",
+      "description": "China telah memberitahu Amerika Serikat bahwa mereka berencana membatalkan pertemuan antara pemimpin kedua negara yang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Polisi pastikan ketersediaan stok dan harga beras di Jakut",
-      "link": "https://www.antaranews.com/berita/5737853/polisi-pastikan-ketersediaan-stok-dan-harga-beras-di-jakut",
-      "published": "Sat, 12 Sep 2026 16:23:08 +0700",
-      "description": "Satgas Pangan Polres Pelabuhan Tanjung Priok memastikan ketersediaan stok dan harga beras sesuai Harga Eceran Tertinggi ...",
+      "title": "Imigrasi Medan terima 49 PMI yang dipulangkan dari Malaysia",
+      "link": "https://www.antaranews.com/berita/5737879/imigrasi-medan-terima-49-pmi-yang-dipulangkan-dari-malaysia",
+      "published": "Sat, 12 Sep 2026 17:10:20 +0700",
+      "description": "Kantor Imigrasi Kelas I Khusus TPI Medan menerima 49 pekerja migran Indonesia (PMI) yang dipulangkan dari Malaysia ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Rusia serang pabrik logam terbesar untuk produk militer milik Ukraina",
-      "link": "https://www.antaranews.com/berita/5737851/rusia-serang-pabrik-logam-terbesar-untuk-produk-militer-milik-ukraina",
-      "published": "Sat, 12 Sep 2026 16:20:41 +0700",
-      "description": "Kementerian Pertahanan Rusia,&nbsp;Sabtu, menyatakan&nbsp;pasukannya menyerang kompleks peleburan baja berbasis tungku ...",
+      "title": "Jasamarga kembali lakukan pemeliharaan jalan Tol Jakarta-Cikampek",
+      "link": "https://www.antaranews.com/berita/5737876/jasamarga-kembali-lakukan-pemeliharaan-jalan-tol-jakarta-cikampek",
+      "published": "Sat, 12 Sep 2026 17:07:27 +0700",
+      "description": "PT Jasamarga Transjawa Tol kembali melaksanakan pemeliharaan jalan di sejumlah titik ruas Tol Jakarta-Cikampek, untuk ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
