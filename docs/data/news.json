@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-13T11:06:23+0000",
+  "timestamp": "2026-09-13T11:37:23+0000",
   "articles": [
     {
       "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 07:06:41 GMT",
+      "published": "Sun, 13 Sep 2026 11:13:07 GMT",
       "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
       "source": "BBC News",
       "category": "Global"
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 11:16:06 GMT",
+      "description": "High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Will the Thirlwall report change the debate about Lucy Letby?",
       "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 23:15:54 GMT",
@@ -26,42 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Student loan terms to be made clearer in England following repayment row",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 23:20:29 GMT",
-      "description": "Changes will spell out that governments can change rules and that career choices affect repayments.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Jelajah venue Asian Games 2026",
-      "link": "https://www.antaranews.com/infografik/5738716/jelajah-venue-asian-games-2026",
-      "published": "Sun, 13 Sep 2026 18:00:00 +0700",
-      "description": "Sebanyak 54 venue menjadi lokasi pertandingan Asian Games 2026 yang berlangsung pada 19 September hingga 4 Oktober, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BRICS bentuk platform investasi baru bagi anggota dan mitra",
-      "link": "https://www.antaranews.com/berita/5738877/brics-bentuk-platform-investasi-baru-bagi-anggota-dan-mitra",
-      "published": "Sun, 13 Sep 2026 17:59:12 +0700",
-      "description": "Presiden Rusia Vladimir Putin menuturkan pembentukan platform investasi BRICS yang baru akan memungkinkan masuknya ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "107 penumpang Virgo Transport 8 berhasil dievakuasi",
-      "link": "https://www.antaranews.com/foto/5738876/107-penumpang-virgo-transport-8-berhasil-dievakuasi",
-      "published": "Sun, 13 Sep 2026 17:58:55 +0700",
-      "description": "Menteri Perhubungan Dudy Purwagandhi (ketiga kiri) &nbsp;bersama Kepala Basarnas Marsekal Madya TNI Mohammad Syafii ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Imigrasi dalami dua WNA China diduga terkait sindikat penipuan daring",
-      "link": "https://www.antaranews.com/berita/5738872/imigrasi-dalami-dua-wna-china-diduga-terkait-sindikat-penipuan-daring",
-      "published": "Sun, 13 Sep 2026 17:56:23 +0700",
-      "description": "Kantor Imigrasi Kelas I Khusus TPI Kualanamu mendalami dugaan keterkaitan dua warga negara asing (WNA) asal China ...",
+      "error": "no element found: line 2, column 0",
       "source": "Antara News",
       "category": "Indonesia"
     }
