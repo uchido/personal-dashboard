@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-13T05:25:18+0000",
+  "timestamp": "2026-09-13T05:56:19+0000",
   "articles": [
     {
       "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 04:30:44 GMT",
       "description": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 17:28:53 GMT",
+      "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "One dead, 102 rescued from Indonesian ferry that went missing in Java Sea",
-      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 05:17:29 GMT",
-      "description": "The nation's search and rescue team said it lost contact with the Virgo Transport 8 in the early hours of Sunday morning.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Memasuki hari keenam,  pencarian jurnalis yang hilang kontak di selat Sunda terus dilakukan",
-      "link": "https://www.antaranews.com/foto/5738553/memasuki-hari-keenam-pencarian-jurnalis-yang-hilang-kontak-di-selat-sunda-terus-dilakukan",
-      "published": "Sun, 13 Sep 2026 12:21:51 +0700",
-      "description": "Perahu karet RIB 2 Banten milik Basarnas dan dua perahu relawan bertolak pada hari keenam operasi pencarian jurnalis ...",
+      "title": "JK tegaskan pentingnya penghijauan lingkungan untuk cegah bencana",
+      "link": "https://www.antaranews.com/berita/5738575/jk-tegaskan-pentingnya-penghijauan-lingkungan-untuk-cegah-bencana",
+      "published": "Sun, 13 Sep 2026 12:53:42 +0700",
+      "description": "Ketua Umum Palang Merah Indonesia (PMI) Pusat Muhammad Jusuf Kalla&nbsp;(JK) menegaskan pentingnya penghijauan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Basarnas kerahkan helikopter cari korban kecelakaan kapal di Laut Jawa",
-      "link": "https://www.antaranews.com/berita/5738552/basarnas-kerahkan-helikopter-cari-korban-kecelakaan-kapal-di-laut-jawa",
-      "published": "Sun, 13 Sep 2026 12:19:07 +0700",
-      "description": "Basarnas mengerahkan satu helikopter untuk memperkuat pencarian korban kecelakaan Kapal Virgo Transport 8 yang hilang ...",
+      "title": "Presiden Prabowo hadiri pertemuan BRICS bersama negara-negara mitra",
+      "link": "https://www.antaranews.com/berita/5738571/presiden-prabowo-hadiri-pertemuan-brics-bersama-negara-negara-mitra",
+      "published": "Sun, 13 Sep 2026 12:53:14 +0700",
+      "description": "Presiden Prabowo Subianto menghadiri pertemuan anggota BRICS serta negara-negara mitra lain dalam sesi terbuka di di ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bulog percepat penyaluran bantuan pangan di Depok",
-      "link": "https://www.antaranews.com/berita/5738549/bulog-percepat-penyaluran-bantuan-pangan-di-depok",
-      "published": "Sun, 13 Sep 2026 12:12:30 +0700",
-      "description": "Perum Bulog terus mempercepat penyaluran Bantuan Pangan Beras agar segera diterima masyarakat yang berhak di Kota ...",
+      "title": "Pemkot Tangsel siapkan dukungan bagi keluarga jurnalis hilang kontak",
+      "link": "https://www.antaranews.com/berita/5738567/pemkot-tangsel-siapkan-dukungan-bagi-keluarga-jurnalis-hilang-kontak",
+      "published": "Sun, 13 Sep 2026 12:48:36 +0700",
+      "description": "Pemerintah Kota (Pemkot) Tangerang Selatan (Tangsel), Banten, siapkan dukungan kepada keluarga jurnalis yang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Desa Bilebante jadi desa terbaik di NTB",
-      "link": "https://www.antaranews.com/berita/5738548/desa-bilebante-jadi-desa-terbaik-di-ntb",
-      "published": "Sun, 13 Sep 2026 12:12:03 +0700",
-      "description": "Desa Wisata Hijau Bilebante Kecamatan Pringgarata Kabupaten Lombok Tengah berhasil meraih juara I pada penjaringan desa ...",
+      "title": "Pertamina Patra Niaga: Antrean BBM di SPBU Makassar mulai melandai",
+      "link": "https://www.antaranews.com/berita/5738564/pertamina-patra-niaga-antrean-bbm-di-spbu-makassar-mulai-melandai",
+      "published": "Sun, 13 Sep 2026 12:45:44 +0700",
+      "description": "PT Pertamina Patra Niaga menyebutkan antrean kendaraan, yang akan mengisi bahan bakar minyak (BBM) di sejumlah stasiun ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
