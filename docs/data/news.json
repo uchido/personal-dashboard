@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-13T21:26:32+0000",
+  "timestamp": "2026-09-13T21:57:33+0000",
   "articles": [
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 19:14:21 GMT",
       "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "'Culture shift' needed in how UK does business, PM urges",
+      "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 21:30:21 GMT",
+      "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 18:20:22 GMT",
-      "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Will record donations to Reform go down as a moment of political change?",
       "link": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 17:51:19 GMT",
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "KPK geledah rumah kontraktor Adi Sumarta di Kota Bengkulu",
-      "link": "https://www.antaranews.com/berita/5739173/kpk-geledah-rumah-kontraktor-adi-sumarta-di-kota-bengkulu",
-      "published": "Mon, 14 Sep 2026 03:53:35 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) melakukan penggeledahan dan pemeriksaan terhadap salah seorang kontraktor yaitu Adi ...",
+      "title": "Prabowo tiba di tanah air usai hadiri KTT BRICS 2026",
+      "link": "https://www.antaranews.com/berita/5739185/prabowo-tiba-di-tanah-air-usai-hadiri-ktt-brics-2026",
+      "published": "Mon, 14 Sep 2026 04:39:27 +0700",
+      "description": "Presiden RI Prabowo Subianto tiba di tanah air pada Senin dini hari setelah menyelesaikan kunjungan kerja di New Delhi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Solidaritas jurnalis Bali untuk lima pewarta yang masih dicari",
-      "link": "https://www.antaranews.com/video/5739147/solidaritas-jurnalis-bali-untuk-lima-pewarta-yang-masih-dicari",
-      "published": "Mon, 14 Sep 2026 02:45:20 +0700",
-      "description": "ANTARA - Puluhan jurnalis di Bali menggelar doa bersama untuk lima pewarta yang masih dalam pencarian tim SAR setelah ...",
+      "title": "Napoli menang tipis 1-0 atas Bologna",
+      "link": "https://www.antaranews.com/berita/5739183/napoli-menang-tipis-1-0-atas-bologna",
+      "published": "Mon, 14 Sep 2026 04:33:51 +0700",
+      "description": "Napoli meraih tiga poin saat menang tipis 1-0 atas Bologna pada lanjutan pekan keempat Liga Italia 2026/27 di Stadion ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Persebaya petik kemenangan perdana usai kalahkan PSIM 1-0",
-      "link": "https://www.antaranews.com/video/5739169/persebaya-petik-kemenangan-perdana-usai-kalahkan-psim-1-0",
-      "published": "Mon, 14 Sep 2026 02:24:01 +0700",
-      "description": "ANTARA - Persebaya menang tipis 1-0 saat menjamu PSIM Yogyakarta di Stadion Gelora Bung Tomo Surabaya pada pekan kedua ...",
+      "title": "Kane pimpin Bayern Muenchen tundukkan Elversberg 2-1",
+      "link": "https://www.antaranews.com/berita/5739179/kane-pimpin-bayern-muenchen-tundukkan-elversberg-2-1",
+      "published": "Mon, 14 Sep 2026 04:31:22 +0700",
+      "description": "Harry Kane menjadi pahlawan kemenangan Bayern Muenchen atas Elversberg pada pekan ketiga Liga Jerman 2026/27.\n\nDie ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "LKBN ANTARA terima penghargaan LRT atas kontribusi informasi publik",
-      "link": "https://www.antaranews.com/video/5739168/lkbn-antara-terima-penghargaan-lrt-atas-kontribusi-informasi-publik",
-      "published": "Mon, 14 Sep 2026 02:17:44 +0700",
-      "description": "ANTARA - Perum LKBN ANTARA menerima penghargaan dari LRT Jabodebek atas kontribusi&nbsp;dalam memberikan informasi ...",
+      "title": "Sepuluh pemain Manchester City bungkam Manchester United 1-0",
+      "link": "https://www.antaranews.com/berita/5739176/sepuluh-pemain-manchester-city-bungkam-manchester-united-1-0",
+      "published": "Mon, 14 Sep 2026 04:29:49 +0700",
+      "description": "Manchester City meraih kemenangan penting dalam Derby Manchester pada pekan keempat Liga Inggris 2026/27.\n\nBermain ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
