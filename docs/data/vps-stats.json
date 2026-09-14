@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-09-14T23:16:57+0000",
+  "timestamp": "2026-09-14T23:47:58+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 94.7,
+    "percent": 100.0,
     "cores": 2,
     "load_avg": [
-      1.82,
-      2.24,
-      2.31
+      2.38,
+      2.43,
+      2.39
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.2,
-    "available": 5.7,
-    "used": 5.9,
-    "percent": 50.9
+    "free": 1.4,
+    "available": 5.8,
+    "used": 5.8,
+    "percent": 50.0
   },
   "disk": {
     "total": "193G",
@@ -25,17 +25,11 @@
   },
   "uptime": {
     "days": 77,
-    "hours": 11,
-    "minutes": 42,
-    "total_seconds": 6694965.03
+    "hours": 12,
+    "minutes": 13,
+    "total_seconds": 6696825.58
   },
   "top_processes": [
-    {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.4",
-      "command": "node /home/ubuntu/.npm-global/bin/9router"
-    },
     {
       "user": "ubuntu",
       "cpu": "100",
@@ -43,22 +37,28 @@
       "command": "ps aux --sort=-%cpu --no-headers"
     },
     {
-      "user": "root",
-      "cpu": "80.0",
+      "user": "ubuntu",
+      "cpu": "14.2",
+      "mem": "0.1",
+      "command": "python3 scripts/collect-vps.py"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "5.9",
       "mem": "0.7",
-      "command": "node /usr/local/bin/pnpm run pm2-run"
+      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
     },
     {
       "user": "root",
-      "cpu": "66.6",
-      "mem": "0.3",
-      "command": "node /usr/local/bin/pm2 delete all"
+      "cpu": "1.5",
+      "mem": "0.8",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     },
     {
-      "user": "root",
-      "cpu": "36.8",
-      "mem": "0.7",
-      "command": "node /usr/local/bin/pnpm run pm2"
+      "user": "opc",
+      "cpu": "1.4",
+      "mem": "1.2",
+      "command": "temporal-server --env docker start"
     }
   ]
 }
