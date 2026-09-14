@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T12:57:18+0000",
+  "timestamp": "2026-09-14T13:27:49+0000",
   "locations": [
     {
       "name": "Palu",
-      "error": "The read operation timed out"
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "name": "Yogyakarta",
-      "error": "The read operation timed out"
+      "error": "HTTP Error 500: Internal Server Error"
     }
   ]
 }
