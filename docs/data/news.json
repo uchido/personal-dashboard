@@ -1,10 +1,18 @@
 {
-  "timestamp": "2026-09-14T03:07:38+0000",
+  "timestamp": "2026-09-14T03:38:39+0000",
   "articles": [
+    {
+      "title": "Committee calls for bill to address AI threat to human rights",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 03:23:54 GMT",
+      "description": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 19:14:21 GMT",
+      "published": "Mon, 14 Sep 2026 03:38:13 GMT",
       "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "source": "BBC News",
       "category": "Global"
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 18:49:37 GMT",
-      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Klasemen Liga Prancis: Lille di peringkat pertama, PSG posisi tujuh",
-      "link": "https://www.antaranews.com/berita/5739367/klasemen-liga-prancis-lille-di-peringkat-pertama-psg-posisi-tujuh",
-      "published": "Mon, 14 Sep 2026 10:04:58 +0700",
-      "description": "Lille menempati peringkat pertama, sedangkan Paris Saint-Germain (PSG) berada di posisi tujuh pada klasemen sementara ...",
+      "title": "Tanggap darurat penanganan kebakaran Kampung Adat Sade diperpanjang",
+      "link": "https://www.antaranews.com/berita/5739408/tanggap-darurat-penanganan-kebakaran-kampung-adat-sade-diperpanjang",
+      "published": "Mon, 14 Sep 2026 10:37:01 +0700",
+      "description": "Badan Penanggulangan Bencana Daerah (BPBD) Lombok Tengah, Nusa Tenggara Barat (NTB) menyatakan status tanggap darurat ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Situs Trowulan ditinjau untuk percepatan revitalisasi Museum Majapahit",
-      "link": "https://www.antaranews.com/berita/5739363/situs-trowulan-ditinjau-untuk-percepatan-revitalisasi-museum-majapahit",
-      "published": "Mon, 14 Sep 2026 10:04:22 +0700",
-      "description": "Menteri Kebudayaan (Menbud) Fadli Zon mengatakan bahwa peninjauan menyeluruh terhadap situs-situs Trowulan, Kabupaten ...",
+      "title": "Carrick tegaskan kekalahan kontra City bukan akhir untuk MU",
+      "link": "https://www.antaranews.com/berita/5739405/carrick-tegaskan-kekalahan-kontra-city-bukan-akhir-untuk-mu",
+      "published": "Mon, 14 Sep 2026 10:35:44 +0700",
+      "description": "Pelatih Manchester United Michael Carrick menegaskan kekalahan kontra Manchester City bukan akhir bagi tim asuhannya ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemkab Bogor bangun embung darurat percepat penanganan api TPAS Galuga",
-      "link": "https://www.antaranews.com/berita/5739359/pemkab-bogor-bangun-embung-darurat-percepat-penanganan-api-tpas-galuga",
-      "published": "Mon, 14 Sep 2026 09:54:13 +0700",
-      "description": "Pemerintah Kabupaten (Pemkab) Bogor, Jawa Barat, membangun sejumlah embung darurat di kawasan Tempat Pembuangan Akhir ...",
+      "title": "Pemkab Bogor gunakan drone thermal deteksi bara di TPAS Galuga",
+      "link": "https://www.antaranews.com/berita/5739404/pemkab-bogor-gunakan-drone-thermal-deteksi-bara-di-tpas-galuga",
+      "published": "Mon, 14 Sep 2026 10:33:44 +0700",
+      "description": "Pemerintah Kabupaten (Pemkab) Bogor, Jawa Barat, menggunakan drone thermal Mata Garuda untuk mendeteksi bara api ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "IHSG melemah seiring \"wait and see\" kebijakan suku bunga The Fed",
-      "link": "https://www.antaranews.com/berita/5739357/ihsg-melemah-seiring-wait-and-see-kebijakan-suku-bunga-the-fed",
-      "published": "Mon, 14 Sep 2026 09:53:21 +0700",
-      "description": "Indeks Harga Saham Gabungan (IHSG) Bursa Efek Indonesia (BEI) pada Senin pagi bergerak melemah seiring pelaku pasar ...",
+      "title": "Ekonom sebut keanggotaan di BRICS perkuat perekonomian nasional",
+      "link": "https://www.antaranews.com/berita/5739401/ekonom-sebut-keanggotaan-di-brics-perkuat-perekonomian-nasional",
+      "published": "Mon, 14 Sep 2026 10:32:15 +0700",
+      "description": "Ekonom&nbsp;Universitas Mulawarman Samarinda&nbsp;Aji Sofyan Efendi&nbsp;menilai keanggotaan Indonesia dalam kelompok ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
