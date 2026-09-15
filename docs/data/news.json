@@ -1,19 +1,11 @@
 {
-  "timestamp": "2026-09-15T09:06:10+0000",
+  "timestamp": "2026-09-15T09:37:11+0000",
   "articles": [
     {
-      "title": "State pension likely to rise by £488 a year in April",
+      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
       "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 08:51:39 GMT",
       "description": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Lucy Letby public inquiry findings set to be published",
-      "link": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 01:54:35 GMT",
-      "description": "The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Bareskrim segera limpahkan dua tersangka pidana pasar modal ke JPU",
-      "link": "https://www.antaranews.com/berita/5741961/bareskrim-segera-limpahkan-dua-tersangka-pidana-pasar-modal-ke-jpu",
-      "published": "Tue, 15 Sep 2026 16:05:50 +0700",
-      "description": "Direktorat Tindak Pidana Ekonomi Khusus (Dittipideksus) Bareskrim Polri akan segera melimpahkan dua tersangka kasus ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "TV superstars and a Taylor Swift cameo: 2026 Emmy highlights",
+      "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 05:14:24 GMT",
+      "description": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles.",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Bea Cukai menggagalkan penyelundupan emas 29 kg senilai Rp73,3 miliar",
-      "link": "https://www.antaranews.com/berita/5741959/bea-cukai-menggagalkan-penyelundupan-emas-29-kg-senilai-rp733-miliar",
-      "published": "Tue, 15 Sep 2026 16:05:23 +0700",
-      "description": "Direktorat Jenderal Bea dan Cukai (DJBC) melaporkan telah menggagalkan penyelundupan emas dengan total berat 29 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ombudsman dorong penyelesaian masalah ketenagakerjaan secara objektif",
-      "link": "https://www.antaranews.com/berita/5741956/ombudsman-dorong-penyelesaian-masalah-ketenagakerjaan-secara-objektif",
-      "published": "Tue, 15 Sep 2026 16:04:26 +0700",
-      "description": "Ombudsman RI (ORI) mendorong penyelesaian persoalan ketenagakerjaan secara objektif dan sesuai dengan ketentuan yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mengapa banyak mobil baru kini dilengkapi teknologi ADAS?",
-      "link": "https://otomotif.antaranews.com/berita/5741952/mengapa-banyak-mobil-baru-kini-dilengkapi-teknologi-adas",
-      "published": "Tue, 15 Sep 2026 16:04:07 +0700",
-      "description": "Mobil baru kini tidak hanya menawarkan mesin yang lebih efisien, kabin yang lebih nyaman, atau layar hiburan yang ...",
+      "error": "unclosed token: line 661, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
