@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T04:58:08+0000",
+  "timestamp": "2026-09-15T05:29:09+0000",
   "articles": [
     {
       "title": "Lucy Letby public inquiry findings set to be published",
@@ -26,15 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 02:22:07 GMT",
-      "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+      "title": "US confirms for first time it has deployed space weapons",
+      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 01:52:02 GMT",
+      "description": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Kemenag bersiap sambut peringatan satu dekade Hari Santri",
+      "link": "https://www.antaranews.com/berita/5741427/kemenag-bersiap-sambut-peringatan-satu-dekade-hari-santri",
+      "published": "Tue, 15 Sep 2026 12:25:33 +0700",
+      "description": "Kementerian Agama menyiapkan rangkaian Hari Santri 2026 dengan peluncuran logo, tema, dan rangkaian Hari Santri 2026 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Hari kedelapan pencarian jurnalis yang hilang kontak, tim SAR gabungan libatkan 20 kapal",
+      "link": "https://www.antaranews.com/foto/5741423/hari-kedelapan-pencarian-jurnalis-yang-hilang-kontak-tim-sar-gabungan-libatkan-20-kapal",
+      "published": "Tue, 15 Sep 2026 12:21:12 +0700",
+      "description": "Petugas Basarnas KN SAR Antasena melakukan pengamatan saat operasi pencarian lima jurnalis dan tiga awak kapal yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "RMAB, MNCN dan STA teken kerja sama bangun ekosistem media",
+      "link": "https://www.antaranews.com/berita/5741419/rmab-mncn-dan-sta-teken-kerja-sama-bangun-ekosistem-media",
+      "published": "Tue, 15 Sep 2026 12:20:53 +0700",
+      "description": "PT Republik Media Anak Bangsa (RMAB), bagian dari Republikorp Group, PT Media Nusantara Citra Tbk (MNCN), dan PT ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Komunitas berperan menangkal dampak buruk ruang gema algoritma medsos",
+      "link": "https://www.antaranews.com/berita/5741416/komunitas-berperan-menangkal-dampak-buruk-ruang-gema-algoritma-medsos",
+      "published": "Tue, 15 Sep 2026 12:19:42 +0700",
+      "description": "Wakil Menteri Komunikasi dan Digital&nbsp;Nezar Patria menyoroti peran komunitas&nbsp;dan masyarakat, termasuk ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
