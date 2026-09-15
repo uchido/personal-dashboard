@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T06:00:10+0000",
+  "timestamp": "2026-09-15T06:31:11+0000",
   "articles": [
     {
       "title": "Lucy Letby public inquiry findings set to be published",
@@ -18,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 23:51:03 GMT",
-      "description": "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.",
+      "title": "State pension likely to rise by 3.9% next April",
+      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 06:26:07 GMT",
+      "description": "The state pension rises by the highest of wage growth, inflation or 2.5%.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 658, column 351",
+      "title": "BPBD Jaksel kerahkan mobil tangki bantu warga terdampak kekeringan",
+      "link": "https://www.antaranews.com/berita/5741564/bpbd-jaksel-kerahkan-mobil-tangki-bantu-warga-terdampak-kekeringan",
+      "published": "Tue, 15 Sep 2026 13:30:42 +0700",
+      "description": "Badan Penanggulangan Bencana Daerah (BPBD) Jakarta Selatan (Jaksel) mengerahkan armada mobil tangki berkapasitas 5.000 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Tim SAR gabungan mengevakuasi 22 korban yang selamat dari insiden KMP Virgo Transport 8",
+      "link": "https://www.antaranews.com/foto/5741560/tim-sar-gabungan-mengevakuasi-22-korban-yang-selamat-dari-insiden-kmp-virgo-transport-8",
+      "published": "Tue, 15 Sep 2026 13:29:26 +0700",
+      "description": "Prajurit TNI AL memindahkan korban kapal motor penumpang (KMP) Virgo Transport 8 dari kapal patroli cepat Lanal ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KAPMI: Revisi UU Kadin jawab tantangan perdagangan dan industri era AI",
+      "link": "https://www.antaranews.com/berita/5741559/kapmi-revisi-uu-kadin-jawab-tantangan-perdagangan-dan-industri-era-ai",
+      "published": "Tue, 15 Sep 2026 13:29:04 +0700",
+      "description": "Badan Pimpinan Pusat Kamar Dagang Pengusaha Muda Indonesia (BPP KAPMI) mendukung rencana revisi Undang-Undang Nomor 1 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Rektor Unsoed tekankan kolaborasi global hadapi tantangan hukum dan AI",
+      "link": "https://www.antaranews.com/berita/5741555/rektor-unsoed-tekankan-kolaborasi-global-hadapi-tantangan-hukum-dan-ai",
+      "published": "Tue, 15 Sep 2026 13:28:57 +0700",
+      "description": "Pelaksana Tugas Rektor Universitas Jenderal Soedirman (Unsoed) Purwokerto Prof Ali Rokhman menekankan pentingnya ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
