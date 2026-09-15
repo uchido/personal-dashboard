@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T04:27:07+0000",
+  "timestamp": "2026-09-15T04:58:08+0000",
   "articles": [
     {
       "title": "Lucy Letby public inquiry findings set to be published",
@@ -10,10 +10,10 @@
       "category": "Global"
     },
     {
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 00:32:21 GMT",
-      "description": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 03:47:27 GMT",
+      "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Profil Amanda Rigby yang dikabarkan akan menikah dengan Andre Taulany",
-      "link": "https://www.antaranews.com/berita/5741340/profil-amanda-rigby-yang-dikabarkan-akan-menikah-dengan-andre-taulany",
-      "published": "Tue, 15 Sep 2026 11:25:43 +0700",
-      "description": "Nama Amanda Rigby kembali menjadi perhatian publik setelah dikaitkan dengan kabar rencana pernikahan bersama komedian ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BPJS Kesehatan apresiasi komitmen faskes melalui Seva Paramahita Award",
-      "link": "https://www.antaranews.com/berita/5741339/bpjs-kesehatan-apresiasi-komitmen-faskes-melalui-seva-paramahita-award",
-      "published": "Tue, 15 Sep 2026 11:20:09 +0700",
-      "description": "Badan Penyelenggara Jaminan Sosial (BPJS) Kesehatan menggelar penganugerahan Seva Paramahita Award 2026 untuk ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "PBB: 40 warga sipil menjadi korban konflik di Yaman sejak September",
-      "link": "https://www.antaranews.com/berita/5741336/pbb-40-warga-sipil-menjadi-korban-konflik-di-yaman-sejak-september",
-      "published": "Tue, 15 Sep 2026 11:19:01 +0700",
-      "description": "Kantor Hak Asasi Manusia Perserikatan Bangsa-Bangsa (OHCHR) telah memverifikasi 40 korban sipil, termasuk delapan orang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pengamat apresiasi minyak jelantah sebagai sumber energi berkelanjutan",
-      "link": "https://www.antaranews.com/berita/5741335/pengamat-apresiasi-minyak-jelantah-sebagai-sumber-energi-berkelanjutan",
-      "published": "Tue, 15 Sep 2026 11:18:31 +0700",
-      "description": "Pengamat energi Feiral Rizky Batubara mengapresiasi usaha PT Pertamina (Persero) yang telah mengembangkan minyak ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
