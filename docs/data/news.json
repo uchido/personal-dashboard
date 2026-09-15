@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-15T20:59:22+0000",
+  "timestamp": "2026-09-15T21:30:23+0000",
   "articles": [
     {
       "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
       "link": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 19:47:10 GMT",
       "description": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 21:07:13 GMT",
+      "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,20 +26,28 @@
       "category": "Global"
     },
     {
-      "title": "Three support acts quit Ed Sheeran tour in support of Macklemore",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 20:57:30 GMT",
-      "description": "The star says he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
       "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 16:24:00 GMT",
       "description": "The former England winger crashed a Lamborghini into motorway barriers in May.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "Arsenal atasi Ipswich Town 4-2 pada putaran ketiga Piala Liga Inggris",
+      "link": "https://www.antaranews.com/berita/5743024/arsenal-atasi-ipswich-town-4-2-pada-putaran-ketiga-piala-liga-inggris",
+      "published": "Wed, 16 Sep 2026 04:24:03 +0700",
+      "description": "Arsenal mengatasi perlawanan Ipswich Town dengan skor 4-2 pada putaran ketiga Piala Liga Inggris di Stadion Portman ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Maarten Paes dan Nathan Tjoe-A-On tampil saat Ajax hantam Willem II",
+      "link": "https://www.antaranews.com/berita/5743021/maarten-paes-dan-nathan-tjoe-a-on-tampil-saat-ajax-hantam-willem-ii",
+      "published": "Wed, 16 Sep 2026 04:02:18 +0700",
+      "description": "Dua penggawa tim nasional Indonesia kiper Maarten Paes dan bek sayap Nathan Tjoe-A-On tampil saat Ajax menghantam ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Emil Audero bermain penuh saat Rayo Vallecano bekuk Espanyol",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5743016/james-rodriguez-putuskan-pensiun-dari-timnas-kolombia",
       "published": "Wed, 16 Sep 2026 03:51:16 +0700",
       "description": "Gelandang senior James Rodriguez memutuskan untuk pensiun dari tim nasional Kolombia setelah 15 tahun melalui akun ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Wakil PM Malaysia akan melawat ke Indonesia lagi, temui Wapres Gibran",
-      "link": "https://www.antaranews.com/berita/5743013/wakil-pm-malaysia-akan-melawat-ke-indonesia-lagi-temui-wapres-gibran",
-      "published": "Wed, 16 Sep 2026 03:01:47 +0700",
-      "description": "Wakil Perdana Menteri Malaysia Ahmad Zahid Hamidi diagendakan melakukan lawatan kerja ke Indonesia pekan ini untuk ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Basarnas siapkan skenario jika cuaca hambat penyelaman KM Virgo",
-      "link": "https://www.antaranews.com/berita/5743009/basarnas-siapkan-skenario-jika-cuaca-hambat-penyelaman-km-virgo",
-      "published": "Wed, 16 Sep 2026 02:50:54 +0700",
-      "description": "Badan SAR Nasional (Basarnas) menyiapkan berbagai skenario alternatif dalam pencarian korban Kapal Motor (KM) Virgo ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
