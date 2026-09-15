@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T07:02:09+0000",
+  "timestamp": "2026-09-15T07:33:10+0000",
   "articles": [
     {
       "title": "State pension likely to rise by £488 a year in April",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "SATO Dukung Sistem Manajemen Pasokan Darah Generasi Baru Singapura dengan Teknologi RFID",
-      "link": "https://www.antaranews.com/berita/5741657/sato-dukung-sistem-manajemen-pasokan-darah-generasi-baru-singapura-dengan-teknologi-rfid",
-      "published": "Tue, 15 Sep 2026 14:01:46 +0700",
-      "description": "SATO, penyedia solusi identifikasi otomatis dan pengumpulan data global, turut memperkuat keamanan dan efisiensi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Parlemen Irak tolak wilayahnya dipakai untuk ancam keamanan Arab Saudi",
-      "link": "https://www.antaranews.com/berita/5741653/parlemen-irak-tolak-wilayahnya-dipakai-untuk-ancam-keamanan-arab-saudi",
-      "published": "Tue, 15 Sep 2026 13:59:11 +0700",
-      "description": "Ketua Parlemen Irak, Haibet al-Halbousi, pada Minggu (13/9)&nbsp;menegaskan kembali penolakan Irak terhadap penggunaan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menkeu Suahasil siap lanjutkan koordinasi dengan KSSK",
-      "link": "https://www.antaranews.com/berita/5741652/menkeu-suahasil-siap-lanjutkan-koordinasi-dengan-kssk",
-      "published": "Tue, 15 Sep 2026 13:58:24 +0700",
-      "description": "Menteri Keuangan Suahasil Nazara menyatakan siap melanjutkan koordinasi dengan Komite Stabilitas Sistem Keuangan (KSSK) ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "AirNav dan Boeing optimasi kapasitas Bandara Ngurah Rai Bali",
-      "link": "https://www.antaranews.com/berita/5741648/airnav-dan-boeing-optimasi-kapasitas-bandara-ngurah-rai-bali",
-      "published": "Tue, 15 Sep 2026 13:58:11 +0700",
-      "description": "Perum Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia (AirNav Indonesia) menggandeng pabrikan pesawat ...",
+      "error": "unclosed token: line 658, column 8",
       "source": "Antara News",
       "category": "Indonesia"
     }
