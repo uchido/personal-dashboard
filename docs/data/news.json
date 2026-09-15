@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-09-15T11:41:14+0000",
+  "timestamp": "2026-09-15T12:12:14+0000",
   "articles": [
+    {
+      "title": "Key findings from Lucy Letby Thirlwall Inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 12:01:53 GMT",
+      "description": "The inquiry found a \"complete failure to protect babies on the neonatal unit\" where the nurse worked.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
       "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Political donors could face tougher residency rules",
-      "link": "https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 10:55:38 GMT",
-      "description": "It comes after Reform received donations totalling £72m from two British crypto-billionaires who have both recently lived abroad.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "ANTARA terus dampingi keluarga jurnalis hilang kontak di Selat Sunda",
-      "link": "https://www.antaranews.com/video/5742241/antara-terus-dampingi-keluarga-jurnalis-hilang-kontak-di-selat-sunda",
-      "published": "Tue, 15 Sep 2026 18:39:16 +0700",
-      "description": "ANTARA - Memasuki hari ke-8 proses pencarian jurnalis yang hilang kontak di perairan Selat Sunda, Perum LKBN ANTARA ...",
+      "title": "Pemkot Jakbar bongkar lapak penjual obat keras di Palmerah",
+      "link": "https://www.antaranews.com/berita/5742400/pemkot-jakbar-bongkar-lapak-penjual-obat-keras-di-palmerah",
+      "published": "Tue, 15 Sep 2026 19:11:22 +0700",
+      "description": "Pemerintah Kota Jakarta Barat (Pemkot Jakbar) melalui aparatur Kelurahan Kota Bambu Selatan membongkar sebuah lapak ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Analis nilai dukungan Wapres pada Menkeu baru perkuat sentimen pasar",
-      "link": "https://www.antaranews.com/berita/5742321/analis-nilai-dukungan-wapres-pada-menkeu-baru-perkuat-sentimen-pasar",
-      "published": "Tue, 15 Sep 2026 18:35:24 +0700",
-      "description": "Analis politik senior Boni Hargens menilai dukungan Wakil Presiden Gibran Rakabuming Raka terhadap Menteri Keuangan ...",
+      "title": "Pintunya telah terbuka dan Enric Mas mampu memaksimalkan peluang",
+      "link": "https://www.antaranews.com/berita/5742397/pintunya-telah-terbuka-dan-enric-mas-mampu-memaksimalkan-peluang",
+      "published": "Tue, 15 Sep 2026 19:09:16 +0700",
+      "description": "Dalam kehidupan, terkadang, seseorang gagal memaksimalkan peluang yang berada di depannya walau ada pintu kesempatan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kadin harap Menkeu Suahasil jaga stabilitas dan pacu ekonomi RI",
-      "link": "https://www.antaranews.com/berita/5742320/kadin-harap-menkeu-suahasil-jaga-stabilitas-dan-pacu-ekonomi-ri",
-      "published": "Tue, 15 Sep 2026 18:34:56 +0700",
-      "description": "Ketua Umum Kamar Dagang dan Industri (Kadin) Indonesia Anindya Novyan Bakrie berharap Menteri Keuangan (Menkeu) ...",
+      "title": "Mahkamah Agung AS blokir aturan baru pemungutan suara lewat pos",
+      "link": "https://www.antaranews.com/berita/5742396/mahkamah-agung-as-blokir-aturan-baru-pemungutan-suara-lewat-pos",
+      "published": "Tue, 15 Sep 2026 19:08:28 +0700",
+      "description": "Mahkamah Agung Amerika Serikat (AS) memblokir penerapan persyaratan baru terkait penyelenggaraan pemungutan suara ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ukraina nyatakan siap hentikan serangan jika Rusia lakukan hal yang sama",
-      "link": "https://www.antaranews.com/berita/5742319/ukraina-nyatakan-siap-hentikan-serangan-jika-rusia-lakukan-hal-yang-sama",
-      "published": "Tue, 15 Sep 2026 18:33:42 +0700",
-      "description": "Ukraina siap menghentikan serangan-serangan tertentu jika Rusia melakukan hal yang sama, demikian disampaikan Presiden ...",
+      "title": "Antam usulkan seluruh penjual emas wajib lapor data ke DJP",
+      "link": "https://www.antaranews.com/berita/5742395/antam-usulkan-seluruh-penjual-emas-wajib-lapor-data-ke-djp",
+      "published": "Tue, 15 Sep 2026 19:06:53 +0700",
+      "description": "Direktur Utama Antam Untung Budiharto mengusulkan agar seluruh penjual emas wajib melaporkan data penjualan emas dan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
