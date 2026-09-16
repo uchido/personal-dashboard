@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T06:17:32+0000",
+  "timestamp": "2026-09-16T06:48:31+0000",
   "locations": [
     {
       "name": "Palu",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)>"
     },
     {
       "name": "Yogyakarta",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)>"
     }
   ]
 }
