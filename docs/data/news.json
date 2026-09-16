@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-16T21:47:47+0000",
+  "timestamp": "2026-09-16T22:18:48+0000",
   "articles": [
     {
       "title": "Body found in search for missing three-year-old Noah Woods",
       "link": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 18:50:09 GMT",
       "description": "Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "US interest rates raised for first time in three years",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 22:16:51 GMT",
+      "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "'Putney pusher' suspect found dead at home",
-      "link": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 15:56:06 GMT",
-      "description": "Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Menko IPK dorong transformasi kota di Indonesia hadapi tren urbanisasi",
+      "link": "https://www.antaranews.com/berita/5744860/menko-ipk-dorong-transformasi-kota-di-indonesia-hadapi-tren-urbanisasi",
+      "published": "Thu, 17 Sep 2026 05:17:18 +0700",
+      "description": "Menteri Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan (Menko IPK) Agus Harimurti Yudhoyono (AHY) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Brighton singkirkan MU dari Piala Liga",
+      "link": "https://www.antaranews.com/berita/5744856/brighton-singkirkan-mu-dari-piala-liga",
+      "published": "Thu, 17 Sep 2026 05:15:43 +0700",
+      "description": "Manchester United tersingkir lebih awal dari Piala Liga setelah tumbang 2-3 di tangan Brighton &amp; Hove Albion dalam ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "DSLNG memperkuat kolaborasi kampus dan industri untuk dukung NZE",
+      "link": "https://www.antaranews.com/berita/5744853/dslng-memperkuat-kolaborasi-kampus-dan-industri-untuk-dukung-nze",
+      "published": "Thu, 17 Sep 2026 04:47:17 +0700",
+      "description": "Kolaborasi perguruan tinggi dan industri membantu menyiapkan mahasiswa menghadapi kebutuhan dunia kerja dengan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "AC Milan tumbang 0-2 di tangan Benfica di San Siro",
       "link": "https://www.antaranews.com/berita/5744852/ac-milan-tumbang-0-2-di-tangan-benfica-di-san-siro",
       "published": "Thu, 17 Sep 2026 04:43:05 +0700",
       "description": "Dodi Lukebakio dan Jakub Kaminski memaksa AC Milan mengawali kiprah Liga Europa musim ini dengan hasil mengecewakan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Atletico Madrid naik ke peringkat tiga setelah libas Osasuna 4-0",
-      "link": "https://www.antaranews.com/berita/5744851/atletico-madrid-naik-ke-peringkat-tiga-setelah-libas-osasuna-4-0",
-      "published": "Thu, 17 Sep 2026 02:58:39 +0700",
-      "description": "Atletico Madrid tampil dominan saat melibas Osasuna 4-0 dalam laga Liga Spanyol di Riyadh Air Metropolitano pada ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Luciano Spalletti tak terganggu dengan tekanan di Juventus",
-      "link": "https://www.antaranews.com/berita/5744849/luciano-spalletti-tak-terganggu-dengan-tekanan-di-juventus",
-      "published": "Thu, 17 Sep 2026 02:30:25 +0700",
-      "description": "Pelatih Juventus Luciano Spalletti menegaskan tidak terganggu dengan tekanan yang muncul setelah timnya gagal meraih ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Luis De la Fuente akan perpanjang kontrak bersama timnas Spanyol",
-      "link": "https://www.antaranews.com/berita/5744845/luis-de-la-fuente-akan-perpanjang-kontrak-bersama-timnas-spanyol",
-      "published": "Thu, 17 Sep 2026 02:23:17 +0700",
-      "description": "Luis De la Fuente akan memperpanjang kontrak sebagai pelatih tim nasional Spanyol hingga Juli 2030, kata pakar transfer ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
