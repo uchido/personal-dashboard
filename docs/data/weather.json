@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T22:18:48+0000",
+  "timestamp": "2026-09-16T22:49:48+0000",
   "locations": [
     {
       "name": "Palu",
@@ -10,9 +10,9 @@
       "feels_like_c": "22",
       "humidity": "97",
       "wind_speed_kmh": "4",
-      "wind_dir": "S",
+      "wind_dir": "SSE",
       "visibility_km": "2",
-      "pressure_mb": "1012",
+      "pressure_mb": "1014",
       "condition": "Mist",
       "condition_code": "143",
       "uv_index": "0",
