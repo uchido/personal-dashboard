@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-09-16T14:33:37+0000",
+  "timestamp": "2026-09-16T15:04:38+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 100.0,
+    "percent": 95.2,
     "cores": 2,
     "load_avg": [
-      1.93,
-      2.14,
-      2.19
+      2.16,
+      2.29,
+      2.22
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.7,
-    "available": 5.5,
-    "used": 6.1,
-    "percent": 52.6
+    "free": 1.1,
+    "available": 5.9,
+    "used": 5.7,
+    "percent": 49.1
   },
   "disk": {
     "total": "193G",
@@ -25,40 +25,40 @@
   },
   "uptime": {
     "days": 79,
-    "hours": 2,
-    "minutes": 59,
-    "total_seconds": 6836364.91
+    "hours": 3,
+    "minutes": 30,
+    "total_seconds": 6838225.44
   },
   "top_processes": [
     {
       "user": "root",
-      "cpu": "60.0",
-      "mem": "0.5",
+      "cpu": "89.4",
+      "mem": "1.0",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
-      "user": "opc",
-      "cpu": "40.8",
-      "mem": "0.8",
-      "command": "node current/index.js"
-    },
-    {
-      "user": "root",
-      "cpu": "37.7",
-      "mem": "1.4",
-      "command": "node /usr/local/bin/pnpm dlx prisma@6.5.0 db push "
-    },
-    {
-      "user": "root",
-      "cpu": "34.6",
-      "mem": "0.5",
-      "command": "node /root/.cache/pnpm/dlx/591e3721dc1e8d0c5422e09"
+      "user": "ubuntu",
+      "cpu": "10.3",
+      "mem": "0.1",
+      "command": "python3 /home/ubuntu/personal-dashboard/scripts/co"
     },
     {
       "user": "ubuntu",
-      "cpu": "28.5",
-      "mem": "0.3",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "cpu": "8.0",
+      "mem": "0.1",
+      "command": "python3 scripts/collect-vps.py"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "5.9",
+      "mem": "0.8",
+      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "1.5",
+      "mem": "0.8",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }

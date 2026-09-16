@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-09-16T14:33:44+0000",
+  "timestamp": "2026-09-16T15:04:42+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Pantosu",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "21",
       "feels_like_c": "24",
-      "humidity": "98",
+      "humidity": "99",
       "wind_speed_kmh": "4",
       "wind_dir": "E",
       "visibility_km": "9",
@@ -28,14 +28,14 @@
         {
           "date": "2026-09-17",
           "max_temp": "29",
-          "min_temp": "19",
+          "min_temp": "20",
           "condition": "Fog",
           "sunrise": "05:52 AM",
           "sunset": "05:58 PM"
         },
         {
           "date": "2026-09-18",
-          "max_temp": "27",
+          "max_temp": "28",
           "min_temp": "20",
           "condition": "Light rain shower",
           "sunrise": "05:52 AM",
@@ -50,11 +50,11 @@
       "country": "Indonesia",
       "temp_c": "21",
       "feels_like_c": "23",
-      "humidity": "94",
-      "wind_speed_kmh": "7",
+      "humidity": "93",
+      "wind_speed_kmh": "8",
       "wind_dir": "W",
       "visibility_km": "10",
-      "pressure_mb": "1015",
+      "pressure_mb": "1016",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
       "uv_index": "0",
@@ -78,8 +78,8 @@
         {
           "date": "2026-09-18",
           "max_temp": "33",
-          "min_temp": "20",
-          "condition": "Cloudy ",
+          "min_temp": "21",
+          "condition": "Partly Cloudy ",
           "sunrise": "05:31 AM",
           "sunset": "05:35 PM"
         }
