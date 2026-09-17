@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-17T19:30:13+0000",
+  "timestamp": "2026-09-17T20:01:13+0000",
   "articles": [
     {
       "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
       "link": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 15:08:05 GMT",
       "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 18:56:31 GMT",
+      "description": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,12 @@
       "category": "Global"
     },
     {
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 14:33:12 GMT",
-      "description": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Xabi Alonso sambut era kepemilikan baru Chelsea",
+      "link": "https://www.antaranews.com/berita/5746640/xabi-alonso-sambut-era-kepemilikan-baru-chelsea",
+      "published": "Fri, 18 Sep 2026 02:54:53 +0700",
+      "description": "Pelatih Chelsea Xabi Alonso menyambut era kepemilikan baru The Blues setelah Clearlake Capital mengakusisi penuh klub ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Tiga ilustrator lokal kemas karya seni Disney bertema jajanan pasar",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5746633/rutan-magetan-gelar-razia-kamar-hunian-antisipasi-barang-larangan",
       "published": "Fri, 18 Sep 2026 02:04:12 +0700",
       "description": "Petugas gabungan Rumah Tahanan Negara (Rutan) Kelas IIB Magetan, kepolisian, dan TNI setempat menggelar razia kamar ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kejati Jatim kembali tetapkan tersangka korupsi KUR petani Jember",
-      "link": "https://www.antaranews.com/video/5746629/kejati-jatim-kembali-tetapkan-tersangka-korupsi-kur-petani-jember",
-      "published": "Fri, 18 Sep 2026 01:53:17 +0700",
-      "description": "ANTARA - Kejaksaan Tinggi Jawa Timur, Kamis (17/9), kembali menetapkan satu tersangka baru dalam kasus dugaan korupsi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
