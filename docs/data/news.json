@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-09-17T14:20:08+0000",
+  "timestamp": "2026-09-17T14:51:09+0000",
   "articles": [
     {
-      "title": "Remains found after London wildfire identified as mother-of-three missing since 2019",
+      "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
       "link": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 14:14:43 GMT",
-      "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found almost seven years after she went missing.",
+      "published": "Thu, 17 Sep 2026 14:36:51 GMT",
+      "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
       "source": "BBC News",
       "category": "Global"
     },
     {
       "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
       "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 12:58:18 GMT",
+      "published": "Thu, 17 Sep 2026 14:33:12 GMT",
       "description": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Interest rates held but Bank signals rise if energy prices stay high",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 14:05:38 GMT",
+      "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 13:47:36 GMT",
-      "description": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "RI senantiasa patuhi mekanisme ASEAN tangani dampak karhutla",
-      "link": "https://www.antaranews.com/berita/5746331/ri-senantiasa-patuhi-mekanisme-asean-tangani-dampak-karhutla",
-      "published": "Thu, 17 Sep 2026 21:17:00 +0700",
-      "description": "Kementerian Luar Negeri (Kemlu) RI menyatakan bahwa Indonesia senantiasa mematuhi mekanisme ASEAN dalam penanganan ...",
+      "title": "Polda Riau ungkap jaringan pemalsu ratusan SIM di media sosial",
+      "link": "https://www.antaranews.com/video/5746361/polda-riau-ungkap-jaringan-pemalsu-ratusan-sim-di-media-sosial",
+      "published": "Thu, 17 Sep 2026 21:49:25 +0700",
+      "description": "ANTARA - Direktorat Lalu Lintas Polda Riau mengungkap jaringan pemalsu Surat Izin Mengemudi (SIM) yang telah mencetak ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Hyundai akan kembangkan sistem kemudi otomatis generasi baru",
-      "link": "https://otomotif.antaranews.com/berita/5746327/hyundai-akan-kembangkan-sistem-kemudi-otomatis-generasi-baru",
-      "published": "Thu, 17 Sep 2026 21:16:20 +0700",
-      "description": "Hyundai&nbsp;akan mengembangkan sistem kemudi otomatis generasi baru dengan dukungan teknologi dari ...",
+      "title": "Sirkuit Mandalika dipoles ulang demi homologasi A jelang MotoGP 2026",
+      "link": "https://www.antaranews.com/video/5746301/sirkuit-mandalika-dipoles-ulang-demi-homologasi-a-jelang-motogp-2026",
+      "published": "Thu, 17 Sep 2026 21:46:11 +0700",
+      "description": "ANTARA -&nbsp;Mandalika Grand Prix Assosiation (MGPA) memoles ulang area lintasan Sirkuit Mandalika jelang MotoGP 2026. ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Caroline Bangun jaga asa Indonesia di modern pentathlon Asian Games",
-      "link": "https://www.antaranews.com/berita/5746321/caroline-bangun-jaga-asa-indonesia-di-modern-pentathlon-asian-games",
-      "published": "Thu, 17 Sep 2026 21:12:17 +0700",
-      "description": "Atlet modern pentathlon putri Indonesia Caroline Bangun menjaga asa untuk melaju ke final setelah menempati peringkat ...",
+      "title": "Doa dan bunga iringi hari terakhir pencarian lima jurnalis dan tiga awak kapal yang hilang di Selat Sunda",
+      "link": "https://www.antaranews.com/foto/5746380/doa-dan-bunga-iringi-hari-terakhir-pencarian-lima-jurnalis-dan-tiga-awak-kapal-yang-hilang-di-selat-sunda",
+      "published": "Thu, 17 Sep 2026 21:45:39 +0700",
+      "description": "Bingkai foto dan bunga mawar berada di atas meja saat doa bersama untuk jurnalis dan awak kapal yang hilang kontak di ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Migrant Watch dorong pemerintah RI rombak sistem penempatan PMI",
-      "link": "https://www.antaranews.com/berita/5746317/migrant-watch-dorong-pemerintah-ri-rombak-sistem-penempatan-pmi",
-      "published": "Thu, 17 Sep 2026 21:10:12 +0700",
-      "description": "Direktur Eksekutif Migrant Watch Aznil Tan mendorong pemerintah merombak sistem pelatihan dan penempatan Pekerja Migran ...",
+      "title": "Trump dijadwalkan bertemu Erdogan di sela Sidang Umum PBB",
+      "link": "https://www.antaranews.com/berita/5746379/trump-dijadwalkan-bertemu-erdogan-di-sela-sidang-umum-pbb",
+      "published": "Thu, 17 Sep 2026 21:45:27 +0700",
+      "description": "Presiden AS Donald Trump dijadwalkan bertemu Presiden Turkiye Recep Tayyip Erdogan di New York di sela Sidang Umum PBB, ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
