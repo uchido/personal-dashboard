@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T09:41:01+0000",
+  "timestamp": "2026-09-17T10:12:02+0000",
   "articles": [
     {
       "title": "Palace in war of words with Earl Spencer over claims in Diana book",
@@ -32,11 +32,6 @@
       "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 660, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
