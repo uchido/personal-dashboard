@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-09-18T13:04:31+0000",
+  "timestamp": "2026-09-18T13:35:32+0000",
   "articles": [
+    {
+      "title": "Flight chaos caused by software defect in space of a millisecond, report says",
+      "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 13:26:14 GMT",
+      "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
       "link": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
@@ -10,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "Flight chaos caused by software defect, says air traffic control body",
-      "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 13:02:36 GMT",
-      "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 13:00:58 GMT",
+      "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Sisters of 'Putney pusher' suspect say DNA will clear his name",
-      "link": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:57:28 GMT",
-      "description": "Nicholas Brandram's sisters tell the BBC he did a DNA test to speed up the inquiry but never got the results.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Polres Jakbar ungkap modus industri narkoba, rokok disemprot zat kimia",
-      "link": "https://www.antaranews.com/berita/5747959/polres-jakbar-ungkap-modus-industri-narkoba-rokok-disemprot-zat-kimia",
-      "published": "Fri, 18 Sep 2026 20:03:37 +0700",
-      "description": "Satuan Reserse Narkoba Polres Metro Jakarta Barat mengungkap modus produksi tembakau sintetis dari sindikat yang ...",
+      "title": "Daftar menteri Keuangan RI sepanjang masa",
+      "link": "https://www.antaranews.com/berita/5748051/daftar-menteri-keuangan-ri-sepanjang-masa",
+      "published": "Fri, 18 Sep 2026 20:34:50 +0700",
+      "description": "Kementerian Keuangan menjadi salah satu institusi penting dalam penyelenggaraan pemerintahan Indonesia sejak awal ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "WBC pastikan pemenang Ramos lawan Nursultanov hadapi juara Adames",
-      "link": "https://www.antaranews.com/berita/5747956/wbc-pastikan-pemenang-ramos-lawan-nursultanov-hadapi-juara-adames",
-      "published": "Fri, 18 Sep 2026 20:03:30 +0700",
-      "description": "World Boxing Council (WBC) mengkonfirmasikan bahwa pemenang duel Jesus Ramos Jr lawan Meiirim Nursultanov akan ...",
+      "title": "Pedro Acosta tercepat dalam sesi latihan bebas GP Austria",
+      "link": "https://www.antaranews.com/berita/5748047/pedro-acosta-tercepat-dalam-sesi-latihan-bebas-gp-austria",
+      "published": "Fri, 18 Sep 2026 20:34:40 +0700",
+      "description": "Pembalap Red Bull KTM Pedro Acosta menjadi yang tercepat dalam sesi latihan bebas 1 Grand Prix Austria &nbsp;di Red ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Gelaran MTQ Nasional ke-31 di Jawa Tengah dimeriahkan Karnaval Budaya Nostalgia Dugderan",
-      "link": "https://www.antaranews.com/foto/5747952/gelaran-mtq-nasional-ke-31-di-jawa-tengah-dimeriahkan-karnaval-budaya-nostalgia-dugderan",
-      "published": "Fri, 18 Sep 2026 20:02:16 +0700",
-      "description": "Sejumlah peserta mengenakan kostum pengantin khas Semarang saat Karnaval Budaya Nostalgia Dugderan di Aloon-Aloon ...",
+      "title": "Dongkrak jumlah nakes, Kemdiktisaintek siapkan penguatan kompetensi",
+      "link": "https://www.antaranews.com/berita/5748043/dongkrak-jumlah-nakes-kemdiktisaintek-siapkan-penguatan-kompetensi",
+      "published": "Fri, 18 Sep 2026 20:33:50 +0700",
+      "description": "Kementerian Pendidikan Tinggi, Sains&nbsp;dan Teknologi (Kemdiktisaintek) menyiapkan skema penguatan kompetensi melalui ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Giuseppe Garibaldi, terwujudnya mimpi Indonesia memiliki kapal induk",
-      "link": "https://www.antaranews.com/video/5747913/giuseppe-garibaldi-terwujudnya-mimpi-indonesia-memiliki-kapal-induk",
-      "published": "Fri, 18 Sep 2026 20:00:52 +0700",
-      "description": "ANTARA - Mimpi Indonesia untuk mempunyai kapal induk akhirnya terwujud. Kapal ITS Giuseppe Garibaldi tiba di Dermaga ...",
+      "title": "Boni Hargens minta masyarakat tak cemas isu \"Black September\"",
+      "link": "https://www.antaranews.com/berita/5748039/boni-hargens-minta-masyarakat-tak-cemas-isu-black-september",
+      "published": "Fri, 18 Sep 2026 20:33:25 +0700",
+      "description": "Pengamat politik dan isu intelijen Boni Hargens meminta masyarakat menyikapi isu &quot;Black September&quot; secara ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
