@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T22:09:04+0000",
+  "timestamp": "2026-09-19T22:40:04+0000",
   "articles": [
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -34,7 +34,7 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 657, column 88",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
