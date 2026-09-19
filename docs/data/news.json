@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-09-19T21:38:03+0000",
+  "timestamp": "2026-09-19T22:09:04+0000",
   "articles": [
     {
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 11:36:55 GMT",
-      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 20:16:07 GMT",
+      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 20:16:07 GMT",
-      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Tiffany Young akhiri konser di Jakarta dengan \"Into the New World\"",
-      "link": "https://www.antaranews.com/berita/5749565/tiffany-young-akhiri-konser-di-jakarta-dengan-into-the-new-world",
-      "published": "Sun, 20 Sep 2026 03:48:13 +0700",
-      "description": "Penyanyi&nbsp;Tiffany Young&nbsp;membawakan&nbsp;lagu &quot;Into the New World&quot; pada akhir konser tunggalnya di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DKI Jakarta jadi tuan rumah MTQ Nasional XXXII",
-      "link": "https://www.antaranews.com/berita/5749563/dki-jakarta-jadi-tuan-rumah-mtq-nasional-xxxii",
-      "published": "Sun, 20 Sep 2026 03:09:27 +0700",
-      "description": "Provinsi DKI Jakarta akan menjadi tuan rumah Musabaqah Tilawatil Qur&#39;an (MTQ) Nasional XXXII&nbsp;yang rencananya ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kafilah dari Kalimantan Timur menjadi juara umum MTQ Nasional XXXI",
-      "link": "https://www.antaranews.com/berita/5749559/kafilah-dari-kalimantan-timur-menjadi-juara-umum-mtq-nasional-xxxi",
-      "published": "Sun, 20 Sep 2026 02:51:13 +0700",
-      "description": "Kafilah dari Provinsi Kalimantan Timur berhasil menjadi juara umum ajang Musabaqah Tilawatil Qur&#39;an (MTQ) Nasional ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "AS Roma dan Inter Milan berbagi poin di Olimpico",
-      "link": "https://www.antaranews.com/berita/5749557/as-roma-dan-inter-milan-berbagi-poin-di-olimpico",
-      "published": "Sun, 20 Sep 2026 02:46:48 +0700",
-      "description": "AS Roma dan Inter Milan berbagi poin setelah imbang 2-2 di Stadion Olimpico pada Sabtu (19/9) berkat dua gol Manu ...",
+      "error": "unclosed token: line 657, column 88",
       "source": "Antara News",
       "category": "Indonesia"
     }
