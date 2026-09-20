@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-20T00:13:06+0000",
+  "timestamp": "2026-09-20T00:44:06+0000",
   "articles": [
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 23:49:26 GMT",
       "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Ed Sheeran addresses Macklemore controversy at Philadelphia show",
+      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 00:35:21 GMT",
+      "description": "The mega-star singer held his first concert since rapper Macklemore was removed from his tour and other artists dropped out.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 21:27:06 GMT",
-      "description": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Tiga pemain Indonesia starter, Fortuna Sittard menang 1-0 atas Willem",
+      "link": "https://www.antaranews.com/berita/5749609/tiga-pemain-indonesia-starter-fortuna-sittard-menang-1-0-atas-willem",
+      "published": "Sun, 20 Sep 2026 07:19:40 +0700",
+      "description": "Fortuna Sittard yang diperkuat Justin Hubner dan Ole Romeny meraih kemenangan 1-0 atas Willem II yang menurunkan Nathan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Hattrick Raphinha bawa Barcelona menang 3-1 atas Sevilla",
+      "link": "https://www.antaranews.com/berita/5749605/hattrick-raphinha-bawa-barcelona-menang-3-1-atas-sevilla",
+      "published": "Sun, 20 Sep 2026 07:13:50 +0700",
+      "description": "Barcelona melanjutkan tren positif dengan menang 3-1 atas Sevilla dalam laga jornada ketujuh Liga Spanyol di Stadion ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Sepekan, 1.276 SPPG suspended-skin booster hADM tak berizin di RI",
+      "link": "https://www.antaranews.com/berita/5749601/sepekan-1276-sppg-suspended-skin-booster-hadm-tak-berizin-di-ri",
+      "published": "Sun, 20 Sep 2026 07:13:49 +0700",
+      "description": "Sejumlah berita menarik dalam seminggu (14-19/9) disajikan kembali untuk anda, mulai dari penangguhan (suspension) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Hukum sepekan: OTT ATR/BPN hingga pelimpahan perkara Febrie",
       "link": "https://www.antaranews.com/berita/5749597/hukum-sepekan-ott-atr-bpn-hingga-pelimpahan-perkara-febrie",
       "published": "Sun, 20 Sep 2026 07:01:34 +0700",
       "description": "Sejumlah peristiwa hukum telah diwartakan oleh pewarta Kantor Berita ANTARA selama sepekan. Berikut beberapa berita ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Politik sepekan: Kapal induk tiba hingga Suahasil jadi Menkeu",
-      "link": "https://www.antaranews.com/berita/5749595/politik-sepekan-kapal-induk-tiba-hingga-suahasil-jadi-menkeu",
-      "published": "Sun, 20 Sep 2026 06:50:38 +0700",
-      "description": "Sejumlah peristiwa nasional telah diwartakan oleh pewarta Kantor Berita ANTARA selama sepekan. Berikut beberapa berita ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BMKG perkirakan cuaca Minggu didominasi berawan hingga berawan tebal",
-      "link": "https://www.antaranews.com/berita/5749591/bmkg-perkirakan-cuaca-minggu-didominasi-berawan-hingga-berawan-tebal",
-      "published": "Sun, 20 Sep 2026 06:48:02 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memperkirakan cuaca Indonesia pada Minggu sebagian besar berawan, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Konser Tiffany Young Jakarta hingga lantai yang kurang pas untuk dapur",
-      "link": "https://www.antaranews.com/berita/5749589/konser-tiffany-young-jakarta-hingga-lantai-yang-kurang-pas-untuk-dapur",
-      "published": "Sun, 20 Sep 2026 06:20:50 +0700",
-      "description": "Sejumlah berita menarik dari kanal lifestyle, tekno, otomotif dan hiburan pada Sabtu (19/9) masih dapat dibaca kembali ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
