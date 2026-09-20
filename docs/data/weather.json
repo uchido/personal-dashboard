@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T17:47:24+0000",
+  "timestamp": "2026-09-20T18:18:24+0000",
   "locations": [
     {
       "name": "Palu",
@@ -7,14 +7,14 @@
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "20",
-      "feels_like_c": "23",
-      "humidity": "99",
-      "wind_speed_kmh": "5",
+      "feels_like_c": "22",
+      "humidity": "98",
+      "wind_speed_kmh": "6",
       "wind_dir": "SE",
-      "visibility_km": "9",
-      "pressure_mb": "1015",
-      "condition": "Patchy rain nearby",
-      "condition_code": "176",
+      "visibility_km": "0",
+      "pressure_mb": "1014",
+      "condition": "Fog",
+      "condition_code": "248",
       "uv_index": "0",
       "forecast": [
         {
@@ -50,23 +50,15 @@
       "country": "Indonesia",
       "temp_c": "21",
       "feels_like_c": "23",
-      "humidity": "85",
-      "wind_speed_kmh": "9",
+      "humidity": "91",
+      "wind_speed_kmh": "8",
       "wind_dir": "W",
-      "visibility_km": "5",
-      "pressure_mb": "1016",
+      "visibility_km": "2",
+      "pressure_mb": "1014",
       "condition": "Smoky haze",
       "condition_code": "149",
       "uv_index": "0",
       "forecast": [
-        {
-          "date": "2026-09-20",
-          "max_temp": "35",
-          "min_temp": "20",
-          "condition": "Clear ",
-          "sunrise": "05:29 AM",
-          "sunset": "05:35 PM"
-        },
         {
           "date": "2026-09-21",
           "max_temp": "35",
@@ -82,6 +74,14 @@
           "condition": "Overcast ",
           "sunrise": "05:28 AM",
           "sunset": "05:35 PM"
+        },
+        {
+          "date": "2026-09-23",
+          "max_temp": "35",
+          "min_temp": "21",
+          "condition": "Overcast ",
+          "sunrise": "05:28 AM",
+          "sunset": "05:34 PM"
         }
       ]
     }
