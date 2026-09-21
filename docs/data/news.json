@@ -1,6 +1,22 @@
 {
-  "timestamp": "2026-09-21T14:27:44+0000",
+  "timestamp": "2026-09-21T14:58:44+0000",
   "articles": [
+    {
+      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+      "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:56:16 GMT",
+      "description": "EasyJet says the latest incident \"once again calls into question the resilience\" of the system.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+      "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
       "link": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
@@ -10,58 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
-      "link": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 05:00:34 GMT",
-      "description": "Men who sexually abused them as underage girls are still walking around the city, they say.",
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:06:12 GMT",
+      "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 14:14:16 GMT",
-      "description": "The BBC's Frank Gardner speaks some of those who have fled the war by crossing the Red Sea to Djibouti",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-      "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 00:05:11 GMT",
-      "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "KSOP Sorong pastikan pelayaran tetap aman di tengah kabut asap",
-      "link": "https://www.antaranews.com/video/5751695/ksop-sorong-pastikan-pelayaran-tetap-aman-di-tengah-kabut-asap",
-      "published": "Mon, 21 Sep 2026 21:23:18 +0700",
-      "description": "ANTARA - Kabut asap mulai menyelimuti sejumlah wilayah perairan di Raja Ampat, Papua Barat Daya. Meski gugusan pulau ...",
+      "title": "Pembukaan pameran foto Andrei Stenin International Press Photo Contest",
+      "link": "https://www.antaranews.com/video/5751797/pembukaan-pameran-foto-andrei-stenin-international-press-photo-contest",
+      "published": "Mon, 21 Sep 2026 21:55:41 +0700",
+      "description": "ANTARA - Kedutaan Besar Rusia di Jakarta bersama LKBN Antara dan Rossiya Segodnya resmi membuka pameran ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ketua MPR RI tegaskan \"Prinsip Satu China\" saat kunjungan ke Beijing",
-      "link": "https://www.antaranews.com/berita/5751757/ketua-mpr-ri-tegaskan-prinsip-satu-china-saat-kunjungan-ke-beijing",
-      "published": "Mon, 21 Sep 2026 21:22:07 +0700",
-      "description": "Ketua Majelis Permusyawaratan Rakyat Republik Indonesia (MPR RI) Ahmad Muzani menegaskan kembali prinsip Satu China ...",
+      "title": "Menteri PPN: Tujuan pembuatan UU SDI guna hasilkan data dasar nasional",
+      "link": "https://www.antaranews.com/berita/5751808/menteri-ppn-tujuan-pembuatan-uu-sdi-guna-hasilkan-data-dasar-nasional",
+      "published": "Mon, 21 Sep 2026 21:54:45 +0700",
+      "description": "Menteri Perencanaan Pembangunan Nasional (PPN)/Kepala Badan Perencanaan Pembangunan Nasional (Bappenas) Rachmat Pambudy ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Basket 3x3 putra telat panas pada putaran awal Grup C",
-      "link": "https://www.antaranews.com/berita/5751753/basket-3x3-putra-telat-panas-pada-putaran-awal-grup-c",
-      "published": "Mon, 21 Sep 2026 21:21:04 +0700",
-      "description": "Tim bola basket 3x3 putra Indonesia mengantongi satu kekalahan dan satu kemenangan pada putaran awal Grup C Asian Games ...",
+      "title": "Pertamina siapkan layanan aduan cegah QR code konsumen disalahgunakan",
+      "link": "https://www.antaranews.com/berita/5751805/pertamina-siapkan-layanan-aduan-cegah-qr-code-konsumen-disalahgunakan",
+      "published": "Mon, 21 Sep 2026 21:51:18 +0700",
+      "description": "PT Pertamina (Persero) menyiapkan kanal aduan dan mekanisme reset QR Code bagi konsumen guna mencegah penyalahgunaan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kebakaran di Pelabuhan NPCT1 dipastikan tak ada korban jiwa",
-      "link": "https://www.antaranews.com/berita/5751749/kebakaran-di-pelabuhan-npct1-dipastikan-tak-ada-korban-jiwa",
-      "published": "Mon, 21 Sep 2026 21:19:54 +0700",
-      "description": "Kebakaran yang terjadi di Pelabuhan&nbsp;New Priok Container Terminal One (NPCT1) Kalibaru, Cilincing, Jakarta Utara, ...",
+      "title": "Kementerian PU tata kembali kawasan Danau Lut Tawar Aceh Tengah",
+      "link": "https://www.antaranews.com/berita/5751804/kementerian-pu-tata-kembali-kawasan-danau-lut-tawar-aceh-tengah",
+      "published": "Mon, 21 Sep 2026 21:51:00 +0700",
+      "description": "Kementerian Pekerjaan Umum (PU) menata kembali kawasan wisata Mendale di tepian Danau Lut Tawar di Kabupaten Aceh ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
