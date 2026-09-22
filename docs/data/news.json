@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T11:08:05+0000",
+  "timestamp": "2026-09-22T11:39:05+0000",
   "articles": [
     {
       "title": "Martha's Rule rolled out at every A&E department in England",
@@ -18,14 +18,6 @@
       "category": "Global"
     },
     {
-      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 06:03:22 GMT",
-      "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
       "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 04:05:58 GMT",
@@ -34,7 +26,15 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 668, column 6",
+      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+      "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 11:34:11 GMT",
+      "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
