@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-09-22T01:49:51+0000",
+  "timestamp": "2026-09-22T02:20:51+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 65.0,
+    "percent": 60.0,
     "cores": 2,
     "load_avg": [
-      2.23,
-      2.0,
-      2.19
+      1.84,
+      2.03,
+      2.13
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.2,
+    "free": 1.1,
     "available": 5.7,
     "used": 5.9,
     "percent": 50.9
@@ -20,25 +20,25 @@
   "disk": {
     "total": "193G",
     "used": "185G",
-    "available": "8.3G",
+    "available": "8.2G",
     "percent": "96%"
   },
   "uptime": {
     "days": 84,
     "hours": 14,
-    "minutes": 15,
-    "total_seconds": 7308938.72
+    "minutes": 46,
+    "total_seconds": 7310799.15
   },
   "top_processes": [
     {
       "user": "ubuntu",
       "cpu": "100",
-      "mem": "0.3",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
     },
     {
       "user": "root",
-      "cpu": "28.5",
+      "cpu": "21.0",
       "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
