@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-22T11:39:05+0000",
+  "timestamp": "2026-09-22T12:10:07+0000",
   "articles": [
     {
       "title": "Martha's Rule rolled out at every A&E department in England",
       "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 08:32:32 GMT",
       "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "PM to warn EU chief of 'damage' posed by Made in Europe scheme",
+      "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 11:24:27 GMT",
+      "description": "The prime minister says he will raise his concerns when the meets the European Commission President in New York.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
-      "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 04:05:58 GMT",
-      "description": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
       "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 11:34:11 GMT",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Ibu hamil perlu siapkan hal berikut sebelum berwisata",
+      "link": "https://www.antaranews.com/berita/5753279/ibu-hamil-perlu-siapkan-hal-berikut-sebelum-berwisata",
+      "published": "Tue, 22 Sep 2026 19:08:12 +0700",
+      "description": "Para wanita yang sedang memasuki fase kehamilan tentunya perlu mempersiapkan diri secara ekstra ketika hendak ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "DKPPP Temanggung dan Bulog salurkan bantuan pangan beras",
+      "link": "https://www.antaranews.com/video/5753264/dkppp-temanggung-dan-bulog-salurkan-bantuan-pangan-beras",
+      "published": "Tue, 22 Sep 2026 19:06:51 +0700",
+      "description": "ANTARA - Dinas Ketahanan Pangan, Pertanian dan Perikanan (DKPPP) Temanggung, Jawa Tengah, bersama Bulog Cabang Magelang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KLH: Pengolahan sampah sisa makanan perlu jadi prioritas daerah",
+      "link": "https://www.antaranews.com/berita/5753277/klh-pengolahan-sampah-sisa-makanan-perlu-jadi-prioritas-daerah",
+      "published": "Tue, 22 Sep 2026 19:05:41 +0700",
+      "description": "Kementerian Lingkungan Hidup (KLH) menyampaikan bahwa pengolahan sampah sisa makanan perlu menjadi prioritas pemerintah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Sugiri segera diberhentikan Lisdyarita disiapkan jadi Bupati Ponorogo",
+      "link": "https://www.antaranews.com/berita/5753275/sugiri-segera-diberhentikan-lisdyarita-disiapkan-jadi-bupati-ponorogo",
+      "published": "Tue, 22 Sep 2026 19:05:24 +0700",
+      "description": "Pemerintah Kabupaten Ponorogo, Jawa Timur, memproses pemberhentian tetap Bupati nonaktif Sugiri Sancoko menyusul ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
