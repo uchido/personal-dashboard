@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T09:35:02+0000",
+  "timestamp": "2026-09-22T10:06:05+0000",
   "articles": [
     {
       "title": "Martha's Rule rolled out at every A&E department in England",
@@ -32,6 +32,11 @@
       "description": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 658, column 344",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
