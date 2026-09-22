@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T14:14:13+0000",
+  "timestamp": "2026-09-22T14:45:11+0000",
   "articles": [
     {
       "title": "New EU industry rules would damage UK, warns Burnham",
@@ -18,20 +18,25 @@
       "category": "Global"
     },
     {
-      "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-      "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 08:52:12 GMT",
-      "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+      "title": "Father admits causing death of his son in hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 14:31:34 GMT",
+      "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-      "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 11:34:11 GMT",
-      "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+      "title": "Tim Westwood charged with two more sexual offences",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 14:29:31 GMT",
+      "description": "The alleged sexual offences date back to 1991 and 2004.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 660, column 6",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
