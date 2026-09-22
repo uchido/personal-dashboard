@@ -1,27 +1,11 @@
 {
-  "timestamp": "2026-09-22T14:45:11+0000",
+  "timestamp": "2026-09-22T15:16:10+0000",
   "articles": [
     {
       "title": "New EU industry rules would damage UK, warns Burnham",
       "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 13:10:23 GMT",
       "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Martha's Rule rolled out at every A&E department in England",
-      "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 08:32:32 GMT",
-      "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Father admits causing death of his son in hotel fall",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 14:31:34 GMT",
-      "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +18,50 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Father admits causing death of his son in hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 14:31:34 GMT",
+      "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Martha's Rule rolled out at every A&E department in England",
+      "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 08:32:32 GMT",
+      "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Para pemimpin dunia berkumpul di New York untuk Sidang Umum PBB",
+      "link": "https://www.antaranews.com/berita/5753693/para-pemimpin-dunia-berkumpul-di-new-york-untuk-sidang-umum-pbb",
+      "published": "Tue, 22 Sep 2026 22:12:44 +0700",
+      "description": "Para pemimpin dunia berkumpul di New York seiring dibukanya Debat Umum tingkat tinggi Sidang Majelis Umum ke-81 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Stadion Pajajaran Bogor kian representatif jelang Porprov XV Jabar",
+      "link": "https://www.antaranews.com/video/5753640/stadion-pajajaran-bogor-kian-representatif-jelang-porprov-xv-jabar",
+      "published": "Tue, 22 Sep 2026 22:11:27 +0700",
+      "description": "ANTARA - Progres pembangunan Stadion Pajajaran Kota Bogor sebagai venue utama Porprov XV Jawa Barat 2026 mencapai 39 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Akses jalan lintas mulai dipulihkan pascabanjir bandang di Solok",
+      "link": "https://www.antaranews.com/berita/5753685/akses-jalan-lintas-mulai-dipulihkan-pascabanjir-bandang-di-solok",
+      "published": "Tue, 22 Sep 2026 22:09:14 +0700",
+      "description": "Akses jalan nasional dan jalan provinsi di Kabupaten Solok, Sumatera Barat&nbsp;mulai kembali dibuka dan dapat dilalui ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemkot Jakbar imbau warga langsung melapor jika temukan loker palsu",
+      "link": "https://www.antaranews.com/berita/5753677/pemkot-jakbar-imbau-warga-langsung-melapor-jika-temukan-loker-palsu",
+      "published": "Tue, 22 Sep 2026 22:08:17 +0700",
+      "description": "Kepala Suku Dinas Tenaga Kerja, Transmigrasi, dan Energi (Sudin Nakertransgi) Pemerintah Kota Jakarta Barat, Faradisa ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
