@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T08:33:02+0000",
+  "timestamp": "2026-09-22T09:04:03+0000",
   "articles": [
     {
       "title": "Martha's Rule rolled out at every A&E department in England",
@@ -10,9 +10,9 @@
       "category": "Global"
     },
     {
-      "title": "Borrowing surge puts pressure on chancellor ahead of Budget",
+      "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
       "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 07:43:23 GMT",
+      "published": "Tue, 22 Sep 2026 08:52:12 GMT",
       "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Perawakan pendek anak tak selalu karena masalah nutrisi",
-      "link": "https://www.antaranews.com/berita/5752781/perawakan-pendek-anak-tak-selalu-karena-masalah-nutrisi",
-      "published": "Tue, 22 Sep 2026 15:31:48 +0700",
-      "description": "Dokter spesialis anak subspesialis endokrinologi&nbsp;Prof. Dr. dr. Aman Bhakti Pulungan, Sp.A, Subsp. End., FAAP, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "EU serukan penambahan aset AL untuk amankan pelayaran Laut Merah",
-      "link": "https://www.antaranews.com/berita/5752780/eu-serukan-penambahan-aset-al-untuk-amankan-pelayaran-laut-merah",
-      "published": "Tue, 22 Sep 2026 15:31:45 +0700",
-      "description": "Kepala kebijakan luar negeri Uni Eropa (EU), Kaja Kallas, mendesak negara-negara anggota untuk mengerahkan tambahan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DPR gelar uji kelayakan 25 calon dubes untuk China hingga Inggris",
-      "link": "https://www.antaranews.com/berita/5752776/dpr-gelar-uji-kelayakan-25-calon-dubes-untuk-china-hingga-inggris",
-      "published": "Tue, 22 Sep 2026 15:30:14 +0700",
-      "description": "Komisi I DPR RI mulai menggelar uji kelayakan dan kepatutan atau fit and proper test terhadap 25 orang calon duta besar ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Peta lawan Indonesia di FIFA ASEAN Cup 2026",
-      "link": "https://www.antaranews.com/infografik/5752764/peta-lawan-indonesia-di-fifa-asean-cup-2026",
-      "published": "Tue, 22 Sep 2026 15:30:00 +0700",
-      "description": "Hasil undian fase grup FIFA ASEAN 2026 menempatkan Indonesia di Grup A bersama Singapura, Malaysia, dan Bangladesh ...",
+      "error": "unclosed token: line 662, column 2",
       "source": "Antara News",
       "category": "Indonesia"
     }
