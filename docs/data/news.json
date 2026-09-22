@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-09-22T12:41:08+0000",
+  "timestamp": "2026-09-22T13:12:11+0000",
   "articles": [
+    {
+      "title": "New EU industry rules would damage UK, warns Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 13:10:23 GMT",
+      "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Martha's Rule rolled out at every A&E department in England",
       "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 08:32:32 GMT",
       "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "PM to warn EU chief of 'damage' posed by Made in Europe scheme",
-      "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 11:24:27 GMT",
-      "description": "The prime minister says he will raise his concerns when the meets the European Commission President in New York.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Pemprov Kaltim gratiskan biaya administrasi rumah MBR Rp10 Juta",
+      "link": "https://www.antaranews.com/berita/5753472/pemprov-kaltim-gratiskan-biaya-administrasi-rumah-mbr-rp10-juta",
+      "published": "Tue, 22 Sep 2026 20:10:50 +0700",
+      "description": "Pemerintah Provinsi Kalimantan Timur menjadi satu-satunya provinsi di Indonesia yang menggratiskan biaya administrasi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "AQUA bersama DMI berangkatkan 27 marbot dan pengurus masjid umrah",
+      "link": "https://www.antaranews.com/berita/5753468/aqua-bersama-dmi-berangkatkan-27-marbot-dan-pengurus-masjid-umrah",
+      "published": "Tue, 22 Sep 2026 20:09:25 +0700",
+      "description": "Sebanyak 27 marbot dan pengurus masjid dari berbagai daerah di Indonesia diberangkatkan untuk menunaikan ibadah umrah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemenkum kembangkan GI Tourism kopi Dieng untuk sejahterakan warga",
+      "link": "https://www.antaranews.com/video/5753388/kemenkum-kembangkan-gi-tourism-kopi-dieng-untuk-sejahterakan-warga",
+      "published": "Tue, 22 Sep 2026 20:07:25 +0700",
+      "description": "ANTARA - Kementerian Hukum mengembangkan Geographical Indication atau GI Tourism di kawasan Dieng, Jawa Tengah, dengan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Huawei Luncurkan Solusi Fintelligent AI, Dukung Institusi Keuangan Global Wujudkan \"Own Your AI, Own Your Intelligence\"",
+      "link": "https://www.antaranews.com/berita/5753465/huawei-luncurkan-solusi-fintelligent-ai-dukung-institusi-keuangan-global-wujudkan-own-your-ai-own-your-intelligence",
+      "published": "Tue, 22 Sep 2026 20:06:52 +0700",
+      "description": "Huawei memperkenalkan Solusi Fintelligent AI secara global dalam sesi Global Finance Summit yang digelar sebagai ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
