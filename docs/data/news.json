@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T13:12:11+0000",
+  "timestamp": "2026-09-22T13:43:13+0000",
   "articles": [
     {
       "title": "New EU industry rules would damage UK, warns Burnham",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Pemprov Kaltim gratiskan biaya administrasi rumah MBR Rp10 Juta",
-      "link": "https://www.antaranews.com/berita/5753472/pemprov-kaltim-gratiskan-biaya-administrasi-rumah-mbr-rp10-juta",
-      "published": "Tue, 22 Sep 2026 20:10:50 +0700",
-      "description": "Pemerintah Provinsi Kalimantan Timur menjadi satu-satunya provinsi di Indonesia yang menggratiskan biaya administrasi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "AQUA bersama DMI berangkatkan 27 marbot dan pengurus masjid umrah",
-      "link": "https://www.antaranews.com/berita/5753468/aqua-bersama-dmi-berangkatkan-27-marbot-dan-pengurus-masjid-umrah",
-      "published": "Tue, 22 Sep 2026 20:09:25 +0700",
-      "description": "Sebanyak 27 marbot dan pengurus masjid dari berbagai daerah di Indonesia diberangkatkan untuk menunaikan ibadah umrah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemenkum kembangkan GI Tourism kopi Dieng untuk sejahterakan warga",
-      "link": "https://www.antaranews.com/video/5753388/kemenkum-kembangkan-gi-tourism-kopi-dieng-untuk-sejahterakan-warga",
-      "published": "Tue, 22 Sep 2026 20:07:25 +0700",
-      "description": "ANTARA - Kementerian Hukum mengembangkan Geographical Indication atau GI Tourism di kawasan Dieng, Jawa Tengah, dengan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Huawei Luncurkan Solusi Fintelligent AI, Dukung Institusi Keuangan Global Wujudkan \"Own Your AI, Own Your Intelligence\"",
-      "link": "https://www.antaranews.com/berita/5753465/huawei-luncurkan-solusi-fintelligent-ai-dukung-institusi-keuangan-global-wujudkan-own-your-ai-own-your-intelligence",
-      "published": "Tue, 22 Sep 2026 20:06:52 +0700",
-      "description": "Huawei memperkenalkan Solusi Fintelligent AI secara global dalam sesi Global Finance Summit yang digelar sebagai ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
