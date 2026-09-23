@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-23T16:35:36+0000",
+  "timestamp": "2026-09-23T17:06:34+0000",
   "articles": [
     {
       "title": "Home secretary says undetected migrant landings 'unacceptable'",
       "link": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 16:17:27 GMT",
-      "description": "Usually brought ashore by Border Security Command or the RNLI, these are the first uncontrolled landings since 2025.",
+      "published": "Wed, 23 Sep 2026 16:42:23 GMT",
+      "description": "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "UK military jamming other nation's satellites to defend itself, BBC told",
+      "link": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 17:01:11 GMT",
+      "description": "The RAF has already been using a ground-based system for the past year, a source has said",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
-      "link": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 11:47:17 GMT",
-      "description": "Daniel Thomas, known to his supporters as Danny Tommo, livestreamed a video of the alleged incident.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Kepala BNN: Pemusnahan cegah barang bukti narkoba kembali beredar",
-      "link": "https://www.antaranews.com/berita/5755624/kepala-bnn-pemusnahan-cegah-barang-bukti-narkoba-kembali-beredar",
-      "published": "Wed, 23 Sep 2026 23:33:36 +0700",
-      "description": "Kepala Badan Narkotika Nasional (BNN) RI Komjen Pol. Suyudi Ario Seto mengatakan pemusnahan barang bukti narkoba ...",
+      "title": "Basarnas-SAR Palangka Raya cari korban KM Virgo di pesisir Kalteng",
+      "link": "https://www.antaranews.com/berita/5755655/basarnas-sar-palangka-raya-cari-korban-km-virgo-di-pesisir-kalteng",
+      "published": "Thu, 24 Sep 2026 00:05:58 +0700",
+      "description": "Basarnas mengerahkan Kapal Rigid Bouyancy Boat (RBB) dan Rigid Inflatable Boat (RIB) 01 dari Kantor SAR Palangka Raya ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Vietnam berasa sambungkan aplikasi identifikasi dengan ASEAN",
-      "link": "https://www.antaranews.com/berita/5755620/vietnam-berasa-sambungkan-aplikasi-identifikasi-dengan-asean",
-      "published": "Wed, 23 Sep 2026 23:33:17 +0700",
-      "description": "Pemerintah Vietnam merilis rencana untuk menghubungkan VNeID, aplikasi identifikasi elektronik nasional, dengan sistem ...",
+      "title": "Dosen ULM petakan jalur panjat Nateh berbasis teknologi",
+      "link": "https://www.antaranews.com/berita/5755652/dosen-ulm-petakan-jalur-panjat-nateh-berbasis-teknologi",
+      "published": "Thu, 24 Sep 2026 00:05:07 +0700",
+      "description": "Dosen Pendidikan Komputer FKIP Universitas Lambung Mangkurat (ULM) Nuruddin Wiranda mendorong pengembangan wisata ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kementerian Kebudayaan siapkan Rp150 miliar revitalisasi Keraton Solo",
-      "link": "https://www.antaranews.com/video/5755557/kementerian-kebudayaan-siapkan-rp150-miliar-revitalisasi-keraton-solo",
-      "published": "Wed, 23 Sep 2026 23:32:32 +0700",
-      "description": "ANTARA - Kementerian Kebudayaan menyiapkan anggaran 150 miliar rupiah untuk merevitalisasi 13 titik kawasan Keraton ...",
+      "title": "Gubernur naik ojek ke Pinogu bantu gerakan ekonomi pengemudi lokal",
+      "link": "https://www.antaranews.com/berita/5755648/gubernur-naik-ojek-ke-pinogu-bantu-gerakan-ekonomi-pengemudi-lokal",
+      "published": "Thu, 24 Sep 2026 00:03:26 +0700",
+      "description": "Keputusan Gubernur Gorontalo Gusnar Ismail menggunakan jasa ojek untuk menembus Kecamatan Pinogu, Kabupaten Bone ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Polairud Babel amankan terduga korlap penyelundupan delapan ton timah",
-      "link": "https://www.antaranews.com/video/5755609/polairud-babel-amankan-terduga-korlap-penyelundupan-delapan-ton-timah",
-      "published": "Wed, 23 Sep 2026 23:31:28 +0700",
-      "description": "ANTARA - Direktorat Polairud Polda Kepulauan Bangka Belitung mengamankan seorang terduga pelaku berinisial FR dalam ...",
+      "title": "BWS targetkan normalisasi sungai di Solok rampung dalam dua pekan",
+      "link": "https://www.antaranews.com/video/5755589/bws-targetkan-normalisasi-sungai-di-solok-rampung-dalam-dua-pekan",
+      "published": "Wed, 23 Sep 2026 23:53:18 +0700",
+      "description": "ANTARA - Untuk mencegah risiko bencana banjir bandang susulan kembali terjadi, Balai Wilayah Sungai Sumatera V Padang ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
