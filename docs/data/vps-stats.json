@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-09-23T04:42:19+0000",
+  "timestamp": "2026-09-23T05:13:19+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 65.0,
+    "percent": 100.0,
     "cores": 2,
     "load_avg": [
-      1.63,
-      2.14,
-      2.25
+      2.36,
+      2.47,
+      2.42
     ]
   },
   "memory": {
     "total": 11.6,
     "free": 1.0,
-    "available": 5.8,
-    "used": 5.8,
-    "percent": 50.0
+    "available": 5.7,
+    "used": 5.9,
+    "percent": 50.9
   },
   "disk": {
     "total": "193G",
@@ -26,19 +26,31 @@
   "uptime": {
     "days": 85,
     "hours": 17,
-    "minutes": 8,
-    "total_seconds": 7405686.43
+    "minutes": 39,
+    "total_seconds": 7407546.76
   },
   "top_processes": [
     {
+      "user": "ubuntu",
+      "cpu": "400",
+      "mem": "0.4",
+      "command": "node /home/ubuntu/.npm-global/bin/9router"
+    },
+    {
+      "user": "opc",
+      "cpu": "88.4",
+      "mem": "0.6",
+      "command": "node current/index.js"
+    },
+    {
       "user": "root",
-      "cpu": "29.6",
+      "cpu": "20.9",
       "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
     {
       "user": "ubuntu",
-      "cpu": "14.2",
+      "cpu": "13.3",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -47,18 +59,6 @@
       "cpu": "5.9",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
-    },
-    {
-      "user": "root",
-      "cpu": "1.5",
-      "mem": "0.8",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
-    },
-    {
-      "user": "opc",
-      "cpu": "1.4",
-      "mem": "1.2",
-      "command": "temporal-server --env docker start"
     }
   ]
 }
