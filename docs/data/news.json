@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-24T20:30:00+0000",
+  "timestamp": "2026-09-24T21:01:01+0000",
   "articles": [
     {
       "title": "Watch: Why has Trump been so eager to welcome Xi?",
       "link": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 15:16:27 GMT",
       "description": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Anti-migrant activist charged after dinghy slashed in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 20:50:27 GMT",
+      "description": "Anti-migrant activist Daniel Thomas is charged in connection with an incident in the English Channel.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -22,14 +30,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 18:29:29 GMT",
       "description": "The Israeli delegation could be be seen cheering in support during Netanyahu's speech.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 16:00:29 GMT",
-      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
       "source": "BBC News",
       "category": "Global"
     },
