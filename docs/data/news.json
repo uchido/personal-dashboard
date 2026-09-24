@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-09-24T14:17:55+0000",
+  "timestamp": "2026-09-24T14:48:56+0000",
   "articles": [
+    {
+      "title": "Some reporters denied White House access despite judge overturning Trump media ban",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 14:21:41 GMT",
+      "description": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
       "link": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Watch: What you need to know about the OpenAI Australian government hack",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 05:18:26 GMT",
-      "description": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Praktisi: Keramik motif mozaik hadir lebih praktis mudahkan pemasangan",
-      "link": "https://www.antaranews.com/berita/5757359/praktisi-keramik-motif-mozaik-hadir-lebih-praktis-mudahkan-pemasangan",
-      "published": "Thu, 24 Sep 2026 21:15:11 +0700",
-      "description": "Praktisi interior dari Platinum Ceramics Industry, Jali Wijaya, mengatakan penggunaan keramik mozaik tidak harus ...",
+      "title": "Rekonstruksi Kampung Adat Sade dipercepat untuk sambut gelaran MotoGP",
+      "link": "https://www.antaranews.com/video/5757169/rekonstruksi-kampung-adat-sade-dipercepat-untuk-sambut-gelaran-motogp",
+      "published": "Thu, 24 Sep 2026 21:46:17 +0700",
+      "description": "ANTARA - Pemerintah mempercepat rekonstruksi 75 unit bangunan utama Kampung Adat Sade, Kabupaten Lombok Tengah, NTB ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menlu Polandia kritik usulan nama \"Fort Trump\" untuk pangkalan militer",
-      "link": "https://www.antaranews.com/berita/5757353/menlu-polandia-kritik-usulan-nama-fort-trump-untuk-pangkalan-militer",
-      "published": "Thu, 24 Sep 2026 21:14:30 +0700",
-      "description": "Menteri Luar Negeri Polandia Radoslaw Sikorski mengkritik usulan penamaan pangkalan militer permanen Amerika Serikat ...",
+      "title": "Kemenkes: 2,4 juta lansia kena ISPA, vaksinasi influenza perlu gencar",
+      "link": "https://www.antaranews.com/berita/5757401/kemenkes-24-juta-lansia-kena-ispa-vaksinasi-influenza-perlu-gencar",
+      "published": "Thu, 24 Sep 2026 21:43:31 +0700",
+      "description": "Kementerian Kesehatan mengatakan, lebih dari 2,4 juta lansia tercatat mengalami ISPA sepanjang Januari&mdash;Agustus ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pembinaan bulu tangkis usia dini kembali hadir di Magelang",
-      "link": "https://www.antaranews.com/berita/5757352/pembinaan-bulu-tangkis-usia-dini-kembali-hadir-di-magelang",
-      "published": "Thu, 24 Sep 2026 21:14:23 +0700",
-      "description": "Bakti Olahraga Djarum Foundation dan MilkLife kembali menghadirkan pembinaan bulu tangkis usia dini melalui ajang ...",
+      "title": "ATR/BPN lebih dekatkan layanan pertanahan kepada masyarakat",
+      "link": "https://www.antaranews.com/berita/5757397/atr-bpn-lebih-dekatkan-layanan-pertanahan-kepada-masyarakat",
+      "published": "Thu, 24 Sep 2026 21:43:05 +0700",
+      "description": "Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN) berkomitmen mendekatkan layanan pertanahan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemenkeu-BI sepakati lima pilar sinergi fiskal dan moneter",
-      "link": "https://www.antaranews.com/berita/5757348/kemenkeu-bi-sepakati-lima-pilar-sinergi-fiskal-dan-moneter",
-      "published": "Thu, 24 Sep 2026 21:13:40 +0700",
-      "description": "Kementerian Keuangan dan Bank Indonesia (BI) menyepakati lima pilar sinergi kebijakan fiskal dan moneter untuk menjaga ...",
+      "title": "Pusdokkes Polri cek DNA 22 korban Kapal Virgo belum teridentifikasi",
+      "link": "https://www.antaranews.com/berita/5757392/pusdokkes-polri-cek-dna-22-korban-kapal-virgo-belum-teridentifikasi",
+      "published": "Thu, 24 Sep 2026 21:40:31 +0700",
+      "description": "Pusat Kedokteran dan Kesehatan (Pusdokkes) Polri kini masih melakukan pengecekan DNA terhadap 22 korban Kapal Virgo ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
