@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T23:05:03+0000",
+  "timestamp": "2026-09-24T23:36:07+0000",
   "articles": [
     {
       "title": "Watch: Why has Trump been so eager to welcome Xi?",
@@ -28,40 +28,13 @@
     {
       "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 21:21:47 GMT",
+      "published": "Thu, 24 Sep 2026 23:32:51 GMT",
       "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Jurus Menkeu Suahasil kelola APBN 2027",
-      "link": "https://www.antaranews.com/infografik/5757653/jurus-menkeu-suahasil-kelola-apbn-2027",
-      "published": "Fri, 25 Sep 2026 06:00:00 +0700",
-      "description": "Menteri Keuangan Suahasil Nazara menyampaikan sejumlah kebijakan fiskal dalam pengelolaan Anggaran Pendapatan dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "\"Memburu Pemangsa\" bawa isu kekerasan anak lewat investigasi jurnalis",
-      "link": "https://www.antaranews.com/berita/5757688/memburu-pemangsa-bawa-isu-kekerasan-anak-lewat-investigasi-jurnalis",
-      "published": "Fri, 25 Sep 2026 05:59:31 +0700",
-      "description": "Belakangan ini, layar lebar Indonesia seperti tak pernah benar-benar keluar dari kegelapan. Dari lorong-lorong ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Samsat Keliling di 14 wilayah Jumat ini",
-      "link": "https://www.antaranews.com/berita/5757687/samsat-keliling-di-14-wilayah-jumat-ini",
-      "published": "Fri, 25 Sep 2026 05:56:36 +0700",
-      "description": "Polda Metro Jaya masih membuka layanan Sistem Administrasi Manunggal Satu Atap (Samsat) Keliling di 14 wilayah Jakarta, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Joao Felix bawa timnas Portugal menang tipis 1-0 atas Wales",
-      "link": "https://www.antaranews.com/berita/5757684/joao-felix-bawa-timnas-portugal-menang-tipis-1-0-atas-wales",
-      "published": "Fri, 25 Sep 2026 05:54:59 +0700",
-      "description": "Joao Felix menjadi penentu kemenangan tim nasional (timnas) Portugal atas Wales pada matchday pertama UEFA Nations ...",
+      "error": "unclosed token: line 665, column 4",
       "source": "Antara News",
       "category": "Indonesia"
     }
