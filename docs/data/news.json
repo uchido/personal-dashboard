@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-24T22:03:02+0000",
+  "timestamp": "2026-09-24T22:34:03+0000",
   "articles": [
     {
       "title": "Watch: Why has Trump been so eager to welcome Xi?",
@@ -12,7 +12,7 @@
     {
       "title": "Anti-migrant activist charged after dinghy slashed in Channel",
       "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 21:14:07 GMT",
+      "published": "Thu, 24 Sep 2026 22:16:23 GMT",
       "description": "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kemenkeu minta NTB perluas pasar global kemiri",
-      "link": "https://www.antaranews.com/berita/5757649/kemenkeu-minta-ntb-perluas-pasar-global-kemiri",
-      "published": "Fri, 25 Sep 2026 04:44:09 +0700",
-      "description": "Kementerian Keuangan (Kemenkeu) meminta&nbsp;ekosistem agroindustri kemiri di Nusa Tenggara Barat (NTB) dapat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Xi: China-AS bertanggung jawab pastikan AI bermanfaat bagi manusia",
-      "link": "https://www.antaranews.com/berita/5757647/xi-china-as-bertanggung-jawab-pastikan-ai-bermanfaat-bagi-manusia",
-      "published": "Fri, 25 Sep 2026 04:33:57 +0700",
-      "description": "Presiden China Xi Jinping menegaskan bahwa China dan Amerika Serikat memiliki kapasitas serta tanggung jawab besar ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Delegasi Indonesia walk out saat Netanyahu akan pidato di PBB",
-      "link": "https://www.antaranews.com/berita/5757645/delegasi-indonesia-walk-out-saat-netanyahu-akan-pidato-di-pbb",
-      "published": "Fri, 25 Sep 2026 04:28:41 +0700",
-      "description": "Delegasi Indonesia melakukan aksi walk out dari aula Sidang ke-81 Majelis Umum Perserikatan Bangsa-Bangsa (PBB) di New ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dana kredit Rp2.500 triliun belum cair, BI lihat swasta mulai bergerak",
-      "link": "https://www.antaranews.com/berita/5757639/dana-kredit-rp2500-triliun-belum-cair-bi-lihat-swasta-mulai-bergerak",
-      "published": "Fri, 25 Sep 2026 02:14:06 +0700",
-      "description": "Bank Indonesia (BI) mencermati fasilitas kredit yang belum dicairkan atau undisbursed loan masih berkisar Rp2.548 ...",
+      "error": "unclosed token: line 662, column 355",
       "source": "Antara News",
       "category": "Indonesia"
     }
