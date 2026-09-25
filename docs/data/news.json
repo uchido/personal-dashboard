@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-25T07:21:12+0000",
+  "timestamp": "2026-09-25T07:52:13+0000",
   "articles": [
     {
       "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
@@ -18,14 +18,6 @@
       "category": "Global"
     },
     {
-      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 23:45:08 GMT",
-      "description": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
       "link": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 23:44:00 GMT",
@@ -34,34 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "UEA tangguhkan penerbangan yang dioperasikan maskapai Iran",
-      "link": "https://www.antaranews.com/berita/5758151/uea-tangguhkan-penerbangan-yang-dioperasikan-maskapai-iran",
-      "published": "Fri, 25 Sep 2026 14:19:32 +0700",
-      "description": "Uni Emirat Arab (UEA) menangguhkan penerbangan yang dioperasikan oleh maskapai penerbangan Iran menuju dan dari negara ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
+      "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 23:45:08 GMT",
+      "description": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Tolak gencatan senjata AS, Presiden Sudan tak dapat visa ke Sidang PBB",
-      "link": "https://www.antaranews.com/berita/5758147/tolak-gencatan-senjata-as-presiden-sudan-tak-dapat-visa-ke-sidang-pbb",
-      "published": "Fri, 25 Sep 2026 14:18:51 +0700",
-      "description": "Presiden Sudan Abdel Fattah Al-Burhan tidak mendapatkan visa AS untuk menghadiri Sidang Majelis Umum PBB diduga akibat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Qatar bantah tuduhan Netanyahu soal pengaruhi opini publik",
-      "link": "https://www.antaranews.com/berita/5758145/qatar-bantah-tuduhan-netanyahu-soal-pengaruhi-opini-publik",
-      "published": "Fri, 25 Sep 2026 14:18:20 +0700",
-      "description": "Pemerintah Qatar membantah tuduhan Perdana Menteri Israel Benjamin Netanyahu bahwa Doha&nbsp;telah menjalankan kampanye ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Wapres tinjau penanganan banjir bandang Solok",
-      "link": "https://www.antaranews.com/foto/5758144/wapres-tinjau-penanganan-banjir-bandang-solok",
-      "published": "Fri, 25 Sep 2026 14:17:59 +0700",
-      "description": "Wakil Presiden Gibran Rakabuming Raka (ketiga kanan) didampingi Kepala BNPB Letjen TNI Suharyanto (kedua kanan), ...",
+      "error": "no element found: line 658, column 202",
       "source": "Antara News",
       "category": "Indonesia"
     }
