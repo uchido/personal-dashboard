@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-09-25T06:19:11+0000",
+  "timestamp": "2026-09-25T06:50:11+0000",
   "articles": [
     {
-      "title": "Trump and Xi toast new chapter in friendship at White House state dinner",
+      "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
       "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 05:42:45 GMT",
-      "description": "The lavish state dinner included tech billionaires, red tablecloths, bok choy and festive toasts.",
+      "published": "Fri, 25 Sep 2026 06:40:18 GMT",
+      "description": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
+      "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 23:45:08 GMT",
+      "description": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
       "link": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 23:44:00 GMT",
@@ -26,42 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Anti-migrant activist charged after dinghy slashed in Channel",
-      "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 22:16:23 GMT",
-      "description": "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "BPKH raih Prominent Awards 2026 perkuat komitmen pengelolaan dana Haji",
-      "link": "https://www.antaranews.com/berita/5758060/bpkh-raih-prominent-awards-2026-perkuat-komitmen-pengelolaan-dana-haji",
-      "published": "Fri, 25 Sep 2026 13:18:40 +0700",
-      "description": "Badan Pengelola Keuangan Haji (BPKH) meraih Prominent Awards 2026 kategori Excellence in National Hajj Fund ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Semeru dua kali erupsi dengan tinggi letusan 700 meter di atas puncak",
-      "link": "https://www.antaranews.com/berita/5758059/semeru-dua-kali-erupsi-dengan-tinggi-letusan-700-meter-di-atas-puncak",
-      "published": "Fri, 25 Sep 2026 13:17:57 +0700",
-      "description": "Gunung Semeru di perbatasan Kabupaten Lumajang dan Malang, Jawa Timur tercatat dua kali erupsi dengan tinggi letusan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Industri dorong talenta kerja tetap kritis gunakan AI",
-      "link": "https://www.antaranews.com/berita/5758056/industri-dorong-talenta-kerja-tetap-kritis-gunakan-ai",
-      "published": "Fri, 25 Sep 2026 13:16:41 +0700",
-      "description": "Chief Executive Officer (CEO) Grab Indonesia Neneng Goenadi&nbsp;mendorong talenta kerja memiliki kemampuan berpikir ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Teh hitam hingga kefir, ini minuman yang baik bagi kesehatan ginjal",
-      "link": "https://www.antaranews.com/berita/5758053/teh-hitam-hingga-kefir-ini-minuman-yang-baik-bagi-kesehatan-ginjal",
-      "published": "Fri, 25 Sep 2026 13:16:35 +0700",
-      "description": "Menjaga hidrasi tubuh sangat penting bagi kesehatan ginjal untuk menyaring darah dan membuang berbagai limbah maupun ...",
+      "error": "unclosed token: line 658, column 8",
       "source": "Antara News",
       "category": "Indonesia"
     }
