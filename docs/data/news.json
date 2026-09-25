@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-09-25T14:04:19+0000",
+  "timestamp": "2026-09-25T14:35:19+0000",
   "articles": [
-    {
-      "title": "Noah Woods left playground through gap in fence, inquest hears",
-      "link": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 12:51:48 GMT",
-      "description": "Noah's mother tells parents to \"hold their children a little tighter and cherish every moment\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Special agents' blood and urine test results stolen in FBI hack",
       "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
@@ -18,10 +10,10 @@
       "category": "Global"
     },
     {
-      "title": "Daniel Thomas pleads not guilty after dinghy slashed",
-      "link": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 11:37:17 GMT",
-      "description": "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.",
+      "title": "Noah Woods left playground through gap in fence, inquest hears",
+      "link": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 12:51:48 GMT",
+      "description": "Noah's mother tells parents to \"hold their children a little tighter and cherish every moment\".",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "OIKN beri tenggat sepekan warga bongkar mandiri bangunan di Tahura",
-      "link": "https://www.antaranews.com/berita/5758940/oikn-beri-tenggat-sepekan-warga-bongkar-mandiri-bangunan-di-tahura",
-      "published": "Fri, 25 Sep 2026 21:02:38 +0700",
-      "description": "Otorita Ibu Kota Nusantara (OIKN) memberikan tenggat waktu sepekan kepada&nbsp;warga untuk membongkar secara mandiri ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "Daniel Thomas pleads not guilty after dinghy slashed",
+      "link": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 11:37:17 GMT",
+      "description": "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Oratmangoen bawa Indonesia ungguli Singapura 1-0 di babak pertama",
-      "link": "https://www.antaranews.com/berita/5758939/oratmangoen-bawa-indonesia-ungguli-singapura-1-0-di-babak-pertama",
-      "published": "Fri, 25 Sep 2026 21:01:25 +0700",
-      "description": "Penyerang sayap Ragnar Oratmangoen membawa Timnas Indonesia mengungguli Timnas Singapura dengan skor 1-0 di babak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DVI Polda Kalsel identifikasi lima korban Kapal Virgo malam ini",
-      "link": "https://www.antaranews.com/berita/5758935/dvi-polda-kalsel-identifikasi-lima-korban-kapal-virgo-malam-ini",
-      "published": "Fri, 25 Sep 2026 21:01:00 +0700",
-      "description": "Tim Disaster Victim Identification (DVI) Polda Kalimantan Selatan dibantu Pusdokkes Polri berhasil mengidentifikasi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Jin Jiang Hotels Perkuat Ekspansi di Indonesia, Siapkan Hotel Baru di PIK 2",
-      "link": "https://www.antaranews.com/berita/5758933/jin-jiang-hotels-perkuat-ekspansi-di-indonesia-siapkan-hotel-baru-di-pik-2",
-      "published": "Fri, 25 Sep 2026 21:00:14 +0700",
-      "description": "Jakarta (ANTARA) &mdash; Jin Jiang Hotels memperkuat ekspansi bisnisnya di Indonesia dengan membuka kantor perwakilan ...",
+      "error": "unclosed token: line 661, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
