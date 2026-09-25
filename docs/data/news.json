@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-09-25T08:23:13+0000",
+  "timestamp": "2026-09-25T08:54:13+0000",
   "articles": [
+    {
+      "title": "Families failed by decision to bail sex offender to flat near playground, victims commissioner says",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 08:30:24 GMT",
+      "description": "Victims of Zafer Dogan were living close to the 32-year-old who took thousands of pictures of children at a playground from his bedroom window.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
       "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Victims 'grossly failed' by sex offender bail decision",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 08:05:21 GMT",
-      "description": "Victims of Zafer Dogan were living close to the 32-year-old who took thousands of pictures of children at a playground from his bedroom window.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
       "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 23:45:08 GMT",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Bali jadi percontohan penerapan nomor tunggal darurat 112",
-      "link": "https://www.antaranews.com/berita/5758257/bali-jadi-percontohan-penerapan-nomor-tunggal-darurat-112",
-      "published": "Fri, 25 Sep 2026 15:22:38 +0700",
-      "description": "Pemerintah Pusat resmi menunjuk Provinsi Bali sebagai percontohan dalam penerapan nomor tunggal panggilan darurat 112 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Perluasan akses telemedisin bantu efisiensi layanan kesehatan",
-      "link": "https://www.antaranews.com/berita/5758256/perluasan-akses-telemedisin-bantu-efisiensi-layanan-kesehatan",
-      "published": "Fri, 25 Sep 2026 15:21:30 +0700",
-      "description": "Perluasan akses telemedisin dinilai dapat membantu masyarakat berkunjung ke layanan kesehatan secara lebih efisien ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kapolri dorong teknologi jadi \"jembatan\" Korlantas dengan masyarakat",
-      "link": "https://www.antaranews.com/berita/5758253/kapolri-dorong-teknologi-jadi-jembatan-korlantas-dengan-masyarakat",
-      "published": "Fri, 25 Sep 2026 15:20:58 +0700",
-      "description": "Kepala Kepolisian Negara Republik Indonesia Jenderal Polisi Listyo Sigit Prabowo mendorong teknologi menjadi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BP Batam pastikan proses perizinan beri kepastian bagi pelaku usaha",
-      "link": "https://www.antaranews.com/berita/5758251/bp-batam-pastikan-proses-perizinan-beri-kepastian-bagi-pelaku-usaha",
-      "published": "Fri, 25 Sep 2026 15:20:57 +0700",
-      "description": "Badan Pengusahaan (BP) Batam, Kepulauan Riau (Kepri) memastikan setiap permohonan perizinan yang masuk One Single ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
