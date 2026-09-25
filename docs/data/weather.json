@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-25T20:16:24+0000",
+  "timestamp": "2026-09-25T20:47:24+0000",
   "locations": [
     {
       "name": "Palu",
@@ -7,8 +7,8 @@
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "19",
-      "feels_like_c": "22",
-      "humidity": "98",
+      "feels_like_c": "21",
+      "humidity": "97",
       "wind_speed_kmh": "6",
       "wind_dir": "SE",
       "visibility_km": "0",
@@ -48,38 +48,38 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "22",
-      "feels_like_c": "24",
-      "humidity": "94",
-      "wind_speed_kmh": "8",
+      "temp_c": "21",
+      "feels_like_c": "23",
+      "humidity": "96",
+      "wind_speed_kmh": "7",
       "wind_dir": "W",
-      "visibility_km": "3",
+      "visibility_km": "2",
       "pressure_mb": "1013",
-      "condition": "Smoky haze",
-      "condition_code": "149",
+      "condition": "Mist",
+      "condition_code": "143",
       "uv_index": "0",
       "forecast": [
         {
           "date": "2026-09-26",
-          "max_temp": "34",
+          "max_temp": "35",
           "min_temp": "21",
-          "condition": "Mist",
+          "condition": "Clear ",
           "sunrise": "05:26 AM",
           "sunset": "05:34 PM"
         },
         {
           "date": "2026-09-27",
           "max_temp": "34",
-          "min_temp": "21",
+          "min_temp": "20",
           "condition": "Partly Cloudy ",
           "sunrise": "05:25 AM",
           "sunset": "05:34 PM"
         },
         {
           "date": "2026-09-28",
-          "max_temp": "33",
+          "max_temp": "32",
           "min_temp": "21",
-          "condition": "Overcast ",
+          "condition": "Mist",
           "sunrise": "05:25 AM",
           "sunset": "05:34 PM"
         }
