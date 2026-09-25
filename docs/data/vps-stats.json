@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-09-25T15:06:16+0000",
+  "timestamp": "2026-09-25T15:37:16+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 63.2,
+    "percent": 57.9,
     "cores": 2,
     "load_avg": [
-      3.02,
-      2.55,
-      2.33
+      3.04,
+      2.59,
+      2.39
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.8,
-    "available": 5.2,
-    "used": 6.4,
-    "percent": 55.2
+    "free": 1.2,
+    "available": 5.6,
+    "used": 6.0,
+    "percent": 51.7
   },
   "disk": {
     "total": "193G",
@@ -25,14 +25,26 @@
   },
   "uptime": {
     "days": 88,
-    "hours": 3,
-    "minutes": 32,
-    "total_seconds": 7615923.45
+    "hours": 4,
+    "minutes": 3,
+    "total_seconds": 7617784.05
   },
   "top_processes": [
     {
+      "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.3",
+      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
+    {
       "user": "root",
-      "cpu": "26.7",
+      "cpu": "27.4",
       "mem": "1.1",
       "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     },
@@ -47,18 +59,6 @@
       "cpu": "5.9",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
-    },
-    {
-      "user": "root",
-      "cpu": "1.5",
-      "mem": "0.8",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
-    },
-    {
-      "user": "opc",
-      "cpu": "1.4",
-      "mem": "1.2",
-      "command": "temporal-server --env docker start"
     }
   ]
 }
