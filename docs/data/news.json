@@ -1,22 +1,6 @@
 {
-  "timestamp": "2026-09-26T00:24:28+0000",
+  "timestamp": "2026-09-26T00:55:29+0000",
   "articles": [
-    {
-      "title": "Man City found guilty of majority of 115 financial rule breaches",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 20:11:12 GMT",
-      "description": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Watch: What could the potential sanctions for Man City be?",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 14:55:14 GMT",
-      "description": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the major",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
@@ -26,42 +10,58 @@
       "category": "Global"
     },
     {
-      "title": "I'm not tempted to call an early election, Burnham says",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 17:15:35 GMT",
-      "description": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
+      "title": "Man City found guilty of majority of 115 financial rule breaches",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 20:11:12 GMT",
+      "description": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Sabtu, kualitas udara Jakarta masuk 10 besar terburuk di dunia",
-      "link": "https://www.antaranews.com/berita/5759313/sabtu-kualitas-udara-jakarta-masuk-10-besar-terburuk-di-dunia",
-      "published": "Sat, 26 Sep 2026 07:14:55 +0700",
-      "description": "Kualitas udara di Jakarta tercatat masuk peringkat 10 besar terburuk di dunia pada Sabtu pagi.\n\nBerdasarkan data ...",
+      "title": "Relegation? Titles stripped? Appeals? What next for Man City",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 20:48:18 GMT",
+      "description": "It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club. Here's what it means.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 00:09:45 GMT",
+      "description": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Guruh Soekarnoputra wafat Sabtu pagi di usia 73 tahun",
+      "link": "https://www.antaranews.com/berita/5759323/guruh-soekarnoputra-wafat-sabtu-pagi-di-usia-73-tahun",
+      "published": "Sat, 26 Sep 2026 07:52:02 +0700",
+      "description": "Mohammad Guruh Irianto Soekarnoputra Bin Sukarno atau dikenal&nbsp;Guruh Sokarnoputra meninggal dunia pada Sabtu pagi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "BMKG: Mayoritas wilayah Indonesia berpotensi diguyur hujan pada Sabtu",
-      "link": "https://www.antaranews.com/berita/5759312/bmkg-mayoritas-wilayah-indonesia-berpotensi-diguyur-hujan-pada-sabtu",
-      "published": "Sat, 26 Sep 2026 07:04:05 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan cuaca di berbagai wilayah Indonesia sangat ...",
+      "title": "GoPay luncurkan program GoPay Next sasar generasi muda",
+      "link": "https://www.antaranews.com/berita/5759319/gopay-luncurkan-program-gopay-next-sasar-generasi-muda",
+      "published": "Sat, 26 Sep 2026 07:49:26 +0700",
+      "description": "Aplikasi GoPay meluncurkan program keanggotaan GoPay Next sebuah program khusus, yang&nbsp;dapat diakses secara gratis ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Sabtu, tersedia layanan Samsat Keliling di 8 wilayah Jadetabek",
-      "link": "https://www.antaranews.com/berita/5759309/sabtu-tersedia-layanan-samsat-keliling-di-8-wilayah-jadetabek",
-      "published": "Sat, 26 Sep 2026 07:01:12 +0700",
-      "description": "Polda Metro Jaya menyediakan layanan Sistem Administrasi Manunggal Satu Atap (Samsat) Keliling untuk membantu para ...",
+      "title": "Araghchi: Iran bisa buka Selat Hormuz dalam sepekan jika AS sepakat",
+      "link": "https://www.antaranews.com/berita/5759317/araghchi-iran-bisa-buka-selat-hormuz-dalam-sepekan-jika-as-sepakat",
+      "published": "Sat, 26 Sep 2026 07:42:52 +0700",
+      "description": "Menteri Luar Negeri (Menlu) Iran Abbas Araghchi&nbsp;mengatakan pihaknya dapat membuka kembali Selat Hormuz dalam waktu ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Anak muda sering minum kopi, sehat atau justru berisiko?",
-      "link": "https://www.antaranews.com/berita/5759308/anak-muda-sering-minum-kopi-sehat-atau-justru-berisiko",
-      "published": "Sat, 26 Sep 2026 06:59:02 +0700",
-      "description": "Minum kopi kini bukan lagi sekadar rutinitas untuk mengusir rasa kantuk, melainkan telah bergeser menjadi bagian dari ...",
+      "title": "Rekomendasi akhir pekan di Jakarta, ada Pestapora hingga BBW",
+      "link": "https://www.antaranews.com/berita/5759315/rekomendasi-akhir-pekan-di-jakarta-ada-pestapora-hingga-bbw",
+      "published": "Sat, 26 Sep 2026 07:28:09 +0700",
+      "description": "Ibu kota Jakarta seolah tak pernah berhenti menyuguhkan berbagai pilihan kegiatan seru untuk dinikmati bersama keluarga ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
