@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-09-26T23:08:50+0000",
+  "timestamp": "2026-09-26T23:39:50+0000",
   "articles": [
     {
       "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
       "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 26 Sep 2026 18:50:02 GMT",
       "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 23:00:42 GMT",
+      "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Court of Appeal overturns ban on Drumcree parade",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 22:45:52 GMT",
+      "description": "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 22:15:59 GMT",
-      "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Indonesia soroti kisah sukses ASEAN eratkan kemitraan di Asia Tenggara",
+      "link": "https://www.antaranews.com/berita/5760216/indonesia-soroti-kisah-sukses-asean-eratkan-kemitraan-di-asia-tenggara",
+      "published": "Sun, 27 Sep 2026 06:27:34 +0700",
+      "description": "Menteri Luar Negeri (Menlu) Republik Indonesia (RI)&nbsp;Sugiono menyoroti keberhasilan ASEAN dalam mengeratkan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "title": "How long can Labour's feel-good factor last?",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 11:22:03 GMT",
-      "description": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Indonesia tekankan pentingnya ketahanan nasional di Majelis Umum PBB",
+      "link": "https://www.antaranews.com/berita/5760213/indonesia-tekankan-pentingnya-ketahanan-nasional-di-majelis-umum-pbb",
+      "published": "Sun, 27 Sep 2026 06:20:00 +0700",
+      "description": "Indonesia menjadikan ketahanan nasional sebagai pondasi untuk berkontribusi mewujudkan ketahanan global dan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Dua jempol untuk Rahmat Erwin Abdullah",
+      "link": "https://www.antaranews.com/berita/5760211/dua-jempol-untuk-rahmat-erwin-abdullah",
+      "published": "Sun, 27 Sep 2026 06:12:18 +0700",
+      "description": "Rahmat Erwin Abdullah kembali mengangkat nama Indonesia ke podium tertinggi Asian Games.\n\nTiga tahun setelah meraih ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Skuad panjat tebing Indonesia di Asian Games 2026",
       "link": "https://www.antaranews.com/infografik/5760208/skuad-panjat-tebing-indonesia-di-asian-games-2026",
       "published": "Sun, 27 Sep 2026 06:00:00 +0700",
       "description": "Indonesia mengirim sembilan atlet untuk berkompetisi pada cabang olahraga panjat tebing Asian Games 2026 dengan target ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Swiss hantam Makedonia Utara, Slovenia imbangi Skotlandia",
-      "link": "https://www.antaranews.com/berita/5760207/swiss-hantam-makedonia-utara-slovenia-imbangi-skotlandia",
-      "published": "Sun, 27 Sep 2026 05:02:51 +0700",
-      "description": "Tim nasional Swiss menghantam tim nasional Makedonia Utara, sedangkan tim nasional Slovenia mengimbangi tim nasional ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mario Pasalic antar Kroasia taklukkan Republik Ceko",
-      "link": "https://www.antaranews.com/berita/5760205/mario-pasalic-antar-kroasia-taklukkan-republik-ceko",
-      "published": "Sun, 27 Sep 2026 04:59:39 +0700",
-      "description": "Gol dari Mario Pasalic mengantarkan tim nasional Kroasia menaklukkan tim nasional Republik Ceko pada pertandingan Grup ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Drama lima gol warnai kemenangan Spanyol atas Inggris",
-      "link": "https://www.antaranews.com/berita/5760203/drama-lima-gol-warnai-kemenangan-spanyol-atas-inggris",
-      "published": "Sun, 27 Sep 2026 04:26:55 +0700",
-      "description": "Drama lima gol mewarnai kemenangan tim nasional Spanyol atas tim nasional Inggris dengan skor 3-2 pada pertandingan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
