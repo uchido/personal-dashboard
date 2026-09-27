@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-09-27T10:00:02+0000",
+  "timestamp": "2026-09-27T10:31:03+0000",
   "articles": [
+    {
+      "title": "'Broken social care will in the end break the NHS,' says Burnham",
+      "link": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 09:52:49 GMT",
+      "description": "Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Ten NHS staff removed over Noah Woods data breach",
       "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
@@ -10,17 +18,9 @@
       "category": "Global"
     },
     {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 07:44:11 GMT",
-      "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Two mass shootings in South Africa leave 27 dead",
       "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 08:40:02 GMT",
+      "published": "Sun, 27 Sep 2026 10:00:36 GMT",
       "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Pangdam: Kodam Papua Tengah dijadwalkan diresmikan 5 Oktober",
-      "link": "https://www.antaranews.com/berita/5760680/pangdam-kodam-papua-tengah-dijadwalkan-diresmikan-5-oktober",
-      "published": "Sun, 27 Sep 2026 16:55:33 +0700",
-      "description": "Pangdam XVII/Cenderawasih Mayjen TNI Febriel Buyung Sikumbang mengatakan Kodam Papua Tengah yang berkedudukan di Nabire ...",
+      "title": "Pakar nilai konsep halal jadi ekosistem industri bernilai tambah",
+      "link": "https://www.antaranews.com/berita/5760713/pakar-nilai-konsep-halal-jadi-ekosistem-industri-bernilai-tambah",
+      "published": "Sun, 27 Sep 2026 17:29:36 +0700",
+      "description": "Sekretaris Pusat Halal Science Center IPB University Mala Nurilmala menilai konsep halal tidak lagi sebatas sertifikasi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menbud sebut lagu anak sarana efektif kenalkan budaya sejak dini",
-      "link": "https://www.antaranews.com/berita/5760676/menbud-sebut-lagu-anak-sarana-efektif-kenalkan-budaya-sejak-dini",
-      "published": "Sun, 27 Sep 2026 16:55:21 +0700",
-      "description": "Menteri Kebudayaan (Menbud) Fadli Zon menyampaikan bahwa lagu anak merupakan salah satu sarana yang efektif untuk ...",
+      "title": "Empat tewas dalam penembakan massal di Saint Vincent",
+      "link": "https://www.antaranews.com/berita/5760709/empat-tewas-dalam-penembakan-massal-di-saint-vincent",
+      "published": "Sun, 27 Sep 2026 17:23:42 +0700",
+      "description": "Empat orang tewas dan empat lainnya mengalami luka tembak dalam penembakan massal di kawasan Green Hill di Pulau Saint ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "DJPb: APBN dan KUR dorong pertumbuhan ekonomi Maluku",
-      "link": "https://www.antaranews.com/berita/5760675/djpb-apbn-dan-kur-dorong-pertumbuhan-ekonomi-maluku",
-      "published": "Sun, 27 Sep 2026 16:51:08 +0700",
-      "description": "Direktorat Jenderal Perbendaharaan (DJPb) Provinsi Maluku mencatat dukungan Anggaran Pendapatan dan Belanja Negara ...",
+      "title": "Menbud sebut penyelenggaraan KILA dorong regenerasi pencipta lagu anak",
+      "link": "https://www.antaranews.com/berita/5760703/menbud-sebut-penyelenggaraan-kila-dorong-regenerasi-pencipta-lagu-anak",
+      "published": "Sun, 27 Sep 2026 17:19:21 +0700",
+      "description": "Menteri Kebudayaan (Menbud) Fadli Zon mengatakan bahwa penyelenggaraan program Cinta Lagu Anak Indonesia (KILA) dapat ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "MTI Mentok gelar Seruni Art Festival tingkatkan ekonomi kreatif",
-      "link": "https://www.antaranews.com/berita/5760671/mti-mentok-gelar-seruni-art-festival-tingkatkan-ekonomi-kreatif",
-      "published": "Sun, 27 Sep 2026 16:51:03 +0700",
-      "description": "Museum Timah Indonesia (MTI) Mentok Kabupaten Bangka Barat Provinsi Kepulauan Bangka Belitung menggelar Seruni Art ...",
+      "title": "Pemkot Cirebon angkat keunikan Pecinan untuk daya tarik wisata",
+      "link": "https://www.antaranews.com/berita/5760700/pemkot-cirebon-angkat-keunikan-pecinan-untuk-daya-tarik-wisata",
+      "published": "Sun, 27 Sep 2026 17:17:32 +0700",
+      "description": "Pemerintah Kota Cirebon, Jawa Barat, mulai mengangkat karakter kawasan Pecinan sebagai salah satu daya tarik wisata ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
