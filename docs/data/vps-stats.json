@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-09-27T05:20:53+0000",
+  "timestamp": "2026-09-27T05:51:54+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 100.0,
     "cores": 2,
     "load_avg": [
-      2.66,
-      2.29,
-      2.31
+      2.2,
+      2.26,
+      2.4
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.0,
-    "available": 5.4,
-    "used": 6.2,
-    "percent": 53.4
+    "free": 0.7,
+    "available": 5.1,
+    "used": 6.5,
+    "percent": 56.0
   },
   "disk": {
     "total": "193G",
@@ -25,40 +25,40 @@
   },
   "uptime": {
     "days": 89,
-    "hours": 17,
-    "minutes": 46,
-    "total_seconds": 7753601.28
+    "hours": 18,
+    "minutes": 17,
+    "total_seconds": 7755461.61
   },
   "top_processes": [
     {
+      "user": "root",
+      "cpu": "95.3",
+      "mem": "1.0",
+      "command": "node /root/.cache/pnpm/dlx/591e3721dc1e8d0c5422e09"
+    },
+    {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.4",
+      "cpu": "50.0",
+      "mem": "0.3",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
       "user": "root",
-      "cpu": "34.8",
-      "mem": "1.1",
-      "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "14.2",
-      "mem": "0.1",
-      "command": "python3 scripts/collect-vps.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "5.9",
-      "mem": "0.8",
-      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+      "cpu": "48.9",
+      "mem": "1.4",
+      "command": "node /usr/local/bin/pnpm dlx prisma@6.5.0 db push "
     },
     {
       "user": "root",
-      "cpu": "1.5",
-      "mem": "0.8",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+      "cpu": "21.6",
+      "mem": "0.7",
+      "command": "node /usr/local/bin/pnpm run prisma-db-push"
+    },
+    {
+      "user": "root",
+      "cpu": "20.1",
+      "mem": "1.1",
+      "command": "/gems/ruby/3.3.0/bin/sidekiq -C config/sidekiq.yml"
     }
   ]
 }
