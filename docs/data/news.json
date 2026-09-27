@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-09-27T00:10:51+0000",
+  "timestamp": "2026-09-27T00:41:51+0000",
   "articles": [
     {
       "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
       "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 26 Sep 2026 18:50:02 GMT",
       "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Protesters gather as judges overturn ban on Drumcree parade",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 23:42:11 GMT",
+      "description": "The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Heathrow Airport warns third runway could be delayed by four years",
+      "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 16:32:42 GMT",
+      "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,20 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Court of Appeal overturns ban on Drumcree parade",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 23:42:11 GMT",
-      "description": "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Indonesia tegaskan reformasi PBB semakin mendesak di abad ke-21",
+      "link": "https://www.antaranews.com/berita/5760229/indonesia-tegaskan-reformasi-pbb-semakin-mendesak-di-abad-ke-21",
+      "published": "Sun, 27 Sep 2026 07:27:26 +0700",
+      "description": "Indonesia menilai reformasi Perserikatan Bangsa-Bangsa (PBB) jadi semakin mendesak di tengah semakin bergolaknya ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "title": "Heathrow Airport warns third runway could be delayed by four years",
-      "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 16:32:42 GMT",
-      "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Sepekan, perpanjangan operasi SAR KM Virgo hingga peralihan guru PPPK",
+      "link": "https://www.antaranews.com/berita/5760225/sepekan-perpanjangan-operasi-sar-km-virgo-hingga-peralihan-guru-pppk",
+      "published": "Sun, 27 Sep 2026 07:21:51 +0700",
+      "description": "Sejumlah berita humaniora dalam sepekan masih menarik untuk dibaca, mulai dari perpanjangan operasi SAR korban KM Virgo ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Jadwal Asian Games: Skateboard berpeluang kawinkan medali",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5760221/ri-nilai-isu-palestina-jadi-ujian-terbesar-bagi-hukum-internasional",
       "published": "Sun, 27 Sep 2026 07:05:43 +0700",
       "description": "Menteri Luar Negeri (Menlu) Republik Indonesia (RI)&nbsp;Sugiono&nbsp;mengatakan&nbsp;isu Palestina sebagai ujian ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mengenang Guruh Soekarnoputra hingga Inul dan Adam duet di Pestapora",
-      "link": "https://www.antaranews.com/berita/5760220/mengenang-guruh-soekarnoputra-hingga-inul-dan-adam-duet-di-pestapora",
-      "published": "Sun, 27 Sep 2026 06:53:16 +0700",
-      "description": "Guruh Soekarnoputra meninggal dunia pada Sabtu (26/9) namun dedikasinya pada kesenian dan kebudayaan Indonesia menjadi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Indonesia soroti kisah sukses ASEAN eratkan kemitraan di Asia Tenggara",
-      "link": "https://www.antaranews.com/berita/5760216/indonesia-soroti-kisah-sukses-asean-eratkan-kemitraan-di-asia-tenggara",
-      "published": "Sun, 27 Sep 2026 06:27:34 +0700",
-      "description": "Menteri Luar Negeri (Menlu) Republik Indonesia (RI)&nbsp;Sugiono menyoroti keberhasilan ASEAN dalam mengeratkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
