@@ -1,47 +1,9 @@
 {
-  "timestamp": "2026-09-27T04:49:57+0000",
+  "timestamp": "2026-09-27T05:21:01+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
-      "region": "Central Sulawesi",
-      "country": "Indonesia",
-      "temp_c": "29",
-      "feels_like_c": "31",
-      "humidity": "59",
-      "wind_speed_kmh": "5",
-      "wind_dir": "NNW",
-      "visibility_km": "10",
-      "pressure_mb": "1013",
-      "condition": "Light rain shower",
-      "condition_code": "353",
-      "uv_index": "12",
-      "forecast": [
-        {
-          "date": "2026-09-27",
-          "max_temp": "29",
-          "min_temp": "19",
-          "condition": "Fog",
-          "sunrise": "05:48 AM",
-          "sunset": "05:55 PM"
-        },
-        {
-          "date": "2026-09-28",
-          "max_temp": "28",
-          "min_temp": "20",
-          "condition": "Light rain shower",
-          "sunrise": "05:48 AM",
-          "sunset": "05:55 PM"
-        },
-        {
-          "date": "2026-09-29",
-          "max_temp": "28",
-          "min_temp": "19",
-          "condition": "Patchy rain nearby",
-          "sunrise": "05:48 AM",
-          "sunset": "05:54 PM"
-        }
-      ]
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
     },
     {
       "name": "Yogyakarta",
