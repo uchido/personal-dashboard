@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-09-27T15:10:09+0000",
+  "timestamp": "2026-09-27T15:41:10+0000",
   "articles": [
+    {
+      "title": "Watch: What we know about the counter-terrorism operation near RAF base",
+      "link": "https://www.bbc.co.uk/news/videos/cxp84gq34n9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 15:25:47 GMT",
+      "description": "Five men have been arrested as counter-terrorism police lead investigation into major incident near RAF Fairford.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Burnham proposes NHS-style social care system for England",
       "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
@@ -26,12 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 14:09:22 GMT",
-      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Joey Pelupessy antusias hadapi tekanan dari Malaysia",
+      "link": "https://www.antaranews.com/berita/5760917/joey-pelupessy-antusias-hadapi-tekanan-dari-malaysia",
+      "published": "Sun, 27 Sep 2026 22:36:06 +0700",
+      "description": "Pemain Timnas Indonesia Joey Peluppesy mengaku antusias menghadapi kemungkinan tekanan dari tim tamu Malaysia pada FIFA ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Lavrov: kini waktunya wujudkan pembentukan Negara Palestina",
+      "link": "https://www.antaranews.com/berita/5760916/lavrov-kini-waktunya-wujudkan-pembentukan-negara-palestina",
+      "published": "Sun, 27 Sep 2026 22:33:39 +0700",
+      "description": "Menteri Luar Negeri Rusia Sergey Lavrov mengatakan kini tiba waktunya untuk memastikan pembentukan negara Palestina ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Lima polisi diperiksa Propam buntut tawuran satu orang tewas",
+      "link": "https://www.antaranews.com/berita/5760913/lima-polisi-diperiksa-propam-buntuttawuran-satu-orang-tewas",
+      "published": "Sun, 27 Sep 2026 22:32:16 +0700",
+      "description": "Sebanyak lima anggota Polsek Tallo menjalani pemeriksaan tim Bidang Propam, buntut pembubaran tawuran antarkelompok di ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemendikdasmen perkuat pendidikan profesi guru bersama 164 LPTK",
+      "link": "https://www.antaranews.com/berita/5760912/kemendikdasmen-perkuat-pendidikan-profesi-guru-bersama-164-lptk",
+      "published": "Sun, 27 Sep 2026 22:29:41 +0700",
+      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) memperkuat penyelenggaraan pendidikan profesi guru dengan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
