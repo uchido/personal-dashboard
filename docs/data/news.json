@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-27T12:04:05+0000",
+  "timestamp": "2026-09-27T12:35:06+0000",
   "articles": [
     {
       "title": "Burnham proposes NHS-style social care system for England",
       "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 11:16:53 GMT",
+      "published": "Sun, 27 Sep 2026 12:27:02 GMT",
       "description": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
       "source": "BBC News",
       "category": "Global"
@@ -32,11 +32,6 @@
       "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "no element found: line 663, column 1",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
