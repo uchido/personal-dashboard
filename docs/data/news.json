@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-28T03:03:21+0000",
+  "timestamp": "2026-09-28T03:34:20+0000",
   "articles": [
     {
       "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
@@ -20,7 +20,7 @@
     {
       "title": "Protesters disperse after blocking contentious Orange Order parade",
       "link": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 02:04:30 GMT",
+      "published": "Mon, 28 Sep 2026 03:27:56 GMT",
       "description": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Pakar: Jaga kebersihan dan vaksinasi guna cegah Influenza A pada anak",
-      "link": "https://www.antaranews.com/berita/5761172/pakar-jaga-kebersihan-dan-vaksinasi-guna-cegah-influenza-a-pada-anak",
-      "published": "Mon, 28 Sep 2026 09:59:10 +0700",
-      "description": "Pakar Penyakit Tropis Universitas Airlangga (Unair) Surabaya Priyo Budi Purwono menyarankan masyarakat menjaga ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Wapres ke Batang pastikan penanganan korban dugaan keracunan makanan",
-      "link": "https://www.antaranews.com/berita/5761168/wapres-ke-batang-pastikan-penanganan-korban-dugaan-keracunan-makanan",
-      "published": "Mon, 28 Sep 2026 09:58:53 +0700",
-      "description": "Wakil Presiden Gibran Rakabuming bertolak menuju Kabupaten Batang, Jawa Tengah, Senin, untuk memastikan penanganan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "IHSG melemah seiring sentimen jangka pendek penerapan harga saham Rp1",
-      "link": "https://www.antaranews.com/berita/5761164/ihsg-melemah-seiring-sentimen-jangka-pendek-penerapan-harga-saham-rp1",
-      "published": "Mon, 28 Sep 2026 09:58:10 +0700",
-      "description": "Indeks Harga Saham Gabungan (IHSG) Bursa Efek Indonesia (BEI) pada Senin bergerak melemah dipicu oleh sentimen jangka ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Negara-negara Arab sampaikan belasungkawa atas karamnya KMP Virgo",
-      "link": "https://www.antaranews.com/berita/5761161/negara-negara-arab-sampaikan-belasungkawa-atas-karamnya-kmp-virgo",
-      "published": "Mon, 28 Sep 2026 09:56:47 +0700",
-      "description": "Sejumlah negara sahabat dari jazirah Arab mengungkapkan belasungkawa kepada rakyat dan Pemerintah Indonesia atas ...",
+      "error": "no element found: line 2, column 0",
       "source": "Antara News",
       "category": "Indonesia"
     }
