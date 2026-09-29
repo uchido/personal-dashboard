@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-09-29T09:01:48+0000",
+  "timestamp": "2026-09-29T09:32:49+0000",
   "articles": [
     {
       "title": "OpenAI scraps rollout of new model over safety concerns",
       "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 08:41:06 GMT",
+      "published": "Tue, 29 Sep 2026 09:14:13 GMT",
       "description": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Sir Ranulph Fiennes' family say it's 'very painful' not being able to visit him",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 09:13:43 GMT",
+      "description": "It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Lives 'will be lost' unless UK does more to combat wildfires, committee chairwoman says",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7dyx2x7pdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 06:45:48 GMT",
-      "description": "Baroness Brown says there must be better training and planning, after a record year for wildfires in England and Wales.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Temperatures to hit 26C in burst of late September warmth",
       "link": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 04:39:26 GMT",
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Rahmad Darmawan ungkap hal yang buat perjuangan timnas layak dipuji",
-      "link": "https://www.antaranews.com/berita/5763140/rahmad-darmawan-ungkap-hal-yang-buat-perjuangan-timnas-layak-dipuji",
-      "published": "Tue, 29 Sep 2026 15:58:58 +0700",
-      "description": "Mantan pelatih timnas Indonesia Rahmad Darmawan mengungkapkan hal yang membuat perjuangan tim Garuda melawan timnas ...",
+      "title": "Kemenkes sebut aritmia sering tak terdeteksi dan berisiko picu stroke",
+      "link": "https://www.antaranews.com/berita/5763212/kemenkes-sebut-aritmia-sering-tak-terdeteksi-dan-berisiko-picu-stroke",
+      "published": "Tue, 29 Sep 2026 16:31:49 +0700",
+      "description": "Kementerian Kesehatan (Kemenkes) mengingatkan masyarakat untuk mewaspadai gangguan irama jantung atau ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemprov PBD siapkan master plan pabrik pengalengan tuna di Katapop",
-      "link": "https://www.antaranews.com/berita/5763137/pemprov-pbd-siapkan-master-plan-pabrik-pengalengan-tuna-di-katapop",
-      "published": "Tue, 29 Sep 2026 15:56:43 +0700",
-      "description": "Pemerintah Provinsi Papua Barat Daya (Pemprov PBD) menyiapkan master plan atau rencana induk pembangunan pabrik ...",
+      "title": "6 PTBg PTPN IV Regional III Riau tekan emisi 88.608 ton karbondioksida",
+      "link": "https://www.antaranews.com/berita/5763211/6-ptbg-ptpn-iv-regional-iii-riau-tekan-emisi-88608-ton-karbondioksida",
+      "published": "Tue, 29 Sep 2026 16:31:40 +0700",
+      "description": "Sebanyak enam instalasi Pembangkit Tenaga Biogas (PTBg) PT Perkebunan Nusantara IV Regional III Provinsi Riau telah ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Prabowo panggil Mendiktisaintek hingga Kepala BNN bahas narkoba",
-      "link": "https://www.antaranews.com/video/5763096/prabowo-panggil-mendiktisaintek-hingga-kepala-bnn-bahas-narkoba",
-      "published": "Tue, 29 Sep 2026 15:56:22 +0700",
-      "description": "ANTARA - Presiden Prabowo Subianto memanggil sejumlah pejabat, di antaranya Menteri Pendidikan Tinggi, Sains, dan ...",
+      "title": "Tutup latsarmil Komcad ASN II, Mendagri tekankan penguatan bela negara",
+      "link": "https://www.antaranews.com/video/5763164/tutup-latsarmil-komcad-asn-ii-mendagri-tekankan-penguatan-bela-negara",
+      "published": "Tue, 29 Sep 2026 16:30:44 +0700",
+      "description": "ANTARA - Menteri Dalam Negeri Tito Karnavian menutup pelaksanaan latihan dasar kemiliteran atau latsarmil Komponen ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Perkuat inovasi transisi energi, PGN raih Platinum Award InTechSEA",
-      "link": "https://www.antaranews.com/berita/5763136/perkuat-inovasi-transisi-energi-pgn-raih-platinum-award-intechsea",
-      "published": "Tue, 29 Sep 2026 15:56:14 +0700",
-      "description": "PT Perusahaan Gas Negara (Persero) Tbk (PGN), selaku Subholding Gas Pertamina, meraih Platinum Award pada ajang ...",
+      "title": "AirNav: Dedikasi Anthonius teladan ATC jaga keselamatan penerbangan RI",
+      "link": "https://www.antaranews.com/berita/5763207/airnav-dedikasi-anthonius-teladan-atc-jaga-keselamatan-penerbangan-ri",
+      "published": "Tue, 29 Sep 2026 16:30:11 +0700",
+      "description": "AirNav Indonesia menegaskan pengabdian Anthonius Gunawan Agung menjadi teladan bagi pemandu lalu lintas udara (Air ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
