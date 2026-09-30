@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T23:30:03+0000",
+  "timestamp": "2026-09-30T00:01:04+0000",
   "articles": [
     {
       "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 667, column 0",
+      "title": "Menyantap kuliner Thailand dipadukan teh menyegarkan di Saa Wan",
+      "link": "https://www.antaranews.com/video/5763687/menyantap-kuliner-thailand-dipadukan-teh-menyegarkan-di-saa-wan",
+      "published": "Wed, 30 Sep 2026 07:00:00 +0700",
+      "description": "ANTARA - Ingin mencicipi kuliner Thailand dengan rasa yang nikmat dibarengi teh home brew yang menyegarkan? Di restoran ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "DPRD DKI soroti koordinasi pengerjaan SJUT agar tak ganggu utilitas",
+      "link": "https://www.antaranews.com/berita/5764151/dprd-dki-soroti-koordinasi-pengerjaan-sjut-agar-tak-ganggu-utilitas",
+      "published": "Wed, 30 Sep 2026 06:49:30 +0700",
+      "description": "Wakil Ketua DPRD DKI Jakarta Ima Mahdiah menyoroti pentingnya koordinasi antara Pemerintah Provinsi (Pemprov) DKI ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Swiss hancurkan Skotlandia, Slovenia atasi Makedonia Utara",
+      "link": "https://www.antaranews.com/berita/5764147/swiss-hancurkan-skotlandia-slovenia-atasi-makedonia-utara",
+      "published": "Wed, 30 Sep 2026 06:48:02 +0700",
+      "description": "Tim nasional Swiss menghancurkan tim nasional Skotlandia, sedangkan tim nasional Slovenia mengatasi perlawanan tim ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Inggris cetak kemenangan 2-0 kontra 10 pemain Republik Ceko",
+      "link": "https://www.antaranews.com/berita/5764143/inggris-cetak-kemenangan-2-0-kontra-10-pemain-republik-ceko",
+      "published": "Wed, 30 Sep 2026 06:44:52 +0700",
+      "description": "Tim nasional Inggris mencetak kemenangan dengan skor 2-0 kontra 10 pemain tim nasional Republik Ceko pada pertandingan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
