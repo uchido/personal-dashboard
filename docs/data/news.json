@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-09-30T09:50:18+0000",
+  "timestamp": "2026-09-30T10:21:18+0000",
   "articles": [
     {
-      "title": "Watch: Burnham says UK could go 'all the way' towards rejoining EU",
-      "link": "https://www.bbc.co.uk/news/videos/ck1e5w239epjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 06:18:39 GMT",
-      "description": "Andy Burnham says rejoining the EU is among options the government could look at - telling the BBC the current Brexit settlement has caused \"more harm than good\".",
+      "title": "Move to rejoin EU among options for UK, says Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 08:49:47 GMT",
+      "description": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Polisi hentikan tujuh tambang timah tanpa izin di sungai Bangka",
-      "link": "https://www.antaranews.com/berita/5764879/polisi-hentikan-tujuh-tambang-timah-tanpa-izin-di-sungai-bangka",
-      "published": "Wed, 30 Sep 2026 16:49:23 +0700",
-      "description": "Satuan Polisi Perairan dan Udara (Satpolairud) Polres Bangka menghentikan aktivitas tujuh unit tambang inkonvensional ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Marak Modus Penipuan Perbankan, BRI Ajak Nasabah Tingkatkan Kewaspadaan dan Kenali Kanal Komunikasi Resmi",
-      "link": "https://www.antaranews.com/berita/5764873/marak-modus-penipuan-perbankan-bri-ajak-nasabah-tingkatkan-kewaspadaan-dan-kenali-kanal-komunikasi-resmi",
-      "published": "Wed, 30 Sep 2026 16:48:29 +0700",
-      "description": "PT Bank Rakyat Indonesia (Persero) Tbk atau BRI mengimbau masyarakat untuk meningkatkan kewaspadaan terhadap berbagai ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Berkas Misri Puspita Sari kembali dilimpahkan Polda NTB ke jaksa",
-      "link": "https://www.antaranews.com/berita/5764872/berkas-misri-puspita-sari-kembali-dilimpahkan-polda-ntb-ke-jaksa",
-      "published": "Wed, 30 Sep 2026 16:47:24 +0700",
-      "description": "Penyidik Polda Nusa Tenggara Barat merampungkan pemenuhan petunjuk jaksa dalam berkas perkara Misri Puspita Sari, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemkab Taput perkuat integritas antikorupsi pelayanan publik",
-      "link": "https://www.antaranews.com/berita/5764868/pemkab-taput-perkuat-integritas-antikorupsi-pelayanan-publik",
-      "published": "Wed, 30 Sep 2026 16:45:32 +0700",
-      "description": "Pemerintah Kabupaten Tapanuli Utara, Sumatera Utara memperkuat integritas antikorupsi bagi aparatur sipil negara (ASN) ...",
+      "error": "no element found: line 658, column 261",
       "source": "Antara News",
       "category": "Indonesia"
     }
