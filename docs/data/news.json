@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T05:11:13+0000",
+  "timestamp": "2026-09-30T05:42:13+0000",
   "articles": [
     {
       "title": "Move to rejoin EU among options for UK, says Burnham",
@@ -20,7 +20,7 @@
     {
       "title": "Household energy bills forecast to see biggest rise in four years",
       "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 23:03:13 GMT",
+      "published": "Wed, 30 Sep 2026 05:27:23 GMT",
       "description": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
       "source": "BBC News",
       "category": "Global"
@@ -32,11 +32,6 @@
       "description": "He made the call almost an hour before a farmer also called police after seeing men in balaclavas.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "no element found: line 658, column 185",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
