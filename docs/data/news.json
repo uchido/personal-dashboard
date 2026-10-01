@@ -1,30 +1,6 @@
 {
-  "timestamp": "2026-10-01T07:01:38+0000",
+  "timestamp": "2026-10-01T07:32:38+0000",
   "articles": [
-    {
-      "title": "US death row inmate survives execution attempt after two lethal injections",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 07:01:16 GMT",
-      "description": "Her lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 06:42:43 GMT",
-      "description": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Plummeting Israel flight dropped like a rollercoaster, says passenger",
-      "link": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 03:52:20 GMT",
-      "description": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
       "link": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
@@ -34,34 +10,58 @@
       "category": "Global"
     },
     {
-      "title": "Brasil dan AS sepakat bentuk kelompok kerja bahas tarif",
-      "link": "https://www.antaranews.com/berita/5766305/brasil-dan-as-sepakat-bentuk-kelompok-kerja-bahas-tarif",
-      "published": "Thu, 01 Oct 2026 13:59:58 +0700",
-      "description": "Brasil dan AS sepakat untuk membentuk kelompok kerja bahas tarif.&nbsp;&nbsp; Kesepakatan itu dicapai menyusul ...",
+      "title": "US death row inmate survives execution attempt after two lethal injections",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 07:01:16 GMT",
+      "description": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Watch: The many questions raised by the failed execution of Christa Pike",
+      "link": "https://www.bbc.co.uk/news/videos/cq5ymyl1y29ko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 06:14:24 GMT",
+      "description": "Her legal team filed an emergency motion to halt the convicted murderer's execution as it was happening.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 07:27:25 GMT",
+      "description": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "KPK panggil pegawai Adaro Andalan Indonesia dan dua pegawai pajak",
+      "link": "https://www.antaranews.com/berita/5766361/kpk-panggil-pegawai-adaro-andalan-indonesia-dan-dua-pegawai-pajak",
+      "published": "Thu, 01 Oct 2026 14:31:29 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) memanggil seorang pegawai PT Adaro Andalan Indonesia berinisial JST, dua aparatur ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kadin: Ekspor RI masih memiliki prospek positif hingga akhir tahun",
-      "link": "https://www.antaranews.com/berita/5766303/kadin-ekspor-ri-masih-memiliki-prospek-positif-hingga-akhir-tahun",
-      "published": "Thu, 01 Oct 2026 13:59:26 +0700",
-      "description": "Wakil Ketua Umum (WKU) Bidang Perindustrian Kadin Indonesia Saleh Husin menilai ekspor Indonesia masih memiliki prospek ...",
+      "title": "Tim hoki lapangan putra Indonesia menang lawan Oman lewat adu penalti",
+      "link": "https://www.antaranews.com/berita/5766357/tim-hoki-lapangan-putra-indonesia-menang-lawan-oman-lewat-adu-penalti",
+      "published": "Thu, 01 Oct 2026 14:31:11 +0700",
+      "description": "Tim hoki lapangan putra Indonesia mengalahkan Oman lewat adu penalti (shoot-out) 3-2 setelah imbang 3-3 dalam waktu ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Polda Kepri ungkap impor tiga mesin pesawat bekas bernilai Rp30 M",
-      "link": "https://www.antaranews.com/berita/5766300/polda-kepri-ungkap-impor-tiga-mesin-pesawat-bekas-bernilai-rp30-m",
-      "published": "Thu, 01 Oct 2026 13:58:29 +0700",
-      "description": "Kepolisian Daerah Kepulauan Riau (Polda Kepri) mengungkap dugaan tindak pidana perdagangan dengan mengimpor tiga unit ...",
+      "title": "Sejumlah penerbangan di Jambi kembali tertunda akibat kabut asap",
+      "link": "https://www.antaranews.com/berita/5766353/sejumlah-penerbangan-di-jambi-kembali-tertunda-akibat-kabut-asap",
+      "published": "Thu, 01 Oct 2026 14:31:00 +0700",
+      "description": "Kabut asap yang menyelimuti wilayah Jambi mengakibatkan penurunan jarak pandang (visibility) dan berdampak pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "KPK panggil pengurus PT Tunas Anugrah Berjaya pada kasus Pemalang",
-      "link": "https://www.antaranews.com/berita/5766299/kpk-panggil-pengurus-pt-tunas-anugrah-berjaya-pada-kasus-pemalang",
-      "published": "Thu, 01 Oct 2026 13:57:15 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) memanggil seorang pengurus PT Tunas Anugrah Berjaya untuk diperiksa sebagai saksi ...",
+      "title": "Tim kuadran putri ingin lebih tenang hadapi semifinal sepak takraw",
+      "link": "https://www.antaranews.com/berita/5766349/tim-kuadran-putri-ingin-lebih-tenang-hadapi-semifinal-sepak-takraw",
+      "published": "Thu, 01 Oct 2026 14:28:25 +0700",
+      "description": "Tim sepak takraw putri Indonesia berharap bisa tampil lebih tenang pada menjelang pertandingan babak semifinal nomor ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
