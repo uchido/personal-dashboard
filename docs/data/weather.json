@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-10-01T02:53:33+0000",
+  "timestamp": "2026-10-01T03:24:33+0000",
   "locations": [
     {
       "name": "Palu",
       "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "23",
-      "feels_like_c": "27",
-      "humidity": "89",
+      "temp_c": "26",
+      "feels_like_c": "28",
+      "humidity": "75",
       "wind_speed_kmh": "4",
       "wind_dir": "NW",
       "visibility_km": "9",
       "pressure_mb": "1016",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "4",
+      "uv_index": "9",
       "forecast": [
         {
           "date": "2026-10-01",
-          "max_temp": "27",
+          "max_temp": "26",
           "min_temp": "20",
           "condition": "Patchy rain nearby",
           "sunrise": "05:47 AM",
@@ -27,7 +27,7 @@
         },
         {
           "date": "2026-10-02",
-          "max_temp": "30",
+          "max_temp": "29",
           "min_temp": "19",
           "condition": "Fog",
           "sunrise": "05:47 AM",
@@ -35,9 +35,9 @@
         },
         {
           "date": "2026-10-03",
-          "max_temp": "30",
+          "max_temp": "29",
           "min_temp": "19",
-          "condition": "Patchy rain nearby",
+          "condition": "Fog",
           "sunrise": "05:46 AM",
           "sunset": "05:53 PM"
         }
@@ -48,38 +48,38 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "27",
-      "feels_like_c": "27",
-      "humidity": "53",
-      "wind_speed_kmh": "12",
-      "wind_dir": "SSW",
+      "temp_c": "31",
+      "feels_like_c": "30",
+      "humidity": "37",
+      "wind_speed_kmh": "15",
+      "wind_dir": "S",
       "visibility_km": "10",
-      "pressure_mb": "1016",
-      "condition": "Partly Cloudy ",
-      "condition_code": "116",
-      "uv_index": "3",
+      "pressure_mb": "1015",
+      "condition": "Sunny",
+      "condition_code": "113",
+      "uv_index": "10",
       "forecast": [
         {
           "date": "2026-10-01",
           "max_temp": "34",
-          "min_temp": "22",
+          "min_temp": "21",
           "condition": "Clear ",
           "sunrise": "05:23 AM",
           "sunset": "05:33 PM"
         },
         {
           "date": "2026-10-02",
-          "max_temp": "34",
+          "max_temp": "35",
           "min_temp": "21",
-          "condition": "Overcast ",
+          "condition": "Partly Cloudy ",
           "sunrise": "05:23 AM",
           "sunset": "05:33 PM"
         },
         {
           "date": "2026-10-03",
-          "max_temp": "33",
+          "max_temp": "34",
           "min_temp": "21",
-          "condition": "Partly Cloudy ",
+          "condition": "Clear ",
           "sunrise": "05:22 AM",
           "sunset": "05:33 PM"
         }
