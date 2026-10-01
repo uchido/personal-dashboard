@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T07:32:37+0000",
+  "timestamp": "2026-10-01T08:03:38+0000",
   "locations": [
     {
       "name": "Palu",
@@ -8,26 +8,26 @@
       "country": "Indonesia",
       "temp_c": "25",
       "feels_like_c": "29",
-      "humidity": "82",
+      "humidity": "83",
       "wind_speed_kmh": "5",
       "wind_dir": "NW",
       "visibility_km": "9",
-      "pressure_mb": "1013",
+      "pressure_mb": "1012",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "9",
+      "uv_index": "5",
       "forecast": [
         {
           "date": "2026-10-01",
           "max_temp": "26",
           "min_temp": "20",
-          "condition": "Patchy rain nearby",
+          "condition": "Fog",
           "sunrise": "05:47 AM",
           "sunset": "05:54 PM"
         },
         {
           "date": "2026-10-02",
-          "max_temp": "29",
+          "max_temp": "28",
           "min_temp": "19",
           "condition": "Fog",
           "sunrise": "05:47 AM",
@@ -48,21 +48,21 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "34",
-      "feels_like_c": "31",
-      "humidity": "33",
-      "wind_speed_kmh": "26",
+      "temp_c": "32",
+      "feels_like_c": "29",
+      "humidity": "39",
+      "wind_speed_kmh": "27",
       "wind_dir": "S",
       "visibility_km": "10",
       "pressure_mb": "1011",
-      "condition": "Sunny",
-      "condition_code": "113",
-      "uv_index": "11",
+      "condition": "Partly Cloudy ",
+      "condition_code": "116",
+      "uv_index": "7",
       "forecast": [
         {
           "date": "2026-10-01",
-          "max_temp": "34",
-          "min_temp": "21",
+          "max_temp": "33",
+          "min_temp": "22",
           "condition": "Clear ",
           "sunrise": "05:23 AM",
           "sunset": "05:33 PM"
@@ -71,7 +71,7 @@
           "date": "2026-10-02",
           "max_temp": "35",
           "min_temp": "21",
-          "condition": "Partly Cloudy ",
+          "condition": "Overcast ",
           "sunrise": "05:23 AM",
           "sunset": "05:33 PM"
         },
