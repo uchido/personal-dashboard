@@ -1,57 +1,51 @@
 {
-  "timestamp": "2026-10-01T15:31:43+0000",
+  "timestamp": "2026-10-01T23:56:48+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 57.9,
+    "percent": 66.7,
     "cores": 2,
     "load_avg": [
-      0.37,
-      0.26,
-      0.82
+      0.56,
+      0.52,
+      0.34
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.5,
-    "available": 5.1,
-    "used": 6.5,
-    "percent": 56.0
+    "free": 1.2,
+    "available": 5.9,
+    "used": 5.7,
+    "percent": 49.1
   },
   "disk": {
     "total": "193G",
     "used": "193G",
-    "available": "3.3M",
+    "available": "8.6M",
     "percent": "100%"
   },
   "uptime": {
     "days": 94,
-    "hours": 3,
-    "minutes": 57,
-    "total_seconds": 8135850.35
+    "hours": 12,
+    "minutes": 22,
+    "total_seconds": 8166155.83
   },
   "top_processes": [
     {
-      "user": "root",
-      "cpu": "119",
-      "mem": "9.0",
-      "command": "node -r dotenv/config dist/server.mjs"
-    },
-    {
       "user": "ubuntu",
-      "cpu": "21.4",
+      "cpu": "15.7",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "root",
-      "cpu": "3.1",
-      "mem": "0.8",
-      "command": "node /usr/local/bin/pnpm start"
+      "cpu": "8.1",
+      "mem": "0.0",
+      "command": "/usr/lib/systemd/systemd-timedated"
     },
     {
       "user": "root",
       "cpu": "1.5",
-      "mem": "0.9",
+      "mem": "1.8",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     },
     {
@@ -59,6 +53,12 @@
       "cpu": "1.4",
       "mem": "1.2",
       "command": "temporal-server --env docker start"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "1.2",
+      "mem": "16.3",
+      "command": "openclaw-gateway"
     }
   ]
 }
