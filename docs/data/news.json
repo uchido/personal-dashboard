@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-10-02T07:09:05+0000",
+  "timestamp": "2026-10-02T07:40:06+0000",
   "articles": [
     {
       "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
       "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 06:59:30 GMT",
+      "published": "Fri, 02 Oct 2026 07:31:52 GMT",
       "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 23:45:06 GMT",
-      "description": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+      "title": "'I was not going to let others die,' says Indian pilot who opened cockpit door",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 07:36:37 GMT",
+      "description": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 22:28:45 GMT",
-      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 23:45:06 GMT",
+      "description": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Iuran BPJS menunggak? Ini dampak dan cara mengaktifkannya kembali",
-      "link": "https://www.antaranews.com/berita/5768339/iuran-bpjs-menunggak-ini-dampak-dan-cara-mengaktifkannya-kembali",
-      "published": "Fri, 02 Oct 2026 14:07:40 +0700",
-      "description": "Kepesertaan BPJS Kesehatan perlu dijaga tetap aktif agar peserta dapat menggunakan layanan Jaminan Kesehatan Nasional ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Legislator salurkan 200 paket sembako ke korban kebakaran Pademangan",
-      "link": "https://www.antaranews.com/berita/5768335/legislator-salurkan-200-paket-sembako-ke-korban-kebakaran-pademangan",
-      "published": "Fri, 02 Oct 2026 14:06:20 +0700",
-      "description": "Anggota komisi B DPRD DKI Jakarta Bebizie Sri Mulyati menyalurkan 200 paket sembako untuk penyintas kebakaran Kampung ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Lima WNA Malaysia sembunyikan 5,2 kg etomidate dalam sol sepatu",
-      "link": "https://www.antaranews.com/berita/5768333/lima-wna-malaysia-sembunyikan-52-kg-etomidate-dalam-sol-sepatu",
-      "published": "Fri, 02 Oct 2026 14:05:33 +0700",
-      "description": "Jakarta (CGK).\n\nHengky mengatakan para tersangka menggunakan modus menyembunyikan etomidate di dalam bagian sol lima ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mendag: Manufaktur jadi motor utama kinerja ekspor RI",
-      "link": "https://www.antaranews.com/berita/5768331/mendag-manufaktur-jadi-motor-utama-kinerja-ekspor-ri",
-      "published": "Fri, 02 Oct 2026 14:05:15 +0700",
-      "description": "Menteri Perdagangan (Mendag) Budi Santoso menyampaikan kinerja ekspor Indonesia ditopang oleh ekspor industri ...",
+      "error": "unclosed token: line 667, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
