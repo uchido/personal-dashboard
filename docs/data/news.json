@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T04:34:05+0000",
+  "timestamp": "2026-10-02T05:05:08+0000",
   "articles": [
     {
       "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
@@ -26,42 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 22:28:45 GMT",
-      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+      "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+      "link": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 22:22:43 GMT",
+      "description": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Menhut: Pemegang PBPH akan diwajibkan pasang alat pantau gambut",
-      "link": "https://www.antaranews.com/berita/5768060/menhut-pemegang-pbph-akan-diwajibkan-pasang-alat-pantau-gambut",
-      "published": "Fri, 02 Oct 2026 11:30:34 +0700",
-      "description": "Menteri Kehutanan Raja Juli Antoni mengatakan pemegang Perizinan Berusaha Pemanfaatan Hutan (PBPH) akan diwajibkan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DBS Hadirkan Pemimpin Global di Ajang Asia Future Forward Conference Edisi Perdana, Bahas Peran AI yang tengah Merombak Dunia",
-      "link": "https://www.antaranews.com/berita/5768056/dbs-hadirkan-pemimpin-global-di-ajang-asia-future-forward-conference-edisi-perdana-bahas-peran-ai-yang-tengah-merombak-dunia",
-      "published": "Fri, 02 Oct 2026 11:26:02 +0700",
-      "description": "DBS akan menggelar ajang DBS Asia Future Forward Conference, konferensi unggulan baru yang mempertemukan pemimpin ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dua tahun Prabowo-Gibran, industri olahraga dikebut pacu perekonomian",
-      "link": "https://www.antaranews.com/berita/5768053/dua-tahun-prabowo-gibran-industri-olahraga-dikebut-pacu-perekonomian",
-      "published": "Fri, 02 Oct 2026 11:24:51 +0700",
-      "description": "Kementerian Pemuda dan Olahraga (Kemenpora) mengemukakan pembangunan industri olahraga terus dikebut untuk memacu ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Global Finance Nobatkan BRI sebagai Bank Terbaik di Dunia untuk UMKM Pertanian dan Pedesaan",
-      "link": "https://www.antaranews.com/berita/5768051/global-finance-nobatkan-bri-sebagai-bank-terbaik-di-dunia-untuk-umkm-pertanian-dan-pedesaan",
-      "published": "Fri, 02 Oct 2026 11:23:51 +0700",
-      "description": "Komitmen PT Bank Rakyat Indonesia (Persero) Tbk atau BRI dalam memperkuat sektor pertanian dan ekonomi kerakyatan ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }

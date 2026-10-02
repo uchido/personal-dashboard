@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T04:34:05+0000",
+  "timestamp": "2026-10-02T05:05:08+0000",
   "locations": [
     {
       "name": "Palu",
@@ -8,14 +8,14 @@
       "country": "Indonesia",
       "temp_c": "29",
       "feels_like_c": "30",
-      "humidity": "51",
-      "wind_speed_kmh": "7",
-      "wind_dir": "N",
+      "humidity": "56",
+      "wind_speed_kmh": "9",
+      "wind_dir": "NW",
       "visibility_km": "10",
-      "pressure_mb": "1015",
+      "pressure_mb": "1013",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "12",
+      "uv_index": "10",
       "forecast": [
         {
           "date": "2026-10-02",
@@ -45,45 +45,7 @@
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
-      "region": "Daerah Istimewa Yogyakarta",
-      "country": "Indonesia",
-      "temp_c": "31",
-      "feels_like_c": "32",
-      "humidity": "42",
-      "wind_speed_kmh": "7",
-      "wind_dir": "S",
-      "visibility_km": "10",
-      "pressure_mb": "1015",
-      "condition": "Patchy rain nearby",
-      "condition_code": "176",
-      "uv_index": "9",
-      "forecast": [
-        {
-          "date": "2026-10-02",
-          "max_temp": "35",
-          "min_temp": "21",
-          "condition": "Patchy rain nearby",
-          "sunrise": "05:23 AM",
-          "sunset": "05:33 PM"
-        },
-        {
-          "date": "2026-10-03",
-          "max_temp": "35",
-          "min_temp": "21",
-          "condition": "Partly Cloudy ",
-          "sunrise": "05:22 AM",
-          "sunset": "05:33 PM"
-        },
-        {
-          "date": "2026-10-04",
-          "max_temp": "33",
-          "min_temp": "21",
-          "condition": "Cloudy ",
-          "sunrise": "05:22 AM",
-          "sunset": "05:33 PM"
-        }
-      ]
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
     }
   ]
 }
