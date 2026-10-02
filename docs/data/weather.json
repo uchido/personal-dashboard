@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T22:39:05+0000",
+  "timestamp": "2026-10-02T23:10:05+0000",
   "locations": [
     {
       "name": "Palu",
@@ -45,40 +45,40 @@
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
+      "location": "Bojong",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "21",
-      "feels_like_c": "24",
-      "humidity": "95",
-      "wind_speed_kmh": "9",
-      "wind_dir": "W",
+      "temp_c": "22",
+      "feels_like_c": "25",
+      "humidity": "83",
+      "wind_speed_kmh": "6",
+      "wind_dir": "SE",
       "visibility_km": "4",
-      "pressure_mb": "1015",
+      "pressure_mb": "1016",
       "condition": "Mist",
       "condition_code": "143",
       "uv_index": "0",
       "forecast": [
         {
           "date": "2026-10-03",
-          "max_temp": "36",
-          "min_temp": "21",
-          "condition": "Patchy rain nearby",
+          "max_temp": "32",
+          "min_temp": "22",
+          "condition": "Clear ",
           "sunrise": "05:22 AM",
           "sunset": "05:33 PM"
         },
         {
           "date": "2026-10-04",
-          "max_temp": "35",
-          "min_temp": "21",
+          "max_temp": "31",
+          "min_temp": "22",
           "condition": "Overcast ",
           "sunrise": "05:22 AM",
           "sunset": "05:33 PM"
         },
         {
           "date": "2026-10-05",
-          "max_temp": "35",
-          "min_temp": "21",
+          "max_temp": "32",
+          "min_temp": "22",
           "condition": "Overcast ",
           "sunrise": "05:21 AM",
           "sunset": "05:33 PM"
