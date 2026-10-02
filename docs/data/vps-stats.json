@@ -1,64 +1,64 @@
 {
-  "timestamp": "2026-10-02T03:00:53+0000",
+  "timestamp": "2026-10-02T03:32:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 95.2,
+    "percent": 60.0,
     "cores": 2,
     "load_avg": [
-      6.79,
-      6.24,
-      4.59
+      2.16,
+      2.15,
+      2.89
     ]
   },
   "memory": {
     "total": 11.6,
     "free": 0.2,
-    "available": 5.1,
-    "used": 6.5,
-    "percent": 56.0
+    "available": 4.6,
+    "used": 7.0,
+    "percent": 60.3
   },
   "disk": {
     "total": "193G",
-    "used": "109G",
-    "available": "85G",
-    "percent": "57%"
+    "used": "112G",
+    "available": "82G",
+    "percent": "58%"
   },
   "uptime": {
     "days": 94,
     "hours": 15,
-    "minutes": 26,
-    "total_seconds": 8177201.07
+    "minutes": 57,
+    "total_seconds": 8179068.63
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "250",
-      "mem": "0.3",
+      "cpu": "116",
+      "mem": "0.4",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
       "user": "ubuntu",
-      "cpu": "250",
-      "mem": "0.1",
-      "command": "/home/ubuntu/.hermes/cache/uv/builds-v0/.tmpr9v9Rl"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "38.6",
+      "cpu": "45.0",
       "mem": "0.6",
-      "command": "/home/ubuntu/.hermes/tools/uv-0.12.3-linux-arm64/u"
-    },
-    {
-      "user": "root",
-      "cpu": "37.9",
-      "mem": "10.5",
-      "command": "node -r dotenv/config dist/server.mjs"
+      "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "35.9",
-      "mem": "0.3",
-      "command": "/home/ubuntu/.hermes/cache/uv/builds-v0/.tmpGS0DkP"
+      "cpu": "20.0",
+      "mem": "0.1",
+      "command": "python3 scripts/collect-vps.py"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "5.4",
+      "mem": "0.7",
+      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "2.3",
+      "mem": "2.4",
+      "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     }
   ]
 }
