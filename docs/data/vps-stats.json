@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-10-02T08:42:02+0000",
+  "timestamp": "2026-10-02T09:13:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 85.0,
+    "percent": 60.0,
     "cores": 2,
     "load_avg": [
-      3.18,
-      3.11,
-      2.68
+      1.66,
+      1.83,
+      2.06
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.0,
-    "available": 4.7,
-    "used": 6.9,
-    "percent": 59.5
+    "free": 0.6,
+    "available": 4.6,
+    "used": 7.0,
+    "percent": 60.3
   },
   "disk": {
     "total": "193G",
@@ -26,38 +26,38 @@
   "uptime": {
     "days": 94,
     "hours": 21,
-    "minutes": 7,
-    "total_seconds": 8197670.25
+    "minutes": 38,
+    "total_seconds": 8199529.19
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "200",
+      "cpu": "133",
       "mem": "0.3",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
       "user": "ubuntu",
-      "cpu": "47.0",
+      "cpu": "52.0",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "21.0",
+      "cpu": "20.0",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "ubuntu",
       "cpu": "5.9",
-      "mem": "0.8",
+      "mem": "0.7",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
     },
     {
       "user": "ubuntu",
-      "cpu": "4.2",
-      "mem": "3.5",
+      "cpu": "4.3",
+      "mem": "3.8",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     }
   ]
