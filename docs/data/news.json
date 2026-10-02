@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-10-02T16:58:05+0000",
+  "timestamp": "2026-10-02T17:29:05+0000",
   "articles": [
+    {
+      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 16:58:30 GMT",
+      "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Riot police clash with students as education protests rage in France",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
@@ -10,28 +18,36 @@
       "category": "Global"
     },
     {
-      "title": "Watch: Why students in France are protesting",
-      "link": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 15:02:15 GMT",
-      "description": "Demonstrations started in the French capital, then spread across the country in the days that followed.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
       "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 16:38:22 GMT",
+      "published": "Fri, 02 Oct 2026 17:05:39 GMT",
       "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 14:01:09 GMT",
-      "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 15:26:37 GMT",
+      "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "Menkum minta jajarannya patroli siber jaring aspirasi masyarakat",
+      "link": "https://www.antaranews.com/berita/5769311/menkum-minta-jajarannya-patroli-siber-jaring-aspirasi-masyarakat",
+      "published": "Fri, 02 Oct 2026 23:58:24 +0700",
+      "description": "Menteri Hukum Supratman Andi Agtas meminta jajaran Kemenkum untuk melakukan patroli siber guna menjaring aspirasi dan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemkab Banjarnegara bangun saluran pipa atasi krisis air bersih",
+      "link": "https://www.antaranews.com/video/5769295/pemkab-banjarnegara-bangun-saluran-pipa-atasi-krisis-air-bersih",
+      "published": "Fri, 02 Oct 2026 23:58:21 +0700",
+      "description": "ANTARA - Pemerintah Kabupaten Banjarnegara, Jawa Tengah, membangun saluran pipa&nbsp;guna mengatasi krisis air bersih ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Pemkot Bima siapkan lahan untuk pembangunan Sekolah Rakyat",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5769300/kemenumkm-pemulihan-umkm-pascabencana-harus-berdampak-ke-omzet",
       "published": "Fri, 02 Oct 2026 23:43:54 +0700",
       "description": "Wakil Menteri Usaha Mikro, Keci, Menengah (UMKM) Helvi Moraza menilai pemulihan usaha terdampak bencana tidak cukup ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Petugas gabungan kendalikan kebakaran 21,51 hektare di Pangkep",
-      "link": "https://www.antaranews.com/berita/5769296/petugas-gabungan-kendalikan-kebakaran-2151-hektare-di-pangkep",
-      "published": "Fri, 02 Oct 2026 23:43:01 +0700",
-      "description": "Petugas gabungan terus melakukan pemadaman dan penyekatan untuk mengendalikan kebakaran lahan di Kabupaten Pangkajene ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pariwisata Sumsel turun dampak kabut asap, Pemprov gelar diversifikasi",
-      "link": "https://www.antaranews.com/video/5769269/pariwisata-sumsel-turun-dampak-kabut-asap-pemprov-gelar-diversifikasi",
-      "published": "Fri, 02 Oct 2026 23:32:56 +0700",
-      "description": "ANTARA - Kabut asap yang melanda Sumatera Selatan mulai menekan sektor pariwisata, dengan kunjungan wisatawan turun ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
