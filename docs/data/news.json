@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-02T15:56:06+0000",
+  "timestamp": "2026-10-02T16:27:06+0000",
   "articles": [
     {
       "title": "School protests send shivers down French government's spine",
       "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 12:43:02 GMT",
       "description": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 16:07:15 GMT",
+      "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Dolly Parton sings Jolene in Welsh in recording released after her death",
-      "link": "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 14:00:38 GMT",
-      "description": "Parton's niece Jada Star and Welsh singer Bronwen Lewis say the country artist was proud to sing in Welsh.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Persipura bungkam De Red 3-1",
-      "link": "https://www.antaranews.com/berita/5769241/persipura-bungkam-de-red-3-1",
-      "published": "Fri, 02 Oct 2026 22:53:12 +0700",
-      "description": "Sepuluh pemain Persipura membungkam tuan rumah De Red FC 3-1 dalam pertandingan Liga Championship di Stadion Gelora 10 ...",
+      "title": "Disdag Sumsel siapkan sanksi berjenjang bagi pedagang yang langgar HET",
+      "link": "https://www.antaranews.com/video/5769237/disdag-sumsel-siapkan-sanksi-berjenjang-bagi-pedagang-yang-langgar-het",
+      "published": "Fri, 02 Oct 2026 23:24:38 +0700",
+      "description": "ANTARA - Dinas Perdagangan Provinsi Sumatera Selatan memperketat pengawasan terhadap 15 komoditas pangan strategis yang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "IESR: Pemerintah perlu terbitkan regulasi terkait pusat data",
-      "link": "https://www.antaranews.com/berita/5769233/iesr-pemerintah-perlu-terbitkan-regulasi-terkait-pusat-data",
-      "published": "Fri, 02 Oct 2026 22:46:57 +0700",
-      "description": "Institute for Essential Services Reform (IESR) menyatakan pemerintah perlu mempercepat penerbitan regulasi terkait ...",
+      "title": "Kejati Papua tetapkan dua tersangka korupsi jalan Boven Digoel",
+      "link": "https://www.antaranews.com/video/5769229/kejati-papua-tetapkan-dua-tersangka-korupsi-jalan-boven-digoel",
+      "published": "Fri, 02 Oct 2026 23:22:03 +0700",
+      "description": "ANTARA - Kejaksaan Tinggi Papua menetapkan dua orang sebagai tersangka dalam perkara dugaan tindak pidana korupsi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bappenas: Budi daya ikan rendah karbon buka ekspor ke pasar premium",
-      "link": "https://www.antaranews.com/berita/5769225/bappenas-budi-daya-ikan-rendah-karbon-buka-ekspor-ke-pasar-premium",
-      "published": "Fri, 02 Oct 2026 22:40:48 +0700",
-      "description": "Kementerian PPN/Bappenas mendorong penerapan budi daya perikanan rendah karbon guna membuka akses produk ikan ...",
+      "title": "Pemprov Banten siapkan elektrifikasi kereta Rangkasbitung-Merak",
+      "link": "https://www.antaranews.com/berita/5769289/pemprov-banten-siapkan-elektrifikasi-kereta-rangkasbitung-merak",
+      "published": "Fri, 02 Oct 2026 23:20:17 +0700",
+      "description": "Pemerintah Provinsi (Pemprov) Banten tengah menyusun studi kelayakan atau feasibility study (FS) guna mempercepat ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ketum PWI: Informasi yang benar menjadi energi positif bangsa",
-      "link": "https://www.antaranews.com/berita/5769224/ketum-pwi-informasi-yang-benar-menjadi-energi-positif-bangsa",
-      "published": "Fri, 02 Oct 2026 22:38:44 +0700",
-      "description": "Ketua Umum Persatuan Wartawan Indonesia (PWI) Pusat Akhmad Munir menyatakan, kehadiran pers masa kini yang menyajikan ...",
+      "title": "‎‎Densus 88 tangkap tiga terduga teroris di Sulawesi Tengah",
+      "link": "https://www.antaranews.com/berita/5769288/densus-88-tangkap-tiga-terduga-teroris-di-sulawesi-tengah",
+      "published": "Fri, 02 Oct 2026 23:18:29 +0700",
+      "description": "&lrm;&lrm;Tim Detasemen Khusus (Densus) 88 Antiteror Polri bersama Satuan Brimob Kepolisian Daerah&nbsp;Sulawesi Tengah ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
