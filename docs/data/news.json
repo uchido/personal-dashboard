@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-02T05:05:08+0000",
+  "timestamp": "2026-10-02T05:36:04+0000",
   "articles": [
     {
       "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
       "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 22:21:16 GMT",
+      "published": "Fri, 02 Oct 2026 05:26:06 GMT",
       "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
       "source": "BBC News",
       "category": "Global"
@@ -18,14 +18,6 @@
       "category": "Global"
     },
     {
-      "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 00:20:39 GMT",
-      "description": "The 25-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
       "link": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 22:22:43 GMT",
@@ -34,7 +26,42 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 00:20:39 GMT",
+      "description": "The 25-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "KNMP Lampung Selatan dongkrak nilai ikan jadi Rp14.000 per kg",
+      "link": "https://www.antaranews.com/berita/5768123/knmp-lampung-selatan-dongkrak-nilai-ikan-jadi-rp14000-per-kg",
+      "published": "Fri, 02 Oct 2026 12:36:01 +0700",
+      "description": "Program Kampung Nelayan Merah Putih (KNMP) di Desa Ketapang, Kabupaten Lampung Selatan, Lampung, mendorong hilirisasi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Komisi IV DPR soroti distribusi beras di Cipinang demi jaga harga",
+      "link": "https://www.antaranews.com/berita/5768119/komisi-iv-dpr-soroti-distribusi-beras-di-cipinang-demi-jaga-harga",
+      "published": "Fri, 02 Oct 2026 12:28:48 +0700",
+      "description": "Komisi IV DPR RI menyoroti pentingnya kelancaran distribusi beras dari produsen hingga konsumen di Pasar Induk Beras ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Prof Muhammad Akbar terpilih Ketua Senat Akademik Unhas",
+      "link": "https://www.antaranews.com/berita/5768117/prof-muhammad-akbar-terpilih-ketua-senat-akademik-unhas",
+      "published": "Fri, 02 Oct 2026 12:28:40 +0700",
+      "description": "Senat Akademik Universitas Hasanuddin (Unhas) menetapkan Prof dr Muhammad Akbar, sebagai Ketua Senat Akademik Unhas dan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Museum Kesaktian Pancasila, mengubah cara generasi membaca sejarah",
+      "link": "https://www.antaranews.com/berita/5768116/museum-kesaktian-pancasila-mengubah-cara-generasi-membaca-sejarah",
+      "published": "Fri, 02 Oct 2026 12:27:23 +0700",
+      "description": "Museum sejarah barangkali harus mengubah cara bercerita agar kisah masa lalu tetap dapat dipahami oleh generasi yang ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
