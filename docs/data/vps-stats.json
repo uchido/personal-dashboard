@@ -1,64 +1,64 @@
 {
-  "timestamp": "2026-10-02T02:29:51+0000",
+  "timestamp": "2026-10-02T03:00:53+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 100.0,
+    "percent": 95.2,
     "cores": 2,
     "load_avg": [
-      1.28,
-      0.48,
-      0.28
+      6.79,
+      6.24,
+      4.59
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.4,
-    "available": 5.5,
-    "used": 6.1,
-    "percent": 52.6
+    "free": 0.2,
+    "available": 5.1,
+    "used": 6.5,
+    "percent": 56.0
   },
   "disk": {
     "total": "193G",
-    "used": "193G",
-    "available": "265M",
-    "percent": "100%"
+    "used": "109G",
+    "available": "85G",
+    "percent": "57%"
   },
   "uptime": {
     "days": 94,
-    "hours": 14,
-    "minutes": 55,
-    "total_seconds": 8175339.34
+    "hours": 15,
+    "minutes": 26,
+    "total_seconds": 8177201.07
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
-      "user": "root",
-      "cpu": "90.1",
-      "mem": "4.1",
-      "command": "node -r dotenv/config dist/server.mjs"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "38.4",
-      "mem": "0.4",
+      "cpu": "250",
+      "mem": "0.3",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
       "user": "ubuntu",
-      "cpu": "12.1",
-      "mem": "0.6",
-      "command": "/usr/bin/node /home/ubuntu/.hermes/scripts/awwward"
+      "cpu": "250",
+      "mem": "0.1",
+      "command": "/home/ubuntu/.hermes/cache/uv/builds-v0/.tmpr9v9Rl"
     },
     {
       "user": "ubuntu",
-      "cpu": "7.2",
+      "cpu": "38.6",
       "mem": "0.6",
-      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+      "command": "/home/ubuntu/.hermes/tools/uv-0.12.3-linux-arm64/u"
+    },
+    {
+      "user": "root",
+      "cpu": "37.9",
+      "mem": "10.5",
+      "command": "node -r dotenv/config dist/server.mjs"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "35.9",
+      "mem": "0.3",
+      "command": "/home/ubuntu/.hermes/cache/uv/builds-v0/.tmpGS0DkP"
     }
   ]
 }
