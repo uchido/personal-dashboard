@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-03T10:32:05+0000",
+  "timestamp": "2026-10-03T11:03:06+0000",
   "articles": [
     {
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -12,8 +12,16 @@
     {
       "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
       "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 10:27:52 GMT",
+      "published": "Sat, 03 Oct 2026 10:58:51 GMT",
       "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 10:27:57 GMT",
+      "description": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 09:53:16 GMT",
-      "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Bandara Palembang tunda delapan penerbangan akibat jarak pandang",
+      "link": "https://www.antaranews.com/berita/5769992/bandara-palembang-tunda-delapan-penerbangan-akibat-jarak-pandang",
+      "published": "Sat, 03 Oct 2026 18:00:31 +0700",
+      "description": "Bandara Internasional Sultan Mahmud Badaruddin II Palembang, Sumatera Selatan, menunda delapan penerbangan pada Sabtu ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Dinsos: 68.000 KK Mataram ajukan sanggahan desil Perlinsos",
+      "link": "https://www.antaranews.com/berita/5769990/dinsos-68000-kk-mataram-ajukan-sanggahan-desil-perlinsos",
+      "published": "Sat, 03 Oct 2026 17:50:49 +0700",
+      "description": "Dinas Sosial Kota Mataram, Provinsi Nusa Tenggara Barat, mencatat sekitar 68.000 kepala keluarga di Kota Mataram ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Diserbu pecinta seni kontemporer, ada apa saja di pameran Art Jakarta 2026 JIExpo Kemayoran?",
+      "link": "https://www.antaranews.com/foto/5769986/diserbu-pecinta-seni-kontemporer-ada-apa-saja-di-pameran-art-jakarta-2026-jiexpo-kemayoran",
+      "published": "Sat, 03 Oct 2026 17:47:25 +0700",
+      "description": "Pengunjung mengamati karya seni rupa saat pameran seni kontemporer Art Jakarta 2026 di JIExpo Kemayoran, Jakarta, Sabtu ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BKSDA Jambi-Gakkum selidiki kematian gajah di kawasan konsesi",
+      "link": "https://www.antaranews.com/berita/5769985/bksda-jambi-gakkum-selidiki-kematian-gajah-di-kawasan-konsesi",
+      "published": "Sat, 03 Oct 2026 17:39:08 +0700",
+      "description": "Balai Konservasi Sumber Daya Alam (BKSDA) Jambi bersama Balai Penegakan Hukum (Gakkum) Kehutanan Sumatera terus ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
