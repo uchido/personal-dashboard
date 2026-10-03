@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-03T10:01:05+0000",
+  "timestamp": "2026-10-03T10:32:05+0000",
   "articles": [
     {
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 03 Oct 2026 10:00:04 GMT",
       "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+      "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 10:27:52 GMT",
+      "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -24,19 +32,6 @@
       "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 04:38:31 GMT",
-      "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 654, column 156",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
