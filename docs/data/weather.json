@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-03T01:45:04+0000",
+  "timestamp": "2026-10-03T02:16:05+0000",
   "locations": [
     {
       "name": "Palu",
@@ -45,23 +45,23 @@
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
+      "location": "Pencitrejo",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "24",
-      "feels_like_c": "25",
-      "humidity": "74",
-      "wind_speed_kmh": "9",
-      "wind_dir": "WSW",
+      "temp_c": "30",
+      "feels_like_c": "32",
+      "humidity": "51",
+      "wind_speed_kmh": "8",
+      "wind_dir": "SSW",
       "visibility_km": "10",
       "pressure_mb": "1016",
-      "condition": "Overcast ",
-      "condition_code": "122",
-      "uv_index": "1",
+      "condition": "Cloudy ",
+      "condition_code": "119",
+      "uv_index": "6",
       "forecast": [
         {
           "date": "2026-10-03",
-          "max_temp": "36",
+          "max_temp": "37",
           "min_temp": "21",
           "condition": "Patchy rain nearby",
           "sunrise": "05:22 AM",
@@ -69,17 +69,17 @@
         },
         {
           "date": "2026-10-04",
-          "max_temp": "35",
-          "min_temp": "21",
+          "max_temp": "36",
+          "min_temp": "22",
           "condition": "Overcast ",
           "sunrise": "05:22 AM",
           "sunset": "05:33 PM"
         },
         {
           "date": "2026-10-05",
-          "max_temp": "35",
+          "max_temp": "36",
           "min_temp": "21",
-          "condition": "Overcast ",
+          "condition": "Mist",
           "sunrise": "05:21 AM",
           "sunset": "05:33 PM"
         }
