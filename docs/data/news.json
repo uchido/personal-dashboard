@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-03T13:07:05+0000",
+  "timestamp": "2026-10-03T13:38:05+0000",
   "articles": [
     {
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Ratusan perahu nelayan hiasi laut Wakatobi, intip kemeriahan Festival Wakatobi Wave 2026!",
-      "link": "https://www.antaranews.com/foto/5770097/ratusan-perahu-nelayan-hiasi-laut-wakatobi-intip-kemeriahan-festival-wakatobi-wave-2026",
-      "published": "Sat, 03 Oct 2026 20:02:22 +0700",
-      "description": "Parade perahu hias melintasi Wakatobi, Kabupaten Wakatobi, Sulawesi Tenggara, Sabtu (3/10/2026). Pemkab Wakatobi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dedi Kusnandar optimistis Indonesia bisa atasi Thailand",
-      "link": "https://www.antaranews.com/berita/5770094/dedi-kusnandar-optimistis-indonesia-bisa-atasi-thailand",
-      "published": "Sat, 03 Oct 2026 19:59:58 +0700",
-      "description": "Gelandang Persib Bandung Dedi Kusnandar optimistis tim nasional Indonesia bisa mengatasi tim nasional Thailand pada ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dubes Oemar: Kolintang jadi diplomasi budaya Indonesia di UNESCO",
-      "link": "https://www.antaranews.com/berita/5770093/dubes-oemar-kolintang-jadi-diplomasi-budaya-indonesia-di-unesco",
-      "published": "Sat, 03 Oct 2026 19:58:51 +0700",
-      "description": "Duta Besar RI untuk Prancis, Monako, dan Andorra sekaligus Delegasi Tetap RI untuk UNESCO Mohamad Oemar mengatakan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "PERADI Profesional raih rekor MURI lewat pelatihan profesi advokat",
-      "link": "https://www.antaranews.com/berita/5770092/peradi-profesional-raih-rekor-muri-lewat-pelatihan-profesi-advokat",
-      "published": "Sat, 03 Oct 2026 19:54:47 +0700",
-      "description": "Perhimpunan Advokat Indonesia (PERADI) Profesional meraih rekor Museum Rekor Indonesia (MURI) melalui pencatatan ...",
+      "error": "unclosed token: line 658, column 292",
       "source": "Antara News",
       "category": "Indonesia"
     }

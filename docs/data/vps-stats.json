@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-10-03T13:07:01+0000",
+  "timestamp": "2026-10-03T13:38:01+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 65.0,
     "cores": 2,
     "load_avg": [
-      1.86,
-      1.95,
-      1.99
+      1.91,
+      1.82,
+      1.86
     ]
   },
   "memory": {
     "total": 11.6,
     "free": 0.2,
-    "available": 4.8,
-    "used": 6.8,
-    "percent": 58.6
+    "available": 4.7,
+    "used": 6.9,
+    "percent": 59.5
   },
   "disk": {
     "total": "193G",
@@ -25,20 +25,26 @@
   },
   "uptime": {
     "days": 96,
-    "hours": 1,
-    "minutes": 32,
-    "total_seconds": 8299969.2
+    "hours": 2,
+    "minutes": 3,
+    "total_seconds": 8301829.29
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "58.1",
+      "cpu": "100",
+      "mem": "0.4",
+      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "58.8",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "21.4",
+      "cpu": "20.0",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -53,12 +59,6 @@
       "cpu": "1.5",
       "mem": "2.2",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
-    },
-    {
-      "user": "opc",
-      "cpu": "1.4",
-      "mem": "1.0",
-      "command": "temporal-server --env docker start"
     }
   ]
 }
