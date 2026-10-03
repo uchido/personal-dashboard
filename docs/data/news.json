@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-03T07:26:04+0000",
+  "timestamp": "2026-10-03T07:57:04+0000",
   "articles": [
     {
       "title": "Widdecombe suspect charged with planning terror act against Farage",
       "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 21:32:25 GMT",
       "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 07:49:40 GMT",
+      "description": "The flydubai flight from Dubai to Tel Aviv was carrying more than 170 people when the attack took place.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Woman deceived ex-partner that she had given birth to his babies, judge rules",
-      "link": "https://www.bbc.co.uk/news/articles/cq073egz324zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 04:07:58 GMT",
-      "description": "The man paid his ex-partner around £30,000 over two years believing she had given birth to his children.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Dari Zakat Menjadi Perlindungan, Kemenko PM bersama BPJS Ketenagakerjaan dan BAZNAS Perkuat Perlindungan 100.000 Pekerja Rentan",
-      "link": "https://www.antaranews.com/berita/5769816/dari-zakat-menjadi-perlindungan-kemenko-pm-bersama-bpjs-ketenagakerjaan-dan-baznas-perkuat-perlindungan-100000-pekerja-rentan",
-      "published": "Sat, 03 Oct 2026 14:17:12 +0700",
-      "description": "Tangerang (ANTARA) &mdash; Satu kecelakaan kerja dapat menghentikan penghasilan. Satu kematian pencari nafkah dapat ...",
+      "title": "Pieter Huistra sebut pemain PSS Sleman fokus pada penguatan fisik",
+      "link": "https://www.antaranews.com/berita/5769846/pieter-huistra-sebut-pemain-pss-sleman-fokus-pada-penguatan-fisik",
+      "published": "Sat, 03 Oct 2026 14:54:21 +0700",
+      "description": "Pelatih Pieter Huistra menyebutkan pemain-pemain PSS Sleman fokus pada aspek penguatan dan kebugaran fisik dalam ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Tim gabungan PPU padamkan karhutla 503,47 hektare Januari–Oktober",
-      "link": "https://www.antaranews.com/berita/5769813/tim-gabungan-ppu-padamkan-karhutla-50347-hektare-januari-oktober",
-      "published": "Sat, 03 Oct 2026 14:12:34 +0700",
-      "description": "Tim gabungan dari berbagai unsur di Kabupaten Penajam Paser Utara (PPU), Kalimantan Timur, telah memadamkan kebakaran ...",
+      "title": "Persita Tangerang berusaha jaga ritme permainan",
+      "link": "https://www.antaranews.com/berita/5769844/persita-tangerang-berusaha-jaga-ritme-permainan",
+      "published": "Sat, 03 Oct 2026 14:51:33 +0700",
+      "description": "Pelatih Persita Tangerang Carlos Pena menjelaskan timnya berusaha untuk menjaga ritme permainan selama masa jeda ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Robot hiburan Jepang kian beragam, tawarkan kenyamanan berkat AI",
-      "link": "https://www.antaranews.com/berita/5769810/robot-hiburan-jepang-kian-beragam-tawarkan-kenyamanan-berkat-ai",
-      "published": "Sat, 03 Oct 2026 14:10:54 +0700",
-      "description": "Ragam robot hiburan rumah tangga di Jepang semakin beragam, ada yang memberikan kenyamanan emosional layaknya hewan ...",
+      "title": "Dari dagongan hingga egrang, 491 siswa Ciamis hidupkan olahraga tradisional",
+      "link": "https://www.antaranews.com/foto/5769842/dari-dagongan-hingga-egrang-491-siswa-ciamis-hidupkan-olahraga-tradisional",
+      "published": "Sat, 03 Oct 2026 14:48:54 +0700",
+      "description": "Peserta saling mendorong batang bambu dalam permainan dagongan pada Invitasi Olahraga Tradisional (Oltrad) jenjang SD ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "PBB alokasikan 160 juta dolar AS untuk bantuan di 12 negara-kawasan",
-      "link": "https://www.antaranews.com/berita/5769806/pbb-alokasikan-160-juta-dolar-as-untuk-bantuan-di-12-negara-kawasan",
-      "published": "Sat, 03 Oct 2026 14:10:44 +0700",
-      "description": "Perserikatan Bangsa-Bangsa (PBB) pada Jumat (2/10) mengalokasikan dana darurat sebesar 160 juta dolar AS (1 dolar AS = ...",
+      "title": "Arema FC berupaya tingkatkan kekompakan pada masa jeda kompetisi",
+      "link": "https://www.antaranews.com/berita/5769841/arema-fc-berupaya-tingkatkan-kekompakan-pada-masa-jeda-kompetisi",
+      "published": "Sat, 03 Oct 2026 14:48:50 +0700",
+      "description": "Asisten Pelatih Arema FC Andre Caldas mengatakan tim berusaha untuk meningkatkan kekompakan mereka pada masa jeda ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
