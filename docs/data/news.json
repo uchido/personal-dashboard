@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-10-03T09:30:07+0000",
+  "timestamp": "2026-10-03T10:01:05+0000",
   "articles": [
+    {
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 10:00:04 GMT",
+      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Widdecombe suspect charged with planning terror act against Farage",
       "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
@@ -10,17 +18,9 @@
       "category": "Global"
     },
     {
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 09:23:31 GMT",
-      "description": "The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Russia strikes second major bridge in Kyiv, mayor says",
       "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 07:25:09 GMT",
+      "published": "Sat, 03 Oct 2026 09:53:16 GMT",
       "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
       "source": "BBC News",
       "category": "Global"
@@ -32,6 +32,11 @@
       "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 654, column 156",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
