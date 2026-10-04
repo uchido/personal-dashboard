@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-04T11:51:05+0000",
+  "timestamp": "2026-10-04T12:22:05+0000",
   "articles": [
     {
       "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
@@ -18,20 +18,25 @@
       "category": "Global"
     },
     {
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 06:19:17 GMT",
-      "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+      "title": "Daughter of MP murdered five years ago says politicians still at risk",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 11:59:35 GMT",
+      "description": "Katie Amess questions if anything has changed to protect politicians five years after her father's death.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-      "link": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 11:24:58 GMT",
-      "description": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 12:09:04 GMT",
+      "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 674, column 2",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
