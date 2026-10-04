@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-04T12:22:05+0000",
+  "timestamp": "2026-10-04T12:53:05+0000",
   "articles": [
     {
       "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
@@ -34,7 +34,7 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 674, column 2",
+      "error": "unclosed token: line 668, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
