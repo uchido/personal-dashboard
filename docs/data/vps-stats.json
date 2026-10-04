@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-10-04T20:07:04+0000",
+  "timestamp": "2026-10-04T20:38:02+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 63.2,
     "cores": 2,
     "load_avg": [
-      3.62,
-      2.31,
-      1.99
+      3.05,
+      2.45,
+      2.11
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.4,
-    "available": 4.3,
-    "used": 7.3,
-    "percent": 62.9
+    "free": 0.8,
+    "available": 4.7,
+    "used": 6.9,
+    "percent": 59.5
   },
   "disk": {
     "total": "193G",
@@ -25,40 +25,40 @@
   },
   "uptime": {
     "days": 97,
-    "hours": 8,
-    "minutes": 32,
-    "total_seconds": 8411571.46
+    "hours": 9,
+    "minutes": 3,
+    "total_seconds": 8413429.66
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.3",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "36.3",
+      "cpu": "54.2",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "23.0",
+      "cpu": "20.0",
       "mem": "0.1",
-      "command": "python3 scripts/collect-crypto.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "14.2",
-      "mem": "0.0",
-      "command": "python3 /home/ubuntu/personal-dashboard/scripts/co"
+      "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "ubuntu",
       "cpu": "6.1",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "1.5",
+      "mem": "2.1",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "opc",
+      "cpu": "1.4",
+      "mem": "1.0",
+      "command": "temporal-server --env docker start"
     }
   ]
 }
