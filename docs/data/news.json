@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-04T08:45:06+0000",
+  "timestamp": "2026-10-04T09:16:05+0000",
   "articles": [
     {
       "title": "Burnham scraps controversial plans to curb jury trials",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 08:48:38 GMT",
+      "description": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Cornell president says university 'must do better' after frat house rape allegations",
       "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 04 Oct 2026 00:11:25 GMT",
@@ -26,42 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "When parenting advice becomes too much",
-      "link": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 01:24:05 GMT",
-      "description": "Many parents feel overwhelmed by the amount of parenting information available",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Pemkot Bukittinggi-Dubes Palestina perkuat solidaritas kemanusiaan",
-      "link": "https://www.antaranews.com/berita/5770645/pemkot-bukittinggi-dubes-palestina-perkuat-solidaritas-kemanusiaan",
-      "published": "Sun, 04 Oct 2026 15:42:40 +0700",
-      "description": "Pemerintah Kota (Pemkot) Bukittinggi, Sumatera Barat (Sumbar) bersama Duta Besar Palestina Untuk Indonesia memperkuat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hyundai Motor perkenalkan Tucson terbaru di New York",
-      "link": "https://otomotif.antaranews.com/berita/5770641/hyundai-motor-perkenalkan-tucson-terbaru-di-new-york",
-      "published": "Sun, 04 Oct 2026 15:34:53 +0700",
-      "description": "Hyundai Motor Co. memperkenalkan Tucson generasi terbaru, SUV kelas menengah andalannya, di New York, Amerika Serikat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dari Merak hingga Ketapang, Krueng Mane hingga Tanjungkarang: Cerita Perjalanan dari Ujung Jaringan Kereta Api Jawa–Sumatra",
-      "link": "https://www.antaranews.com/berita/5770637/dari-merak-hingga-ketapang-krueng-mane-hingga-tanjungkarang-cerita-perjalanan-dari-ujung-jaringan-kereta-api-jawa-sumatra",
-      "published": "Sun, 04 Oct 2026 15:31:51 +0700",
-      "description": "Jaringan kereta api Indonesia memiliki cerita menarik di titik-titik terjauhnya. Di Pulau Jawa terdapat Stasiun Merak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pakar sebut penanganan terorisme wujud kehadiran negara",
-      "link": "https://www.antaranews.com/berita/5770636/pakar-sebut-penanganan-terorisme-wujud-kehadiran-negara",
-      "published": "Sun, 04 Oct 2026 15:30:15 +0700",
-      "description": "Pakar komunikasi dan terorisme Universitas Tadulako (Untad) Prof Muhammad Khairil menilai penanganan terorisme ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
