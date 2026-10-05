@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-05T08:00:08+0000",
+  "timestamp": "2026-10-05T08:31:04+0000",
   "articles": [
     {
       "title": "US removes all bombers from RAF Fairford base",
       "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 07:14:28 GMT",
+      "published": "Mon, 05 Oct 2026 08:28:37 GMT",
       "description": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
       "source": "BBC News",
       "category": "Global"
@@ -12,7 +12,7 @@
     {
       "title": "Andrew takes legal action over search warrants relating to arrest",
       "link": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 07:52:02 GMT",
+      "published": "Mon, 05 Oct 2026 08:13:38 GMT",
       "description": "Mountbatten-Windsor was arrested on suspicion of misconduct in public office and later released under investigation in February.",
       "source": "BBC News",
       "category": "Global"
@@ -28,40 +28,13 @@
     {
       "title": "Protesters scuffle with police as migrants brought ashore on south coast",
       "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 07:25:15 GMT",
+      "published": "Mon, 05 Oct 2026 08:18:58 GMT",
       "description": "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Stupa utama Candi Borobudur dipugar, pengunjung hanya sampai lantai 8",
-      "link": "https://www.antaranews.com/berita/5771702/stupa-utama-candi-borobudurdipugar-pengunjung-hanya-sampai-lantai-8",
-      "published": "Mon, 05 Oct 2026 14:56:52 +0700",
-      "description": "Stupa utama Candi Borobudur saat ini tengah dilakukan pemugaran, sehingga para pengunjung reguler di candi yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "MacBook Pro dengan layar sentuh OLED mungkin bakal lebih ringan",
-      "link": "https://www.antaranews.com/berita/5771700/macbook-pro-dengan-layar-sentuh-oled-mungkin-bakal-lebih-ringan",
-      "published": "Mon, 05 Oct 2026 14:55:28 +0700",
-      "description": "Apple dikabarkan tengah mengembangkan Macbook Pro generasi terbaru yang tidak hanya memiliki panel layar OLED dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Prabowo berterima kasih kepada keluarga prajurit di HUT Ke-81 TNI",
-      "link": "https://www.antaranews.com/berita/5771698/prabowo-berterima-kasih-kepada-keluarga-prajurit-di-hut-ke-81-tni",
-      "published": "Mon, 05 Oct 2026 14:55:17 +0700",
-      "description": "Presiden Prabowo Subianto menyampaikan terima kasih kepada keluarga prajurit TNI yang harus siap jika prajurit tidak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Prabowo resmikan 204 satuan baru TNI dan lantik enam Pangdam",
-      "link": "https://www.antaranews.com/video/5771646/prabowo-resmikan-204-satuan-baru-tni-dan-lantik-enam-pangdam",
-      "published": "Mon, 05 Oct 2026 14:54:15 +0700",
-      "description": "ANTARA - Presiden Prabowo Subianto meresmikan 204 satuan baru TNI sekaligus melantik enam Panglima Komando Daerah ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
