@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-10-05T19:53:05+0000",
+  "timestamp": "2026-10-05T20:24:05+0000",
   "articles": [
+    {
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 20:09:38 GMT",
+      "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "King's funding for Andrew not to be used for legal action against police",
       "link": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "What prompted the US bombers to leave RAF Fairford?",
-      "link": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 18:45:07 GMT",
-      "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Teenager's hand blown off during confrontation between France school protesters and police",
       "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 16:32:18 GMT",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "DKI kemarin, kasus petasan hingga perayaan kemenangan Timnas",
-      "link": "https://www.antaranews.com/berita/5772634/dki-kemarinkasus-petasan-hingga-perayaan-kemenangan-timnas",
-      "published": "Tue, 06 Oct 2026 02:47:10 +0700",
-      "description": "Kepolisian dan pihak kelurahan mengusut kasus petasan yang dinyalakan dalam durasi satu jam saat perayaan Maulid Nabi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BMKG prakirakan sebagian Jakarta diselimuti awan tebal di Selasa pagi",
-      "link": "https://www.antaranews.com/berita/5772632/bmkg-prakirakan-sebagian-jakartadiselimuti-awan-tebal-di-selasa-pagi",
-      "published": "Tue, 06 Oct 2026 02:37:05 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian besar wilayah DKI Jakarta dalam kondisi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Itjen Imipas temukan 13 bangunan di Lapas Cibonong tak tercatat BMN",
-      "link": "https://www.antaranews.com/berita/5772629/itjen-imipas-temukan-13-bangunan-di-lapas-cibonong-tak-tercatat-bmn",
-      "published": "Tue, 06 Oct 2026 02:28:21 +0700",
-      "description": "Hasil investigasi Inspektorat Jenderal Kementerian Imigrasi dan Pemasyarakatan (Itjen Imipas) menemukan terdapat 21 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Prabowo sebut kemenangan Indonesia atas Thailand bersejarah",
-      "link": "https://www.antaranews.com/berita/5772626/prabowo-sebut-kemenangan-indonesia-atas-thailand-bersejarah",
-      "published": "Tue, 06 Oct 2026 01:17:09 +0700",
-      "description": "Presiden Prabowo Subianto menyebut kemenangan Timnas Indonesia atas Thailand pada final FIFA ASEAN Cup 2026 bersejarah ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
