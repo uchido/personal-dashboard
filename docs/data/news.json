@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-05T06:58:05+0000",
+  "timestamp": "2026-10-05T07:29:04+0000",
   "articles": [
     {
       "title": "US removes all bombers from RAF Fairford base",
       "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 04:58:56 GMT",
+      "published": "Mon, 05 Oct 2026 07:14:28 GMT",
       "description": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
       "source": "BBC News",
       "category": "Global"
@@ -20,7 +20,7 @@
     {
       "title": "Protesters scuffle with police as migrants brought ashore on south coast",
       "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 06:24:47 GMT",
+      "published": "Mon, 05 Oct 2026 07:25:15 GMT",
       "description": "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.",
       "source": "BBC News",
       "category": "Global"
@@ -28,10 +28,15 @@
     {
       "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
       "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 21:35:30 GMT",
+      "published": "Mon, 05 Oct 2026 07:25:27 GMT",
       "description": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "no element found: line 658, column 113",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
