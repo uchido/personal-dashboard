@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T10:35:05+0000",
+  "timestamp": "2026-10-05T11:06:05+0000",
   "articles": [
     {
       "title": "US removes all bombers from RAF Fairford base",
       "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 10:24:02 GMT",
+      "published": "Mon, 05 Oct 2026 10:39:09 GMT",
       "description": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Andrew takes legal action over arrest search warrants with hearing this week",
+      "title": "Andrew takes legal action over search warrants before his arrest",
       "link": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 10:34:13 GMT",
       "description": "Mountbatten-Windsor's lawyers are challenging warrants used relating to his arrest in February on suspicion of misconduct in public office.",
@@ -28,40 +28,13 @@
     {
       "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
       "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 10:10:27 GMT",
+      "published": "Mon, 05 Oct 2026 11:04:37 GMT",
       "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "WSJ: AS tarik seluruh pesawat pengebom B-1 dari pangkalan Inggris",
-      "link": "https://www.antaranews.com/berita/5772032/wsj-as-tarik-seluruh-pesawat-pengebom-b-1-dari-pangkalan-inggris",
-      "published": "Mon, 05 Oct 2026 17:33:25 +0700",
-      "description": "The Wall Street Journal pada Minggu (4/10), dengan mengutip pejabat AS, menyebutkan bahwa&nbsp;Amerika Serikat menarik ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KPK periksa dua pihak swasta guna dalami pemberian buat eks Sekjen MPR",
-      "link": "https://www.antaranews.com/berita/5772028/kpk-periksa-dua-pihak-swasta-guna-dalami-pemberian-buat-eks-sekjen-mpr",
-      "published": "Mon, 05 Oct 2026 17:33:07 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) memeriksa dua orang dari pihak swasta untuk mendalami pemberian kepada mantan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menko Yusril cari akar permasalahan temuan di Lapas Cibinong",
-      "link": "https://www.antaranews.com/berita/5772025/menko-yusril-cari-akar-permasalahan-temuan-di-lapas-cibinong",
-      "published": "Mon, 05 Oct 2026 17:31:15 +0700",
-      "description": "Menteri Koordinator Bidang Hukum, Hak Asasi Manusia, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra mengatakan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menteri Perminyakan Iran mengundurkan diri",
-      "link": "https://www.antaranews.com/berita/5772022/menteri-perminyakan-iran-mengundurkan-diri",
-      "published": "Mon, 05 Oct 2026 17:28:04 +0700",
-      "description": "Menteri Perminyakan Iran Mohsen Paknejad mengundurkan diri dari jabatannya, demikian diumumkan oleh seorang ajudan ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
