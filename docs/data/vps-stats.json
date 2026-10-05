@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-10-05T14:43:02+0000",
+  "timestamp": "2026-10-05T15:14:02+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 63.6,
+    "percent": 70.0,
     "cores": 2,
     "load_avg": [
-      2.05,
-      2.27,
-      2.23
+      1.74,
+      1.92,
+      2.04
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.7,
+    "free": 0.6,
     "available": 4.8,
     "used": 6.8,
     "percent": 58.6
@@ -26,31 +26,19 @@
   "uptime": {
     "days": 98,
     "hours": 3,
-    "minutes": 8,
-    "total_seconds": 8478529.73
+    "minutes": 39,
+    "total_seconds": 8480389.69
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "116",
-      "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "50.0",
+      "cpu": "55.9",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "20.0",
+      "cpu": "13.3",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -59,6 +47,18 @@
       "cpu": "6.1",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "1.5",
+      "mem": "2.1",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "opc",
+      "cpu": "1.4",
+      "mem": "1.0",
+      "command": "temporal-server --env docker start"
     }
   ]
 }
