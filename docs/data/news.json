@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-05T00:15:06+0000",
+  "timestamp": "2026-10-05T00:46:06+0000",
   "articles": [
     {
       "title": "US removes all bombers from RAF Fairford base",
       "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 04 Oct 2026 21:57:32 GMT",
       "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 00:27:06 GMT",
+      "description": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 23:45:53 GMT",
-      "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "BMKG prakirakan Jaksel dan Jaktim hujan ringan pada Senin sore",
-      "link": "https://www.antaranews.com/berita/5771113/bmkg-prakirakan-jaksel-dan-jaktim-hujan-ringan-pada-senin-sore",
-      "published": "Mon, 05 Oct 2026 07:12:25 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan Jakarta Selatan dan Jakarta Timur hujan ringan pada ...",
+      "title": "Presiden Prabowo pimpin HUT Ke-81 TNI Senin pagi",
+      "link": "https://www.antaranews.com/berita/5771125/presiden-prabowo-pimpin-hut-ke-81-tni-senin-pagi",
+      "published": "Mon, 05 Oct 2026 07:43:19 +0700",
+      "description": "Presiden Prabowo Subianto dijadwalkan memimpin upacara peringatan HUT Ke-81 Tentara Nasional Indonesia (TNI) di ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "5 Oktober hari apa? ini daftar peringatan pentingnya",
-      "link": "https://www.antaranews.com/berita/5771112/5-oktober-hari-apa-ini-daftar-peringatan-pentingnya",
-      "published": "Mon, 05 Oct 2026 07:02:36 +0700",
-      "description": "Memasuki bulan Oktober, sejumlah tanggal memiliki makna dan sejarah yang berkaitan dengan berbagai bidang, mulai dari ...",
+      "title": "5 bentuk kekerasan gender online, dari doxxing hingga sextortion",
+      "link": "https://www.antaranews.com/berita/5771124/5-bentuk-kekerasan-gender-online-dari-doxxing-hingga-sextortion",
+      "published": "Mon, 05 Oct 2026 07:39:36 +0700",
+      "description": "Perkembangan teknologi membuat berbagai aktivitas masyarakat semakin mudah dilakukan melalui ruang digital. Namun, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Simak kembali warta soal wisata olahraga, film baru Tom Cruise",
-      "link": "https://www.antaranews.com/berita/5771110/simak-kembali-warta-soal-wisata-olahraga-film-baru-tom-cruise",
-      "published": "Mon, 05 Oct 2026 07:00:57 +0700",
-      "description": "Kanal gaya hidup, hiburan, teknologi, dan otomotif ANTARA pada Minggu (4/10) antara lain menyiarkan warta mengenai ...",
+      "title": "Senin, kualitas udara Jakarta masuk tiga besar terburuk di dunia",
+      "link": "https://www.antaranews.com/berita/5771121/senin-kualitas-udara-jakarta-masuk-tiga-besar-terburuk-di-dunia",
+      "published": "Mon, 05 Oct 2026 07:23:43 +0700",
+      "description": "Kualitas udara di Jakarta pada Senin pagi ini masuk&nbsp;kategori tidak sehat dan menduduki peringkat ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Politik kemarin, Syahganda dipanggil Presiden hingga ziarah nasional",
-      "link": "https://www.antaranews.com/berita/5771108/politik-kemarin-syahganda-dipanggil-presiden-hingga-ziarah-nasional",
-      "published": "Mon, 05 Oct 2026 06:52:28 +0700",
-      "description": "Beragam peristiwa politik telah terjadi pada Minggu (4/10), mulai dari Presiden panggil Syahganda Nainggolan hingga ...",
+      "title": "YBM PLN salurkan bantuan bagi warga di Sulselrabar peringati HKP",
+      "link": "https://www.antaranews.com/berita/5771120/ybm-pln-salurkan-bantuan-bagi-warga-di-sulselrabar-peringati-hkp",
+      "published": "Mon, 05 Oct 2026 07:23:21 +0700",
+      "description": "Yayasan Baitul Maal (YBM) PLN menyalurkan berbagai bantuan kepada masyarakat di wilayah kerja PLN Unit Induk Distribusi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
