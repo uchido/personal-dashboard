@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-05T20:24:05+0000",
+  "timestamp": "2026-10-05T20:55:05+0000",
   "articles": [
     {
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 20:09:38 GMT",
+      "published": "Mon, 05 Oct 2026 20:24:57 GMT",
       "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Author and former politician Jeffrey Archer dies aged 86",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 20:51:30 GMT",
+      "description": "His last book, Adam and Eve, is set to release this month.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 16:32:18 GMT",
-      "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Elkan Baggott sangat bangga jadi orang Indonesia",
+      "link": "https://www.antaranews.com/berita/5772660/elkan-baggott-sangat-bangga-jadi-orang-indonesia",
+      "published": "Tue, 06 Oct 2026 03:53:21 +0700",
+      "description": "Bek Timnas Indonesia Elkan Baggott mengatakan merasa bangga ikut mengantar Indonesia menjuarai FIFA ASEAN Cup 2026 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Verdonk cs diminta Herdman sebelum adu penalti agar percaya diri",
+      "link": "https://www.antaranews.com/berita/5772656/verdonk-cs-diminta-herdman-sebelum-adu-penalti-agar-percaya-diri",
+      "published": "Tue, 06 Oct 2026 03:48:35 +0700",
+      "description": "Pemain Timnas Indonesia Calvin Verdonk mengungkapkan pelatih kepala John Herdman berpesan kepada para pemain sebelum ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Verdonk sebut gelar juara modal berharga untuk Piala Asia 2027",
+      "link": "https://www.antaranews.com/berita/5772653/verdonk-sebut-gelar-juara-modal-berharga-untuk-piala-asia-2027",
+      "published": "Tue, 06 Oct 2026 03:40:16 +0700",
+      "description": "Pemain Timnas Indonesia Calvin Verdonk menyebut keberhasilan timnya menjuarai FIFA ASEAN Cup 2026 menjadi modal ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "John Herdman plih pemain paling klinis jadi penendang penalti",
+      "link": "https://www.antaranews.com/berita/5772650/john-herdman-plih-pemain-paling-klinis-jadi-penendang-penalti",
+      "published": "Tue, 06 Oct 2026 03:34:46 +0700",
+      "description": "Pelatih Kepala Timnas Indonesia John Herdman mengungkapkan pemain-pemain yang menjadi penendang saat adu penalti pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
