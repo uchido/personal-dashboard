@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-05T09:33:05+0000",
+  "timestamp": "2026-10-05T10:04:06+0000",
   "articles": [
     {
       "title": "US removes all bombers from RAF Fairford base",
@@ -10,10 +10,18 @@
       "category": "Global"
     },
     {
-      "title": "Andrew takes legal action over search warrants relating to arrest",
+      "title": "Andrew takes legal action over arrest search warrants with hearing this week",
       "link": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 09:14:58 GMT",
-      "description": "Mountbatten-Windsor was arrested on suspicion of misconduct in public office and later released under investigation in February.",
+      "description": "Mountbatten-Windsor's lawyers are challenging warrants used relating to his arrest in February on suspicion of misconduct in public office.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "How the eviction of an elderly resident in Madrid has led to an early general election",
+      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 09:03:30 GMT",
+      "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
       "source": "BBC News",
       "category": "Global"
     },
@@ -24,46 +32,6 @@
       "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "Protesters scuffle with police as migrants brought ashore on south coast",
-      "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 08:18:58 GMT",
-      "description": "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Djamari secara resmi serahkan jabatan Menko Polkam ke Dudung",
-      "link": "https://www.antaranews.com/berita/5771920/djamari-secara-resmi-serahkan-jabatan-menko-polkam-ke-dudung",
-      "published": "Mon, 05 Oct 2026 16:31:01 +0700",
-      "description": "Jenderal TNI (Purn) Djamari Chaniago menyerahkan jabatan menteri koordinator bidang politik dan keamanan (Menko Polkam) ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Komisi III DPR: RUU Perampasan Aset harus tindak pihak ketiga terlibat",
-      "link": "https://www.antaranews.com/berita/5771918/komisi-iii-dpr-ruu-perampasan-aset-harus-tindak-pihak-ketiga-terlibat",
-      "published": "Mon, 05 Oct 2026 16:30:24 +0700",
-      "description": "Wakil Ketua Komisi III DPR RI Ahmad Sahroni menilai bahwa Rancangan Undang-Undang (RUU) tentang Perampasan Aset harus ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pertamina NRE-IDM terapkan netral karbon di kawasan wisata Borobudur",
-      "link": "https://www.antaranews.com/berita/5771916/pertamina-nre-idm-terapkan-netral-karbon-di-kawasan-wisata-borobudur",
-      "published": "Mon, 05 Oct 2026 16:30:05 +0700",
-      "description": "Pertamina New &amp; Renewable Energy (Pertamina NRE) bersama Injourney Destination Management (IDM) menerapkan konsep ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ombudsman tak masuk mekanisme internal pengunduran diri Dirjen PAS",
-      "link": "https://www.antaranews.com/berita/5771912/ombudsman-tak-masuk-mekanisme-internal-pengunduran-diri-dirjen-pas",
-      "published": "Mon, 05 Oct 2026 16:20:57 +0700",
-      "description": "Ombudsman RI menegaskan tidak masuk ke mekanisme internal Kementerian Imigrasi dan Pemasyarakatan terkait pengunduran ...",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
