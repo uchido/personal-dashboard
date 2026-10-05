@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-05T11:06:05+0000",
+  "timestamp": "2026-10-05T11:37:26+0000",
   "articles": [
     {
       "title": "US removes all bombers from RAF Fairford base",
@@ -18,25 +18,20 @@
       "category": "Global"
     },
     {
-      "title": "How the eviction of an elderly resident in Madrid has led to an early general election",
+      "title": "Spanish PM Sánchez calls early election after housing protests",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 10:18:47 GMT",
+      "description": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "How the eviction of an elderly resident in Madrid led to a snap election",
       "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 09:03:30 GMT",
       "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
-      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 11:04:37 GMT",
-      "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 660, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
