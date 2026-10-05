@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-10-05T02:50:02+0000",
+  "timestamp": "2026-10-05T03:21:02+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 68.4,
+    "percent": 71.4,
     "cores": 2,
     "load_avg": [
-      2.96,
-      2.24,
-      2.13
+      2.4,
+      2.26,
+      2.23
     ]
   },
   "memory": {
     "total": 11.6,
     "free": 0.6,
-    "available": 4.7,
-    "used": 6.9,
-    "percent": 59.5
+    "available": 4.8,
+    "used": 6.8,
+    "percent": 58.6
   },
   "disk": {
     "total": "193G",
@@ -26,13 +26,19 @@
   "uptime": {
     "days": 97,
     "hours": 15,
-    "minutes": 15,
-    "total_seconds": 8435749.84
+    "minutes": 46,
+    "total_seconds": 8437609.57
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "49.8",
+      "cpu": "100",
+      "mem": "0.3",
+      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "52.2",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
@@ -53,12 +59,6 @@
       "cpu": "1.5",
       "mem": "2.1",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
-    },
-    {
-      "user": "opc",
-      "cpu": "1.4",
-      "mem": "1.0",
-      "command": "temporal-server --env docker start"
     }
   ]
 }
