@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-10-06T19:08:05+0000",
+  "timestamp": "2026-10-06T19:39:05+0000",
   "articles": [
+    {
+      "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 19:25:08 GMT",
+      "description": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Watch: Police raid on gang behind fake gay asylum claims",
+      "link": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 19:01:17 GMT",
+      "description": "The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Tear gas in Paris and Marseille as school protests grow across France",
       "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 18:03:19 GMT",
       "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Watch: At the scene of student protests in Lille",
-      "link": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 15:02:56 GMT",
-      "description": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 17:50:19 GMT",
-      "description": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Kemenhub dorong kolaborasi penuhi kebutuhan armada laut nasional",
+      "link": "https://www.antaranews.com/berita/5774469/kemenhub-dorong-kolaborasi-penuhi-kebutuhan-armada-laut-nasional",
+      "published": "Wed, 07 Oct 2026 02:10:15 +0700",
+      "description": "Kementerian Perhubungan mendorong penguatan kolaborasi seluruh pemangku kepentingan ekosistem maritim untuk memenuhi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "PSS Sleman lakukan evaluasi selama masa jeda kompetisi",
+      "link": "https://www.antaranews.com/berita/5774465/pss-sleman-lakukan-evaluasi-selama-masa-jeda-kompetisi",
+      "published": "Wed, 07 Oct 2026 02:08:06 +0700",
+      "description": "Pelatih PSS Sleman Pieter Huistra mengatakan timnya melakukan evaluasi secara menyeluruh selama masa jeda kompetisi BRI ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Luka Menalo yakin Persib Bandung dapat atasi Port FC",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5774458/investasi-tiongkok-di-kek-perkuat-transfer-teknologi-dan-industri",
       "published": "Wed, 07 Oct 2026 02:03:15 +0700",
       "description": "Pemerintah mengarahkan investasi asal Tiongkok di kawasan ekonomi khusus (KEK) untuk memperkuat transfer teknologi, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Lionel Messi sampaikan pesan jelang laga terakhir bersama Argentina",
-      "link": "https://www.antaranews.com/berita/5774457/lionel-messi-sampaikan-pesan-jelang-laga-terakhir-bersama-argentina",
-      "published": "Wed, 07 Oct 2026 02:02:14 +0700",
-      "description": "Mega bintang Lionel Messi menyampaikan pesan jelang laga terakhirnya bersama tim nasional Argentina pada pertandingan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "78 atlet bersaing di CMAS World Championship Underwater 2026",
-      "link": "https://www.antaranews.com/berita/5774456/78-atlet-bersaing-di-cmas-world-championship-underwater-2026",
-      "published": "Wed, 07 Oct 2026 01:58:35 +0700",
-      "description": "Sebanyak 78 atlet selam dari seluruh dunia bersaing di CMAS World Championship Underwater 2026 yang berlangsung di ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
