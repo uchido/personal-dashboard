@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06T13:27:07+0000",
+  "timestamp": "2026-10-06T13:58:07+0000",
   "articles": [
     {
       "title": "Watch: At the scene of student protests on the streets of Lille",
@@ -12,16 +12,16 @@
     {
       "title": "British national arrested in connection with RAF Fairford incident",
       "link": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 13:14:29 GMT",
+      "published": "Tue, 06 Oct 2026 13:54:24 GMT",
       "description": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Former German spy chief arrested for espionage and treason",
-      "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 10:05:42 GMT",
-      "description": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "title": "Russia responds to US help offer after death of plague researcher",
+      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 13:32:42 GMT",
+      "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 651, column 42",
+      "title": "Kabakom: Strategi komunikasi pemerintah kini lebih banyak mendengar",
+      "link": "https://www.antaranews.com/berita/5774136/kabakom-strategi-komunikasi-pemerintah-kini-lebih-banyak-mendengar",
+      "published": "Tue, 06 Oct 2026 20:54:00 +0700",
+      "description": "Kepala Badan Komunikasi Pemerintah Syahganda Nainggolan menyatakan strategi komunikasi pemerintah di bawah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Satgas PKH serahkan 4 juta hektare lahan hutan ke Agrinas Palma untuk dikelola",
+      "link": "https://www.antaranews.com/berita/5774134/satgas-pkh-serahkan-4-juta-hektare-lahan-hutan-ke-agrinas-palma-untuk-dikelola",
+      "published": "Tue, 06 Oct 2026 20:53:44 +0700",
+      "description": "Juru Bicara Satuan Tugas Penertiban Kawasan Hutan (Satgas PKH) Barita Simanjuntak mengungkapkan pihaknya telah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemprov Aceh minta Kementerian PU pulihkan irigasi Seunong, Pidie Jaya",
+      "link": "https://www.antaranews.com/berita/5774132/pemprov-aceh-minta-kementerian-pu-pulihkan-irigasi-seunong-pidie-jaya",
+      "published": "Tue, 06 Oct 2026 20:53:02 +0700",
+      "description": "Pemerintah Aceh meminta Kementerian Pekerjaan Umum (PU) melalui Balai Wilayah Sungai (BWS) Sumatera I untuk memulihkan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Polisi ungkap penjualan obat keras bermodus toko kosmetik di Jakut",
+      "link": "https://www.antaranews.com/berita/5774128/polisi-ungkap-penjualan-obat-keras-bermodus-toko-kosmetik-di-jakut",
+      "published": "Tue, 06 Oct 2026 20:53:00 +0700",
+      "description": "Polsek Metro Penjaringan menangkap seorang pria yang diduga menjual ribuan butir obat keras ilegal dengan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
