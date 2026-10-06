@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-06T00:01:10+0000",
+  "timestamp": "2026-10-06T00:32:05+0000",
   "articles": [
     {
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 21:46:22 GMT",
       "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "What prompted the US bombers to leave RAF Fairford?",
+      "link": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 21:57:26 GMT",
+      "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
-      "link": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 13:09:42 GMT",
-      "description": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Hari Kapas Sedunia 7 Oktober: Sejarah, tujuan, dan faktanya",
-      "link": "https://www.antaranews.com/berita/5772722/hari-kapas-sedunia-7-oktober-sejarah-tujuan-dan-faktanya",
-      "published": "Tue, 06 Oct 2026 06:49:31 +0700",
-      "description": "Setiap 7 Oktober, dunia memperingati Hari Kapas Sedunia atau World Cotton Day. Peringatan ini tidak hanya berkaitan ...",
+      "title": "Kerugian kebakaran gudang kayu di Muara Angke Jakut capai Rp1 miliar",
+      "link": "https://www.antaranews.com/berita/5772737/kerugian-kebakaran-gudang-kayu-di-muara-angke-jakut-capai-rp1-miliar",
+      "published": "Tue, 06 Oct 2026 07:28:23 +0700",
+      "description": "Suku Dinas Penanggulangan Kebakaran dan Penyelamatan (Sudin&nbsp;Gulkarmat) Jakarta Utara dan Kepulauan Seribu mencatat ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Erick Thohir apresiasi Timnas Indonesia usai juara FIFA ASEAN Cup 2026",
-      "link": "https://www.antaranews.com/video/5772720/erick-thohir-apresiasi-timnas-indonesia-usai-juara-fifa-asean-cup-2026",
-      "published": "Tue, 06 Oct 2026 06:42:57 +0700",
-      "description": "ANTARA - Ketua Umum PSSI Erick Thohir mengapresiasi perjuangan Timnas Indonesia yang telah berhasil meraih gelar juara ...",
+      "title": "Download APK di luar Play Store? Ini 6 risiko yang mengintai",
+      "link": "https://www.antaranews.com/berita/5772736/download-apk-di-luar-play-store-ini-6-risiko-yang-mengintai",
+      "published": "Tue, 06 Oct 2026 07:23:48 +0700",
+      "description": "Mengunduh aplikasi Android dari luar Google Play Store atau yang dikenal sebagai sideloading memang masih memungkinkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Presiden Prabowo bangga Indonesia juara FIFA ASEAN Cup 2026",
-      "link": "https://www.antaranews.com/video/5772706/presiden-prabowo-bangga-indonesia-juara-fifa-asean-cup-2026",
-      "published": "Tue, 06 Oct 2026 06:38:23 +0700",
-      "description": "ANTARA - Presiden Prabowo Subianto mengaku bangga dan bersyukur atas perjuangan Timnas Indonesia yang telah berhasil ...",
+      "title": "Gunung Semeru erupsi dengan tinggi letusan 900 meter di atas puncak",
+      "link": "https://www.antaranews.com/berita/5772733/gunung-semeru-erupsi-dengan-tinggi-letusan-900-meter-di-atas-puncak",
+      "published": "Tue, 06 Oct 2026 07:20:31 +0700",
+      "description": "Gunung Semeru di perbatasan Kabupaten Lumajang dan Malang, Jawa Timur mengalami erupsi dengan tinggi letusan mencapai ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemarin, Kemenbud hadirkan FMTI hingga melonjaknya penjualan Mazda",
-      "link": "https://www.antaranews.com/berita/5772717/kemarin-kemenbud-hadirkan-fmti-hingga-melonjaknya-penjualan-mazda",
-      "published": "Tue, 06 Oct 2026 06:29:52 +0700",
-      "description": "Sejumlah berita menarik dari kanal hiburan, lifestyle, tekno, dan otomotif pada Senin (5/10) masih dapat dibaca kembali ...",
+      "title": "Panorama JTB Tours gandeng SPUN Global permudah pengelolaan visa",
+      "link": "https://www.antaranews.com/berita/5772730/panorama-jtb-tours-gandeng-spun-global-permudah-pengelolaan-visa",
+      "published": "Tue, 06 Oct 2026 07:11:08 +0700",
+      "description": "Panorama JTB Tours menjalin kerja sama dengan perusahaan teknologi layanan visa SPUN Global melalui pembentukan usaha ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
