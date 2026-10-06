@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06T06:13:05+0000",
+  "timestamp": "2026-10-06T06:44:05+0000",
   "articles": [
     {
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
@@ -32,11 +32,6 @@
       "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "no element found: line 662, column 36",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
