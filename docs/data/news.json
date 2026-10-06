@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06T12:56:07+0000",
+  "timestamp": "2026-10-06T13:27:07+0000",
   "articles": [
     {
       "title": "Watch: At the scene of student protests on the streets of Lille",
@@ -12,7 +12,7 @@
     {
       "title": "British national arrested in connection with RAF Fairford incident",
       "link": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 12:41:15 GMT",
+      "published": "Tue, 06 Oct 2026 13:14:29 GMT",
       "description": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
       "source": "BBC News",
       "category": "Global"
@@ -32,6 +32,11 @@
       "description": "The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "no element found: line 651, column 42",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
