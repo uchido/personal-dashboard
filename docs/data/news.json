@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06T16:02:04+0000",
+  "timestamp": "2026-10-06T16:33:05+0000",
   "articles": [
     {
       "title": "Watch: At the scene of student protests in Lille",
@@ -18,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "Watch: How Russia responded to US after plague researcher death",
-      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 13:32:42 GMT",
-      "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
+      "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+      "link": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 16:00:03 GMT",
+      "description": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kemkomdigi dukung penerapan kebijakan Satu Data Indonesia",
-      "link": "https://www.antaranews.com/berita/5774373/kemkomdigi-dukung-penerapan-kebijakan-satu-data-indonesia",
-      "published": "Tue, 06 Oct 2026 22:58:34 +0700",
-      "description": "Kementerian Komunikasi dan Digital (Kemkomdigi) menyatakan siap mendukung penerapan kebijakan Satu Data Indonesia ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Presiden tegaskan tak ragu ambil kebijakan yang menyejahterakan rakyat",
-      "link": "https://www.antaranews.com/video/5774354/presiden-tegaskan-tak-ragu-ambil-kebijakan-yang-menyejahterakan-rakyat",
-      "published": "Tue, 06 Oct 2026 22:57:29 +0700",
-      "description": "ANTARA - Presiden Prabowo Subianto, Selasa (6/10), menegaskan bahwa pemerintah tak akan ragu mengambil kebijakan yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "AZEI-KKP sepakati pengelolaan kelautan rendah emisi berkelanjutan",
-      "link": "https://www.antaranews.com/berita/5774369/azei-kkp-sepakati-pengelolaan-kelautan-rendah-emisi-berkelanjutan",
-      "published": "Tue, 06 Oct 2026 22:54:09 +0700",
-      "description": "Asosiasi Zero Emisi Indonesia (AZEI) bersama Kementerian Kelautan dan Perikanan (KKP) menyepakati pengelolaan kelautan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KSP terima buruh usai RUU Pelindungan Ketenagakerjaan disetujui DPR",
-      "link": "https://www.antaranews.com/berita/5774368/ksp-terima-buruh-usai-ruu-pelindungan-ketenagakerjaan-disetujui-dpr",
-      "published": "Tue, 06 Oct 2026 22:53:52 +0700",
-      "description": "Kepala Staf Kepresidenan Listyo Sigit Prabowo menerima 13 perwakilan kelompok buruh di Kantor Staf Presiden, Jakarta, ...",
+      "error": "no element found: line 662, column 207",
       "source": "Antara News",
       "category": "Indonesia"
     }
