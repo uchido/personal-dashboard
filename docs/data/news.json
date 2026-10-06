@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06T17:04:05+0000",
+  "timestamp": "2026-10-06T17:35:05+0000",
   "articles": [
     {
       "title": "Watch: At the scene of student protests in Lille",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
+      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 10:37:50 GMT",
+      "description": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
       "link": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 17:00:03 GMT",
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "PCs who used Taser and baton on amputee, 92, sacked",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8ry2dn6z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 15:58:15 GMT",
-      "description": "A disciplinary hearing finds both officers used unnecessary force on Donald Burgess at his care home.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Dubes RI soroti peluang kerja sama maritim dengan Puntland Somalia",
+      "link": "https://www.antaranews.com/berita/5774417/dubes-ri-soroti-peluang-kerja-sama-maritim-dengan-puntland-somalia",
+      "published": "Wed, 07 Oct 2026 00:31:24 +0700",
+      "description": "Duta Besar Indonesia untuk Kenya merangkap Somalia,&nbsp;Witjaksono Adji menyoroti adanya peluang kerja sama di sektor ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 664, column 6",
+      "title": "Tujuh KRL iE305 kembali beroperasi layani Commuter Line",
+      "link": "https://www.antaranews.com/berita/5774413/tujuh-krl-ie305-kembali-beroperasi-layani-commuter-line",
+      "published": "Wed, 07 Oct 2026 00:22:32 +0700",
+      "description": "PT Industri Kereta Api (Persero) atau INKA bersama PT Kereta Commuter Indonesia (KAI Commuter) menyelesaikan perawatan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Petugas padamkan kebakaran bengkel di Kembangan Utara",
+      "link": "https://www.antaranews.com/berita/5774412/petugas-padamkan-kebakaran-bengkel-di-kembangan-utara",
+      "published": "Wed, 07 Oct 2026 00:21:05 +0700",
+      "description": "Petugas pemadam berhasil mengatasi kebakaran yang melanda sebuah bengkel di Jalan Kampung Baru, RT07/RW10, Kelurahan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kronologi tukang becak tewas usai tabrakan dengan pemotor di Jakbar",
+      "link": "https://www.antaranews.com/berita/5774410/kronologi-tukang-becak-tewas-usai-tabrakan-dengan-pemotor-di-jakbar",
+      "published": "Wed, 07 Oct 2026 00:18:32 +0700",
+      "description": "Kecelakaan maut di Jalan Cendrawasih Raya, Cengkareng, Jakarta Barat pada Selasa (6/10)&nbsp; menewaskan seorang ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
