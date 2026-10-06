@@ -1,6 +1,22 @@
 {
-  "timestamp": "2026-10-06T09:50:06+0000",
+  "timestamp": "2026-10-06T10:21:05+0000",
   "articles": [
+    {
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
+      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 09:49:42 GMT",
+      "description": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Former German spy chief arrested for espionage and treason",
+      "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 10:05:42 GMT",
+      "description": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
@@ -10,31 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Author and former politician Jeffrey Archer dies aged 86",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 09:17:05 GMT",
-      "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 10:10:02 GMT",
+      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 05:00:32 GMT",
-      "description": "With better support, many babies may not have needed to go into care, File on 4 Investigates is told.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Kemendikdasmen benahi sistem dan layanan perkuat integritas pendidikan",
+      "link": "https://www.antaranews.com/berita/5773704/kemendikdasmen-benahi-sistem-dan-layanan-perkuat-integritas-pendidikan",
+      "published": "Tue, 06 Oct 2026 17:19:25 +0700",
+      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) terus membenahi sistem dan layanan pendidikan sebagai bagian ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 23:29:02 GMT",
-      "description": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Hukuman mantan Kepala BPN Sumbawa dinaikkan jadi 2 tahun 3 bulan",
+      "link": "https://www.antaranews.com/berita/5773701/hukuman-mantan-kepala-bpn-sumbawa-dinaikkan-jadi-2-tahun-3-bulan",
+      "published": "Tue, 06 Oct 2026 17:18:12 +0700",
+      "description": "Hukuman mantan Kepala Badan Pertanahan Nasional Sumbawa, Nusa Tenggara Barat, Subhan dalam perkara korupsi pengadaan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 664, column 6",
+      "title": "Kenya laporkan kasus pertama Ebola dari Kongo",
+      "link": "https://www.antaranews.com/berita/5773700/kenya-laporkan-kasus-pertama-ebola-dari-kongo",
+      "published": "Tue, 06 Oct 2026 17:17:21 +0700",
+      "description": "Kenya mengonfirmasi kasus pertama&nbsp;Ebola&nbsp;setelah seorang warga negaranya yang&nbsp;tinggal di Republik ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Di KTT SEACEN, BI tekankan tiga prioritas bank sentral di era AI",
+      "link": "https://www.antaranews.com/berita/5773697/di-ktt-seacen-bi-tekankan-tiga-prioritas-bank-sentral-di-era-ai",
+      "published": "Tue, 06 Oct 2026 17:16:32 +0700",
+      "description": "Deputi Gubernur Bank Indonesia (BI) Ricky P. Gozali pada momentum pembukaan Konferensi Tingkat Tinggi South East Asian ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
