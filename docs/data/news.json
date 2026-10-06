@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-06T12:25:09+0000",
+  "timestamp": "2026-10-06T12:56:07+0000",
   "articles": [
     {
       "title": "Watch: At the scene of student protests on the streets of Lille",
       "link": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 10:22:42 GMT",
       "description": "The demonstrators are calling for better government investment in high schools.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "British national arrested in connection with RAF Fairford incident",
+      "link": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 12:41:15 GMT",
+      "description": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -24,46 +32,6 @@
       "description": "The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "One million UK people who have never smoked are now vaping",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 10:09:28 GMT",
-      "description": "Latest statistics also show, for the second year in a row, more over-16s vape than smoke.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Warga minta tenaga kerja lokal diprioritaskan di Pelabuhan Kilo Dompu",
-      "link": "https://www.antaranews.com/berita/5773926/warga-minta-tenaga-kerja-lokal-diprioritaskan-di-pelabuhan-kilo-dompu",
-      "published": "Tue, 06 Oct 2026 19:22:59 +0700",
-      "description": "Masyarakat dan pemuda Kecamatan Kilo, Kabupaten Dompu, Nusa Tenggara Barat, meminta tenaga kerja lokal dan pelaku UMKM ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Satgas PKH serahkan Rp13,2 triliun serta 259.230,73 hektare lahan kawasan hutan ke negara",
-      "link": "https://www.antaranews.com/foto/5773922/satgas-pkh-serahkan-rp132-triliun-serta-25923073-hektare-lahan-kawasan-hutan-ke-negara",
-      "published": "Tue, 06 Oct 2026 19:19:44 +0700",
-      "description": "Presiden Prabowo Subianto (tengah) menyaksikan Jaksa Agung ST Burhanuddin (kedua kiri) menyerahkan secara simbolis uang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Inggris: Pangkalan RAF Fairford aman setelah AS tarik pesawat pengebom",
-      "link": "https://www.antaranews.com/berita/5773921/inggris-pangkalan-raf-fairford-aman-setelah-as-tarik-pesawat-pengebom",
-      "published": "Tue, 06 Oct 2026 19:18:54 +0700",
-      "description": "Pemerintah Inggris pada Senin (5/10) menyatakan bahwa pangkalan Royal Air Force (RAF) Fairford yang digunakan oleh ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "66 UMKM asal Indonesia dan PNG ikut BTF di perbatasan RI-PNG",
-      "link": "https://www.antaranews.com/berita/5773917/66-umkm-asal-indonesia-dan-png-ikut-btf-di-perbatasan-ri-png",
-      "published": "Tue, 06 Oct 2026 19:18:28 +0700",
-      "description": "Sebanyak 66 usaha mikro kecil dan menengah (UMKM) asal Kota Jayapura (RI) dan Provinsi West Sepik, Papua Nugini ikut ...",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
