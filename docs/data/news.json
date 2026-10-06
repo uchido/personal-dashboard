@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06T16:33:05+0000",
+  "timestamp": "2026-10-06T17:04:05+0000",
   "articles": [
     {
       "title": "Watch: At the scene of student protests in Lille",
@@ -20,7 +20,7 @@
     {
       "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
       "link": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 16:00:03 GMT",
+      "published": "Tue, 06 Oct 2026 17:00:03 GMT",
       "description": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,7 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 662, column 207",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
