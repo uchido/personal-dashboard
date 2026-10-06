@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06T09:19:05+0000",
+  "timestamp": "2026-10-06T09:50:06+0000",
   "articles": [
     {
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "AS alihkan 130 kapal saat blokade Iran",
-      "link": "https://www.antaranews.com/berita/5773560/as-alihkan-130-kapal-saat-blokade-iran",
-      "published": "Tue, 06 Oct 2026 16:18:59 +0700",
-      "description": "Pasukan Amerika Serikat telah mengalihkan 130 kapal dalam rangka mempertahankan blokade laut yang tengah berlangsung ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mendiktisaintek minta Itera perkuat inovasi, jawab kebutuhan Sumatera",
-      "link": "https://www.antaranews.com/berita/5773556/mendiktisaintek-minta-itera-perkuat-inovasi-jawab-kebutuhan-sumatera",
-      "published": "Tue, 06 Oct 2026 16:16:29 +0700",
-      "description": "Menteri Pendidikan Tinggi, Sains, dan Teknologi (Mendiktisaintek) Brian Yuliarto meminta Institut Teknologi Sumatera ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Manfaat minum air rebusan daun pepaya untuk kesehatan",
-      "link": "https://www.antaranews.com/berita/5773554/manfaat-minum-air-rebusan-daun-pepaya-untuk-kesehatan",
-      "published": "Tue, 06 Oct 2026 16:14:57 +0700",
-      "description": "Daun pepaya selama ini lebih sering dikenal sebagai bahan masakan atau lalapan. Namun, di tengah kebiasaan masyarakat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menko Zulhas sebut operasional kopdes berjalan baik",
-      "link": "https://www.antaranews.com/berita/5773553/menko-zulhas-sebut-operasional-kopdes-berjalan-baik",
-      "published": "Tue, 06 Oct 2026 16:14:49 +0700",
-      "description": "Menteri Koordinator Bidang Pangan Zulkifli Hasan (Zulhas) mengatakan operasional koperasi desa/kelurahan merah putih ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
