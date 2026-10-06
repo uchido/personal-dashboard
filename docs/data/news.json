@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-06T04:09:08+0000",
+  "timestamp": "2026-10-06T04:40:06+0000",
   "articles": [
     {
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 21:46:22 GMT",
+      "published": "Tue, 06 Oct 2026 04:25:22 GMT",
       "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Daftar harga tiga jenama emas di Pegadaian pada Selasa",
-      "link": "https://www.antaranews.com/berita/5772904/daftar-harga-tiga-jenama-emas-di-pegadaian-pada-selasa",
-      "published": "Tue, 06 Oct 2026 11:05:36 +0700",
-      "description": "Harga emas di laman Pegadaian dikutip di Jakarta, Selasa, pukul 10.52 WIB, menunjukkan, harga emas jenama Galeri24, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Tawarkan Lebih dari 5.000 Aset, Gebyar Lelang Serentak Nusantara BRI 2026 Hadir di Seluruh Indonesia",
-      "link": "https://www.antaranews.com/berita/5772901/tawarkan-lebih-dari-5000-aset-gebyar-lelang-serentak-nusantara-bri-2026-hadir-di-seluruh-indonesia",
-      "published": "Tue, 06 Oct 2026 11:03:20 +0700",
-      "description": "Jakarta (ANTARA)&nbsp;&ndash; PT Bank Rakyat Indonesia (Persero) Tbk atau BRI akan menggelar Gebyar Lelang Serentak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "PETI Kangkuro dua kali ditutup, Bupati Sigi minta tindakan tegas",
-      "link": "https://www.antaranews.com/berita/5772898/peti-kangkuro-dua-kali-ditutup-bupati-sigi-minta-tindakan-tegas",
-      "published": "Tue, 06 Oct 2026 11:02:51 +0700",
-      "description": "Bupati Sigi Moh Rizal Intjenae meminta aparat penegak hukum menindak tegas aktivitas pertambangan emas tanpa izin ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Rupiah diprediksi melemah seiring kenaikan indeks dolar AS",
-      "link": "https://www.antaranews.com/berita/5772896/rupiah-diprediksi-melemah-seiring-kenaikan-indeks-dolar-as",
-      "published": "Tue, 06 Oct 2026 10:58:17 +0700",
-      "description": "Nilai tukar rupiah terhadap dolar AS pada Selasa, diperkirakan melemah dipengaruhi kenaikan yield obligasi pemerintah ...",
+      "error": "unclosed token: line 662, column 202",
       "source": "Antara News",
       "category": "Indonesia"
     }
