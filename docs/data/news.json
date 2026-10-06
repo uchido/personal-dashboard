@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-06T10:21:05+0000",
+  "timestamp": "2026-10-06T10:52:05+0000",
   "articles": [
     {
-      "title": "ASOS app users receive push notifications apparently sent by hackers",
-      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 09:49:42 GMT",
-      "description": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+      "title": "Watch: At the scene of protests on the streets of Lille",
+      "link": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 10:22:42 GMT",
+      "description": "The demonstrators are calling for better government investment in high schools.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Tories pledge £10bn British 'Iron Dome' air defence system",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 10:48:18 GMT",
+      "description": "The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 07:02:24 GMT",
-      "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "'Ghost particles' from space telescope wins physics Nobel",
       "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 10:10:02 GMT",
+      "published": "Tue, 06 Oct 2026 10:23:59 GMT",
       "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Kemendikdasmen benahi sistem dan layanan perkuat integritas pendidikan",
-      "link": "https://www.antaranews.com/berita/5773704/kemendikdasmen-benahi-sistem-dan-layanan-perkuat-integritas-pendidikan",
-      "published": "Tue, 06 Oct 2026 17:19:25 +0700",
-      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) terus membenahi sistem dan layanan pendidikan sebagai bagian ...",
+      "title": "Timnas Indonesia naik peringkat setelah juara FIFA ASEAN Cup 2026",
+      "link": "https://www.antaranews.com/berita/5773752/timnas-indonesia-naik-peringkat-setelah-juara-fifa-asean-cup-2026",
+      "published": "Tue, 06 Oct 2026 17:51:39 +0700",
+      "description": "Timnas Indonesia naik satu tingkat dalam daftar peringkat terbaru FIFA setelah menjuarai FIFA ASEAN Cup 2026 di Stadion ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Hukuman mantan Kepala BPN Sumbawa dinaikkan jadi 2 tahun 3 bulan",
-      "link": "https://www.antaranews.com/berita/5773701/hukuman-mantan-kepala-bpn-sumbawa-dinaikkan-jadi-2-tahun-3-bulan",
-      "published": "Tue, 06 Oct 2026 17:18:12 +0700",
-      "description": "Hukuman mantan Kepala Badan Pertanahan Nasional Sumbawa, Nusa Tenggara Barat, Subhan dalam perkara korupsi pengadaan ...",
+      "title": "Komnas HAM titip tiga agenda HAM kepada Kapolri baru",
+      "link": "https://www.antaranews.com/berita/5773749/komnas-ham-titip-tiga-agenda-ham-kepada-kapolri-baru",
+      "published": "Tue, 06 Oct 2026 17:50:10 +0700",
+      "description": "Komisi Nasional Hak Asasi Manusia (Komnas HAM) menitipkan tiga agenda utama kepada Kapolri baru untuk memperkuat ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kenya laporkan kasus pertama Ebola dari Kongo",
-      "link": "https://www.antaranews.com/berita/5773700/kenya-laporkan-kasus-pertama-ebola-dari-kongo",
-      "published": "Tue, 06 Oct 2026 17:17:21 +0700",
-      "description": "Kenya mengonfirmasi kasus pertama&nbsp;Ebola&nbsp;setelah seorang warga negaranya yang&nbsp;tinggal di Republik ...",
+      "title": "Hashim: Indonesia kembangkan biofuel untuk hadapi gejolak geopolitik",
+      "link": "https://www.antaranews.com/berita/5773745/hashim-indonesia-kembangkan-biofuel-untuk-hadapi-gejolak-geopolitik",
+      "published": "Tue, 06 Oct 2026 17:49:01 +0700",
+      "description": "Utusan Khusus Presiden Bidang Iklim dan Energi Hashim Djojohadikusumo menyampaikan bahwa Indonesia mengembangkan bahan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Di KTT SEACEN, BI tekankan tiga prioritas bank sentral di era AI",
-      "link": "https://www.antaranews.com/berita/5773697/di-ktt-seacen-bi-tekankan-tiga-prioritas-bank-sentral-di-era-ai",
-      "published": "Tue, 06 Oct 2026 17:16:32 +0700",
-      "description": "Deputi Gubernur Bank Indonesia (BI) Ricky P. Gozali pada momentum pembukaan Konferensi Tingkat Tinggi South East Asian ...",
+      "title": "Timnas Indonesia juara, Rizky Ridho: Alhamudlillah, bukan mimpi lagi",
+      "link": "https://www.antaranews.com/berita/5773738/timnas-indonesia-juara-rizky-ridho-alhamudlillah-bukan-mimpi-lagi",
+      "published": "Tue, 06 Oct 2026 17:43:45 +0700",
+      "description": "Bek Timnas Indonesia Rizky Ridho mengungkapkan rasa syukur&nbsp;setelah ikut mengantarkan tim Garuda menjuarai FIFA ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
