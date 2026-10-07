@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T04:26:04+0000",
+  "timestamp": "2026-10-07T04:57:04+0000",
   "articles": [
     {
       "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
@@ -26,15 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
-      "link": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 21:18:45 GMT",
-      "description": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.",
+      "title": "Battle of ideas looming in British politics, Badenoch to say",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4ylp6657zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 04:42:55 GMT",
+      "description": "The Tory leader has been seeking to reframe the way the public views her party, which has yet to recover in the polls since the last election.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "no element found: line 667, column 2",
+      "error": "unclosed token: line 669, column 8",
       "source": "Antara News",
       "category": "Indonesia"
     }
