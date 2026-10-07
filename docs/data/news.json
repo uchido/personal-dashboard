@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T04:57:04+0000",
+  "timestamp": "2026-10-07T05:28:07+0000",
   "articles": [
     {
       "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 05:02:18 GMT",
+      "description": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
       "link": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 19:25:08 GMT",
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Battle of ideas looming in British politics, Badenoch to say",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4ylp6657zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 04:42:55 GMT",
-      "description": "The Tory leader has been seeking to reframe the way the public views her party, which has yet to recover in the polls since the last election.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Dua pesawat gagal mendarat di Bandara Pekanbaru akibat kabut asap",
+      "link": "https://www.antaranews.com/berita/5774813/dua-pesawat-gagal-mendarat-di-bandara-pekanbaru-akibat-kabut-asap",
+      "published": "Wed, 07 Oct 2026 12:21:30 +0700",
+      "description": "Dua pesawat di Bandara Sultan Syarif Kasim II Kota Pekanbaru, Provinsi Riau, gagal mendarat&nbsp; akibat kabut asap dan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 669, column 8",
+      "title": "KPK periksa Nusron Wahid sebagai saksi kasus dugaan suap ATR/BPN",
+      "link": "https://www.antaranews.com/video/5774806/kpk-periksa-nusron-wahid-sebagai-saksi-kasus-dugaan-suap-atr-bpn",
+      "published": "Wed, 07 Oct 2026 12:19:58 +0700",
+      "description": "ANTARA - Komisi Pemberantasan Korupsi atau KPK memeriksa Menteri ATR/BPN Nusron Wahid sebagai saksi dalam penyidikan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Apple sempat ingin pakai RAM 16GB untuk iPhone 18 Pro dan iPhone Duo",
+      "link": "https://www.antaranews.com/berita/5774809/apple-sempat-ingin-pakai-ram-16gb-untuk-iphone-18-pro-dan-iphone-duo",
+      "published": "Wed, 07 Oct 2026 12:18:45 +0700",
+      "description": "Apple dikabarkan sempat berencana membekali iPhone 18 Pro Series dan iPhone Duo dengan RAM berkapasitas 16GB, sebelum ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Maruli respons namanya masuk bursa calon Panglima TNI",
+      "link": "https://www.antaranews.com/video/5774800/maruli-respons-namanya-masuk-bursa-calon-panglima-tni",
+      "published": "Wed, 07 Oct 2026 12:18:16 +0700",
+      "description": "ANTARA - Kepala Staf Angkatan Darat (KSAD) Jenderal TNI Maruli Simanjuntak menanggapi namanya yang disebut dalam bursa ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
