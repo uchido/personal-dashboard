@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-10-07T16:19:02+0000",
+  "timestamp": "2026-10-07T16:50:02+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 63.2,
+    "percent": 60.0,
     "cores": 2,
     "load_avg": [
-      1.68,
-      1.81,
-      1.83
+      1.84,
+      1.75,
+      1.8
     ]
   },
   "memory": {
     "total": 11.6,
     "free": 1.1,
-    "available": 6.1,
-    "used": 5.5,
-    "percent": 47.4
+    "available": 6.0,
+    "used": 5.6,
+    "percent": 48.3
   },
   "disk": {
     "total": "193G",
@@ -25,26 +25,20 @@
   },
   "uptime": {
     "days": 100,
-    "hours": 4,
-    "minutes": 44,
-    "total_seconds": 8657089.59
+    "hours": 5,
+    "minutes": 15,
+    "total_seconds": 8658949.42
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "116",
-      "mem": "0.4",
-      "command": "node /home/ubuntu/.npm-global/bin/9router"
-    },
-    {
-      "user": "ubuntu",
       "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
+      "mem": "0.4",
+      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
       "user": "ubuntu",
-      "cpu": "51.6",
+      "cpu": "54.8",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
@@ -59,6 +53,12 @@
       "cpu": "6.2",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "1.6",
+      "mem": "4.4",
+      "command": "openclaw-gateway"
     }
   ]
 }
