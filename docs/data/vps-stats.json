@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-10-07T10:38:01+0000",
+  "timestamp": "2026-10-07T11:09:02+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 63.2,
     "cores": 2,
     "load_avg": [
-      1.88,
-      1.66,
-      1.7
+      2.25,
+      1.86,
+      1.87
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.1,
-    "available": 5.9,
-    "used": 5.7,
-    "percent": 49.1
+    "free": 0.7,
+    "available": 5.6,
+    "used": 6.0,
+    "percent": 51.7
   },
   "disk": {
     "total": "193G",
@@ -26,8 +26,8 @@
   "uptime": {
     "days": 99,
     "hours": 23,
-    "minutes": 3,
-    "total_seconds": 8636629.15
+    "minutes": 34,
+    "total_seconds": 8638489.57
   },
   "top_processes": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "56.7",
+      "cpu": "50.3",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
@@ -57,7 +57,7 @@
     {
       "user": "ubuntu",
       "cpu": "1.6",
-      "mem": "4.4",
+      "mem": "7.4",
       "command": "openclaw-gateway"
     }
   ]

@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-07T10:38:05+0000",
+  "timestamp": "2026-10-07T11:09:05+0000",
   "articles": [
     {
       "title": "Man admits sexually assaulting woman drugged by husband",
       "link": "https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 10:30:11 GMT",
+      "published": "Wed, 07 Oct 2026 10:50:25 GMT",
       "description": "The husband is accused of inviting 13 other men to abuse her at their family home in Greater Manchester.",
       "source": "BBC News",
       "category": "Global"
@@ -20,23 +20,18 @@
     {
       "title": "Royal Mail plans to cut 2,500 jobs",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 09:55:07 GMT",
-      "description": "The postal service firm wants to cut head office and other support jobs by the end of 2027.",
+      "published": "Wed, 07 Oct 2026 10:42:52 GMT",
+      "description": "The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 10:33:05 GMT",
-      "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 10:23:23 GMT",
+      "description": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 660, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
