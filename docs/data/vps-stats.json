@@ -1,44 +1,38 @@
 {
-  "timestamp": "2026-10-07T05:28:01+0000",
+  "timestamp": "2026-10-07T05:59:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 75.0,
+    "percent": 63.2,
     "cores": 2,
     "load_avg": [
-      1.56,
-      1.82,
-      1.8
+      1.86,
+      2.13,
+      2.04
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 2.3,
+    "free": 2.2,
     "available": 6.1,
     "used": 5.5,
     "percent": 47.4
   },
   "disk": {
     "total": "193G",
-    "used": "113G",
+    "used": "114G",
     "available": "80G",
     "percent": "59%"
   },
   "uptime": {
     "days": 99,
-    "hours": 17,
-    "minutes": 53,
-    "total_seconds": 8618028.85
+    "hours": 18,
+    "minutes": 24,
+    "total_seconds": 8619888.8
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.3",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "62.2",
+      "cpu": "60.7",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
@@ -56,9 +50,15 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "2.1",
-      "mem": "4.2",
+      "cpu": "1.9",
+      "mem": "4.3",
       "command": "openclaw-gateway"
+    },
+    {
+      "user": "root",
+      "cpu": "1.6",
+      "mem": "2.1",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
