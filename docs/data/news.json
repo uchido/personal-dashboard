@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T03:55:05+0000",
+  "timestamp": "2026-10-07T04:26:04+0000",
   "articles": [
     {
       "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Menko Polkam: Taklimat berikan penyegaran dukung program pemerintah",
-      "link": "https://www.antaranews.com/berita/5774704/menko-polkam-taklimat-berikan-penyegaran-dukung-program-pemerintah",
-      "published": "Wed, 07 Oct 2026 10:52:58 +0700",
-      "description": "Menteri Koordinator Bidang Politik dan Keamanan (Polkam) Jenderal TNI (Purn.) Dudung Abdurachman mengatakan taklimat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Belanda ajukan 150 ribu pasukan cadangan darurat",
-      "link": "https://www.antaranews.com/berita/5774701/belanda-ajukan-150-ribu-pasukan-cadangan-darurat",
-      "published": "Wed, 07 Oct 2026 10:52:54 +0700",
-      "description": "Parlemen Belanda mengajukan usulan penambahan sekitar 150.000 pasukan cadangan sipil darurat untuk membantu selama 72 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Qatar: AS dan Iran terus bertukar pesan untuk akhiri perang",
-      "link": "https://www.antaranews.com/berita/5774700/qatar-as-dan-iran-terus-bertukar-pesan-untuk-akhiri-perang",
-      "published": "Wed, 07 Oct 2026 10:43:22 +0700",
-      "description": "Qatar mengatakan Amerika Serikat dan Iran terus bertukar pesan di tengah upaya mediasi dan kontak diplomatik untuk ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "25 ribu mahasiswa dilibatkan kelola sampah Jabar sebagai pengganti SKS",
-      "link": "https://www.antaranews.com/berita/5774697/25-ribu-mahasiswa-dilibatkan-kelola-sampah-jabar-sebagai-pengganti-sks",
-      "published": "Wed, 07 Oct 2026 10:43:02 +0700",
-      "description": "Pemerintah Provinsi Jawa Barat melibatkan sebanyak 25.000 mahasiswa untuk turun langsung mengedukasi dan mendampingi ...",
+      "error": "no element found: line 667, column 2",
       "source": "Antara News",
       "category": "Indonesia"
     }
