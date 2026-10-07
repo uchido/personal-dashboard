@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T06:30:07+0000",
+  "timestamp": "2026-10-07T07:01:04+0000",
   "articles": [
     {
       "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
@@ -10,7 +10,7 @@
       "category": "Global"
     },
     {
-      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+      "title": "What we know about Christa Pike’s ‘unprecedented' recovery",
       "link": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 23:42:35 GMT",
       "description": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
@@ -32,11 +32,6 @@
       "description": "In August, four young women told the BBC they were sexually assaulted and harassed at the school in Harrogate.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 660, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
