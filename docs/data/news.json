@@ -1,67 +1,40 @@
 {
-  "timestamp": "2026-10-07T10:07:10+0000",
+  "timestamp": "2026-10-07T10:38:05+0000",
   "articles": [
     {
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 07:07:22 GMT",
-      "description": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "title": "Man admits sexually assaulting woman drugged by husband",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 10:30:11 GMT",
+      "description": "The husband is accused of inviting 13 other men to abuse her at their family home in Greater Manchester.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-      "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 05:02:18 GMT",
-      "description": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+      "title": "How did Christa Pike survive execution attempt - and what happens next?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 10:01:47 GMT",
+      "description": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after surviving two lethal injections.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Husband appears in court accused of GP's murder",
-      "link": "https://www.bbc.co.uk/news/articles/cx98ze08n3dlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 09:59:02 GMT",
-      "description": "Mark Cain is charged with the murder of Dr Hannah Terry, whose body was found at her home.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Royal Mail plans to cut 2,500 head office jobs",
+      "title": "Royal Mail plans to cut 2,500 jobs",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 09:55:07 GMT",
-      "description": "The postal service firm wants to cut the head office and other jobs by the end of 2027.",
+      "description": "The postal service firm wants to cut head office and other support jobs by the end of 2027.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Pramono: Guru pelaku pelecehan di SMKN 27 Jakarta sudah diberhentikan",
-      "link": "https://www.antaranews.com/berita/5775289/pramono-guru-pelaku-pelecehan-di-smkn-27-jakarta-sudah-diberhentikan",
-      "published": "Wed, 07 Oct 2026 17:04:00 +0700",
-      "description": "Gubernur DKI Jakarta Pramono Anung Wibowo menegaskan guru yang juga pelaku pelecehan terhadap siswa di SMK Negeri 27 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 10:33:05 GMT",
+      "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Akhir bahagia penyanderaan empat WNI awak kapal MT Honour 25",
-      "link": "https://www.antaranews.com/berita/5775285/akhir-bahagia-penyanderaan-empat-wni-awak-kapal-mt-honour-25",
-      "published": "Wed, 07 Oct 2026 17:03:47 +0700",
-      "description": "Hampir enam bulan setelah disandera perompak Somalia, empat WNI yang menjadi anak buah kapal (ABK) MT Honour 25 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemendikdasmen: Pembinaan berkelanjutan torehkan prestasi di IOAA 2026",
-      "link": "https://www.antaranews.com/berita/5775282/kemendikdasmen-pembinaan-berkelanjutan-torehkan-prestasi-di-ioaa-2026",
-      "published": "Wed, 07 Oct 2026 17:03:39 +0700",
-      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) mengatakan pembinaan berkelanjutan terhadap sejumlah talenta ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Cluster Lihaga 2 Tamansari Metropolitan Manado Tawarkan Tipe Lumora di Jantung Sunrise Property Kota Manado",
-      "link": "https://www.antaranews.com/berita/5775280/cluster-lihaga-2-tamansari-metropolitan-manado-tawarkan-tipe-lumora-di-jantung-sunrise-property-kota-manado",
-      "published": "Wed, 07 Oct 2026 17:03:22 +0700",
-      "description": "PT Wijaya Karya Realty (WIKA Realty) menawarkan varian tipe rumah di Cluster Lihaga 2, bagian dari kawasan Tamansari ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
