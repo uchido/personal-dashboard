@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-10-07T07:32:03+0000",
+  "timestamp": "2026-10-07T08:03:01+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 60.0,
     "cores": 2,
     "load_avg": [
-      1.82,
-      2.03,
-      1.95
+      1.5,
+      1.79,
+      1.87
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.8,
+    "free": 1.7,
     "available": 6.0,
     "used": 5.6,
     "percent": 48.3
@@ -25,9 +25,9 @@
   },
   "uptime": {
     "days": 99,
-    "hours": 19,
-    "minutes": 57,
-    "total_seconds": 8625470.77
+    "hours": 20,
+    "minutes": 28,
+    "total_seconds": 8627329.09
   },
   "top_processes": [
     {
@@ -38,15 +38,15 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "34.9",
+      "cpu": "54.7",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "15.3",
-      "mem": "0.0",
-      "command": "python3 /home/ubuntu/personal-dashboard/scripts/co"
+      "cpu": "20.0",
+      "mem": "0.1",
+      "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "ubuntu",
@@ -56,9 +56,9 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "3.8",
-      "mem": "0.1",
-      "command": "python3 scripts/collect-weather.py"
+      "cpu": "1.7",
+      "mem": "4.3",
+      "command": "openclaw-gateway"
     }
   ]
 }
