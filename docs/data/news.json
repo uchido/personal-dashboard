@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T05:59:04+0000",
+  "timestamp": "2026-10-07T06:30:07+0000",
   "articles": [
     {
       "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
@@ -26,42 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 19:25:08 GMT",
-      "description": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.",
+      "title": "Military training sites to be investigated following rape and abuse claims at Army college",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8ld3j6k53o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 05:00:35 GMT",
+      "description": "In August, four young women told the BBC they were sexually assaulted and harassed at the school in Harrogate.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Kemenag libatkan KUA untuk sosialisasi jelang wajib halal 18 Oktober",
-      "link": "https://www.antaranews.com/berita/5774862/kemenag-libatkan-kua-untuk-sosialisasi-jelang-wajib-halal-18-oktober",
-      "published": "Wed, 07 Oct 2026 12:58:05 +0700",
-      "description": "Kementerian Agama bakal melibatkan jajaran hingga ke tingkat Kantor Urusan Agama (KUA) dalam edukasi dan sosialisasi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menko Bahlil ungkap sejumlah kementerian di bawah Kemenko Hilirisasi",
-      "link": "https://www.antaranews.com/berita/5774861/menko-bahlil-ungkap-sejumlah-kementerian-di-bawah-kemenko-hilirisasi",
-      "published": "Wed, 07 Oct 2026 12:56:50 +0700",
-      "description": "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi (Menko Hilirisasi) sekaligus Menteri Energi dan Sumber Daya ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menko Pangan sebut Sultra surplus beras bisa dukung swasembada",
-      "link": "https://www.antaranews.com/berita/5774860/menko-pangan-sebut-sultra-surplus-beras-bisa-dukung-swasembada",
-      "published": "Wed, 07 Oct 2026 12:56:30 +0700",
-      "description": "Menteri Koordinator (Menko) bidang Pangan Zulkifli Hasan menyebut hasil produksi sektor pertanian khususnya komoditi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ledakan DMZ dorong Korsel nyatakan Korut langgar gencatan senjata",
-      "link": "https://www.antaranews.com/berita/5774858/ledakan-dmz-dorong-korsel-nyatakan-korut-langgar-gencatan-senjata",
-      "published": "Wed, 07 Oct 2026 12:54:41 +0700",
-      "description": "Korea Selatan menjelaskan pihaknya berupaya menyatakan secara resmi bahwa aktivitas Korea Utara di perbatasan baru-baru ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
