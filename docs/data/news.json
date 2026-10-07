@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-07T14:15:07+0000",
+  "timestamp": "2026-10-07T14:46:05+0000",
   "articles": [
     {
-      "title": "Man admits sexually assaulting woman drugged by husband",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 10:50:25 GMT",
-      "description": "The husband is accused of inviting 13 other men to abuse her at their family home in Greater Manchester.",
+      "title": "Watch: The big test facing Badenoch after her conference speech",
+      "link": "https://www.bbc.co.uk/news/videos/c9y7ld7ndzr7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 13:41:31 GMT",
+      "description": "The big test facing Kemi Badenoch after her conference speech",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Boots sold in £7bn deal to Canadian billionaire family",
+      "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 14:42:45 GMT",
+      "description": "The sale of the High Street chain was announced on Wednesday.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Ex-bankers jailed for rigging rates have convictions quashed",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 13:52:13 GMT",
-      "description": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Man jailed for killing ex days after his release",
+      "title": "Man jailed for killing former partner days after his release",
       "link": "https://www.bbc.co.uk/news/articles/c8040lwewkepo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 13:12:46 GMT",
+      "published": "Wed, 07 Oct 2026 14:30:01 GMT",
       "description": "Robert Sabat is given a 17-year-minimum jail term for the fatal stabbing of his former partner.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "KAI catat 80 persen target pengurangan emisi dari penerapan B50",
-      "link": "https://www.antaranews.com/berita/5775874/kai-catat-80-persen-target-pengurangan-emisi-dari-penerapan-b50",
-      "published": "Wed, 07 Oct 2026 21:13:24 +0700",
-      "description": "PT Kereta Api Indonesia/KAI (Persero) mencatat sekitar 80 persen target pengurangan emisi KAI dalam peta jalan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "I.League sebut juara League Cup bakal diusulkan jadi kontestan AFC",
-      "link": "https://www.antaranews.com/berita/5775873/ileague-sebut-juara-league-cup-bakal-diusulkan-jadi-kontestan-afc",
-      "published": "Wed, 07 Oct 2026 21:12:04 +0700",
-      "description": "Direktur Utama I.League Ferry Paulus menyebutkan juara kompetisi League Cup 2026/2027 bakal diusulkan jadi kontestan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "35 WNA India divonis 2-2,5 tahun penjara kasus judi daring",
-      "link": "https://www.antaranews.com/berita/5775869/35-wna-india-divonis-2-25-tahun-penjara-kasus-judi-daring",
-      "published": "Wed, 07 Oct 2026 21:09:08 +0700",
-      "description": "Pengadilan Negeri Denpasar menjatuhkan vonis dua tahun hingga dua tahun enam bulan penjara terhadap 35 warga negara ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DKI upayakan talenta muda bisa akses jejaring perfilman internasional",
-      "link": "https://www.antaranews.com/berita/5775865/dki-upayakan-talenta-muda-bisa-akses-jejaring-perfilman-internasional",
-      "published": "Wed, 07 Oct 2026 21:07:48 +0700",
-      "description": "Pemerintah Provinsi DKI Jakarta mengupayakan peluang agar talenta muda Jakarta memperoleh akses yang lebih luas ...",
+      "error": "no element found: line 664, column 3",
       "source": "Antara News",
       "category": "Indonesia"
     }
