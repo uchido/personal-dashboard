@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T07:18:04+0000",
+  "timestamp": "2026-10-08T07:49:04+0000",
   "articles": [
     {
       "title": "Burnham to hold security talks with German chancellor in Berlin",
@@ -10,10 +10,18 @@
       "category": "Global"
     },
     {
-      "title": "Syrian general accused of atrocities paid and protected by US and Lebanon, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 05:00:44 GMT",
-      "description": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.",
+      "title": "Royal Navy service member charged with spying",
+      "link": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 07:40:30 GMT",
+      "description": "The 24-year-old man is due to appear at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' will continue",
+      "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 07:06:15 GMT",
+      "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,9 @@
       "category": "Global"
     },
     {
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' will continue",
-      "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 07:06:15 GMT",
-      "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-      "source": "BBC News",
-      "category": "Global"
+      "error": "no element found: line 657, column 120",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
