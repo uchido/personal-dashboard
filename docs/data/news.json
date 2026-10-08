@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-10-08T03:41:05+0000",
+  "timestamp": "2026-10-08T04:12:05+0000",
   "articles": [
+    {
+      "title": "Burnham to hold security talks with German chancellor in Berlin",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 23:01:31 GMT",
+      "description": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
       "link": "https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss",
@@ -18,20 +26,17 @@
       "category": "Global"
     },
     {
-      "title": "Burnham to hold security talks with German chancellor in Berlin",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:01:31 GMT",
-      "description": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.",
+      "title": "'Come all the way' back to EU, French finance minister tells UK",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 04:02:26 GMT",
+      "description": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 00:09:17 GMT",
-      "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
-      "source": "BBC News",
-      "category": "Global"
+      "error": "unclosed token: line 657, column 83",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
