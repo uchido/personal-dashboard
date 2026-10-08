@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T06:16:05+0000",
+  "timestamp": "2026-10-08T06:47:05+0000",
   "articles": [
     {
       "title": "Burnham to hold security talks with German chancellor in Berlin",
@@ -32,6 +32,11 @@
       "description": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 660, column 6",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
