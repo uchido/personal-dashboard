@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-08T04:12:05+0000",
+  "timestamp": "2026-10-08T04:43:05+0000",
   "articles": [
     {
       "title": "Burnham to hold security talks with German chancellor in Berlin",
       "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:01:31 GMT",
+      "published": "Thu, 08 Oct 2026 04:38:42 GMT",
       "description": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 657, column 83",
+      "title": "Wamensesneg pastikan belum ada surpres pergantian Panglima TNI",
+      "link": "https://www.antaranews.com/berita/5776410/wamensesneg-pastikan-belum-ada-surpres-pergantian-panglima-tni",
+      "published": "Thu, 08 Oct 2026 11:40:35 +0700",
+      "description": "Wakil Menteri Sekretaris Negara Bambang Eko Suhariyanto memastikan belum ada surat presiden (surpres) terkait ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Rivian R2 di AS ditarik kembali terkait masalah tenaga penggerak",
+      "link": "https://otomotif.antaranews.com/berita/5776406/rivian-r2-di-as-ditarik-kembali-terkait-masalah-tenaga-penggerak",
+      "published": "Thu, 08 Oct 2026 11:39:10 +0700",
+      "description": "Rivian menarik kembali mobil R2 di Amerika Serikat akibat masalah pada tenaga penggerak yang tiba-tiba hilang yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menhan Sjafrie nilai taklimat Prabowo perkuat soliditas TNI-Polri",
+      "link": "https://www.antaranews.com/berita/5776400/menhan-sjafrie-nilai-taklimat-prabowo-perkuat-soliditas-tni-polri",
+      "published": "Thu, 08 Oct 2026 11:38:51 +0700",
+      "description": "Menteri Pertahanan Sjafrie Sjamsoeddin menilai taklimat Presiden Prabowo Subianto di Istana Negara, Jakarta, menjadi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "OJK: Transformasi digital keuangan harus jadi mesin produktivitas",
+      "link": "https://www.antaranews.com/berita/5776398/ojk-transformasi-digital-keuangan-harus-jadi-mesin-produktivitas",
+      "published": "Thu, 08 Oct 2026 11:33:39 +0700",
+      "description": "Otoritas Jasa Keuangan (OJK) mengungkapkan transformasi digital sektor keuangan harus diarahkan menjadi mesin ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
