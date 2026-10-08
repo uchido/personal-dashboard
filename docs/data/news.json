@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-08T09:22:20+0000",
+  "timestamp": "2026-10-08T09:53:04+0000",
   "articles": [
     {
       "title": "Royal Navy service member charged with spying for a foreign power",
       "link": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 08:29:14 GMT",
       "description": "The 24-year-old man is due to appear at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Asos warns customers about full extent of data breach after BBC contacted by hackers",
+      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 09:45:28 GMT",
+      "description": "Names, addresses, phone numbers, emails and customer numbers are now in the hands of cyber criminals.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -22,14 +30,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 04:02:26 GMT",
       "description": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 08:13:52 GMT",
-      "description": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
       "source": "BBC News",
       "category": "Global"
     }
