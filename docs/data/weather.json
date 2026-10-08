@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T20:44:04+0000",
+  "timestamp": "2026-10-08T21:15:04+0000",
   "locations": [
     {
       "name": "Palu",
@@ -8,11 +8,11 @@
       "country": "Indonesia",
       "temp_c": "15",
       "feels_like_c": "14",
-      "humidity": "70",
-      "wind_speed_kmh": "6",
+      "humidity": "65",
+      "wind_speed_kmh": "4",
       "wind_dir": "SSE",
       "visibility_km": "10",
-      "pressure_mb": "1012",
+      "pressure_mb": "1013",
       "condition": "Smoky haze",
       "condition_code": "149",
       "uv_index": "0",
@@ -21,7 +21,7 @@
           "date": "2026-10-09",
           "max_temp": "34",
           "min_temp": "15",
-          "condition": "Clear ",
+          "condition": "Overcast ",
           "sunrise": "05:44 AM",
           "sunset": "05:52 PM"
         },
@@ -29,14 +29,14 @@
           "date": "2026-10-10",
           "max_temp": "34",
           "min_temp": "16",
-          "condition": "Mist",
+          "condition": "Fog",
           "sunrise": "05:44 AM",
           "sunset": "05:51 PM"
         },
         {
           "date": "2026-10-11",
           "max_temp": "31",
-          "min_temp": "17",
+          "min_temp": "16",
           "condition": "Fog",
           "sunrise": "05:44 AM",
           "sunset": "05:51 PM"
@@ -50,13 +50,13 @@
       "country": "Indonesia",
       "temp_c": "21",
       "feels_like_c": "23",
-      "humidity": "94",
-      "wind_speed_kmh": "6",
+      "humidity": "93",
+      "wind_speed_kmh": "5",
       "wind_dir": "NW",
       "visibility_km": "3",
-      "pressure_mb": "1013",
-      "condition": "Smoky haze",
-      "condition_code": "149",
+      "pressure_mb": "1012",
+      "condition": "Mist",
+      "condition_code": "143",
       "uv_index": "0",
       "forecast": [
         {
@@ -71,7 +71,7 @@
           "date": "2026-10-10",
           "max_temp": "34",
           "min_temp": "20",
-          "condition": "Overcast ",
+          "condition": "Clear ",
           "sunrise": "05:19 AM",
           "sunset": "05:33 PM"
         },
