@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T16:05:04+0000",
+  "timestamp": "2026-10-08T16:36:05+0000",
   "locations": [
     {
       "name": "Palu",
@@ -7,24 +7,16 @@
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "16",
-      "feels_like_c": "17",
-      "humidity": "96",
-      "wind_speed_kmh": "5",
+      "feels_like_c": "15",
+      "humidity": "85",
+      "wind_speed_kmh": "8",
       "wind_dir": "SSE",
-      "visibility_km": "4",
-      "pressure_mb": "1014",
-      "condition": "Mist",
-      "condition_code": "143",
+      "visibility_km": "6",
+      "pressure_mb": "1013",
+      "condition": "Smoky haze",
+      "condition_code": "149",
       "uv_index": "0",
       "forecast": [
-        {
-          "date": "2026-10-08",
-          "max_temp": "33",
-          "min_temp": "15",
-          "condition": "Fog",
-          "sunrise": "05:45 AM",
-          "sunset": "05:52 PM"
-        },
         {
           "date": "2026-10-09",
           "max_temp": "34",
@@ -40,6 +32,14 @@
           "condition": "Mist",
           "sunrise": "05:44 AM",
           "sunset": "05:51 PM"
+        },
+        {
+          "date": "2026-10-11",
+          "max_temp": "31",
+          "min_temp": "17",
+          "condition": "Fog",
+          "sunrise": "05:44 AM",
+          "sunset": "05:51 PM"
         }
       ]
     },
@@ -48,13 +48,13 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "22",
-      "feels_like_c": "25",
+      "temp_c": "21",
+      "feels_like_c": "24",
       "humidity": "95",
-      "wind_speed_kmh": "6",
-      "wind_dir": "W",
-      "visibility_km": "2",
-      "pressure_mb": "1015",
+      "wind_speed_kmh": "7",
+      "wind_dir": "WNW",
+      "visibility_km": "4",
+      "pressure_mb": "1014",
       "condition": "Mist",
       "condition_code": "143",
       "uv_index": "0",
