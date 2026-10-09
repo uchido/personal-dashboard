@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T06:33:05+0000",
+  "timestamp": "2026-10-09T07:04:04+0000",
   "articles": [
     {
       "title": "Zack Polanski defends leadership after Zionism row and by-election loss",
@@ -10,10 +10,10 @@
       "category": "Global"
     },
     {
-      "title": "Chris Mason: Polanski faces greatest crisis of his leadership so far",
-      "link": "https://www.bbc.co.uk/news/articles/cm70p821d6w4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 04:54:25 GMT",
-      "description": "The Green leader faces pressure over his response to a party motion declaring Zionism a form of racism, as well as his by-election loss.",
+      "title": "Chris Mason: Questions remain for Green Party leader Zack Polanski",
+      "link": "https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 06:39:13 GMT",
+      "description": "Senior party figures have criticised his response to a motion passed by members declaring Zionism a form of racism.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kemendikdasmen: IFP hadirkan \"fun learning\" bagi murid SMAN 2 Cibinong",
-      "link": "https://www.antaranews.com/berita/5778260/kemendikdasmen-ifp-hadirkan-fun-learning-bagi-murid-sman-2-cibinong",
-      "published": "Fri, 09 Oct 2026 13:30:35 +0700",
-      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) menyatakan interactive flat panel (IFP) membuat kegiatan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Legislator minta Gubernur DKI tegas tindak pungutan paksa PMI",
-      "link": "https://www.antaranews.com/berita/5778257/legislator-minta-gubernur-dki-tegas-tindak-pungutan-paksa-pmi",
-      "published": "Fri, 09 Oct 2026 13:29:27 +0700",
-      "description": "Anggota Komisi A DPRD DKI Jakarta Kevin Wu meminta Gubernur DKI Jakarta Pramono Anung menindak tegas tindakan pungutan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemenkeu masih kaji keputusan naikkan batas PTKP",
-      "link": "https://www.antaranews.com/berita/5778254/kemenkeu-masih-kaji-keputusan-naikkan-batas-ptkp",
-      "published": "Fri, 09 Oct 2026 13:29:21 +0700",
-      "description": "Kementerian Keuangan (Kemenkeu) masih mengkaji keputusan untuk menaikkan batas Penghasilan Tidak Kena Pajak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Afrika luncurkan lembaga pemeringkat kredit tingkat benua di Mauritius",
-      "link": "https://www.antaranews.com/berita/5778253/afrika-luncurkan-lembaga-pemeringkat-kredit-tingkat-benua-di-mauritius",
-      "published": "Fri, 09 Oct 2026 13:28:43 +0700",
-      "description": "Africa Credit Rating Agency (AfCRA) resmi diluncurkan di Mauritius, Rabu (7/10), dengan tujuan memperkuat kemandirian ...",
+      "error": "unclosed token: line 658, column 292",
       "source": "Antara News",
       "category": "Indonesia"
     }
