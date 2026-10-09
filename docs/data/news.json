@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-09T12:14:05+0000",
+  "timestamp": "2026-10-09T12:45:06+0000",
   "articles": [
     {
-      "title": "Polanski vows to stay on as Green leader as criticism mounts",
+      "title": "Polanski vows to stay on as Green leader as criticism mounts after by-election defeat",
       "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 11:42:48 GMT",
       "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
@@ -10,10 +10,10 @@
       "category": "Global"
     },
     {
-      "title": "Polanski challenged over whether he thinks Israel has right to exist",
-      "link": "https://www.bbc.co.uk/news/videos/c6qjnv07q452o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 12:08:42 GMT",
-      "description": "The Green Party leader defends his decision to miss a debate on a controversial motion about Zionism which was passed by party members.",
+      "title": "'Deeply personal moment': Watch Sagal Abdi-Wali's by-election victory speech",
+      "link": "https://www.bbc.co.uk/news/videos/c95yn70e678po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 11:15:09 GMT",
+      "description": "Labour beat the Green Party with 45% of the vote in the Holborn and St Pancras by-election.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +26,17 @@
       "category": "Global"
     },
     {
-      "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 09:29:52 GMT",
-      "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+      "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 12:29:02 GMT",
+      "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 662, column 2",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
