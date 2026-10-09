@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-10-09T01:23:05+0000",
+  "timestamp": "2026-10-09T01:54:05+0000",
   "articles": [
-    {
-      "title": "ADHD and autism at risk of over-diagnosis, says government review",
-      "link": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 23:01:30 GMT",
-      "description": "The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
       "link": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 23:56:16 GMT",
       "description": "Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "ADHD and autism at risk of over-diagnosis, says government review",
+      "link": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:01:30 GMT",
+      "description": "The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Layanan penerbangan dengan tandu hadir secara digital",
-      "link": "https://www.antaranews.com/berita/5777941/layanan-penerbangan-dengan-tandu-hadir-secara-digital",
-      "published": "Fri, 09 Oct 2026 08:18:39 +0700",
-      "description": "Layanan pemesanan penerbangan dengan fasilitas stretcher (tandu) kini dapat dilakukan secara digital untuk memudahkan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Presiden Filipina: Perundingan kode etik LCS catat kemajuan baik",
-      "link": "https://www.antaranews.com/berita/5777938/presiden-filipina-perundingan-kode-etik-lcs-catat-kemajuan-baik",
-      "published": "Fri, 09 Oct 2026 08:18:21 +0700",
-      "description": "Presiden Filipina Ferdinand Marcos Jr. mengatakan negosiasi antara China&nbsp;dan ASEAN mengenai Kode Etik (CoC) Laut ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kedatangan pemain legenda Liga Inggris jelang laga North London Legends melawan United Legends",
-      "link": "https://www.antaranews.com/foto/5777934/kedatangan-pemain-legenda-liga-inggris-jelang-laga-north-london-legends-melawan-united-legends",
-      "published": "Fri, 09 Oct 2026 08:14:45 +0700",
-      "description": "Legenda Manchester United Ryan Giggs (kedua kanan) berjalan setibanya di Terminal 3 Bandara Soekarno-Hatta, Tangerang, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menjadi pendengar, bantuan sederhana pada penyandang kesehatan mental",
-      "link": "https://www.antaranews.com/berita/5777932/menjadi-pendengar-bantuan-sederhana-pada-penyandang-kesehatan-mental",
-      "published": "Fri, 09 Oct 2026 08:11:07 +0700",
-      "description": "Psikolog klinis dewasa Miki Amrilya Wardati, S.Psi., M.Psi., Psikolog mengatakan dukungan sederhana yang dapat ...",
+      "error": "unclosed token: line 655, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
