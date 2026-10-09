@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-10-09T19:28:04+0000",
+  "timestamp": "2026-10-09T19:59:04+0000",
   "articles": [
     {
       "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
       "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 18:40:10 GMT",
       "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Trump announces deal with Putin to release Russian diesel",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 19:32:07 GMT",
+      "description": "Diesel prices in the US have doubled since the war with Iran began in February, putting pressure on Republicans ahead of the midterms.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "NI secretary to ban the Drumcree parade",
+      "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 19:53:42 GMT",
+      "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,20 +34,12 @@
       "category": "Global"
     },
     {
-      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
-      "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 12:29:02 GMT",
-      "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 18:40:05 GMT",
-      "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Menhub: Keselamatan transportasi harga mati yang harus jadi budaya",
+      "link": "https://www.antaranews.com/berita/5779472/menhub-keselamatan-transportasi-harga-mati-yang-harus-jadi-budaya",
+      "published": "Sat, 10 Oct 2026 02:42:57 +0700",
+      "description": "Menteri Perhubungan (Menhub) Dudy Purwagandhi menegaskan keselamatan transportasi merupakan harga mati yang harus ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Yusril manfaatkan pulau kosong untuk rehabilitasi penyalahguna narkoba",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5779464/serapan-gabah-dan-beras-bulog-karawang-tembus-9241-ribu-ton",
       "published": "Sat, 10 Oct 2026 00:53:50 +0700",
       "description": "Penyerapan gabah dan beras yang dilakukan Kantor Cabang Perum Bulog Kabupaten Karawang, Jawa Barat sudah mencapai 92,41 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "TFF pecat Vincenzo Montella sebagai pelatih timnas Turki",
-      "link": "https://www.antaranews.com/berita/5779461/tff-pecat-vincenzo-montella-sebagai-pelatih-timnas-turki",
-      "published": "Sat, 10 Oct 2026 00:50:56 +0700",
-      "description": "Federasi Sepak Bola Turki (TFF) resmi memecat Vincenzo Montella dari posisinya sebagai pelatih timnas Turki setelah ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
