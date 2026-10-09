@@ -1,89 +1,13 @@
 {
-  "timestamp": "2026-10-09T15:20:05+0000",
+  "timestamp": "2026-10-09T15:51:33+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
-      "region": "Central Sulawesi",
-      "country": "Indonesia",
-      "temp_c": "16",
-      "feels_like_c": "17",
-      "humidity": "98",
-      "wind_speed_kmh": "5",
-      "wind_dir": "SE",
-      "visibility_km": "0",
-      "pressure_mb": "1013",
-      "condition": "Fog",
-      "condition_code": "248",
-      "uv_index": "0",
-      "forecast": [
-        {
-          "date": "2026-10-09",
-          "max_temp": "34",
-          "min_temp": "14",
-          "condition": "Overcast ",
-          "sunrise": "05:44 AM",
-          "sunset": "05:52 PM"
-        },
-        {
-          "date": "2026-10-10",
-          "max_temp": "33",
-          "min_temp": "16",
-          "condition": "Mist",
-          "sunrise": "05:44 AM",
-          "sunset": "05:51 PM"
-        },
-        {
-          "date": "2026-10-11",
-          "max_temp": "32",
-          "min_temp": "16",
-          "condition": "Light rain shower",
-          "sunrise": "05:44 AM",
-          "sunset": "05:51 PM"
-        }
-      ]
+      "error": "The read operation timed out"
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
-      "region": "Daerah Istimewa Yogyakarta",
-      "country": "Indonesia",
-      "temp_c": "22",
-      "feels_like_c": "24",
-      "humidity": "93",
-      "wind_speed_kmh": "5",
-      "wind_dir": "W",
-      "visibility_km": "10",
-      "pressure_mb": "1014",
-      "condition": "Overcast ",
-      "condition_code": "122",
-      "uv_index": "0",
-      "forecast": [
-        {
-          "date": "2026-10-09",
-          "max_temp": "33",
-          "min_temp": "21",
-          "condition": "Mist",
-          "sunrise": "05:19 AM",
-          "sunset": "05:33 PM"
-        },
-        {
-          "date": "2026-10-10",
-          "max_temp": "35",
-          "min_temp": "21",
-          "condition": "Partly Cloudy ",
-          "sunrise": "05:19 AM",
-          "sunset": "05:33 PM"
-        },
-        {
-          "date": "2026-10-11",
-          "max_temp": "36",
-          "min_temp": "21",
-          "condition": "Overcast ",
-          "sunrise": "05:18 AM",
-          "sunset": "05:33 PM"
-        }
-      ]
+      "error": "The read operation timed out"
     }
   ]
 }
