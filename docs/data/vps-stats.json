@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-09T10:41:01+0000",
+  "timestamp": "2026-10-09T11:12:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 65.0,
+    "percent": 60.0,
     "cores": 2,
     "load_avg": [
-      2.21,
-      2.18,
-      2.07
+      1.86,
+      2.04,
+      1.92
     ]
   },
   "memory": {
@@ -26,19 +26,25 @@
   "uptime": {
     "days": 101,
     "hours": 23,
-    "minutes": 6,
-    "total_seconds": 8809608.82
+    "minutes": 37,
+    "total_seconds": 8811469.27
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "61.0",
+      "cpu": "166",
+      "mem": "0.4",
+      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "57.4",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "20.0",
+      "cpu": "21.4",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -53,12 +59,6 @@
       "cpu": "1.6",
       "mem": "2.1",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "1.5",
-      "mem": "4.7",
-      "command": "openclaw-gateway"
     }
   ]
 }

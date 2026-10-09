@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-09T10:41:04+0000",
+  "timestamp": "2026-10-09T11:12:05+0000",
   "articles": [
     {
       "title": "Polanski vows to stay on as Green leader as criticism mounts",
       "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 10:11:22 GMT",
+      "published": "Fri, 09 Oct 2026 11:05:55 GMT",
       "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 662, column 4",
+      "title": "Gunung Anak Krakatau erupsi, masyarakat diimbau jauhi radius 2 km",
+      "link": "https://www.antaranews.com/berita/5778848/gunung-anak-krakatau-erupsi-masyarakat-diimbau-jauhi-radius-2-km",
+      "published": "Fri, 09 Oct 2026 18:09:55 +0700",
+      "description": "Badan Geologi Kementerian Energi dan Sumber Daya Mineral (ESDM) melaporkan Gunung Anak Krakatau di Selat Sunda, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Polrestabes Bandung bongkar budidaya 27 batang ganja di atap rumah",
+      "link": "https://www.antaranews.com/berita/5778846/polrestabes-bandung-bongkar-budidaya-27-batang-ganja-di-atap-rumah",
+      "published": "Fri, 09 Oct 2026 18:09:53 +0700",
+      "description": "Kepolisian Resor Kota Besar Bandung membongkar praktik budidaya 27 batang tanaman ganja di atap sebuah rumah di Jalan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Dampak Maybank Marathon ke ekonomi Bali Rp229,9 miliar",
+      "link": "https://www.antaranews.com/berita/5778845/dampak-maybank-marathon-ke-ekonomi-bali-rp2299-miliar",
+      "published": "Fri, 09 Oct 2026 18:08:04 +0700",
+      "description": "PT Bank Maybank Indonesia Tbk (Maybank Indonesia) bersama Katadata Insight Center mencatat dampak langsung ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemerintah atur tarif pemeriksaan kesehatan haji agar tak timpang",
+      "link": "https://www.antaranews.com/berita/5778844/pemerintah-atur-tarif-pemeriksaan-kesehatan-haji-agar-tak-timpang",
+      "published": "Fri, 09 Oct 2026 18:04:52 +0700",
+      "description": "Pemerintah siap mengkaji pengaturan tarif pemeriksaan kesehatan calon jamaah haji untuk mengurangi kesenjangan biaya ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
