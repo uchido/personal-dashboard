@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-09T13:47:01+0000",
+  "timestamp": "2026-10-09T14:18:02+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 75.0,
     "cores": 2,
     "load_avg": [
-      2.65,
-      2.1,
-      2.04
+      2.05,
+      2.32,
+      2.33
     ]
   },
   "memory": {
@@ -20,45 +20,45 @@
   "disk": {
     "total": "193G",
     "used": "123G",
-    "available": "71G",
+    "available": "70G",
     "percent": "64%"
   },
   "uptime": {
     "days": 102,
     "hours": 2,
-    "minutes": 12,
-    "total_seconds": 8820769.29
+    "minutes": 43,
+    "total_seconds": 8822629.58
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "120",
+      "cpu": "100",
       "mem": "0.4",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
       "user": "ubuntu",
-      "cpu": "57.8",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "53.2",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
+      "user": "root",
+      "cpu": "40.1",
+      "mem": "0.4",
+      "command": "/opt/unified-monitoring-agent/embedded/bin/ruby /o"
+    },
+    {
       "user": "ubuntu",
-      "cpu": "21.4",
+      "cpu": "13.3",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "6.2",
-      "mem": "0.8",
-      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
-    },
-    {
-      "user": "root",
-      "cpu": "1.6",
-      "mem": "2.1",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
