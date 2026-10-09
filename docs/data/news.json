@@ -1,19 +1,11 @@
 {
-  "timestamp": "2026-10-09T13:16:05+0000",
+  "timestamp": "2026-10-09T13:47:06+0000",
   "articles": [
     {
-      "title": "Polanski vows to stay on as Green leader as criticism mounts after by-election defeat",
+      "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
       "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 12:49:29 GMT",
       "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "'Deeply personal moment': Watch Sagal Abdi-Wali's by-election victory speech",
-      "link": "https://www.bbc.co.uk/news/videos/c95yn70e678po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 11:15:09 GMT",
-      "description": "Labour beat the Green Party with 45% of the vote in the Holborn and St Pancras by-election.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +26,42 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Survivor of US Army shooting supports gunman's execution but questions livestream",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 09:43:22 GMT",
+      "description": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Kemenkes soroti peran keluarga dalam gali potensi anak neurodivergen",
+      "link": "https://www.antaranews.com/berita/5779173/kemenkes-soroti-peran-keluarga-dalam-gali-potensi-anak-neurodivergen",
+      "published": "Fri, 09 Oct 2026 20:46:32 +0700",
+      "description": "Kementerian Kesehatan menyoroti pentingnya dukungan keluarga bagi anak dengan neurodivergensi atau masalah kesehatan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Arema siapkan taktik redam lini serang Bhayangkara",
+      "link": "https://www.antaranews.com/berita/5779172/arema-siapkan-taktik-redam-lini-serang-bhayangkara",
+      "published": "Fri, 09 Oct 2026 20:46:24 +0700",
+      "description": "Pelatih Arema FC Marcos Santos menyatakan telah menyiapkan taktik khusus untuk meredam kekuatan lini serang Bhayangkara ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Gemini hadirkan agen AI untuk bantu beragam pekerjaan",
+      "link": "https://www.antaranews.com/berita/5779168/gemini-hadirkan-agen-ai-untuk-bantu-beragam-pekerjaan",
+      "published": "Fri, 09 Oct 2026 20:45:38 +0700",
+      "description": "Google Cloud memperkenalkan versi baru Gemini berupa agen AI yang dapat membantu pengguna mengerjakan berbagai ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "DPR RI tegaskan stabilitas pangan daerah di tengah dinamika global",
+      "link": "https://www.antaranews.com/berita/5779165/dpr-ri-tegaskan-stabilitas-pangan-daerah-di-tengah-dinamika-global",
+      "published": "Fri, 09 Oct 2026 20:45:01 +0700",
+      "description": "Ketua Komisi Komisi IV DPR RI Siti Hediati Soeharto menegaskan pentingnya menjaga stabilitas stok dan kelancaran ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
