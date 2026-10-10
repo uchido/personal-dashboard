@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T04:46:05+0000",
+  "timestamp": "2026-10-10T05:17:05+0000",
   "articles": [
     {
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Kemenhub perkuat penanganan kendaraan ODOL di Jatim demi keselamatan",
-      "link": "https://www.antaranews.com/berita/5779696/kemenhub-perkuat-penanganan-kendaraan-odol-di-jatim-demi-keselamatan",
-      "published": "Sat, 10 Oct 2026 11:42:00 +0700",
-      "description": "Kementerian Perhubungan (Kemenhub) memperkuat penanganan kendaraan lebih dimensi dan muatan (zero over dimension over ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Redaksi Olahraga: Piala Asia U17 Putri, Liga Putri, dan Super League",
-      "link": "https://www.antaranews.com/video/5779681/redaksi-olahraga-piala-asia-u17-putri-liga-putri-dan-super-league",
-      "published": "Sat, 10 Oct 2026 11:41:45 +0700",
-      "description": "ANTARA - Selain timnas putra, timnas putri Indonesia juga berlaga di kualifikasi Piala Asia Putri U17 2027, persiapan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kiat membantu orang dengan masalah kesehatan mental",
-      "link": "https://www.antaranews.com/berita/5779694/kiat-membantu-orang-dengan-masalah-kesehatan-mental",
-      "published": "Sat, 10 Oct 2026 11:41:39 +0700",
-      "description": "Psikolog anak, remaja, dan keluarga Efnie Indrianie, S.Psi, M.Psi, Psikolog menyampaikan hal-hal yang sebaiknya ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Redaksi Olahraga: Masa depan FIFA ASEAN Cup, wacana AFC Nations League",
-      "link": "https://www.antaranews.com/video/5779677/redaksi-olahraga-masa-depan-fifa-asean-cup-wacana-afc-nations-league",
-      "published": "Sat, 10 Oct 2026 11:41:32 +0700",
-      "description": "ANTARA - FIFA ASEAN Cup 2026 merupakan ajang perdana kompetisi level Asia Tenggara buatan FIFA. Redaksi Olahraga ...",
+      "error": "unclosed token: line 656, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
