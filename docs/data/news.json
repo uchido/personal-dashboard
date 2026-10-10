@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T22:20:06+0000",
+  "timestamp": "2026-10-10T22:51:04+0000",
   "articles": [
     {
       "title": "Man dies after tiger attack at wildlife park",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 22:40:56 GMT",
+      "description": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 17:44:26 GMT",
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 14:27:43 GMT",
-      "description": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Daud Yordan raih ABF Diamond Super Welterweight usai kalahkan petinju Filipina",
+      "link": "https://www.antaranews.com/foto/5780448/daud-yordan-raih-abf-diamond-super-welterweight-usai-kalahkan-petinju-filipina",
+      "published": "Sun, 11 Oct 2026 05:44:08 +0700",
+      "description": "Petinju Indonesia asal Kalimantan Barat Daud Yordan (kanan) memukul petinju Filipina Adore Torres (kiri) dalam laga ABF ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Laga reuni legenda MU dan Arsenal, North London Legends menang atas United Legends",
+      "link": "https://www.antaranews.com/foto/5780444/laga-reuni-legenda-mu-dan-arsenal-north-london-legends-menang-atas-united-legends",
+      "published": "Sun, 11 Oct 2026 05:39:11 +0700",
+      "description": "Pemain United Legends AshleyYoung mengontrol bola saat bertanding melawan Tim North London Legends dalam pertandingan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Avenged Sevenfold sukses gebrak Jakarta bawa nostalgia",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5780433/kp2mi-gandeng-pemkot-bandung-perluas-peluang-kerja-pmi-di-jepang",
       "published": "Sun, 11 Oct 2026 05:05:21 +0700",
       "description": "Kementerian Pelindungan Pekerja Migran Indonesia (KP2MI) bersama Pemerintah Kota Bandung, Jawa Barat, menjajaki kerja ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ajax ditahan imbang NEC, Feyenoord bungkam AZ",
-      "link": "https://www.antaranews.com/berita/5780429/ajax-ditahan-imbang-nec-feyenoord-bungkam-az",
-      "published": "Sun, 11 Oct 2026 04:56:15 +0700",
-      "description": "Ajax ditahan imbang NEC Nijmegen, sedangkan Feyenoord dibungkam AZ Alkmaar pada pertandingan pekan kedelapan Liga ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Trump: Sudah waktunya Ukraina \"pilih presiden baru\"",
-      "link": "https://www.antaranews.com/berita/5780426/trump-sudah-waktunya-ukraina-pilih-presiden-baru",
-      "published": "Sun, 11 Oct 2026 04:47:56 +0700",
-      "description": "Presiden Amerika Serikat Donald Trump mendesak Ukraina &quot;memilih presiden baru&quot; usai menuding Presiden ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
