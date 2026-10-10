@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-10-10T17:10:05+0000",
+  "timestamp": "2026-10-10T17:41:05+0000",
   "articles": [
+    {
+      "title": "Man dies after tiger attack at wildlife park",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 17:35:06 GMT",
+      "description": "The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 16:30:21 GMT",
       "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Man dies after tiger attack at wildlife park",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 17:07:29 GMT",
-      "description": "The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,6 +34,22 @@
       "category": "Global"
     },
     {
+      "title": "Calvin Verdonk dapatkan menit bermain saat Lille tekuk Le Havre",
+      "link": "https://www.antaranews.com/berita/5780361/calvin-verdonk-dapatkan-menit-bermain-saat-lille-tekuk-le-havre",
+      "published": "Sun, 11 Oct 2026 00:39:53 +0700",
+      "description": "Bek sayap tim nasional Indonesia Calvin Verdonk mendapatkan menit bermain saat Lille menekuk Le Havre pada pekan keenam ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Timnas putri Indonesia ditahan imbang tanpa gol Armenia",
+      "link": "https://www.antaranews.com/berita/5780358/timnas-putri-indonesia-ditahan-imbang-tanpa-gol-armenia",
+      "published": "Sun, 11 Oct 2026 00:26:45 +0700",
+      "description": "Tim nasional putri Indonesia ditahan imbang tanpa gol ketika berjumpa tim nasional putri Armenia pada pertandingan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
       "title": "Dean James sumbang assist saat Go Ahead Eagles diimbangi Sparta",
       "link": "https://www.antaranews.com/berita/5780356/dean-james-sumbang-assist-saat-go-ahead-eagles-diimbangi-sparta",
       "published": "Sun, 11 Oct 2026 00:08:37 +0700",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5780353/otoritas-panama-kerahkan-upaya-darurat-usai-serangkaian-gempa-susulan",
       "published": "Sun, 11 Oct 2026 00:07:37 +0700",
       "description": "Pemerintah Panama mengerahkan personel dan sumber daya darurat untuk menangani dampak gempa bumi dahsyat yang diikuti ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Potret pariwisata udara ketinggian rendah di Yixian",
-      "link": "https://www.antaranews.com/berita/5780349/potret-pariwisata-udara-ketinggian-rendah-di-yixian",
-      "published": "Sun, 11 Oct 2026 00:01:42 +0700",
-      "description": "Selama liburan Hari Nasional China, desa-desa Warisan Dunia UNESCO Xidi dan Hongcun di Yixian, Provinsi Anhui, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Aston Villa diimbangi Brentford, Brighton atasi Sunderland",
-      "link": "https://www.antaranews.com/berita/5780345/aston-villa-diimbangi-brentford-brighton-atasi-sunderland",
-      "published": "Sat, 10 Oct 2026 23:50:53 +0700",
-      "description": "Aston Villa diimbangi Brentford, sedangkan Brighton mengatasi perlawanan Sunderland pada pekan keenam Liga Inggris, ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
