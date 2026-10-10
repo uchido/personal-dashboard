@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T11:29:05+0000",
+  "timestamp": "2026-10-10T12:00:06+0000",
   "articles": [
     {
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
@@ -18,7 +18,7 @@
       "category": "Global"
     },
     {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 11:17:15 GMT",
       "description": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.",
@@ -26,42 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Green Party wants to make sure it is 'not vulnerable to extremists'",
-      "link": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 11:09:16 GMT",
-      "description": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion.",
+      "title": "Met's Special Constabulary head fired after AI tool found deleted intimate images on work phone",
+      "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 09:19:53 GMT",
+      "description": "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Aceh Jaya optimalisasi 4.720 hektare lahan rawa untuk ketahanan pangan",
-      "link": "https://www.antaranews.com/berita/5780054/aceh-jaya-optimalisasi-4720-hektare-lahan-rawa-untuk-ketahanan-pangan",
-      "published": "Sat, 10 Oct 2026 18:25:00 +0700",
-      "description": "Dinas Pertanian Kabupaten Aceh Jaya, Provinsi Aceh, melakukan optimalisasi lahan rawa seluas 4.720 menjadi areal ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ahli gizi sarankan \"smoothie\" kiwi untuk bantu atasi sembelit",
-      "link": "https://www.antaranews.com/berita/5780050/ahli-gizi-sarankan-smoothie-kiwi-untuk-bantu-atasi-sembelit",
-      "published": "Sat, 10 Oct 2026 18:24:33 +0700",
-      "description": "Smoothie kiwi dapat menjadi salah satu pilihan untuk membantu melancarkan buang air besar, terutama bagi orang yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Tingkatkan pelayanan publik, Kapolda Metro Jaya serap aspirasi pers",
-      "link": "https://www.antaranews.com/berita/5780048/tingkatkan-pelayanan-publik-kapolda-metro-jaya-serap-aspirasi-pers",
-      "published": "Sat, 10 Oct 2026 18:18:06 +0700",
-      "description": "Kapolda Metro Jaya Komjen&nbsp;Pol Dadang Hartanto menggelar silaturahmi dan dialog bersama insan pers di Gedung ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bulog Cirebon lanjutkan penyerapan gabah petani hingga akhir 2026",
-      "link": "https://www.antaranews.com/berita/5780046/bulog-cirebon-lanjutkan-penyerapan-gabah-petani-hingga-akhir-2026",
-      "published": "Sat, 10 Oct 2026 18:13:20 +0700",
-      "description": "Perum Bulog Cabang Cirebon, Jawa Barat, melanjutkan penyerapan gabah petani hingga akhir tahun ini dengan memanfaatkan ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
