@@ -1,37 +1,45 @@
 {
-  "timestamp": "2026-10-10T17:41:05+0000",
+  "timestamp": "2026-10-10T18:12:05+0000",
   "articles": [
     {
       "title": "Man dies after tiger attack at wildlife park",
       "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 17:35:06 GMT",
-      "description": "The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend.",
+      "published": "Sat, 10 Oct 2026 18:10:38 GMT",
+      "description": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 18:01:18 GMT",
+      "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
       "source": "BBC News",
       "category": "Global"
     },
     {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 16:30:21 GMT",
+      "published": "Sat, 10 Oct 2026 17:44:26 GMT",
       "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 14:24:14 GMT",
-      "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 14:27:43 GMT",
+      "description": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
-      "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 09:19:53 GMT",
-      "description": "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Kemenkum jalankan Astacita sepanjang dua tahun pemerintahan",
+      "link": "https://www.antaranews.com/berita/5780365/kemenkum-jalankan-astacita-sepanjang-dua-tahun-pemerintahan",
+      "published": "Sun, 11 Oct 2026 01:09:05 +0700",
+      "description": "Kementerian Hukum terus menjalankan program Astacita sepanjang dua tahun pemerintahan Presiden Prabowo Subianto dan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Calvin Verdonk dapatkan menit bermain saat Lille tekuk Le Havre",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5780356/dean-james-sumbang-assist-saat-go-ahead-eagles-diimbangi-sparta",
       "published": "Sun, 11 Oct 2026 00:08:37 +0700",
       "description": "Bek sayap tim nasional Indonesia Dean James menyumbangkan assist saat timnya Go Ahead Eagels diimbangi Sparta Rotterdam ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Otoritas Panama kerahkan upaya darurat usai serangkaian gempa susulan",
-      "link": "https://www.antaranews.com/berita/5780353/otoritas-panama-kerahkan-upaya-darurat-usai-serangkaian-gempa-susulan",
-      "published": "Sun, 11 Oct 2026 00:07:37 +0700",
-      "description": "Pemerintah Panama mengerahkan personel dan sumber daya darurat untuk menangani dampak gempa bumi dahsyat yang diikuti ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
