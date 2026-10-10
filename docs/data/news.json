@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-10T12:31:05+0000",
+  "timestamp": "2026-10-10T13:02:06+0000",
   "articles": [
     {
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 04:38:20 GMT",
       "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 12:29:31 GMT",
+      "description": "Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Rogue Anthropic AI agent gave US police fake tip in unsolved murder case",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 10:06:23 GMT",
-      "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Pertamina hadirkan manfaat ekonomi bagi masyarakat dalam agenda MotoGP",
-      "link": "https://www.antaranews.com/berita/5780141/pertamina-hadirkan-manfaat-ekonomi-bagi-masyarakat-dalam-agenda-motogp",
-      "published": "Sat, 10 Oct 2026 19:27:23 +0700",
-      "description": "PT Pertamina Patra Niaga berkomitmen menghadirkan manfaat ekonomi bagi masyarakat melalui penyelenggaraan Pertamina ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Anggota DPD usul revisi Pergub DKI soal penyelenggaraan Abnon Jakarta",
-      "link": "https://www.antaranews.com/berita/5780137/anggota-dpd-usul-revisi-pergub-dki-soal-penyelenggaraan-abnon-jakarta",
-      "published": "Sat, 10 Oct 2026 19:24:30 +0700",
-      "description": "Anggota Dewan Perwakilan Daerah (DPD) RI dari Daerah Pemilihan (Dapil) DKI Jakarta, Profesor Dailami Firdaus ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bulog Tanjungpinang salurkan 49 ton jagung SPHP kepada peternak ayam",
-      "link": "https://www.antaranews.com/berita/5780132/bulog-tanjungpinang-salurkan-49-ton-jagung-sphp-kepada-peternak-ayam",
-      "published": "Sat, 10 Oct 2026 19:13:32 +0700",
-      "description": "Perum Bulog Kantor Cabang Tanjungpinang, Kepulauan Riau (Kepri), menyalurkan 49 ton jagung kepada peternak ayam guna ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Marc Marquez juara sesi sprint GP Mandalika 2026",
-      "link": "https://www.antaranews.com/video/5780117/marc-marquez-juara-sesi-sprint-gp-mandalika-2026",
-      "published": "Sat, 10 Oct 2026 19:12:47 +0700",
-      "description": "ANTARA - Pembalap Ducati Lenovo Team, Marc Marquez, menjuarai sesi sprint MotoGP di Sirkuit Mandalika, Lombok, Nusa ...",
+      "error": "unclosed token: line 663, column 0",
       "source": "Antara News",
       "category": "Indonesia"
     }
