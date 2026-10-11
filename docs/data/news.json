@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-11T05:34:04+0000",
+  "timestamp": "2026-10-11T06:05:06+0000",
   "articles": [
     {
       "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
@@ -32,11 +32,6 @@
       "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 662, column 2",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
