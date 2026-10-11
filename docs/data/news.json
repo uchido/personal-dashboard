@@ -1,8 +1,16 @@
 {
-  "timestamp": "2026-10-11T16:25:05+0000",
+  "timestamp": "2026-10-11T16:56:05+0000",
   "articles": [
     {
-      "title": "Attack on Saudi Arabian airport is another dangerous moment in already tense conflict",
+      "title": "Saudi capital airport hit by second strike in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 16:41:37 GMT",
+      "description": "Yemen's Houthi rebels claimed responsibility for attacks on the airport over the weekend, which have killed at least 13.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
       "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 15:32:32 GMT",
       "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Oct 2026 13:38:55 GMT",
-      "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Paus Leo XIV akan jalani operasi paru-paru di Roma",
+      "link": "https://www.antaranews.com/berita/5781254/paus-leo-xiv-akan-jalani-operasi-paru-paru-di-roma",
+      "published": "Sun, 11 Oct 2026 23:47:51 +0700",
+      "description": "Paus Leo XIV mengumumkan bahwa dirinya akan menjalani operasi pembedahan dalam beberapa hari mendatang untuk ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Zheng Qinwen cetak sejarah dengan juarai China Open 2026",
+      "link": "https://www.antaranews.com/berita/5781246/zheng-qinwen-cetak-sejarah-dengan-juarai-china-open-2026",
+      "published": "Sun, 11 Oct 2026 23:39:35 +0700",
+      "description": "Petenis China Zheng Qinwen mencetak sejarah dengan menjadi petenis China pertama yang menjuarai WTA 1000 China Open ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Pemkab Bangkalan bentuk tim khusus tekan pekerja migran ilegal",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5781240/como-1907-ditahan-imbang-10-pemain-as-roma-tanpa-gol",
       "published": "Sun, 11 Oct 2026 23:02:17 +0700",
       "description": "Como 1907 gagal memanfaatkan keunggulan jumlah pemain setelah ditahan imbang AS Roma tanpa gol dalam lanjutan pekan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Single debut “Memoria” tampilkan sisi personal El Putra Sarira",
-      "link": "https://www.antaranews.com/video/5781164/single-debut-memoria-tampilkan-sisi-personal-el-putra-sarira",
-      "published": "Sun, 11 Oct 2026 22:59:43 +0700",
-      "description": "ANTARA - Aktor El Putra Sarira menjajaki dunia tarik suara dengan mengeluarkan single debutnya berjudul \"Memoria\". Lagu ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Melihat sejarah perjuangan Baitul Maqdis di pameran \"3/3 Exhibition\"",
-      "link": "https://www.antaranews.com/video/5781196/melihat-sejarah-perjuangan-baitul-maqdis-di-pameran-3-3-exhibition",
-      "published": "Sun, 11 Oct 2026 22:56:04 +0700",
-      "description": "ANTARA - Pameran 3/3 di Bogor ulas sejarah perjuangan Baitul Maqdis\nLEAD- Pameran bertajuk \"3/3 Exhibition: The ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
