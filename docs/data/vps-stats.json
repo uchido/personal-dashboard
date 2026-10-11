@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-11T20:33:01+0000",
+  "timestamp": "2026-10-11T21:04:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 63.2,
+    "percent": 68.4,
     "cores": 2,
     "load_avg": [
-      2.26,
-      2.04,
-      1.91
+      2.28,
+      2.07,
+      1.97
     ]
   },
   "memory": {
@@ -25,14 +25,14 @@
   },
   "uptime": {
     "days": 104,
-    "hours": 8,
-    "minutes": 58,
-    "total_seconds": 9017929.3
+    "hours": 9,
+    "minutes": 29,
+    "total_seconds": 9019789.29
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
+      "cpu": "150",
       "mem": "0.4",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
