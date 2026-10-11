@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-10-11T16:56:05+0000",
+  "timestamp": "2026-10-11T17:27:05+0000",
   "articles": [
     {
-      "title": "Saudi capital airport hit by second strike in two days",
+      "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
       "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 16:41:37 GMT",
-      "description": "Yemen's Houthi rebels claimed responsibility for attacks on the airport over the weekend, which have killed at least 13.",
+      "description": "The Yemeni group says it carried out attacks that killed 13 people over the weekend and targeted two airports and oil facilities.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
       "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 15:32:32 GMT",
-      "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "description": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Paus Leo XIV akan jalani operasi paru-paru di Roma",
-      "link": "https://www.antaranews.com/berita/5781254/paus-leo-xiv-akan-jalani-operasi-paru-paru-di-roma",
-      "published": "Sun, 11 Oct 2026 23:47:51 +0700",
-      "description": "Paus Leo XIV mengumumkan bahwa dirinya akan menjalani operasi pembedahan dalam beberapa hari mendatang untuk ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Zheng Qinwen cetak sejarah dengan juarai China Open 2026",
-      "link": "https://www.antaranews.com/berita/5781246/zheng-qinwen-cetak-sejarah-dengan-juarai-china-open-2026",
-      "published": "Sun, 11 Oct 2026 23:39:35 +0700",
-      "description": "Petenis China Zheng Qinwen mencetak sejarah dengan menjadi petenis China pertama yang menjuarai WTA 1000 China Open ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemkab Bangkalan bentuk tim khusus tekan pekerja migran ilegal",
-      "link": "https://www.antaranews.com/berita/5781244/pemkab-bangkalan-bentuk-tim-khusus-tekan-pekerja-migran-ilegal",
-      "published": "Sun, 11 Oct 2026 23:21:03 +0700",
-      "description": "Pemerintah Kabupaten (Pemkab) Bangkalan, Jawa Timur membentuk tim khusus untuk menekan banyaknya warga yang bekerja di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Como 1907 ditahan imbang 10 pemain AS Roma tanpa gol",
-      "link": "https://www.antaranews.com/berita/5781240/como-1907-ditahan-imbang-10-pemain-as-roma-tanpa-gol",
-      "published": "Sun, 11 Oct 2026 23:02:17 +0700",
-      "description": "Como 1907 gagal memanfaatkan keunggulan jumlah pemain setelah ditahan imbang AS Roma tanpa gol dalam lanjutan pekan ...",
+      "error": "unclosed token: line 670, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
