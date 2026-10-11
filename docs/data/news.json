@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-11T12:17:06+0000",
+  "timestamp": "2026-10-11T12:48:06+0000",
   "articles": [
     {
       "title": "Riyadh airport attack another dangerous moment in already tense conflict",
@@ -20,7 +20,7 @@
     {
       "title": "Wildlife park remains closed after fatal tiger attack",
       "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Oct 2026 12:06:50 GMT",
+      "published": "Sun, 11 Oct 2026 12:38:02 GMT",
       "description": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 664, column 6",
+      "title": "Lewat Satu Benang Untuk Sade, BSI Ajak Masyarakat Bantu Pulihkan Desa Wisata di Lombok",
+      "link": "https://www.antaranews.com/berita/5781117/lewat-satu-benang-untuk-sade-bsi-ajak-masyarakat-bantu-pulihkan-desa-wisata-di-lombok",
+      "published": "Sun, 11 Oct 2026 19:46:39 +0700",
+      "description": "Menegaskan komitmennya dalam memperkuat ekosistem travel halal nasional serta mendorong pemberdayaan ekonomi berbasis ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KBRI London bantu pemulangan 13 WNI awak kapal kandas di Skotlandia",
+      "link": "https://www.antaranews.com/berita/5781114/kbri-london-bantu-pemulangan-13-wni-awak-kapal-kandas-di-skotlandia",
+      "published": "Sun, 11 Oct 2026 19:45:04 +0700",
+      "description": "Kedutaan Besar Republik Indonesia (KBRI) di London, Inggris, memfasilitasi kepulangan 13 Warga Negara Indonesia (WNI) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Tesla ganti nama fitur bantuan mengemudi jadi \"Assisted Driving\"",
+      "link": "https://otomotif.antaranews.com/berita/5781112/tesla-ganti-nama-fitur-bantuan-mengemudi-jadi-assisted-driving",
+      "published": "Sun, 11 Oct 2026 19:43:00 +0700",
+      "description": "Produsen otomotif asal Amerika Serikat (AS), Tesla mengambil keputusan untuk mengubah nama fitur bantuan mengemudi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pelatih PSS Sleman puas timnya tunjukkan permainan bola yang mengalir",
+      "link": "https://www.antaranews.com/berita/5781110/pelatih-pss-sleman-puas-timnya-tunjukkan-permainan-bola-yang-mengalir",
+      "published": "Sun, 11 Oct 2026 19:38:49 +0700",
+      "description": "Pelatih PSS Sleman Pieter Huistra mengaku puas dengan kemampuan timnya memperagakan permainan sepak bola yang mengalir ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
