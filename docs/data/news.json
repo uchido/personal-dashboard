@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-11T04:01:06+0000",
+  "timestamp": "2026-10-11T04:32:04+0000",
   "articles": [
     {
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 03:57:22 GMT",
-      "description": "Another 309 people were injured in an attack a Saudi-led military coalition called a \"war crime\".",
+      "description": "Saudi and US officials blame the attack on Yemen's Houthis, who have not taken responsibility for the latest strike.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Pengembangan PLTP perlu pertimbangkan keberlanjutan warisan lingkungan",
-      "link": "https://www.antaranews.com/berita/5780565/pengembangan-pltp-perlu-pertimbangkan-keberlanjutan-warisan-lingkungan",
-      "published": "Sun, 11 Oct 2026 11:00:20 +0700",
-      "description": "Direktur Eksekutif Center for Energy Security Studies (CESS) Dr. Ali Ahmudi Achyak mengatakan pengembangan Pembangkit ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Soroti kasus Cibinong-Depok, Rieke desak Perpres tata kelola lapas",
-      "link": "https://www.antaranews.com/berita/5780562/soroti-kasus-cibinong-depok-rieke-desak-perpres-tata-kelola-lapas",
-      "published": "Sun, 11 Oct 2026 10:58:53 +0700",
-      "description": "Anggota Komisi XIII DPR RI Rieke Diah Pitaloka mendorong penerbitan peraturan presiden (perpres) tentang tata kelola ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "LPDP Jakarta untuk disabilitas dan serangan Houthi ke Bandara Riyadh",
-      "link": "https://www.antaranews.com/berita/5780561/lpdp-jakarta-untuk-disabilitas-dan-serangan-houthi-ke-bandara-riyadh",
-      "published": "Sun, 11 Oct 2026 10:56:51 +0700",
-      "description": "Berbagai kanal di Antaranews.com memuat informasi menarik dan penting pada Minggu, ada peluang anak disabilitas ikut ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Saudi siapkan respons tegas usai serangan mematikan di Bandara Riyadh",
-      "link": "https://www.antaranews.com/berita/5780560/saudi-siapkan-respons-tegas-usai-serangan-mematikan-di-bandara-riyadh",
-      "published": "Sun, 11 Oct 2026 10:55:22 +0700",
-      "description": "Koalisi pimpinan Arab Saudi di Yaman pada Minggu berjanji akan memberikan respons &ldquo;tegas&rdquo; terhadap serangan ...",
+      "error": "unclosed token: line 661, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
