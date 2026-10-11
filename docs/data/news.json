@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-11T10:13:04+0000",
+  "timestamp": "2026-10-11T10:44:05+0000",
   "articles": [
     {
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -32,6 +32,11 @@
       "description": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "no element found: line 659, column 75",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
