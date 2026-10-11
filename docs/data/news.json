@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-11T05:03:05+0000",
+  "timestamp": "2026-10-11T05:34:04+0000",
   "articles": [
     {
       "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
@@ -28,40 +28,13 @@
     {
       "title": "US justice department investigates TV networks over Trump pool coverage",
       "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Oct 2026 00:49:17 GMT",
+      "published": "Sun, 11 Oct 2026 05:05:43 GMT",
       "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Veda Ega finis keenam, Quiles juara Moto3 2026",
-      "link": "https://www.antaranews.com/berita/5780629/veda-ega-finis-keenam-quiles-juara-moto3-2026",
-      "published": "Sun, 11 Oct 2026 11:58:39 +0700",
-      "description": "Pembalap Indonesia Veda Ega Pratama menuntaskan balapan kandangnya dengan finis keenam pada Moto3 Grand Prix Indonesia ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemkot Bengkulu targetkan verifikasi gerai KDKMP selesai akhir Oktober",
-      "link": "https://www.antaranews.com/berita/5780625/pemkot-bengkulu-targetkan-verifikasi-gerai-kdkmp-selesai-akhir-oktober",
-      "published": "Sun, 11 Oct 2026 11:52:12 +0700",
-      "description": "Pemerintah Kota (Pemkot) Bengkulu, Provinsi Bengkulu menargetkan pelaksanaan verifikasi dan validasi terhadap gerai ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Yaman desak PBB bertindak usai serangan milisi Houthi ke Bandara Aden",
-      "link": "https://www.antaranews.com/berita/5780621/yaman-desak-pbb-bertindak-usai-serangan-milisi-houthi-ke-bandara-aden",
-      "published": "Sun, 11 Oct 2026 11:46:33 +0700",
-      "description": "Pemerintah Yaman secara resmi melayangkan surat kepada Perserikatan Bangsa-Bangsa (PBB) dan Dewan Keamanan PBB menyusul ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Presiden Prabowo Subianto terima kunjungan Presiden Mesir di Istana Merdeka",
-      "link": "https://www.antaranews.com/foto/5780618/presiden-prabowo-subianto-terima-kunjungan-presiden-mesir-di-istana-merdeka",
-      "published": "Sun, 11 Oct 2026 11:43:51 +0700",
-      "description": "Presiden Prabowo Subianto (kanan) menyambut kedatangan Presiden Mesir Abdel Fattah al-Sisi di Istana Merdeka, Jakarta, ...",
+      "error": "unclosed token: line 662, column 2",
       "source": "Antara News",
       "category": "Indonesia"
     }
