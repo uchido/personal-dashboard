@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-11T17:27:05+0000",
+  "timestamp": "2026-10-11T17:58:05+0000",
   "articles": [
     {
-      "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
       "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 16:41:37 GMT",
-      "description": "The Yemeni group says it carried out attacks that killed 13 people over the weekend and targeted two airports and oil facilities.",
+      "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 670, column 6",
+      "title": "Zverev catat kemenangan ke-60 musim 2026 di Shanghai",
+      "link": "https://www.antaranews.com/berita/5781280/zverev-catat-kemenangan-ke-60-musim-2026-di-shanghai",
+      "published": "Mon, 12 Oct 2026 00:47:52 +0700",
+      "description": "Petenis Jerman Alexander Zverev mencatatkan kemenangan ke-60 musim 2026 setelah mengalahkan petenis Prancis Quentin ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "MotoGP tembus 157 ribu pengunjung, indikator dampak ekonomi tercapai",
+      "link": "https://www.antaranews.com/video/5781242/motogp-tembus-157-ribu-pengunjung-indikator-dampak-ekonomi-tercapai",
+      "published": "Mon, 12 Oct 2026 00:42:19 +0700",
+      "description": "ANTARA - Gelaran MotoGP seri Indonesia di Sirkuit Mandalika Lombok Nusa Tenggara Barat sukses mencatatkan rekor baru ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Nathan Tjoe-A-On main 81 menit, Willem II kalah 1-3 di markas Utrecht",
+      "link": "https://www.antaranews.com/berita/5781276/nathan-tjoe-a-on-main-81-menit-willem-ii-kalah-1-3-di-markas-utrecht",
+      "published": "Mon, 12 Oct 2026 00:32:31 +0700",
+      "description": "Willem II yang diperkuat pemain Timnas Indonesia, Nathan Tjoe-A-On, menelan kekalahan 1-3 saat bertandang ke markas ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Sukacita warga Palmerah, Jakbar terima program Bedah Rumah 2026",
+      "link": "https://www.antaranews.com/video/5781268/sukacita-warga-palmerah-jakbar-terima-program-bedah-rumah-2026",
+      "published": "Mon, 12 Oct 2026 00:26:20 +0700",
+      "description": "ANTARA - Pemerintah menargetkan sebanyak 10.300 unit rumah tidak layak huni di wilayah Jakarta selesai diperbaiki ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
