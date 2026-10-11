@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-11T08:09:05+0000",
+  "timestamp": "2026-10-11T08:40:05+0000",
   "articles": [
     {
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Universitas Terbuka targetkan mampu layani 1 juta mahasiswa pada 2029",
-      "link": "https://www.antaranews.com/berita/5780824/universitas-terbuka-targetkan-mampu-layani-1-juta-mahasiswa-pada-2029",
-      "published": "Sun, 11 Oct 2026 15:03:09 +0700",
-      "description": "Universitas Terbuka (UT) menargetkan dapat melayani minimal satu juta mahasiswa pada akhir tahun 2029 melalui sistem ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Indonesia dorong penelitian koleksi Raden Saleh yang ada di Belanda",
-      "link": "https://www.antaranews.com/berita/5780820/indonesia-dorong-penelitian-koleksi-raden-saleh-yang-ada-di-belanda",
-      "published": "Sun, 11 Oct 2026 15:02:23 +0700",
-      "description": "Menteri Kebudayaan Fadli Zon mendorong penelitian bersama Indonesia dan Belanda untuk menelusuri asal-usul koleksi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Satgas Pamtas gagalkan penyelundupan 5,2 kilogram sabu",
-      "link": "https://www.antaranews.com/berita/5780816/satgas-pamtas-gagalkan-penyelundupan-52-kilogram-sabu",
-      "published": "Sun, 11 Oct 2026 15:00:43 +0700",
-      "description": "Satgas Pengamanan Perbatasan (Pamtas) RI-Malaysia Yonarmed 19/Bogani menggagalkan penyelundupan 5,269 kilogram sabu dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menikmati sensasi petik melon hidroponik langsung di kebun",
-      "link": "https://www.antaranews.com/video/5780346/menikmati-sensasi-petik-melon-hidroponik-langsung-di-kebun",
-      "published": "Sun, 11 Oct 2026 15:00:41 +0700",
-      "description": "ANTARA -&nbsp;Sensasi memetik melon hidroponik langsung dari pohon di kebun, kini menjadi daya tarik agro-edukasi baru ...",
+      "error": "unclosed token: line 656, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
