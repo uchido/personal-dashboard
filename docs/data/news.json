@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-12T07:55:06+0000",
+  "timestamp": "2026-10-12T08:26:05+0000",
   "articles": [
     {
       "title": "Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Russell Brand arrives at court for start of rape trial",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 08:16:21 GMT",
+      "description": "The 51-year-old actor and comedian denies charges of rape and sexual assault against six women.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 22:45:58 GMT",
@@ -26,42 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-      "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 07:42:22 GMT",
-      "description": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Wamendukbangga dukung akses sanitasi layak cegah stunting dari rumah",
-      "link": "https://www.antaranews.com/berita/5781821/wamendukbangga-dukung-akses-sanitasi-layak-cegah-stunting-dari-rumah",
-      "published": "Mon, 12 Oct 2026 14:53:20 +0700",
-      "description": "Wakil Menteri Kependudukan dan Pembangunan Keluarga (Wamendukbangga)/Wakil Kepala BKKBN Ratu Ayu Isyana Bagoes Oka ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KPK panggil Sekda Sukoharjo pada kasus Etik Suryani",
-      "link": "https://www.antaranews.com/berita/5781817/kpk-panggil-sekda-sukoharjo-pada-kasus-etik-suryani",
-      "published": "Mon, 12 Oct 2026 14:49:52 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) memanggil Sekretaris Daerah Kabupaten Sukoharjo Abdul Haris Widodo untuk diperiksa ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Utusan Presiden serap aspirasi petani dan salurkan traktor di Bandung",
-      "link": "https://www.antaranews.com/berita/5781814/utusan-presiden-serap-aspirasi-petani-dan-salurkan-traktor-di-bandung",
-      "published": "Mon, 12 Oct 2026 14:49:47 +0700",
-      "description": "Utusan Khusus Presiden Bidang Ketahanan Pangan Muhamad Mardiono menyerap aspirasi petani sekaligus menyerahkan bantuan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hukuman mati dan persoalan kemanusiaan yang belum usai",
-      "link": "https://www.antaranews.com/berita/5781810/hukuman-mati-dan-persoalan-kemanusiaan-yang-belum-usai",
-      "published": "Mon, 12 Oct 2026 14:47:57 +0700",
-      "description": "Setiap 10 Oktober, dunia memperingati World Day Against the Death Penalty atau Hari Menentang Hukuman Mati ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
