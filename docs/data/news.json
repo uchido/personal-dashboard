@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-12T14:38:06+0000",
+  "timestamp": "2026-10-12T15:09:07+0000",
   "articles": [
     {
       "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
@@ -28,40 +28,13 @@
     {
       "title": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
       "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 14:21:12 GMT",
+      "published": "Mon, 12 Oct 2026 15:02:41 GMT",
       "description": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Capaian Cek Kesehatan Gratis di Sumbawa 41,15 persen",
-      "link": "https://www.antaranews.com/berita/5782646/capaian-cek-kesehatan-gratis-di-sumbawa-4115-persen",
-      "published": "Mon, 12 Oct 2026 21:36:10 +0700",
-      "description": "Dinas Kesehatan Kabupaten Sumbawa, Nusa Tenggara Barat mencatat cakupan program Cek Kesehatan Gratis (CKG) telah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Jaga kamtibmas ojek daring, Polres Banjarnegara fasilitasi pangkalan",
-      "link": "https://www.antaranews.com/video/5782585/jaga-kamtibmas-ojek-daring-polres-banjarnegara-fasilitasi-pangkalan",
-      "published": "Mon, 12 Oct 2026 21:34:54 +0700",
-      "description": "ANTARA -&nbsp;Polres Banjarnegara, Jawa tengah, memfasilitasi pangkalan bagi pengemudi ojek online sebagai tempat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemerintah buat program penguatan tenaga kerja mandiri agar naik kelas",
-      "link": "https://www.antaranews.com/berita/5782642/pemerintah-buat-program-penguatan-tenaga-kerja-mandiri-agar-naik-kelas",
-      "published": "Mon, 12 Oct 2026 21:34:53 +0700",
-      "description": "Pemerintah meluncurkan program penguatan kapasitas tenaga kerja mandiri (TKM), yang menyasar khususnya perempuan, untuk ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ribuan pelajar TK sampai SMA ikuti kompetisi seni di Jakarta Utara",
-      "link": "https://www.antaranews.com/berita/5782641/ribuan-pelajar-tk-sampai-sma-ikuti-kompetisi-seni-di-jakarta-utara",
-      "published": "Mon, 12 Oct 2026 21:32:27 +0700",
-      "description": "Ribuan pelajar dari&nbsp;TK hingga SMA mengikuti Lomba Apresiasi dan Kompetisi Seni Tingkat Pelajar Jakarta Utara Tahun ...",
+      "error": "unclosed token: line 662, column 2",
       "source": "Antara News",
       "category": "Indonesia"
     }
