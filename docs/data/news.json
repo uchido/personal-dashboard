@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-10-12T15:40:06+0000",
+  "timestamp": "2026-10-12T16:11:06+0000",
   "articles": [
+    {
+      "title": "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
+      "link": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 15:45:43 GMT",
+      "description": "The prime minister says Iran's Islamic Revolutionary Guard \"almost certainly\" directed the RAF Fairford incident.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
       "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
@@ -24,19 +32,6 @@
       "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 15:02:41 GMT",
-      "description": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 656, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
