@@ -1,27 +1,11 @@
 {
-  "timestamp": "2026-10-12T11:01:07+0000",
+  "timestamp": "2026-10-12T11:32:05+0000",
   "articles": [
     {
       "title": "Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 05:00:52 GMT",
       "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
-      "link": "https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 05:01:22 GMT",
-      "description": "Addressing the Commons, Burnham is expected to say that a new deal with the EU could help tackle illegal immigration and boost economic growth.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Russell Brand arrives at court for start of rape trial",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 08:16:21 GMT",
-      "description": "The 51-year-old actor and comedian denies charges of rape and sexual assault against six women.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +18,50 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 666, column 74",
+      "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 09:38:03 GMT",
+      "description": "Footage from inside the airport shows the moment the strike hit on Saturday.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
+      "link": "https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 05:01:22 GMT",
+      "description": "Addressing the Commons, Burnham is expected to say that a new deal with the EU could help tackle illegal immigration and boost economic growth.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Phapros salurkan bantuan bagi korban terdampak gempa dan karhutla",
+      "link": "https://www.antaranews.com/berita/5782316/phapros-salurkan-bantuan-bagi-korban-terdampak-gempa-dan-karhutla",
+      "published": "Mon, 12 Oct 2026 18:29:58 +0700",
+      "description": "PT Phapros Tbk bergerak cepat menyalurkan bantuan bagi masyarakat yang terdampak gempa bumi di Kabupaten Ende dan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menhut tekankan kewaspadaan dan koordinasi dalam penanganan karhutla",
+      "link": "https://www.antaranews.com/berita/5782312/menhut-tekankan-kewaspadaan-dan-koordinasi-dalam-penanganan-karhutla",
+      "published": "Mon, 12 Oct 2026 18:29:29 +0700",
+      "description": "Menteri Kehutanan (Menhut) Raja Juli Antoni menekankan pentingnya menjaga kewaspadaan dan menjalin koordinasi erat ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Samsung Galaxy S27 kemungkinan dipasarkan dengan harga lebih mahal",
+      "link": "https://www.antaranews.com/berita/5782308/samsung-galaxy-s27-kemungkinan-dipasarkan-dengan-harga-lebih-mahal",
+      "published": "Mon, 12 Oct 2026 18:27:52 +0700",
+      "description": "Samsung&nbsp;kemungkinan bakal memasarkan produk Galaxy S27 dengan harga yang lebih mahal dari produk pendahulunya ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Indonesia pamerkan inovasi pangan bernilai tambah di FAO Roma",
+      "link": "https://www.antaranews.com/berita/5782304/indonesia-pamerkan-inovasi-pangan-bernilai-tambah-di-fao-roma",
+      "published": "Mon, 12 Oct 2026 18:25:22 +0700",
+      "description": "Indonesia memperkenalkan berbagai inovasi dan produk pertanian bernilai tambah dalam pameran global From Seeds to Foods ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
