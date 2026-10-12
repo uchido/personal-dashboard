@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-12T15:09:07+0000",
+  "timestamp": "2026-10-12T15:40:06+0000",
   "articles": [
     {
       "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
@@ -34,7 +34,7 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 662, column 2",
+      "error": "unclosed token: line 656, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
