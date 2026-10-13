@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T10:16:04+0000",
+  "timestamp": "2026-10-13T10:47:06+0000",
   "articles": [
     {
       "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
@@ -32,11 +32,6 @@
       "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 667, column 0",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
