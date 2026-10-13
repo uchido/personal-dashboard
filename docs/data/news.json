@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T21:07:04+0000",
+  "timestamp": "2026-10-13T21:38:04+0000",
   "articles": [
     {
       "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
@@ -18,20 +18,28 @@
       "category": "Global"
     },
     {
-      "title": "Man killed in tiger attack identified as William Chapman",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 19:35:21 GMT",
-      "description": "Chapman, who was in his 20s, died after entering the tiger's enclosure at  Yorkshire Wildlife Park.",
+      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+      "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 21:37:07 GMT",
+      "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Football regulator says he would quit over any political interference in Man City case",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 16:00:18 GMT",
-      "description": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
+      "title": "Saudi national charged with secretly planting recording device in OpenAI office",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 21:33:19 GMT",
+      "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "Polisi usut alat bukti tiga laporan kekerasan seksual di Ponpes Bekasi",
+      "link": "https://www.antaranews.com/berita/5784689/polisi-usut-alat-bukti-tiga-laporan-kekerasan-seksual-di-ponpes-bekasi",
+      "published": "Wed, 14 Oct 2026 04:12:58 +0700",
+      "description": "Polisi masih mencari alat bukti untuk penetapan tersangka dalam tiga laporan kasus kekerasan seksual terhadap ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Al Nassr kalahkan Neftchi, Johor taklukkan Pohang​​​​​​​",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5784681/sporting-kalahkan-lens-sabah-tundukkan-praha",
       "published": "Wed, 14 Oct 2026 03:10:01 +0700",
       "description": "Sporting CP mengalahkan Lens, sedangkan Sabah menaklukkan Slavia Praha pada pertandingan kedua fase liga Liga ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "IFI Yogyakarta kenalkan teknik Bunraku memainkan teater boneka",
-      "link": "https://www.antaranews.com/video/5784677/ifi-yogyakarta-kenalkan-teknik-bunraku-memainkan-teater-boneka",
-      "published": "Wed, 14 Oct 2026 02:57:18 +0700",
-      "description": "ANTARA - Institut Fran&ccedil;is Indonesia (IFI) Yogyakarta mengenalkan teknik Bunraku dalam memainkan teater boneka ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
