@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T16:28:05+0000",
+  "timestamp": "2026-10-13T16:59:04+0000",
   "articles": [
     {
       "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
@@ -12,8 +12,16 @@
     {
       "title": "Man killed in tiger attack identified as William Chapman",
       "link": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 16:16:15 GMT",
+      "published": "Tue, 13 Oct 2026 16:30:58 GMT",
       "description": "A health and safety investigation is under way at Yorkshire Wildlife Park following the incident.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Majority of English football clubs on the edge of financial disaster, report says",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 16:00:11 GMT",
+      "description": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "Football regulator says he would quit over political interference in Man City case",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 16:00:18 GMT",
-      "description": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Siswa SDN 14 Dangin Puri latih kemandirian lewat MBG prasmanan",
+      "link": "https://www.antaranews.com/berita/5784641/siswa-sdn-14-dangin-puri-latih-kemandirian-lewat-mbg-prasmanan",
+      "published": "Tue, 13 Oct 2026 23:57:53 +0700",
+      "description": "Sekolah Dasar Negeri (SDN) 14 Dangin Puri, Denpasar, Bali melatih kemandirian dan rasa tanggung jawab para siswa ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemenag dan British Council tingkatkan kapasitas 6 ribu guru madrasah",
+      "link": "https://www.antaranews.com/berita/5784633/kemenag-dan-british-council-tingkatkan-kapasitas-6-ribu-guru-madrasah",
+      "published": "Tue, 13 Oct 2026 23:32:28 +0700",
+      "description": "Kementerian Agama bekerja sama dengan British Council meluncurkan program kolaborasi penguatan pembelajaran Bahasa ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Komdigi luncurkan Bali Tech Week 2026, dorong nilai ekonomi digital RI",
+      "link": "https://www.antaranews.com/video/5784561/komdigi-luncurkan-bali-tech-week-2026-dorong-nilai-ekonomi-digital-ri",
+      "published": "Tue, 13 Oct 2026 23:28:50 +0700",
+      "description": "ANTARA - Kementerian Komunikasi dan Digital (Komdigi) resmi meluncurkan Bali Tech Week (BTW) 2026, Selasa (13/10) yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemenpar dorong wastra jadi daya tarik destinasi lewat JFW 2027",
+      "link": "https://www.antaranews.com/berita/5784629/kemenpar-dorong-wastra-jadi-daya-tarik-destinasi-lewat-jfw-2027",
+      "published": "Tue, 13 Oct 2026 23:27:19 +0700",
+      "description": "Kementerian Pariwisata (Kemenpar) mendorong wastra&nbsp;Nusantara sebagai salah satu daya tarik destinasi melalui ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
