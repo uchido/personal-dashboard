@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-10-13T05:37:04+0000",
+  "timestamp": "2026-10-13T06:08:04+0000",
   "articles": [
+    {
+      "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+      "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 05:55:12 GMT",
+      "description": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Hundreds more prisoners to be freed in second phase of early release scheme",
       "link": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
@@ -26,42 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Publicly owned rail is popular. But is it making the trains run on time?",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 23:37:00 GMT",
-      "description": "Meeting travellers' expectations could be challenging, experts warn.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Beijing larang menteri Paraguay dan Belize masuk ke China",
-      "link": "https://www.antaranews.com/berita/5783160/beijing-larang-menteri-paraguay-dan-belize-masuk-ke-china",
-      "published": "Tue, 13 Oct 2026 12:34:08 +0700",
-      "description": "Kementerian Luar Negeri China mengumumkan Menteri Teknologi Informasi dan Komunikasi Paraguay, Gustavo Emigdio Villate ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Semeru sembilan kali erupsi dengan tinggi letusan hingga 900 meter",
-      "link": "https://www.antaranews.com/berita/5783156/semeru-sembilan-kali-erupsi-dengan-tinggi-letusan-hingga-900-meter",
-      "published": "Tue, 13 Oct 2026 12:31:41 +0700",
-      "description": "Gunung Semeru di perbatasan Kabupaten Lumajang dan Malang, Jawa Timur tercatat mengalami sembilan kali erupsi dengan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ketua DPD usul pemerintah kaji bantuan asing atasi karhutla",
-      "link": "https://www.antaranews.com/berita/5783152/ketua-dpd-usul-pemerintah-kaji-bantuan-asing-atasi-karhutla",
-      "published": "Tue, 13 Oct 2026 12:30:56 +0700",
-      "description": "Ketua DPD RI Sultan B Najamudin meminta pemerintah untuk mempertimbangkan tawaran bantuan dari negara tetangga maupun ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Xpeng luncurkan mobil listrik besar G9L di Eropa",
-      "link": "https://otomotif.antaranews.com/berita/5783148/xpeng-luncurkan-mobil-listrik-besar-g9l-di-eropa",
-      "published": "Tue, 13 Oct 2026 12:30:50 +0700",
-      "description": "Produsen otomotif asal China, Xpeng, meluncurkan mobil&nbsp;crossover listrik berukuran besar G9L di Eropa&nbsp;dengan ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
