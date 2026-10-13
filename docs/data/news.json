@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-13T11:49:04+0000",
+  "timestamp": "2026-10-13T12:20:13+0000",
   "articles": [
     {
-      "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
-      "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 09:38:54 GMT",
-      "description": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
+      "title": "MI5 tackling more state threats than during Cold War, warns intelligence chief",
+      "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 12:00:47 GMT",
+      "description": "Sir Ken McCallum says Russia, Iran and emerging threats from AI were increasing the risks to Britain.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Three things we've learnt about the UK economy from the IMF",
+      "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 11:58:43 GMT",
+      "description": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 08:03:34 GMT",
-      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Proses syuting film \"Perayaan Pertama\" sudah rampung",
+      "link": "https://www.antaranews.com/berita/5784065/proses-syuting-film-perayaan-pertama-sudah-rampung",
+      "published": "Tue, 13 Oct 2026 19:18:08 +0700",
+      "description": "Proses syuting film baru berjudul&nbsp;&quot;Perayaan Pertama&quot; atau&nbsp;&quot;First Breath After Coma&quot; karya ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Kecelakaan kereta api terjadi di Pakistan, sedikitnya lima orang tewas dan puluhan terluka",
+      "link": "https://www.antaranews.com/foto/5784061/kecelakaan-kereta-api-terjadi-di-pakistan-sedikitnya-lima-orang-tewas-dan-puluhan-terluka",
+      "published": "Tue, 13 Oct 2026 19:18:05 +0700",
+      "description": "Petugas mengevakuasi warga dari lokasi kecelakaan kereta api anjlok di Distrik Multan, Provinsi Punjab, Pakistan, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BMKG: Babel diselimuti kabut asap dari karhutla Kalimantan",
+      "link": "https://www.antaranews.com/berita/5784057/bmkg-babel-diselimuti-kabut-asap-dari-karhutla-kalimantan",
+      "published": "Tue, 13 Oct 2026 19:18:03 +0700",
+      "description": "Badan Meteorologi Klimatologi dan Geofisika (BMKG) Kota Pangkalpinang menyebutkan Provinsi Kepulauan Bangka Belitung ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BNPB: Kawasan industri rentan ancaman berantai bencana",
+      "link": "https://www.antaranews.com/berita/5784053/bnpb-kawasan-industri-rentan-ancaman-berantai-bencana",
+      "published": "Tue, 13 Oct 2026 19:17:17 +0700",
+      "description": "Badan Nasional Penanggulangan Bencana (BNPB) mengingatkan urgensi pembenahan sistem mitigasi dan kesiapsiagaan di ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
