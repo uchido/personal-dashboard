@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-10-14T14:41:02+0000",
+  "timestamp": "2026-10-14T15:12:02+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 68.4,
     "cores": 2,
     "load_avg": [
-      1.84,
-      1.96,
-      1.97
+      1.99,
+      2.0,
+      1.99
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.0,
+    "free": 1.1,
     "available": 6.1,
     "used": 5.5,
     "percent": 47.4
@@ -26,31 +26,19 @@
   "uptime": {
     "days": 107,
     "hours": 3,
-    "minutes": 6,
-    "total_seconds": 9256009.74
+    "minutes": 37,
+    "total_seconds": 9257870.29
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "85.7",
-      "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "50.1",
+      "cpu": "46.8",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "20.0",
+      "cpu": "23.0",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -59,6 +47,18 @@
       "cpu": "6.2",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "1.7",
+      "mem": "2.0",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "1.6",
+      "mem": "5.3",
+      "command": "openclaw-gateway"
     }
   ]
 }
