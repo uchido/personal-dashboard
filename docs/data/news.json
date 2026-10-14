@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-14T12:06:04+0000",
+  "timestamp": "2026-10-14T12:37:04+0000",
   "articles": [
     {
-      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "title": "Starlink network restrictions in Ukraine related to political situation, Zelensky aide says",
       "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 14 Oct 2026 11:32:07 GMT",
       "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
@@ -28,13 +28,40 @@
     {
       "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
       "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 10:06:48 GMT",
+      "published": "Wed, 14 Oct 2026 12:15:09 GMT",
       "description": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Facebook rilis fitur \"Your Algorithm\" untuk pengaturan algoritma",
+      "link": "https://www.antaranews.com/berita/5786537/facebook-rilis-fitur-your-algorithm-untuk-pengaturan-algoritma",
+      "published": "Wed, 14 Oct 2026 19:36:40 +0700",
+      "description": "Jejaring sosial besutan Meta&nbsp;Facebook&nbsp;mengenalkan fitur baru bernama &quot;Your Algorithm&quot; yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Realisasi KUR Perumahan capai Rp27,37 triliun, fasilitasi 110.000 UMKM",
+      "link": "https://www.antaranews.com/berita/5786533/realisasi-kur-perumahan-capai-rp2737-triliun-fasilitasi-110000-umkm",
+      "published": "Wed, 14 Oct 2026 19:35:23 +0700",
+      "description": "Kementerian Perumahan dan Kawasan Permukiman (PKP) mencatat realisasi penyaluran Kredit Usaha Rakyat (KUR) Perumahan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ombudsman dorong percepatan gedung Sekolah Rakyat Ponorogo",
+      "link": "https://www.antaranews.com/berita/5786529/ombudsman-dorong-percepatan-gedung-sekolah-rakyat-ponorogo",
+      "published": "Wed, 14 Oct 2026 19:34:12 +0700",
+      "description": "Ombudsman Republik Indonesia mendorong percepatan pembangunan gedung permanen Sekolah Rakyat di Kabupaten Ponorogo, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KPK sita barang bukti uang sekitar Rp3,3 miliar terkait OTT BNPB",
+      "link": "https://www.antaranews.com/berita/5786525/kpk-sita-barang-bukti-uang-sekitar-rp33-miliar-terkait-ott-bnpb",
+      "published": "Wed, 14 Oct 2026 19:33:40 +0700",
+      "description": "Komisi Pemberantasan Korupsi menyita barang bukti uang tunai sekitar Rp3,3 miliar terkait operasi tangkap tangan atau ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
