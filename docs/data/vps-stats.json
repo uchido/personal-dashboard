@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-14T02:17:03+0000",
+  "timestamp": "2026-10-14T02:48:03+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 81.0,
+    "percent": 100.0,
     "cores": 2,
     "load_avg": [
-      2.65,
-      2.45,
-      2.26
+      3.31,
+      2.97,
+      2.7
     ]
   },
   "memory": {
@@ -25,34 +25,34 @@
   },
   "uptime": {
     "days": 106,
-    "hours": 14,
-    "minutes": 42,
-    "total_seconds": 9211370.44
+    "hours": 15,
+    "minutes": 13,
+    "total_seconds": 9213230.64
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "133",
+      "cpu": "87.5",
       "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "command": "node /home/ubuntu/.npm-global/bin/9router"
     },
     {
       "user": "ubuntu",
-      "cpu": "44.6",
+      "cpu": "42.6",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "17.6",
-      "mem": "0.1",
-      "command": "python3 scripts/collect-vps.py"
+      "cpu": "15.9",
+      "mem": "10.4",
+      "command": "opencode run You are cloning an Awwwards Site of t"
     },
     {
       "user": "ubuntu",
-      "cpu": "15.4",
-      "mem": "9.3",
-      "command": "opencode run You are cloning an Awwwards Site of t"
+      "cpu": "9.0",
+      "mem": "0.1",
+      "command": "python3 scripts/collect-vps.py"
     },
     {
       "user": "ubuntu",
