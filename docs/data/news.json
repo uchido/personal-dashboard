@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-10-14T04:52:04+0000",
+  "timestamp": "2026-10-14T05:23:03+0000",
   "articles": [
     {
       "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
       "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 23:58:56 GMT",
       "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 05:01:07 GMT",
+      "description": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Watch: BBC joins police on front line against car theft",
+      "link": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 05:00:37 GMT",
+      "description": "Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 21:42:49 GMT",
-      "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Zelensky and Burnham to meet in Downing Street",
-      "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 21:31:30 GMT",
-      "description": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "RI-Inggris luncurkan Tangguh+ kuatkan kemitraan transformasi kesehatan",
-      "link": "https://www.antaranews.com/berita/5785185/ri-inggris-luncurkan-tangguh-kuatkan-kemitraan-transformasi-kesehatan",
-      "published": "Wed, 14 Oct 2026 11:46:27 +0700",
-      "description": "Kementerian Kesehatan bersama Pemerintah Inggris meluncurkan UK-Indonesia Health Partnership Platform atau Tangguh+ ...",
+      "title": "Kemenhaj harus pastikan keamanan jamaah umrah terdampak konflik Riyadh",
+      "link": "https://www.antaranews.com/berita/5785233/kemenhaj-harus-pastikan-keamanan-jamaah-umrah-terdampak-konflik-riyadh",
+      "published": "Wed, 14 Oct 2026 12:19:31 +0700",
+      "description": "Anggota Komisi VIII DPR Maman Imanul Haq mengatakan Kementerian Haji dan Umrah (Kemenhaj) harus memastikan keamanan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kejati Jambi kawal pembebasan lahan proyek SUTET 500 kV",
-      "link": "https://www.antaranews.com/berita/5785181/kejati-jambi-kawal-pembebasan-lahan-proyek-sutet-500-kv",
-      "published": "Wed, 14 Oct 2026 11:40:37 +0700",
-      "description": "Kejaksaan Tinggi Jambi mengawal proses pembebasan lahan dan penyediaan ruang bebas pembangunan jaringan transmisi ...",
+      "title": "PP Pelti targetkan pemerataan kualitas petenis",
+      "link": "https://www.antaranews.com/berita/5785229/pp-pelti-targetkan-pemerataan-kualitas-petenis",
+      "published": "Wed, 14 Oct 2026 12:13:01 +0700",
+      "description": "Sekjen Pengurus Pusat Persatuan Tenis Seluruh Indonesia (PP Pelti) Andi Fajar Asti mengatakan federasi menargetkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemensos jamin kebutuhan dasar penyintas banjir bandang di Padang",
-      "link": "https://www.antaranews.com/berita/5785177/kemensos-jamin-kebutuhan-dasar-penyintas-banjir-bandang-di-padang",
-      "published": "Wed, 14 Oct 2026 11:37:05 +0700",
-      "description": "Kementerian Sosial (Kemensos) memastikan pemenuhan kebutuhan dasar para penyintas banjir bandang di Kota Padang, ...",
+      "title": "BNPB akui ada beberapa ruangan yang disegel pasca OTT oleh KPK",
+      "link": "https://www.antaranews.com/berita/5785225/bnpb-akui-ada-beberapa-ruangan-yang-disegel-pasca-ott-oleh-kpk",
+      "published": "Wed, 14 Oct 2026 12:12:57 +0700",
+      "description": "Pelaksana tugas (Plt) Kepala Pusat Data, Informasi dan Komunikasi Kebencanaan Badan Nasional Penanggulangan Bencana ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Qatar akan lanjutkan ekspansi energi meski ada gangguan regional",
-      "link": "https://www.antaranews.com/berita/5785173/qatar-akan-lanjutkan-ekspansi-energi-meski-ada-gangguan-regional",
-      "published": "Wed, 14 Oct 2026 11:37:03 +0700",
-      "description": "Emir Qatar Sheikh Tamim bin Hamad al-Thani mengatakan pada Selasa (13/10) bahwa Qatar akan terus melanjutkan ...",
+      "title": "Flash Charging BYD meluncur di RI, mampu isi daya baterai 5 menit",
+      "link": "https://otomotif.antaranews.com/berita/5785221/flash-charging-byd-meluncur-di-ri-mampu-isi-daya-baterai-5-menit",
+      "published": "Wed, 14 Oct 2026 12:12:17 +0700",
+      "description": "BYD meluncurkan teknologi pengisian daya ultra cepat &ldquo;Flash Charging&rdquo; di Indonesia yang dikembangkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
