@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T11:21:08+0000",
+  "timestamp": "2026-10-15T11:52:06+0000",
   "articles": [
     {
       "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
@@ -20,7 +20,7 @@
     {
       "title": "Why Starlink internet is so important on the battlefield in Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 10:53:40 GMT",
+      "published": "Thu, 15 Oct 2026 11:25:19 GMT",
       "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "BKPM: Perjanjian investasi RI-Timor Leste perluas kerja sama ekonomi",
-      "link": "https://www.antaranews.com/berita/5788973/bkpm-perjanjian-investasi-ri-timor-leste-perluas-kerja-sama-ekonomi",
-      "published": "Thu, 15 Oct 2026 18:19:27 +0700",
-      "description": "Kementerian Investasi dan Hilirisasi/Badan Koordinasi Penanaman Modal (BKPM) menyatakan perjanjian investasi bilateral ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "MK beri waktu 2 tahun revisi UU Peradilan Militer",
-      "link": "https://www.antaranews.com/berita/5788969/mk-beri-waktu-2-tahun-revisi-uu-peradilan-militer",
-      "published": "Thu, 15 Oct 2026 18:19:10 +0700",
-      "description": "Mahkamah Konstitusi (MK) mewajibkan DPR dan pemerintah merevisi Undang-Undang Nomor 31 Tahun 1997 tentang Peradilan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menlu: Presiden setuju terima bantuan negara tetangga atasi karhutla",
-      "link": "https://www.antaranews.com/berita/5788965/menlu-presiden-setuju-terima-bantuan-negara-tetangga-atasi-karhutla",
-      "published": "Thu, 15 Oct 2026 18:18:51 +0700",
-      "description": "Menteri Luar Negeri (Menlu) Republik Indonesia Arrmanatha Nasir menyatakan Presiden Prabowo Subianto telah memberikan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Netflix PHK massal 1.000 karyawan, terbesar sejak 2022",
-      "link": "https://www.antaranews.com/berita/5788961/netflix-phk-massal-1000-karyawan-terbesar-sejak-2022",
-      "published": "Thu, 15 Oct 2026 18:18:41 +0700",
-      "description": "Platform pemutaran film daring Netflix dilaporkan melakukan pemutusan hubungan kerja (PHK) terhadap sekitar 1.000 ...",
+      "error": "unclosed token: line 657, column 87",
       "source": "Antara News",
       "category": "Indonesia"
     }
