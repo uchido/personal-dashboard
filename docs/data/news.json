@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T11:52:06+0000",
+  "timestamp": "2026-10-15T12:23:05+0000",
   "articles": [
     {
       "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
@@ -10,10 +10,10 @@
       "category": "Global"
     },
     {
-      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
       "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 10:27:26 GMT",
-      "description": "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.",
+      "published": "Thu, 15 Oct 2026 12:03:51 GMT",
+      "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,7 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 657, column 87",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
