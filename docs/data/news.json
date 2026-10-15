@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T02:03:04+0000",
+  "timestamp": "2026-10-15T02:34:05+0000",
   "articles": [
     {
       "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Komisi XI DPR ajak santri melek literasi keuangan",
-      "link": "https://www.antaranews.com/berita/5787381/komisi-xi-dpr-ajak-santri-melek-literasi-keuangan",
-      "published": "Thu, 15 Oct 2026 09:02:47 +0700",
-      "description": "Ketua Komisi XI DPR RI Mukhamad Misbakhun mengajak para santri untuk memahami literasi keuangan, mampu bersikap bijak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemenbud: IPCC di Yogyakarta perkuat seni tidak mengenal batas negara",
-      "link": "https://www.antaranews.com/berita/5787377/kemenbud-ipcc-di-yogyakarta-perkuat-seni-tidak-mengenal-batas-negara",
-      "published": "Thu, 15 Oct 2026 09:00:59 +0700",
-      "description": "Direktur Jenderal Diplomasi, Promosi, dan Kerja Sama Kebudayaan Kementerian Kebudayaan (Kemenbud) Endah T.D. ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ledakan di Pasar Cimanggis Tangerang Selatan, dua orang tewas",
-      "link": "https://www.antaranews.com/foto/5787373/ledakan-di-pasar-cimanggis-tangerang-selatan-dua-orang-tewas",
-      "published": "Thu, 15 Oct 2026 08:55:28 +0700",
-      "description": "Personel Brimob mengamati lokasi ledakan di Pasar Cimanggis, Tangerang Selatan, Banten, Rabu (14/10/2026). Ledakan yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "AAUI kembangkan asuransi tani berbasis parameter cuaca ekstrem",
-      "link": "https://www.antaranews.com/berita/5787369/aaui-kembangkan-asuransi-tani-berbasis-parameter-cuaca-ekstrem",
-      "published": "Thu, 15 Oct 2026 08:51:11 +0700",
-      "description": "Asosiasi Asuransi Umum Indonesia (AAUI) mengembangkan asuransi pertanian skema parametrik yang berbasis cuaca ekstrem ...",
+      "error": "unclosed token: line 675, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
