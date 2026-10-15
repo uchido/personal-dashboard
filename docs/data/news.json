@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T02:34:05+0000",
+  "timestamp": "2026-10-15T03:05:04+0000",
   "articles": [
     {
       "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
@@ -32,11 +32,6 @@
       "description": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 675, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
