@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T00:30:18+0000",
+  "timestamp": "2026-10-15T01:01:06+0000",
   "articles": [
     {
       "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Lisandro Martinez klarifikasi kritiknya ke manajemen Manchester United",
-      "link": "https://www.antaranews.com/berita/5787257/lisandro-martinez-klarifikasi-kritiknya-ke-manajemen-manchester-united",
-      "published": "Thu, 15 Oct 2026 07:28:26 +0700",
-      "description": "Bek Manchester United, Lisandro Martinez mengklarifikasi kritiknya yang diarahkan ke manajemen klub.\n\nIa mengakui ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kriminal Kemarin, penembakan di Kampung Ambon hingga tawuran maut",
-      "link": "https://www.antaranews.com/berita/5787253/kriminal-kemarin-penembakan-di-kampung-ambon-hingga-tawuran-maut",
-      "published": "Thu, 15 Oct 2026 07:25:10 +0700",
-      "description": "Sejumlah peristiwa yang berkaitan dengan kriminal dan keamanan terjadi di Jakarta pada Rabu (14/10), mulai dari ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Klasemen Liga Champions: PSG puncak, trio Italia di luar zona playoff",
-      "link": "https://www.antaranews.com/berita/5787249/klasemen-liga-champions-psg-puncak-trio-italia-di-luar-zona-playoff",
-      "published": "Thu, 15 Oct 2026 07:24:48 +0700",
-      "description": "Paris Saint-Germain (PSG) naik ke puncak klasemen Liga Champions 2026/27 setelah mengalahkan Manchester City dengan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemarin, lagu Olivia Rodrigo-Chappel Roan hingga domain aksara jawa",
-      "link": "https://www.antaranews.com/berita/5787245/kemarin-lagu-olivia-rodrigo-chappel-roan-hingga-domain-aksara-jawa",
-      "published": "Thu, 15 Oct 2026 07:20:58 +0700",
-      "description": "Sejumlah berita menarik dari kanal lifestyle, tekno, otomotif, dan hiburan pada Rabu (14/10) di antaranya mulai dari ...",
+      "error": "unclosed token: line 677, column 4",
       "source": "Antara News",
       "category": "Indonesia"
     }
