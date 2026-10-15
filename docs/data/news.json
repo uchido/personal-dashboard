@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-15T12:23:05+0000",
+  "timestamp": "2026-10-15T12:54:06+0000",
   "articles": [
     {
       "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
       "link": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 11:07:13 GMT",
+      "published": "Thu, 15 Oct 2026 12:45:22 GMT",
       "description": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
       "source": "BBC News",
       "category": "Global"
@@ -18,14 +18,6 @@
       "category": "Global"
     },
     {
-      "title": "Why Starlink internet is so important on the battlefield in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 11:25:19 GMT",
-      "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "UK threatens to ban Eritreans over migrant return policy",
       "link": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 09:17:57 GMT",
@@ -34,7 +26,42 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Watch: Swimmer's emotional TV plea for cancer research leads to meeting with PM",
+      "link": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 10:56:25 GMT",
+      "description": "Scottish athlete, Archie Goodburn, who was diagnosed with three inoperable brain tumours two years ago, met Andy Burnham after an appeal for more investment into brain cancer research.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Menko Polkam desak aparat tindak tegas pelaku karhutla di Sumsel",
+      "link": "https://www.antaranews.com/berita/5789445/menko-polkam-desak-aparat-tindak-tegas-pelaku-karhutla-di-sumsel",
+      "published": "Thu, 15 Oct 2026 19:52:26 +0700",
+      "description": "Menteri Koordinator Bidang Politik dan Keamanan (Menko Polkam) Dudung Abdurachman mendesak aparat penegak hukum ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "20 penyu hijau yang diselamatkan dari penyelundupan dilepasliarkan",
+      "link": "https://www.antaranews.com/berita/5789441/20-penyu-hijau-yang-diselamatkan-dari-penyelundupan-dilepasliarkan",
+      "published": "Thu, 15 Oct 2026 19:51:53 +0700",
+      "description": "Sebanyak 20 dari 22 penyu hijau yang diselamatkan dari dugaan penyelundupan di Pantai Serangan, Denpasar Selatan, Bali, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Bakom RI: Pertumbuhan ekonomi harus inklusif dan berdayakan masyarakat",
+      "link": "https://www.antaranews.com/berita/5789437/bakom-ri-pertumbuhan-ekonomi-harus-inklusif-dan-berdayakan-masyarakat",
+      "published": "Thu, 15 Oct 2026 19:51:28 +0700",
+      "description": "Tenaga Ahli Badan Komunikasi Pemerintah (Bakom) RI Fithra Faisal Hastiadi menilai target pertumbuhan ekonomi nasional ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Polda Jatim dalami kebakaran Bromo yang tewaskan tiga orang",
+      "link": "https://www.antaranews.com/berita/5789433/polda-jatim-dalami-kebakaran-bromo-yang-tewaskan-tiga-orang",
+      "published": "Thu, 15 Oct 2026 19:51:24 +0700",
+      "description": "Kepolisian Daerah Jawa Timur mendalami kronologi kebakaran hutan dan lahan (karhutla) di kawasan Taman Nasional Bromo ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
