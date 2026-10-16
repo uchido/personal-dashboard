@@ -1,52 +1,46 @@
 {
-  "timestamp": "2026-10-16T15:46:02+0000",
+  "timestamp": "2026-10-16T16:17:02+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 84.2,
+    "percent": 57.9,
     "cores": 2,
     "load_avg": [
-      2.15,
-      2.02,
-      1.92
+      1.92,
+      1.98,
+      1.96
     ]
   },
   "memory": {
     "total": 11.6,
     "free": 1.0,
-    "available": 5.8,
-    "used": 5.8,
-    "percent": 50.0
+    "available": 6.0,
+    "used": 5.6,
+    "percent": 48.3
   },
   "disk": {
     "total": "193G",
     "used": "153G",
     "available": "41G",
-    "percent": "79%"
+    "percent": "80%"
   },
   "uptime": {
     "days": 109,
     "hours": 4,
-    "minutes": 11,
-    "total_seconds": 9432710.22
+    "minutes": 42,
+    "total_seconds": 9434569.51
   },
   "top_processes": [
     {
       "user": "ubuntu",
       "cpu": "100",
       "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "command": "node /home/ubuntu/.npm-global/bin/9router"
     },
     {
       "user": "ubuntu",
-      "cpu": "45.9",
+      "cpu": "54.2",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
-    },
-    {
-      "user": "root",
-      "cpu": "39.9",
-      "mem": "0.5",
-      "command": "/opt/unified-monitoring-agent/embedded/bin/ruby /o"
     },
     {
       "user": "ubuntu",
@@ -59,6 +53,12 @@
       "cpu": "6.2",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "1.7",
+      "mem": "2.0",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
