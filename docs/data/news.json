@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T20:25:04+0000",
+  "timestamp": "2026-10-16T20:56:04+0000",
   "articles": [
     {
       "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 16:07:37 GMT",
+      "description": "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Man killed by tiger may have had medical records breached by NHS staff",
       "link": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 16:53:07 GMT",
@@ -26,12 +34,12 @@
       "category": "Global"
     },
     {
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 14:31:04 GMT",
-      "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Kasus BNPB, KPK akan bersurat ke Panglima TNI terkait prajurit aktif",
+      "link": "https://www.antaranews.com/berita/5792633/kasus-bnpb-kpk-akan-bersurat-ke-panglima-tni-terkait-prajurit-aktif",
+      "published": "Sat, 17 Oct 2026 03:42:04 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) mengaku akan bersurat kepada Panglima TNI dalam penyidikan kasus dugaan korupsi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "KPK beri tahu Puspom TNI soal peran eks Kepala BNPB dalam kasus BNPB",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5792621/kadin-teken-kesepakatan-dengan-senegal-perkuat-kerja-sama-investasi",
       "published": "Sat, 17 Oct 2026 02:33:03 +0700",
       "description": "Kamar Dagang dan Industri (Kadin) Indonesia menandatangani perjanjian kemitraan (partnership agreement) dengan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Persiapan Arema FC jelang hadapi Garudayaksa FC berjalan lancar",
-      "link": "https://www.antaranews.com/berita/5792617/persiapan-arema-fc-jelang-hadapi-garudayaksa-fc-berjalan-lancar",
-      "published": "Sat, 17 Oct 2026 02:29:58 +0700",
-      "description": "Pelatih Arema FC Marcos Santos mengatakan persiapan tim asuhannya menjelang laga menghadapi Garudayaksa FC berjalan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
