@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T00:47:04+0000",
+  "timestamp": "2026-10-16T01:18:04+0000",
   "articles": [
     {
       "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Gubernur NTB tawarkan pariwisata dan investasi EBT ke delegasi UEA",
-      "link": "https://www.antaranews.com/berita/5790325/gubernur-ntb-tawarkan-pariwisata-dan-investasi-ebt-ke-delegasi-uea",
-      "published": "Fri, 16 Oct 2026 07:42:05 +0700",
-      "description": "Pemerintah Provinsi Nusa Tenggara Barat (NTB) menawarkan konsep pariwisata berkualitas hingga investasi energi baru ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hasil Liga Conference: Ajax kalah, klub Mohamed Salah menang atas KuPS",
-      "link": "https://www.antaranews.com/berita/5790321/hasil-liga-conference-ajax-kalah-klub-mohamed-salah-menang-atas-kups",
-      "published": "Fri, 16 Oct 2026 07:42:01 +0700",
-      "description": "Matchday pertama Liga Conference 2026/27 menyajikan sejumlah hasil menarik pada Kamis (15/10) hingga Jumat (16/10) dini ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pesawat C919 angkut lebih dari 8,4 juta penumpang sejak beroperasi",
-      "link": "https://www.antaranews.com/berita/5790317/pesawat-c919-angkut-lebih-dari-84-juta-penumpang-sejak-beroperasi",
-      "published": "Fri, 16 Oct 2026 07:35:26 +0700",
-      "description": "Pesawat penumpang C919 buatan dalam negeri China telah mengangkut lebih dari 8,4 juta penumpang dan melayani 27 kota ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ketika akses PLN kini terbuka di Koperasi Desa Merah Putih",
-      "link": "https://www.antaranews.com/video/5790193/ketika-akses-pln-kini-terbuka-di-koperasi-desa-merah-putih",
-      "published": "Fri, 16 Oct 2026 07:35:02 +0700",
-      "description": "ANTARA - Mengurus kebutuhan rumah tangga di pelosok desa seringkali memakan waktu dan biaya transportasi ekstra. Namun ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
