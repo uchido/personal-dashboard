@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-16T06:28:04+0000",
+  "timestamp": "2026-10-16T06:59:04+0000",
   "articles": [
     {
       "title": "Three children and teacher killed in US primary school shooting",
       "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 03:45:09 GMT",
-      "description": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
+      "description": "The suspect was shot dead by an armed bystander who followed him into the Oregon school, police said.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Banks say Healey planning to increase tax on their profits in Budget",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 06:42:12 GMT",
+      "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,52 +26,12 @@
       "category": "Global"
     },
     {
-      "title": "Banks say Healey planning to increase tax on their profits in Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 17:14:36 GMT",
-      "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Porn showing choking or incest to be banned from early November, government says",
       "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 23:27:57 GMT",
       "description": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "UIN Jakarta didaulat sebagai kampus pendukung zakat terbaik",
-      "link": "https://www.antaranews.com/berita/5790853/uin-jakarta-didaulat-sebagai-kampus-pendukung-zakat-terbaik",
-      "published": "Fri, 16 Oct 2026 13:24:42 +0700",
-      "description": "UIN Syarif Hidayatullah Jakarta menerima penghargaan sebagai Lembaga Pendidikan Pendukung Zakat Terbaik dalam ajang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Sedikitnya 350 anak Palestina hadapi penyiksaan di penjara Israel",
-      "link": "https://www.antaranews.com/berita/5790849/sedikitnya-350-anak-palestina-hadapi-penyiksaan-di-penjara-israel",
-      "published": "Fri, 16 Oct 2026 13:24:32 +0700",
-      "description": "Khaled Quzmar, direktur eksekutif Palestinian Center for Child Rights memperingatkan kondisi yang semakin buruk yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "MK beri tenggat dua tahun, Kemenkum mulai kaji UU Peradilan Militer",
-      "link": "https://www.antaranews.com/berita/5790845/mk-beri-tenggat-dua-tahun-kemenkum-mulai-kaji-uu-peradilan-militer",
-      "published": "Fri, 16 Oct 2026 13:24:11 +0700",
-      "description": "Kementerian Hukum (Kemenkum) mengkaji putusan Mahkamah Konstitusi (MK) yang mewajibkan pemerintah dan DPR untuk ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Tesla pamerkan Roadster generasi terbaru dengan pendorong gas dingin",
-      "link": "https://otomotif.antaranews.com/berita/5790841/tesla-pamerkan-roadster-generasi-terbaru-dengan-pendorong-gas-dingin",
-      "published": "Fri, 16 Oct 2026 13:23:02 +0700",
-      "description": "Tesla memamerkan mobil Roadster generasi terbaru yang hadir dengan opsi pendorong gas dingin sekitar sembilan tahun ...",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
