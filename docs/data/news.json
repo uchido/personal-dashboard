@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-16T09:03:04+0000",
+  "timestamp": "2026-10-16T09:34:04+0000",
   "articles": [
     {
       "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
       "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 03:45:09 GMT",
       "description": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, police say.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Community 'heartbroken and horrified' after Oregon school shooting",
+      "link": "https://www.bbc.co.uk/news/videos/cjy56wl6l90ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 09:24:19 GMT",
+      "description": "A 16-year-old killed three children and a teacher at a primary school in Oregon before he was killed by a bystander, police say.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "Porn showing choking or incest to be banned from early November, government says",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 23:27:57 GMT",
-      "description": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Rosan: Koreksi saham jadi momentum Danantara investasi di pasar modal",
+      "link": "https://www.antaranews.com/berita/5791393/rosan-koreksi-saham-jadi-momentum-danantara-investasi-di-pasar-modal",
+      "published": "Fri, 16 Oct 2026 16:31:06 +0700",
+      "description": "Chief Executive Officer (CEO) Badan Pengelola Investasi Daya Anagata Nusantara (Danantara) Rosan Roeslani menilai ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemenperin dorong vokasi beri kompetensi sesuai kebutuhan industri",
+      "link": "https://www.antaranews.com/berita/5791389/kemenperin-dorong-vokasi-beri-kompetensi-sesuai-kebutuhan-industri",
+      "published": "Fri, 16 Oct 2026 16:30:31 +0700",
+      "description": "Kementerian Perindustrian (Kemenperin) berupaya memastikan pendidikan dan pelatihan vokasi menghasilkan tenaga kerja ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BNPT: Perubahan pola pendanaan terorisme tuntut kewaspadaan semua",
+      "link": "https://www.antaranews.com/berita/5791385/bnpt-perubahan-pola-pendanaan-terorisme-tuntut-kewaspadaan-semua",
+      "published": "Fri, 16 Oct 2026 16:30:14 +0700",
+      "description": "Badan Nasional Penanggulangan Terorisme (BNPT) mengungkapkan perubahan pola pendanaan terorisme menuntut kewaspadaan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "LRT Jakarta Sudah Sampai Manggarai, KAI Dukung Penyelesaian Akses Langsung ke Stasiun KAI Manggarai",
+      "link": "https://www.antaranews.com/berita/5791381/lrt-jakarta-sudah-sampai-manggarai-kai-dukung-penyelesaian-akses-langsung-ke-stasiun-kai-manggarai",
+      "published": "Fri, 16 Oct 2026 16:29:30 +0700",
+      "description": "PT Kereta Api Indonesia (Persero) mendukung pengembangan integrasi transportasi publik di kawasan Manggarai seiring ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
