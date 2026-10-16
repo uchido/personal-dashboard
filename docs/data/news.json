@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-16T12:40:07+0000",
+  "timestamp": "2026-10-16T13:11:04+0000",
   "articles": [
     {
       "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
       "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 12:14:12 GMT",
+      "published": "Fri, 16 Oct 2026 13:01:06 GMT",
       "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
       "source": "BBC News",
       "category": "Global"
@@ -20,7 +20,7 @@
     {
       "title": "Norwegian teen 'hitman' detained for UK murder plot",
       "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 12:25:28 GMT",
+      "published": "Fri, 16 Oct 2026 12:51:39 GMT",
       "description": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,7 @@
       "category": "Global"
     },
     {
-      "error": "no element found: line 653, column 262",
+      "error": "unclosed CDATA section: line 654, column 77",
       "source": "Antara News",
       "category": "Indonesia"
     }
