@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-16T13:11:04+0000",
+  "timestamp": "2026-10-16T13:42:05+0000",
   "articles": [
     {
-      "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 13:01:06 GMT",
-      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 13:25:48 GMT",
+      "description": "EU leaders rally around Ukraine's leader after Donald Trump says he is \"more difficult to work with than Putin\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Norwegian teen 'hitman' detained for UK murder plot",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 13:17:41 GMT",
+      "description": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,23 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Norwegian teen 'hitman' detained for UK murder plot",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 12:51:39 GMT",
-      "description": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
+      "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 13:01:06 GMT",
+      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-      "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 11:41:58 GMT",
-      "description": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Dinkes Jabar minta pengetatan uji organoleptik jaga kualitas MBG",
+      "link": "https://www.antaranews.com/berita/5792085/dinkes-jabar-minta-pengetatan-uji-organoleptik-jaga-kualitas-mbg",
+      "published": "Fri, 16 Oct 2026 20:37:06 +0700",
+      "description": "Dinas Kesehatan Provinsi Jawa Barat meminta pengelola Satuan Pelayanan Pemenuhan Gizi (SPPG) Makan Bergizi Gratis (MBG) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed CDATA section: line 654, column 77",
+      "title": "Pertamina pastikan penyaluran BBM jerigen langsung ke tangki kendaraan",
+      "link": "https://www.antaranews.com/berita/5792081/pertamina-pastikan-penyaluran-bbm-jerigen-langsung-ke-tangki-kendaraan",
+      "published": "Fri, 16 Oct 2026 20:35:11 +0700",
+      "description": "PT Pertamina Patra Niaga memastikan program penyaluran bahan bakar minyak (BBM) menggunakan jerigen di sejumlah SPBU ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Putri KW alihkan fokus ke French Open setelah terhenti di Denmark",
+      "link": "https://www.antaranews.com/berita/5792077/putri-kw-alihkan-fokus-ke-french-open-setelah-terhenti-di-denmark",
+      "published": "Fri, 16 Oct 2026 20:34:56 +0700",
+      "description": "Indonesia Putri Kusuma Wardani mengalihkan fokus ke French Open setelah terhenti pada babak perempat final Denmark Open ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Indonesia bidik pasar nontradisional, jajaki bisnis di Afrika barat",
+      "link": "https://www.antaranews.com/berita/5792073/indonesia-bidik-pasar-nontradisional-jajaki-bisnis-di-afrika-barat",
+      "published": "Fri, 16 Oct 2026 20:30:19 +0700",
+      "description": "Kementerian Luar Negeri Republik Indonesia (Kemlu RI) melalui Kedutaan Besar Republik Indonesia (KBRI) di Dakar, ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
