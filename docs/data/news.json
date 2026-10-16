@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T04:24:04+0000",
+  "timestamp": "2026-10-16T04:55:04+0000",
   "articles": [
     {
       "title": "Three children and teacher killed in US primary school shooting",
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 664, column 6",
+      "title": "Pertamina Patra Niaga dorong kemandirian disabilitas di Bitung",
+      "link": "https://www.antaranews.com/berita/5790673/pertamina-patra-niaga-dorong-kemandirian-disabilitas-di-bitung",
+      "published": "Fri, 16 Oct 2026 11:45:25 +0700",
+      "description": "PT Pertamina Patra Niaga Regional Sulawesi mendorong kemandirian penyandang disabilitas di Bitung, Sulawesi Utara, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemerintah antisipasi ancaman komputasi kuantum terhadap keamanan data",
+      "link": "https://www.antaranews.com/berita/5790669/pemerintah-antisipasi-ancaman-komputasi-kuantum-terhadap-keamanan-data",
+      "published": "Fri, 16 Oct 2026 11:41:08 +0700",
+      "description": "Pemerintah mengantisipasi ancaman perkembangan komputasi kuantum terhadap keamanan data digital melalui kesiapan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "OJK: Bank bisa pilih mekanisme pemenuhan \"free float\" sesuai kondisi",
+      "link": "https://www.antaranews.com/berita/5790665/ojk-bank-bisa-pilih-mekanisme-pemenuhan-free-float-sesuai-kondisi",
+      "published": "Fri, 16 Oct 2026 11:39:04 +0700",
+      "description": "Otoritas Jasa Keuangan (OJK) memberikan ruang kepada bank dan pemegang saham untuk memilih langkah yang sesuai dengan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Disbun Kaltim tetapkan harga tertinggi TBS sawit Rp3.542 per kg",
+      "link": "https://www.antaranews.com/berita/5790661/disbun-kaltim-tetapkan-harga-tertinggi-tbs-sawit-rp3542-per-kg",
+      "published": "Fri, 16 Oct 2026 11:30:50 +0700",
+      "description": "Dinas Perkebunan Provinsi Kalimantan Timur menetapkan harga tertinggi tandan buah segar (TBS) kelapa sawit periode 1-15 ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
