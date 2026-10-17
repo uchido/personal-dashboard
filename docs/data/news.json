@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-17T08:18:03+0000",
+  "timestamp": "2026-10-17T08:49:04+0000",
   "articles": [
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -18,10 +18,10 @@
       "category": "Global"
     },
     {
-      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 03:57:16 GMT",
-      "description": "It comes after the prime minister refused to say whether he backed expansion.",
+      "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+      "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 08:34:44 GMT",
+      "description": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 668, column 6",
+      "title": "Pemkab Lombok Barat siapkan sekolah rakyat berkapasitas 2.000 siswa",
+      "link": "https://www.antaranews.com/berita/5793245/pemkab-lombok-barat-siapkan-sekolah-rakyat-berkapasitas-2000-siswa",
+      "published": "Sat, 17 Oct 2026 15:41:11 +0700",
+      "description": "Pemerintah Kabupaten Lombok Barat di Nusa Tenggara Barat (NTB) menyiapkan lahan seluas 8,6 hektare untuk pembangunan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Gubernur Banten terapkan wajib mengaji jadi muatan lokal SMA/SMK",
+      "link": "https://www.antaranews.com/berita/5793241/gubernur-banten-terapkan-wajib-mengaji-jadi-muatan-lokal-sma-smk",
+      "published": "Sat, 17 Oct 2026 15:38:44 +0700",
+      "description": "Gubernur Banten Andra Soni menginstruksikan program wajib mengaji tidak sekadar menjadi kegiatan ekstrakurikuler, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Polri tangani 395 aduan ketenagakerjaan sejak 2025",
+      "link": "https://www.antaranews.com/berita/5793237/polri-tangani-395-aduan-ketenagakerjaan-sejak-2025",
+      "published": "Sat, 17 Oct 2026 15:35:25 +0700",
+      "description": "Kepolisian Negara Republik Indonesia (Polri) menerima 395 laporan dan pengaduan terkait&nbsp;ketenagakerjaan sejak ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ekonom dorong RI percepat investasi hijau usai forum IMF-Bank Dunia",
+      "link": "https://www.antaranews.com/berita/5793233/ekonom-dorong-ri-percepat-investasi-hijau-usai-forum-imf-bank-dunia",
+      "published": "Sat, 17 Oct 2026 15:35:17 +0700",
+      "description": "Kepala Ekonom Permata Bank Josua Pardede menilai Pemerintah Indonesia perlu memprioritaskan realisasi proyek investasi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
