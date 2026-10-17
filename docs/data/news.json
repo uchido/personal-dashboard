@@ -1,19 +1,11 @@
 {
-  "timestamp": "2026-10-17T05:43:03+0000",
+  "timestamp": "2026-10-17T06:14:04+0000",
   "articles": [
     {
       "title": "Trump waives several Russia sanctions as new US law takes effect",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 05:02:50 GMT",
       "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 03:57:16 GMT",
-      "description": "It comes after the prime minister refused to say whether he backed expansion.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 03:57:16 GMT",
+      "description": "It comes after the prime minister refused to say whether he backed expansion.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
       "link": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 21:02:18 GMT",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "RI menjajaki peluang investasi pengolahan singkong di Mozambik",
-      "link": "https://www.antaranews.com/berita/5793033/ri-menjajaki-peluang-investasi-pengolahan-singkong-di-mozambik",
-      "published": "Sat, 17 Oct 2026 12:41:21 +0700",
-      "description": "Menteri Perdagangan (Mendag) Budi Santoso&nbsp;menyatakan Kementerian Perdagangan (Kemendag) sedang menjajaki peluang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemerintah memperpanjang penahapan sertifikasi halal hingga 2028",
-      "link": "https://www.antaranews.com/berita/5793025/pemerintah-memperpanjang-penahapan-sertifikasi-halal-hingga-2028",
-      "published": "Sat, 17 Oct 2026 12:37:32 +0700",
-      "description": "Pemerintah memperpanjang masa penahapan kewajiban sertifikasi halal bagi sejumlah produk dan jasa hingga Oktober 2028, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KBRI Ankara raih 3 Primaduta Award berkat perluasan pasar RI",
-      "link": "https://www.antaranews.com/berita/5793021/kbri-ankara-raih-3-primaduta-award-berkat-perluasan-pasar-ri",
-      "published": "Sat, 17 Oct 2026 12:35:03 +0700",
-      "description": "Kedutaan Besar Republik Indonesia (KBRI) Ankara meraih tiga penghargaan Primaduta Award berkat kontribusi dalam ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kemdiktisaintek: SMA Garuda di TTS NTT siapkan talenta unggul",
-      "link": "https://www.antaranews.com/berita/5793017/kemdiktisaintek-sma-garuda-di-tts-ntt-siapkan-talenta-unggul",
-      "published": "Sat, 17 Oct 2026 12:33:07 +0700",
-      "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi (Kemdiktisaintek) menyebut SMA Unggul Garuda Timor Tengah Selatan ...",
+      "error": "no element found: line 662, column 263",
       "source": "Antara News",
       "category": "Indonesia"
     }
