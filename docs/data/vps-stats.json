@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-10-17T21:44:01+0000",
+  "timestamp": "2026-10-17T22:15:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 65.0,
+    "percent": 61.1,
     "cores": 2,
     "load_avg": [
-      2.21,
-      2.15,
-      2.06
+      2.11,
+      1.93,
+      1.86
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.0,
+    "free": 1.1,
     "available": 6.0,
     "used": 5.6,
     "percent": 48.3
@@ -26,13 +26,19 @@
   "uptime": {
     "days": 110,
     "hours": 10,
-    "minutes": 9,
-    "total_seconds": 9540589.09
+    "minutes": 40,
+    "total_seconds": 9542449.06
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "60.3",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "58.3",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
@@ -53,12 +59,6 @@
       "cpu": "1.7",
       "mem": "2.0",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "1.6",
-      "mem": "6.1",
-      "command": "openclaw-gateway"
     }
   ]
 }

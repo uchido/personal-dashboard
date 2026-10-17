@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-10-17T21:44:04+0000",
+  "timestamp": "2026-10-17T22:15:04+0000",
   "articles": [
+    {
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 20:52:17 GMT",
+      "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "How day of protests unfolded as disorder breaks out across France",
+      "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 21:33:17 GMT",
+      "description": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "More NHS staff sacked over attacks victims' records",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 16:34:39 GMT",
       "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 18:38:57 GMT",
-      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Swinney's emotional explanation for his commitment to independence",
-      "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 18:11:42 GMT",
-      "description": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Kemarin ekonomi, penguatan industri kerajinan sampai SPHP kedelai",
+      "link": "https://www.antaranews.com/berita/5794185/kemarin-ekonomi-penguatan-industri-kerajinan-sampai-sphp-kedelai",
+      "published": "Sun, 18 Oct 2026 05:07:20 +0700",
+      "description": "Beragam peristiwa bidang ekonomi terjadi pada Sabtu (17/10), mulai dari Menteri Perindustrian (Menperin) upayakan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kementerian PU tangani 137 prasarana peribadatan pascabencana Aceh",
+      "link": "https://www.antaranews.com/berita/5794181/kementerian-pu-tangani-137-prasarana-peribadatan-pascabencana-aceh",
+      "published": "Sun, 18 Oct 2026 05:05:34 +0700",
+      "description": "Kementerian Pekerjaan Umum (PU) menangani rehabilitasi dan rekonstruksi 137 unit prasarana peribadatan yang terdampak ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BP Tapera perkuat sinergi pembiayaan perumahan syariah guru pesantren",
+      "link": "https://www.antaranews.com/berita/5794177/bp-tapera-perkuat-sinergi-pembiayaan-perumahan-syariah-guru-pesantren",
+      "published": "Sun, 18 Oct 2026 04:56:42 +0700",
+      "description": "Badan Pengelola Tabungan Perumahan Rakyat (BP Tapera) memperkuat sinergi untuk memperluas akses kepemilikan rumah bagi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Ayu Ting Ting rencanakan album baru, apresiasi perkembangan dangdut",
       "link": "https://www.antaranews.com/berita/5794157/ayu-ting-ting-rencanakan-album-baru-apresiasi-perkembangan-dangdut",
       "published": "Sun, 18 Oct 2026 03:44:43 +0700",
       "description": "Penyanyi dangdut Ayu Ting Ting membahas rencana kembali menghadirkan karya terbaru dalam format album pada tahun ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Temanggung padukan sendratari dan wisata. tarik turis lebih banyak",
-      "link": "https://www.antaranews.com/video/5794153/temanggung-padukan-sendratari-dan-wisata-tarik-turis-lebih-banyak",
-      "published": "Sun, 18 Oct 2026 03:40:56 +0700",
-      "description": "ANTARA - Kabupaten Temanggung, Jawa Tengah, memadukan kesenian dan sektor pariwisata untuk meningkatkan kunjungan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "ANTARA sabet 3 juara dalam Anugerah Jurnalistik Sekolah Rakyat 2026",
-      "link": "https://www.antaranews.com/video/5794149/antara-sabet-3-juara-dalam-anugerah-jurnalistik-sekolah-rakyat-2026",
-      "published": "Sun, 18 Oct 2026 03:31:17 +0700",
-      "description": "ANTARA - LKBN ANTARA meraih tiga penghargaan dalam Anugerah Jurnalistik Sekolah Rakyat 2026 yang diselenggarakan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Luis Diaz hattrick, Bayern Muenchen libas RB Leipzig 6-1",
-      "link": "https://www.antaranews.com/berita/5794145/luis-diaz-hattrick-bayern-muenchen-libas-rb-leipzig-6-1",
-      "published": "Sun, 18 Oct 2026 03:20:41 +0700",
-      "description": "Bayern Muenchen tampil perkasa saat melibas RB Leipzig 6-1 dalam laga pekan ke-6 Liga Jerman 2026/27 di Allianz Arena ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
