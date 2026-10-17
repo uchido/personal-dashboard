@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-17T09:20:08+0000",
+  "timestamp": "2026-10-17T09:51:04+0000",
   "articles": [
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 07:41:01 GMT",
+      "published": "Sat, 17 Oct 2026 09:42:13 GMT",
       "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "source": "BBC News",
       "category": "Global"
@@ -20,7 +20,7 @@
     {
       "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
       "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 08:34:44 GMT",
+      "published": "Sat, 17 Oct 2026 09:39:25 GMT",
       "description": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
       "source": "BBC News",
       "category": "Global"
@@ -32,11 +32,6 @@
       "description": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 664, column 6",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
