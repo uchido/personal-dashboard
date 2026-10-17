@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-17T06:14:04+0000",
+  "timestamp": "2026-10-17T06:45:03+0000",
   "articles": [
     {
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 05:02:50 GMT",
-      "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+      "published": "Sat, 17 Oct 2026 06:39:40 GMT",
+      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -32,11 +32,6 @@
       "description": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "no element found: line 662, column 263",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
