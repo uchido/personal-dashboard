@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-10-17T02:37:02+0000",
+  "timestamp": "2026-10-17T03:08:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 68.4,
+    "percent": 63.2,
     "cores": 2,
     "load_avg": [
-      2.08,
-      2.45,
-      2.43
+      2.13,
+      2.24,
+      2.62
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.7,
-    "available": 5.1,
-    "used": 6.5,
-    "percent": 56.0
+    "free": 1.2,
+    "available": 5.9,
+    "used": 5.7,
+    "percent": 49.1
   },
   "disk": {
     "total": "193G",
@@ -26,13 +26,13 @@
   "uptime": {
     "days": 109,
     "hours": 15,
-    "minutes": 2,
-    "total_seconds": 9471769.57
+    "minutes": 33,
+    "total_seconds": 9473629.12
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "55.1",
+      "cpu": "58.0",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
@@ -41,12 +41,6 @@
       "cpu": "21.4",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "16.9",
-      "mem": "6.7",
-      "command": "opencode run You are cloning an Awwwards Site of t"
     },
     {
       "user": "ubuntu",
@@ -59,6 +53,12 @@
       "cpu": "1.7",
       "mem": "2.0",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "1.6",
+      "mem": "6.2",
+      "command": "openclaw-gateway"
     }
   ]
 }
