@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-10-17T19:09:02+0000",
+  "timestamp": "2026-10-17T19:40:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 100.0,
+    "percent": 60.0,
     "cores": 2,
     "load_avg": [
-      2.07,
-      1.82,
-      1.86
+      2.83,
+      2.28,
+      1.98
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.6,
-    "available": 5.6,
-    "used": 6.0,
-    "percent": 51.7
+    "free": 1.1,
+    "available": 5.9,
+    "used": 5.7,
+    "percent": 49.1
   },
   "disk": {
     "total": "193G",
@@ -25,40 +25,40 @@
   },
   "uptime": {
     "days": 110,
-    "hours": 7,
-    "minutes": 34,
-    "total_seconds": 9531289.99
+    "hours": 8,
+    "minutes": 5,
+    "total_seconds": 9533148.96
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "72.7",
-      "mem": "0.4",
-      "command": "node /home/ubuntu/.npm-global/bin/9router"
-    },
-    {
-      "user": "opc",
-      "cpu": "61.1",
-      "mem": "0.5",
-      "command": "node healthcheck.mjs"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "45.4",
+      "cpu": "61.7",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "17.6",
+      "cpu": "20.0",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "6.2",
+      "mem": "0.8",
+      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "1.7",
+      "mem": "2.0",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "1.6",
+      "mem": "6.0",
+      "command": "openclaw-gateway"
     }
   ]
 }
