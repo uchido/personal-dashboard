@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-17T13:59:04+0000",
+  "timestamp": "2026-10-17T14:30:11+0000",
   "articles": [
     {
       "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "KSPSI: Desk Ketenagakerjaan Polri percepat penyelesaian aduan buruh",
-      "link": "https://www.antaranews.com/berita/5793757/kspsi-desk-ketenagakerjaan-polri-percepat-penyelesaian-aduan-buruh",
-      "published": "Sat, 17 Oct 2026 20:57:29 +0700",
-      "description": "Presiden Konfederasi Serikat Pekerja Seluruh Indonesia (KSPSI) Andi Gani Nena Wea menilai keberadaan Desk ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Jarak pandang Bandara SIM Aceh masih aman",
-      "link": "https://www.antaranews.com/berita/5793753/jarak-pandang-bandara-sim-aceh-masih-aman",
-      "published": "Sat, 17 Oct 2026 20:52:24 +0700",
-      "description": "General Manager Bandara Sultan Iskandar Muda, Rahmat Adil Indrawan menyatakan jarak pandang di bandara Aceh tersebut ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Rencana PHK di Stelco picu ketegangan Kanada dan produsen baja AS",
-      "link": "https://www.antaranews.com/berita/5793749/rencana-phk-di-stelco-picu-ketegangan-kanada-dan-produsen-baja-as",
-      "published": "Sat, 17 Oct 2026 20:51:17 +0700",
-      "description": "Pemerintah Kanada, Jumat (16/10) memperingatkan bahwa produsen baja Amerika Serikat, Cleveland-Cliffs, dapat dipaksa ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kementan dan OIKN perkuat cegah zoonosis di kawasan IKN",
-      "link": "https://www.antaranews.com/berita/5793745/kementan-dan-oikn-perkuat-cegah-zoonosis-di-kawasan-ikn",
-      "published": "Sat, 17 Oct 2026 20:46:25 +0700",
-      "description": "Kementerian Pertanian (Kementan) bersama Otorita Ibu Kota Nusantara (OIKN) memperkuat pencegahan zoonosis dan ...",
+      "error": "no element found: line 658, column 227",
       "source": "Antara News",
       "category": "Indonesia"
     }
