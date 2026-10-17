@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-17T03:08:04+0000",
+  "timestamp": "2026-10-17T03:39:05+0000",
   "articles": [
     {
       "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
       "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 01:19:04 GMT",
       "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 02:48:36 GMT",
+      "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -22,14 +30,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 20:28:59 GMT",
       "description": "The White House says the new press secretary is \"transitioning out\" of the role just days after taking the job.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 20:08:07 GMT",
-      "description": "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason.",
       "source": "BBC News",
       "category": "Global"
     }
