@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T06:31:04+0000",
+  "timestamp": "2026-10-18T07:02:04+0000",
   "articles": [
     {
       "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
@@ -18,50 +18,23 @@
       "category": "Global"
     },
     {
-      "title": "More NHS staff sacked over attacks victims' records",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 16:34:39 GMT",
-      "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Deaths confirmed in major fire at Canada military base",
+      "title": "Several dead or injured in major fire at Canada military base",
       "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 04:00:50 GMT",
-      "description": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
+      "published": "Sun, 18 Oct 2026 06:47:57 GMT",
+      "description": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Pengiriman iPhone Duo diperkirakan diundur karena pesanan luar biasa",
-      "link": "https://www.antaranews.com/berita/5794569/pengiriman-iphone-duo-diperkirakan-diundur-karena-pesanan-luar-biasa",
-      "published": "Sun, 18 Oct 2026 13:30:02 +0700",
-      "description": "Waktu pengiriman iPhone Duo diperkirakan diundur karena pesanan ponsel lipat pertama Apple itu pada masa layanan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 05:04:31 GMT",
+      "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Korban tewas akibat berdesakan di acara keagamaan India jadi 19 orang",
-      "link": "https://www.antaranews.com/berita/5794565/korban-tewas-akibat-berdesakan-di-acara-keagamaan-india-jadi-19-orang",
-      "published": "Sun, 18 Oct 2026 13:22:48 +0700",
-      "description": "Korban tewas akibat insiden berdesak-desakan dalam sebuah acara keagamaan di Kolkata, Negara Bagian Benggala Barat, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Sultan ingatkan bijaksana-cermat-hati-hati dalam keputusan keuangan",
-      "link": "https://www.antaranews.com/berita/5794561/sultan-ingatkan-bijaksana-cermat-hati-hati-dalam-keputusan-keuangan",
-      "published": "Sun, 18 Oct 2026 13:15:44 +0700",
-      "description": "Gubernur Daerah Istimewa Yogyakarta (DIY) Sri Sultan Hamengku Buwono X mengingatkan para keluarga dan masyarakat agar ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Moskow: Kapal tanker pertama pengangkut minyak Rusia telah berangkat",
-      "link": "https://www.antaranews.com/berita/5794557/moskow-kapal-tanker-pertama-pengangkut-minyak-rusia-telah-berangkat",
-      "published": "Sun, 18 Oct 2026 13:11:16 +0700",
-      "description": "Moskow menyatakan pada Sabtu (17/10) bahwa kapal tanker pertama yang mengangkut minyak Rusia untuk pasar global telah ...",
+      "error": "unclosed token: line 659, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
