@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T07:02:04+0000",
+  "timestamp": "2026-10-18T07:33:04+0000",
   "articles": [
     {
       "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
@@ -20,21 +20,48 @@
     {
       "title": "Several dead or injured in major fire at Canada military base",
       "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 06:47:57 GMT",
+      "published": "Sun, 18 Oct 2026 07:09:23 GMT",
       "description": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 05:04:31 GMT",
-      "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+      "title": "NHS faces more challenging winter than normal, health secretary warns",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 07:05:37 GMT",
+      "description": "Yvette Cooper has announced £140m investment in England's urgent care system, after summer heatwaves piled pressure on the NHS.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 659, column 6",
+      "title": "FP Run for Good Journalism 2026 kampanyekan jurnalisme berkualitas",
+      "link": "https://www.antaranews.com/berita/5794673/fp-run-for-good-journalism-2026-kampanyekan-jurnalisme-berkualitas",
+      "published": "Sun, 18 Oct 2026 14:28:36 +0700",
+      "description": "Forum Pemimpin Redaksi Indonesia (Forum Pemred) menyelenggarakan FP Run for Good Journalism 2026 dengan tema &quot;Pers ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menkop dorong Syarikat Islam perkuat koperasi dan kemandirian umat",
+      "link": "https://www.antaranews.com/berita/5794669/menkop-dorong-syarikat-islam-perkuat-koperasi-dan-kemandirian-umat",
+      "published": "Sun, 18 Oct 2026 14:20:29 +0700",
+      "description": "Menteri Koperasi sekaligus Sekretaris Jenderal Syarikat Islam (SI) Ferry Juliantono mengajak seluruh cabang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Janice Tjen dan Aldila Sutjiadi lanjutkan turnamen ke Osaka dan Ningbo",
+      "link": "https://www.antaranews.com/berita/5794665/janice-tjen-dan-aldila-sutjiadi-lanjutkan-turnamen-ke-osaka-dan-ningbo",
+      "published": "Sun, 18 Oct 2026 14:19:27 +0700",
+      "description": "Petenis putri Indonesia Janice Tjen dan Aldila Sutjiadi melanjutkan persaingan pada rangkaian turnamen tenis ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "LPS ingatkan generasi muda waspadai jebakan finansial digital",
+      "link": "https://www.antaranews.com/berita/5794661/lps-ingatkan-generasi-muda-waspadai-jebakan-finansial-digital",
+      "published": "Sun, 18 Oct 2026 14:16:56 +0700",
+      "description": "Lembaga Penjamin Simpanan (LPS) mengingatkan generasi muda agar mewaspadai jebakan finansial digital, termasuk judi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
