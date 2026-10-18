@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-18T23:03:04+0000",
+  "timestamp": "2026-10-18T23:34:04+0000",
   "articles": [
     {
       "title": "Macron calls for 'calm and order' after riots across France",
       "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 20:33:21 GMT",
       "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:06:09 GMT",
+      "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 05:04:31 GMT",
-      "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Kylian Mbappe dua gol, Real Madrid kalahkan Sevilla 4-1",
+      "link": "https://www.antaranews.com/berita/5795569/kylian-mbappe-dua-gol-real-madrid-kalahkan-sevilla-4-1",
+      "published": "Mon, 19 Oct 2026 06:10:58 +0700",
+      "description": "Real Madrid meraih tiga poin setelah mengalahkan Sevilla 4-1 dalam lanjutan pekan kesembilan Liga Spanyol 2026/27 di ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ekonomi kemarin, penanganan karhutla hingga soal ekonomi digital",
+      "link": "https://www.antaranews.com/berita/5795565/ekonomi-kemarin-penanganan-karhutla-hingga-soal-ekonomi-digital",
+      "published": "Mon, 19 Oct 2026 06:03:38 +0700",
+      "description": "Lima berita soal ekonomi kemarin, Minggu (18/10) masih menarik untuk dibaca hari ini. Mulai dari upaya penanganan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "8 komoditas capai swasembada 2026",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5795561/jaenal-aripin-terharu-emban-tugas-pembawa-bendera-di-nagoya",
       "published": "Mon, 19 Oct 2026 05:58:28 +0700",
       "description": "Atlet para atletik Indonesia Jaenal Aripin mengaku terharu mendapat kehormatan membawa bendera Merah Putih saat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Lazio menang meyakinkan 3-0 atas Juventus",
-      "link": "https://www.antaranews.com/berita/5795557/lazio-menang-meyakinkan-3-0-atas-juventus",
-      "published": "Mon, 19 Oct 2026 05:53:38 +0700",
-      "description": "Lazio meraih kemenangan meyakinkan 3-0 saat bertandang ke markas Juventus pada pekan ketujuh Liga Italia 2026/27 di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pelatih Persija Women tidak puas setelah gagal menangi laga pertama",
-      "link": "https://www.antaranews.com/berita/5795549/pelatih-persija-women-tidak-puas-setelah-gagal-menangi-laga-pertama",
-      "published": "Mon, 19 Oct 2026 05:44:01 +0700",
-      "description": "Pelatih kepala Persija Jakarta Women Muhamad Yusup Prasetiyo mengaku tidak puas dengan performa timnya karena gagal ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
