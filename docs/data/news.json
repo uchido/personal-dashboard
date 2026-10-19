@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-19T14:33:04+0000",
+  "timestamp": "2026-10-19T15:04:05+0000",
   "articles": [
     {
       "title": "Are the French riots a warning of an intense election to come?",
       "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 13:43:27 GMT",
       "description": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Australian MP critically injured after being hit by car in apparent attack",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 14:09:54 GMT",
+      "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
-      "link": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 00:28:44 GMT",
-      "description": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "PGE sebut operasional yang solid topang fundamental keuangan Perseroan",
+      "link": "https://www.antaranews.com/berita/5797757/pge-sebut-operasional-yang-solid-topang-fundamental-keuangan-perseroan",
+      "published": "Mon, 19 Oct 2026 22:02:40 +0700",
+      "description": "Direktur Keuangan PT Pertamina Geothermal Energy Tbk (PGE) Fransetya Hasudungan Hutabarat menuturkan, kinerja ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "no element found: line 658, column 74",
+      "title": "Dokter ungkap tantangan anestesi dalam operasi kembar siam",
+      "link": "https://www.antaranews.com/berita/5797749/dokter-ungkap-tantangan-anestesi-dalam-operasi-kembar-siam",
+      "published": "Mon, 19 Oct 2026 22:01:51 +0700",
+      "description": "Sebanyak enam dokter anestesi Rumah Sakit Umum Pusat Nasional Dr. Cipto Mangunkusumo (RSCM) terlibat dalam ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemprov Sumut mempercepat penyerahan aset RSUD dr M Thomsen Nias",
+      "link": "https://www.antaranews.com/berita/5797745/pemprov-sumut-mempercepat-penyerahan-aset-rsud-dr-m-thomsen-nias",
+      "published": "Mon, 19 Oct 2026 22:00:45 +0700",
+      "description": "Pemerintah Provinsi (Pemprov) Sumatera Utara (Sumut) mendukung percepatan penyerahan aset Rumah Sakit Umum Daerah ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Indonesia terus pantau kondisi Paris jelang French Open",
+      "link": "https://www.antaranews.com/berita/5797741/indonesia-terus-pantau-kondisi-paris-jelang-french-open",
+      "published": "Mon, 19 Oct 2026 22:00:13 +0700",
+      "description": "Tim bulu tangkis Indonesia terus memantau perkembangan dan kondisi kota Paris yang terkena gelombang protes menjelang ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
