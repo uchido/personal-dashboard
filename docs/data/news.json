@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-10-19T13:31:07+0000",
+  "timestamp": "2026-10-19T14:02:07+0000",
   "articles": [
-    {
-      "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 04:59:47 GMT",
-      "description": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
       "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
@@ -34,7 +26,42 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 661, column 304",
+      "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 04:59:47 GMT",
+      "description": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Menteri PPN: Presiden sering mengingatkan selesaikan hal-hal mendasar",
+      "link": "https://www.antaranews.com/berita/5797597/menteri-ppn-presiden-sering-mengingatkan-selesaikan-hal-hal-mendasar",
+      "published": "Mon, 19 Oct 2026 21:00:08 +0700",
+      "description": "Menteri Perencanaan Pembangunan Nasional (PPN)/Kepala Badan Perencanaan Pembangunan Nasional (Bappenas) Rachmat Pambudy ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Reduksi limbah di hulu, Cilegon bentuk 11 lembaga pengelolaan sampah",
+      "link": "https://www.antaranews.com/video/5797461/reduksi-limbah-di-hulu-cilegon-bentuk-11-lembaga-pengelolaan-sampah",
+      "published": "Mon, 19 Oct 2026 21:00:07 +0700",
+      "description": "ANTARA - Kota Cilegon membentuk 11 lembaga pengelolaan sampah di dua kecamatan. Hal itu dilakukan untuk mereduksi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menteri PU instruksikan cek kawasan hulu sungai di Sumbar",
+      "link": "https://www.antaranews.com/video/5797509/menteri-pu-instruksikan-cek-kawasan-hulu-sungai-di-sumbar",
+      "published": "Mon, 19 Oct 2026 20:58:58 +0700",
+      "description": "ANTARA - Menteri Pekerjaan Umum Dody Hanggodo menginstruksikan pemeriksaan kondisi hulu sungai di Sumatera Barat untuk ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BPMA dorong percepatan eksplorasi potensi migas blok Barsela Aceh",
+      "link": "https://www.antaranews.com/berita/5797585/bpma-dorong-percepatan-eksplorasi-potensi-migas-blok-barsela-aceh",
+      "published": "Mon, 19 Oct 2026 20:58:09 +0700",
+      "description": "Badan Pengelola Migas Aceh (BPMA) mendorong percepatan eksplorasi dan pengembangan potensi migas di lepas pantai barat ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
