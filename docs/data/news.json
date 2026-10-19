@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-19T11:58:05+0000",
+  "timestamp": "2026-10-19T12:29:04+0000",
   "articles": [
     {
       "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 04:59:47 GMT",
       "description": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 11:55:47 GMT",
+      "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Four arrested after police officer injured in shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 10:52:25 GMT",
-      "description": "The officer was shot in the foot and remains in hospital in a stable condition, police say.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Telkomsel optimalkan spektrum 700 MHz dan 2.600 MHz, perluas jaringan",
+      "link": "https://www.antaranews.com/berita/5797277/telkomsel-optimalkan-spektrum-700-mhz-dan-2600-mhz-perluas-jaringan",
+      "published": "Mon, 19 Oct 2026 19:27:42 +0700",
+      "description": "PT&nbsp;Telkomsel mengoptimalkan tambahan spektrum frekuensi 700 MHz dan 2.600 MHz untuk memperluas jangkauan sinyal ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 656, column 6",
+      "title": "KLH-IUCN siapkan perlindungan ekosistem keragaman hayati di tiga area",
+      "link": "https://www.antaranews.com/berita/5797273/klh-iucn-siapkan-perlindungan-ekosistem-keragaman-hayati-di-tiga-area",
+      "published": "Mon, 19 Oct 2026 19:26:44 +0700",
+      "description": "Guna mengamankan kekayaan keanekaragaman hayati nasional&nbsp;Kementerian Lingkungan Hidup (KLH) dan International ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KPK verifikasi aduan masyarakat soal anggota DPRD Jatim dan Bojonegoro",
+      "link": "https://www.antaranews.com/berita/5797269/kpk-verifikasi-aduan-masyarakat-soal-anggota-dprd-jatim-dan-bojonegoro",
+      "published": "Mon, 19 Oct 2026 19:26:42 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) memastikan akan memverifikasi laporan pengaduan masyarakat mengenai anggota DPRD ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "MBG bakal sasar pondok pesantren di Pulau Jawa mulai akhir Oktober",
+      "link": "https://www.antaranews.com/berita/5797265/mbg-bakal-sasar-pondok-pesantren-di-pulau-jawa-mulai-akhir-oktober",
+      "published": "Mon, 19 Oct 2026 19:26:13 +0700",
+      "description": "Menteri Koordinator Bidang Pangan Zulkifli Hasan mengatakan, program Makan Bergizi Gratis (MBG) bakal menyasar pondok ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
