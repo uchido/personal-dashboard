@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T12:29:04+0000",
+  "timestamp": "2026-10-19T13:00:07+0000",
   "articles": [
     {
       "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Telkomsel optimalkan spektrum 700 MHz dan 2.600 MHz, perluas jaringan",
-      "link": "https://www.antaranews.com/berita/5797277/telkomsel-optimalkan-spektrum-700-mhz-dan-2600-mhz-perluas-jaringan",
-      "published": "Mon, 19 Oct 2026 19:27:42 +0700",
-      "description": "PT&nbsp;Telkomsel mengoptimalkan tambahan spektrum frekuensi 700 MHz dan 2.600 MHz untuk memperluas jangkauan sinyal ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KLH-IUCN siapkan perlindungan ekosistem keragaman hayati di tiga area",
-      "link": "https://www.antaranews.com/berita/5797273/klh-iucn-siapkan-perlindungan-ekosistem-keragaman-hayati-di-tiga-area",
-      "published": "Mon, 19 Oct 2026 19:26:44 +0700",
-      "description": "Guna mengamankan kekayaan keanekaragaman hayati nasional&nbsp;Kementerian Lingkungan Hidup (KLH) dan International ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KPK verifikasi aduan masyarakat soal anggota DPRD Jatim dan Bojonegoro",
-      "link": "https://www.antaranews.com/berita/5797269/kpk-verifikasi-aduan-masyarakat-soal-anggota-dprd-jatim-dan-bojonegoro",
-      "published": "Mon, 19 Oct 2026 19:26:42 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) memastikan akan memverifikasi laporan pengaduan masyarakat mengenai anggota DPRD ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "MBG bakal sasar pondok pesantren di Pulau Jawa mulai akhir Oktober",
-      "link": "https://www.antaranews.com/berita/5797265/mbg-bakal-sasar-pondok-pesantren-di-pulau-jawa-mulai-akhir-oktober",
-      "published": "Mon, 19 Oct 2026 19:26:13 +0700",
-      "description": "Menteri Koordinator Bidang Pangan Zulkifli Hasan mengatakan, program Makan Bergizi Gratis (MBG) bakal menyasar pondok ...",
+      "error": "unclosed CDATA section: line 657, column 271",
       "source": "Antara News",
       "category": "Indonesia"
     }
