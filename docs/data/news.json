@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T13:00:07+0000",
+  "timestamp": "2026-10-19T13:31:07+0000",
   "articles": [
     {
       "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
@@ -12,7 +12,7 @@
     {
       "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
       "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 11:55:47 GMT",
+      "published": "Mon, 19 Oct 2026 13:01:50 GMT",
       "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,7 @@
       "category": "Global"
     },
     {
-      "error": "unclosed CDATA section: line 657, column 271",
+      "error": "unclosed token: line 661, column 304",
       "source": "Antara News",
       "category": "Indonesia"
     }
