@@ -1,19 +1,11 @@
 {
-  "timestamp": "2026-10-19T00:36:04+0000",
+  "timestamp": "2026-10-19T01:07:04+0000",
   "articles": [
     {
       "title": "Macron calls for 'calm and order' after riots across France",
       "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 20:33:21 GMT",
       "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Major fire at Canada military base leaves four dead, dozens injured",
-      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 23:06:09 GMT",
-      "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +18,23 @@
       "category": "Global"
     },
     {
-      "title": "People playing loud music on buses could face £100 fine",
-      "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 00:22:20 GMT",
-      "description": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is b",
+      "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
+      "link": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 00:28:44 GMT",
+      "description": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Berapa batas kualitas udara sehat? Ini standar ISPU dan WHO",
-      "link": "https://www.antaranews.com/berita/5795617/berapa-batas-kualitas-udara-sehat-ini-standar-ispu-dan-who",
-      "published": "Mon, 19 Oct 2026 07:28:04 +0700",
-      "description": "Kualitas udara merupakan salah satu faktor penentu utama kesehatan respirasi dan kesejahteraan masyarakat secara ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:06:09 GMT",
+      "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Kulit sedang berjerawat? Ini tipsnya agar tetap percaya diri",
-      "link": "https://www.antaranews.com/berita/5795613/kulit-sedang-berjerawat-ini-tipsnya-agar-tetap-percaya-diri",
-      "published": "Mon, 19 Oct 2026 07:17:51 +0700",
-      "description": "Kemunculan jerawat bisa mempengaruhi cara seseorang melihat dirinya sendiri.\n\nJerawat yang membuat tekstur wajah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Senin, Samsat Keliling tersedia di 14 lokasi Jadetabek",
-      "link": "https://www.antaranews.com/berita/5795609/senin-samsat-keliling-tersedia-di-14-lokasi-jadetabek",
-      "published": "Mon, 19 Oct 2026 07:16:51 +0700",
-      "description": "Polda Metro Jaya menyediakan layanan Sistem Administrasi Manunggal Satu Atap (Samsat) Keliling untuk membantu para ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "iPhoneDuo membludak hingga Andikatak mau Kangen Band bubar",
-      "link": "https://www.antaranews.com/berita/5795605/iphoneduo-membludak-hingga-andikatak-mau-kangen-band-bubar",
-      "published": "Mon, 19 Oct 2026 07:14:17 +0700",
-      "description": "Kanal hiburan, gaya hidup, teknologi, dan otomotif ANTARA pada Minggu (18/10) menyajikan beragam berita menarik mulai ...",
+      "error": "unclosed token: line 663, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
