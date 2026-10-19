@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T03:42:04+0000",
+  "timestamp": "2026-10-19T04:13:04+0000",
   "articles": [
     {
       "title": "Macron calls for 'calm and order' after riots across France",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Sebaran asap karhutla di Jakarta sudah berkurang",
-      "link": "https://www.antaranews.com/berita/5795801/sebaran-asap-karhutla-di-jakarta-sudah-berkurang",
-      "published": "Mon, 19 Oct 2026 10:39:48 +0700",
-      "description": "Staf Khusus Gubernur DKI Jakarta Bidang Komunikasi Sosial, Chico Hakim menyebutkan&nbsp;sebaran asap kebakaran hutan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pengamat: Penguatan regulasi kunci optimalkan pembiayaan berbasis IP",
-      "link": "https://www.antaranews.com/berita/5795797/pengamat-penguatan-regulasi-kunci-optimalkan-pembiayaan-berbasis-ip",
-      "published": "Mon, 19 Oct 2026 10:35:22 +0700",
-      "description": "Pengamat Ekonomi Digital dari Universitas Indonesia Heru Sutadi mengatakan penguatan regulasi dan ekosistem pelaksanaan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hampir 2.400 orang ditahan dalam kerusuhan di Prancis",
-      "link": "https://www.antaranews.com/berita/5795793/hampir-2400-orang-ditahan-dalam-kerusuhan-di-prancis",
-      "published": "Mon, 19 Oct 2026 10:32:18 +0700",
-      "description": "Hampir 2.400 orang ditahan dalam kerusuhan yang terjadi di Prancis pada&nbsp;Sabtu (17/10), dengan sekitar 1.000 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Lucy Liu Bergabung dengan Merz Aesthetics dalam Peluncuran \"Your Time is Now\", Dorong Perspektif Baru Tentang Proses Penuaan",
-      "link": "https://www.antaranews.com/berita/5795789/lucy-liu-bergabung-dengan-merz-aesthetics-dalam-peluncuran-your-time-is-now-dorong-perspektif-baru-tentang-proses-penuaan",
-      "published": "Mon, 19 Oct 2026 10:26:42 +0700",
-      "description": "Merz Aesthetics, perusahaan estetika medis terbesar di dunia, hari ini memperkenalkan kampanye regional terbarunya ...",
+      "error": "no element found: line 659, column 3",
       "source": "Antara News",
       "category": "Indonesia"
     }
