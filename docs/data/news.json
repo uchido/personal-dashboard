@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-10-19T05:15:04+0000",
+  "timestamp": "2026-10-19T05:46:04+0000",
   "articles": [
-    {
-      "title": "Macron calls for 'calm and order' after riots across France",
-      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 05:07:21 GMT",
-      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Companies exploiting welfare system by using residents as 'cash cows,' BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 04:59:47 GMT",
       "description": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "France's government under pressure after weekend of widespread violence",
+      "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 04:16:46 GMT",
+      "description": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 05:07:21 GMT",
+      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
-      "link": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 00:28:44 GMT",
-      "description": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "KCIC: SDM Indonesia tangani penuh operasional Whoosh",
+      "link": "https://www.antaranews.com/berita/5796069/kcic-sdm-indonesia-tangani-penuh-operasional-whoosh",
+      "published": "Mon, 19 Oct 2026 12:42:23 +0700",
+      "description": "PT Kereta Cepat Indonesia China menyatakan seluruh kegiatan operasional dan perawatan kereta cepat Whoosh kini ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BCA lanjut buyback 19-21 Oktober guna dukung stabilisasi pasar modal",
+      "link": "https://www.antaranews.com/berita/5796065/bca-lanjut-buyback-19-21-oktober-guna-dukung-stabilisasi-pasar-modal",
+      "published": "Mon, 19 Oct 2026 12:38:41 +0700",
+      "description": "PT Bank Central Asia Tbk (BCA) melanjutkan pembelian kembali (buyback) saham perseroan pada 19&ndash;21 Oktober 2026 ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Polda Kalsel latih \"safaty riding\" 100 ojol untuk tekan laka lantas",
+      "link": "https://www.antaranews.com/berita/5796061/polda-kalsel-latih-safaty-riding-100-ojol-untuk-tekan-laka-lantas",
+      "published": "Mon, 19 Oct 2026 12:36:40 +0700",
+      "description": "Direktorat Lalu Lintas Kepolisian Daerah Kalimantan Selatan (Ditlantas Polda Kalsel) memberikan pelatihan safety riding ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemendes usulkan percontohan transportasi desa berbasis listrik",
+      "link": "https://www.antaranews.com/berita/5796057/kemendes-usulkan-percontohan-transportasi-desa-berbasis-listrik",
+      "published": "Mon, 19 Oct 2026 12:35:18 +0700",
+      "description": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) mengusulkan&nbsp;proyek percontohan transportasi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
