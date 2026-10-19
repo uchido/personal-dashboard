@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-19T04:44:04+0000",
+  "timestamp": "2026-10-19T05:15:04+0000",
   "articles": [
     {
       "title": "Macron calls for 'calm and order' after riots across France",
       "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 20:33:21 GMT",
+      "published": "Mon, 19 Oct 2026 05:07:21 GMT",
       "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Companies exploiting welfare system by using residents as 'cash cows,' BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 04:59:47 GMT",
+      "description": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -24,46 +32,6 @@
       "description": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "'Postcode lottery' driving children's inequality in England, commissioner warns",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7qypglylxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 04:37:06 GMT",
-      "description": "Dame Rachel De Souza's landmark report says children are being failed by a \"postcode lottery\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Bulog Kediri salurkan 12.941 ton jagung SPHP",
-      "link": "https://www.antaranews.com/berita/5795917/bulog-kediri-salurkan-12941-ton-jagung-sphp",
-      "published": "Mon, 19 Oct 2026 11:40:12 +0700",
-      "description": "Perum Badan Urusan Logistik (Bulog) Kantor Cabang Kediri, jawa Timur, menyalurkan 12.941.850 kilogram atau sekitar ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pemkab lakukan pemeliharaan rambu suar jaga keselamatan pelayaran",
-      "link": "https://www.antaranews.com/berita/5795913/pemkab-lakukan-pemeliharaan-rambu-suar-jaga-keselamatan-pelayaran",
-      "published": "Mon, 19 Oct 2026 11:38:10 +0700",
-      "description": "Suku Dinas Perhubungan (Sudin Perhubungan) Kepulauan Seribu mengintensifkan pemeliharaan Sarana Bantu Navigasi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Iran tuduh Netanyahu dorong AS ke perang baru untuk hindari penjara",
-      "link": "https://www.antaranews.com/berita/5795908/iran-tuduh-netanyahu-dorong-as-ke-perang-baru-untuk-hindari-penjara",
-      "published": "Mon, 19 Oct 2026 11:36:11 +0700",
-      "description": "Menteri Luar Negeri Iran Abbas Araghchi menuduh Kepala Otoritas Israel Benjamin Netanyahu berupaya menyeret Amerika ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Polri: Satgas FPU 7 amankan capres-cawapres di Afrika Tengah",
-      "link": "https://www.antaranews.com/berita/5795905/polri-satgas-fpu-7-amankan-capres-cawapres-di-afrika-tengah",
-      "published": "Mon, 19 Oct 2026 11:35:32 +0700",
-      "description": "Kepolisian Negara Republik Indonesia (Polri) menyatakan Kontingen Garuda Bhayangkara Satgas FPU 7 Minusca yang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
