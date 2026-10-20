@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-20T05:01:04+0000",
+  "timestamp": "2026-10-20T05:32:04+0000",
   "articles": [
     {
       "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 01:31:09 GMT",
       "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "We asked teens what schools should teach them about work. This is what they said",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 05:00:14 GMT",
+      "description": "Teenagers say they want more work experience at school and opportunities to improve their communication skills.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Criminals detained in hospital set to lose benefits",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 23:21:38 GMT",
-      "description": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Dua tahun Prabowo-Gibran, OTT KPK meningkat tajam",
-      "link": "https://www.antaranews.com/berita/5798513/dua-tahun-prabowo-gibran-ott-kpk-meningkat-tajam",
-      "published": "Tue, 20 Oct 2026 11:56:42 +0700",
-      "description": "Memperkuat pencegahan dan pemberantasan korupsi menjadi salah satu misi Asta Cita Presiden Prabowo Subianto dan Wakil ...",
+      "title": "Imigrasi galakkan digitalisasi layanan KPP APEC percepat pengajuan",
+      "link": "https://www.antaranews.com/berita/5798569/imigrasi-galakkan-digitalisasi-layanan-kpp-apec-percepat-pengajuan",
+      "published": "Tue, 20 Oct 2026 12:30:34 +0700",
+      "description": "Direktorat Jenderal (Ditjen) Imigrasi terus menggalakkan digitalisasi layanan pengajuan Kartu Perjalanan Pebisnis APEC ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Paus Leo minta Zelenskyy upayakan situasi kemanusiaan di Aleshki",
-      "link": "https://www.antaranews.com/berita/5798509/paus-leo-minta-zelenskyy-upayakan-situasi-kemanusiaan-di-aleshki",
-      "published": "Tue, 20 Oct 2026 11:53:25 +0700",
-      "description": "Paus Leo XIV melakukan pembicaraan melalui telepon dengan Presiden Ukraina Volodymyr Zelenskyy dan menyampaikan ...",
+      "title": "2 tahun program unggulan Prabowo-Gibran",
+      "link": "https://www.antaranews.com/infografik/5798541/2-tahun-program-unggulan-prabowo-gibran",
+      "published": "Tue, 20 Oct 2026 12:30:00 +0700",
+      "description": "Berbagai program unggulan pemerintahan Prabowo Subianto dan Gibran Rakabuming Raka di bidang ketahanan pangan hingga ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Yunani resmikan superkomputer Daedalus",
-      "link": "https://www.antaranews.com/berita/5798505/yunani-resmikan-superkomputer-daedalus",
-      "published": "Tue, 20 Oct 2026 11:46:24 +0700",
-      "description": "Yunani meresmikan superkomputer nasionalnya, Daedalus, pada Senin (19/10) di Taman Teknologi dan Budaya Lavrio di ...",
+      "title": "Baznas RI kerahkan tim bantu tangani karhutla di Kalimantan & Sumatera",
+      "link": "https://www.antaranews.com/berita/5798565/baznas-ri-kerahkan-tim-bantu-tangani-karhutla-di-kalimantan-sumatera",
+      "published": "Tue, 20 Oct 2026 12:26:59 +0700",
+      "description": "Badan Amil Zakat Nasional (Baznas) RI mengerahkan&nbsp;tim Baznas Tanggap Bencana (BTB) untuk membantu menangani ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "BSSN dorong kemandirian kriptografi untuk perkuat kepercayaan digital",
-      "link": "https://www.antaranews.com/berita/5798501/bssn-dorong-kemandirian-kriptografi-untuk-perkuat-kepercayaan-digital",
-      "published": "Tue, 20 Oct 2026 11:44:51 +0700",
-      "description": "Badan Siber dan Sandi Negara (BSSN) mendorong kemandirian kriptografi nasional sebagai fondasi untuk memperkuat ...",
+      "title": "Kemendes: Perlu pendekatan khusus layanan kesehatan daerah tertinggal",
+      "link": "https://www.antaranews.com/berita/5798561/kemendes-perlu-pendekatan-khusus-layanan-kesehatan-daerah-tertinggal",
+      "published": "Tue, 20 Oct 2026 12:26:56 +0700",
+      "description": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) mengatakan diperlukan pendekatan khusus atau ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
