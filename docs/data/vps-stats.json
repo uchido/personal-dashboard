@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-10-20T04:30:01+0000",
+  "timestamp": "2026-10-20T05:01:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 65.0,
+    "percent": 60.0,
     "cores": 2,
     "load_avg": [
-      2.1,
-      2.1,
-      2.02
+      2.31,
+      2.51,
+      2.17
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.2,
+    "free": 1.1,
     "available": 5.9,
     "used": 5.7,
     "percent": 49.1
@@ -25,9 +25,9 @@
   },
   "uptime": {
     "days": 112,
-    "hours": 16,
-    "minutes": 55,
-    "total_seconds": 9737748.81
+    "hours": 17,
+    "minutes": 26,
+    "total_seconds": 9739608.83
   },
   "top_processes": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "62.4",
+      "cpu": "60.3",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
