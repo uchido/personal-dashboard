@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T15:52:03+0000",
+  "timestamp": "2026-10-20T16:23:04+0000",
   "articles": [
     {
       "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
@@ -10,10 +10,18 @@
       "category": "Global"
     },
     {
+      "title": "Google says services recovering after cloud outage hits UK banks and websites",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 15:37:26 GMT",
+      "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
       "link": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 13:10:43 GMT",
-      "description": "The closurse are announced as the corporation continues to try to save £500m over two years.",
+      "description": "The closures are announced as the corporation continues to try to save £500m over two years.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Harry says he wants to 'reconcile' with his family",
-      "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 15:49:54 GMT",
-      "description": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Polda Jambi tangkap direktur travel umrah terkait kasus penipuan",
-      "link": "https://www.antaranews.com/berita/5800577/polda-jambi-tangkap-direktur-travel-umrah-terkait-kasus-penipuan",
-      "published": "Tue, 20 Oct 2026 22:49:37 +0700",
-      "description": "Kepolisian Daerah Jambi menangkap seorang perempuan berinisial RH yang masuk daftar pencarian orang (DPO) terkait ...",
+      "title": "KPK duga koperasi jadi tempat kelola potongan insentif Pemkab Bogor",
+      "link": "https://www.antaranews.com/berita/5800637/kpk-duga-koperasi-jadi-tempat-kelola-potongan-insentif-pemkab-bogor",
+      "published": "Tue, 20 Oct 2026 23:20:56 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) menduga koperasi pegawai menjadi tempat pengelolaan potongan insentif di lingkungan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Rachel/Febi masih adaptasi dengan venue French Open",
-      "link": "https://www.antaranews.com/berita/5800569/rachel-febi-masih-adaptasi-dengan-venue-french-open",
-      "published": "Tue, 20 Oct 2026 22:48:00 +0700",
-      "description": "Ganda putri Rachel Allessya Rose/Febi Setianingrum masih beradaptasi dengan venue French Open 2026 di Grand Paris Arena ...",
+      "title": "Unismuh-Pemkab Sinjai kolaborasi kembangkan komoditi ekspor",
+      "link": "https://www.antaranews.com/video/5800557/unismuh-pemkab-sinjai-kolaborasi-kembangkan-komoditi-ekspor",
+      "published": "Tue, 20 Oct 2026 23:16:15 +0700",
+      "description": "ANTARA -&nbsp;Universitas Muhammadiyah (Unismuh) Makassar dan Pemerintah Kabupaten Sinjai, Sulawesi Selatan, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemerintah siapkan strategi fiskal jaga harga BBM hingga akhir tahun",
-      "link": "https://www.antaranews.com/berita/5800565/pemerintah-siapkan-strategi-fiskal-jaga-harga-bbm-hingga-akhir-tahun",
-      "published": "Tue, 20 Oct 2026 22:47:28 +0700",
-      "description": "Pemerintah menyiapkan sejumlah strategi fiskal untuk menjaga harga bahan bakar minyak (BBM) hingga akhir tahun 2026 ...",
+      "title": "PHE catat investasi hulu migas capai 15,42 miliar dolar AS pada 2025",
+      "link": "https://www.antaranews.com/berita/5800633/phe-catat-investasi-hulu-migas-capai-1542-miliar-dolar-as-pada-2025",
+      "published": "Tue, 20 Oct 2026 23:16:08 +0700",
+      "description": "Direktur Keuangan PT Pertamina Hulu Energi (PHE) Bayu Kusuma Dewanto mencatat investasi industri hulu minyak dan gas ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Amri/Nita lupakan hasil Denmark Open dan fokus French Open",
-      "link": "https://www.antaranews.com/berita/5800553/amri-nita-lupakan-hasil-denmark-open-dan-fokus-french-open",
-      "published": "Tue, 20 Oct 2026 22:43:17 +0700",
-      "description": "Ganda campuran Indonesia Amri Syahnawi/Nita Violina Marwah ingin melupakan hasil buruk Denmark Open 2026 dan fokus ...",
+      "title": "Pemkab-DPRD Blora perjuangkan percepatan Sekolah Rakyat",
+      "link": "https://www.antaranews.com/berita/5800625/pemkab-dprd-blora-perjuangkan-percepatan-sekolah-rakyat",
+      "published": "Tue, 20 Oct 2026 23:15:18 +0700",
+      "description": "Pemerintah Kabupaten Blora bersama pimpinan DPRD setempat mengintensifkan koordinasi dengan Kementerian Sosial dan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
