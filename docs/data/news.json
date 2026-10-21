@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-21T12:32:07+0000",
+  "timestamp": "2026-10-21T13:03:04+0000",
   "articles": [
     {
       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
       "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:00:33 GMT",
+      "published": "Wed, 21 Oct 2026 12:32:01 GMT",
       "description": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "'My friend was lying next to me... I was only 8 but I realised he was dead'",
+      "link": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 11:21:58 GMT",
+      "description": "Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
-      "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 05:00:54 GMT",
-      "description": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "KKP amankan 154 kapal pencuri ikan hingga September 2026",
+      "link": "https://www.antaranews.com/berita/5802785/kkp-amankan-154-kapal-pencuri-ikan-hingga-september-2026",
+      "published": "Wed, 21 Oct 2026 20:00:45 +0700",
+      "description": "Kementerian Kelautan dan Perikanan (KKP) mengamankan sebanyak 154 kapal pelaku penangkapan ikan secara ilegal (illegal, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Tito targetkan dana pemulihan pascabencana Sumatera 2027 capai Rp42 T",
+      "link": "https://www.antaranews.com/berita/5802781/tito-targetkan-dana-pemulihan-pascabencana-sumatera-2027-capai-rp42-t",
+      "published": "Wed, 21 Oct 2026 19:59:57 +0700",
+      "description": "Ketua Satuan Tugas Percepatan Rehabilitasi dan Rekonstruksi (Satgas PRR) Pascabencana Aceh, Sumatera Utara, dan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Polisi usut 5 merk beras fortifikasi dengan gizi tak sesuai label",
+      "link": "https://www.antaranews.com/video/5802745/polisi-usut-5-merk-beras-fortifikasi-dengan-gizi-tak-sesuai-label",
+      "published": "Wed, 21 Oct 2026 19:59:45 +0700",
+      "description": "ANTARA - Bareskrim Polri mengusut dugaan pelanggaran perlindungan konsumen dalam produksi dan penjualan beras ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "28 PAUD di Jakarta Pusat terima bantuan alat peraga edukatif",
+      "link": "https://www.antaranews.com/berita/5802773/28-paud-di-jakarta-pusat-terima-bantuan-alat-peraga-edukatif",
+      "published": "Wed, 21 Oct 2026 19:58:48 +0700",
+      "description": "Sebanyak 28 lembaga Pendidikan Anak Usia Dini (PAUD) di empat kecamatan di Jakarta Pusat menerima bantuan alat peraga ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
