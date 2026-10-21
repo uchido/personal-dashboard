@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T12:01:05+0000",
+  "timestamp": "2026-10-21T12:32:07+0000",
   "articles": [
     {
       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "LRT Jabodebek Perkuat Kesiapsiagaan Petugas untuk Lindungi Pengguna dalam Kondisi Darurat",
-      "link": "https://www.antaranews.com/berita/5802613/lrt-jabodebek-perkuat-kesiapsiagaan-petugas-untuk-lindungi-pengguna-dalam-kondisi-darurat",
-      "published": "Wed, 21 Oct 2026 18:59:56 +0700",
-      "description": "Dalam menjaga keselamatan pengguna dalam setiap operasionalnya, LRT Jabodebek terus memperkuat kesiapsiagaan petugas ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pertamina Patra Niaga raih penghargaan lewat inovasi ekonomi sirkular",
-      "link": "https://www.antaranews.com/berita/5802609/pertamina-patra-niaga-raih-penghargaan-lewat-inovasi-ekonomi-sirkular",
-      "published": "Wed, 21 Oct 2026 18:58:05 +0700",
-      "description": "PT Pertamina Patra Niaga meraih penghargaan dalam ajang ESG NOW Awards 2026, yang diselenggarakan Republika, lewat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Perkuat likuiditas rupiah, BI turunkan GWM rata-rata sebesar 2 persen",
-      "link": "https://www.antaranews.com/berita/5802605/perkuat-likuiditas-rupiah-bi-turunkan-gwm-rata-rata-sebesar-2-persen",
-      "published": "Wed, 21 Oct 2026 18:57:58 +0700",
-      "description": "Bank Indonesia (BI) menurunkan giro wajib minimum (GWM) secara rata-rata bagi perbankan sebesar 2 persen guna ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Tri Hita Karana jadi persepektif dalam forum etika global",
-      "link": "https://www.antaranews.com/berita/5802601/tri-hita-karana-jadi-persepektif-dalam-forum-etika-global",
-      "published": "Wed, 21 Oct 2026 18:56:01 +0700",
-      "description": "Filosofi Tri Hita Karana yang menekankan keharmonisan hubungan manusia dengan Tuhan, sesama manusia, dan alam menjadi ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
