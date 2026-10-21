@@ -1,6 +1,22 @@
 {
-  "timestamp": "2026-10-21T15:38:04+0000",
+  "timestamp": "2026-10-21T16:09:06+0000",
   "articles": [
+    {
+      "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 15:36:31 GMT",
+      "description": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Google experiences resignation backlash over AI military contracts",
+      "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 15:41:25 GMT",
+      "description": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
       "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
@@ -10,58 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 13:49:50 GMT",
-      "description": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+      "title": "Russia ready to resume talks with Ukraine and US to end war",
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 15:56:21 GMT",
+      "description": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-      "link": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 15:17:46 GMT",
-      "description": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster",
-      "link": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 11:21:58 GMT",
-      "description": "Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Indonesia-AS kolaborasi lindungi bangkai kapal bersejarah USS Houston",
-      "link": "https://www.antaranews.com/berita/5803209/indonesia-as-kolaborasi-lindungi-bangkai-kapal-bersejarah-uss-houston",
-      "published": "Wed, 21 Oct 2026 22:35:15 +0700",
-      "description": "Indonesia dan Amerika Serikat berkolaborasi dalam melindungi situs bersejarah bangkai kapal USS Houston di Selat Sunda ...",
+      "title": "Bea Cukai Jabar sita 88,2 juta batang rokok ilegal hasil penindakan",
+      "link": "https://www.antaranews.com/berita/5803265/bea-cukai-jabar-sita-882-juta-batang-rokok-ilegal-hasil-penindakan",
+      "published": "Wed, 21 Oct 2026 23:06:17 +0700",
+      "description": "Kantor Wilayah (Kanwil) Direktorat Jenderal Bea dan Cukai (DJBC) Jawa Barat menyita 88,2 juta batang rokok ilegal ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemerintah pacu kapasitas listrik untuk menopang pengembangan AI",
-      "link": "https://www.antaranews.com/berita/5803205/pemerintah-pacu-kapasitas-listrik-untuk-menopang-pengembangan-ai",
-      "published": "Wed, 21 Oct 2026 22:35:13 +0700",
-      "description": "Pemerintah memacu penguatan kapasitas listrik nasional guna menopang pengembangan kecerdasan buatan (Artificial ...",
+      "title": "Komdigi-UB siapkan prototipe modul berbasis AI untuk Sekolah Rakyat",
+      "link": "https://www.antaranews.com/berita/5803261/komdigi-ub-siapkan-prototipe-modul-berbasis-ai-untuk-sekolah-rakyat",
+      "published": "Wed, 21 Oct 2026 23:01:45 +0700",
+      "description": "Kementerian Komunikasi dan Digital (Komdigi) bersama Universitas Brawijaya (UB) menyiapkan prototipe modul berbasis ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Komisi VII DPR RI minta anggaran tim penyelamat tidak dikurangi",
-      "link": "https://www.antaranews.com/video/5803173/komisi-vii-dpr-ri-minta-anggaran-tim-penyelamat-tidak-dikurangi",
-      "published": "Wed, 21 Oct 2026 22:34:15 +0700",
-      "description": "ANTARA - Anggota Komisi VII DPR RI Bambang Haryo Soekartono meminta pemerintah tidak mengurangi anggaran tim penyelamat ...",
+      "title": "LPSK pastikan penguak kebenaran tidak berjuang sendiri",
+      "link": "https://www.antaranews.com/berita/5803257/lpsk-pastikan-penguak-kebenaran-tidak-berjuang-sendiri",
+      "published": "Wed, 21 Oct 2026 23:01:33 +0700",
+      "description": "Wakil Ketua Lembaga Perlindungan Saksi dan Korban (LPSK), Wawan Fahrudin mengatakan, kehadiran Undang Undang Nomor 3 ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemenhub kerahkan KN Trisula P.111 untuk pendinginan KMP Batumandi",
-      "link": "https://www.antaranews.com/berita/5803201/kemenhub-kerahkan-kn-trisula-p111-untuk-pendinginan-kmp-batumandi",
-      "published": "Wed, 21 Oct 2026 22:33:34 +0700",
-      "description": "Kementerian Perhubungan (Kemenhub) mengerahkan Kapal Negara (KN) Trisula P.111 membantu pendinginan KMP Batumandi ...",
+      "title": "Danantara akan manfaatkan aset BUMN untuk kembangkan 12 smart city",
+      "link": "https://www.antaranews.com/berita/5803253/danantara-akan-manfaatkan-aset-bumn-untuk-kembangkan-12-smart-city",
+      "published": "Wed, 21 Oct 2026 23:00:57 +0700",
+      "description": "BP BUMN dan Danantara akan memanfaatkan aset BUMN sebagai fondasi bangunan untuk mengembangkan 12 kota masa depan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }

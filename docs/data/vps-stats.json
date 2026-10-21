@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-10-21T15:38:02+0000",
+  "timestamp": "2026-10-21T16:09:03+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 73.7,
+    "percent": 95.0,
     "cores": 2,
     "load_avg": [
-      2.39,
-      2.08,
-      2.02
+      2.2,
+      1.9,
+      1.94
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.9,
-    "available": 5.8,
-    "used": 5.8,
-    "percent": 50.0
+    "free": 0.8,
+    "available": 5.6,
+    "used": 6.0,
+    "percent": 51.7
   },
   "disk": {
     "total": "193G",
@@ -26,25 +26,31 @@
   "uptime": {
     "days": 114,
     "hours": 4,
-    "minutes": 3,
-    "total_seconds": 9864229.41
+    "minutes": 34,
+    "total_seconds": 9866091.31
   },
   "top_processes": [
     {
       "user": "ubuntu",
       "cpu": "100",
-      "mem": "0.3",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
+    {
+      "user": "ollama",
+      "cpu": "87.5",
+      "mem": "0.6",
+      "command": "/usr/local/bin/ollama runner --ollama-engine --mod"
     },
     {
       "user": "ubuntu",
-      "cpu": "51.4",
+      "cpu": "44.6",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "18.7",
+      "cpu": "9.6",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -53,12 +59,6 @@
       "cpu": "6.2",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
-    },
-    {
-      "user": "root",
-      "cpu": "1.7",
-      "mem": "2.0",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
