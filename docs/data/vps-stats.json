@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-10-22T16:57:01+0000",
+  "timestamp": "2026-10-22T17:28:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 63.2,
+    "percent": 65.0,
     "cores": 2,
     "load_avg": [
-      1.76,
-      2.02,
-      2.02
+      1.57,
+      1.78,
+      1.88
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.0,
+    "free": 1.1,
     "available": 5.9,
     "used": 5.7,
     "percent": 49.1
@@ -26,19 +26,19 @@
   "uptime": {
     "days": 115,
     "hours": 5,
-    "minutes": 22,
-    "total_seconds": 9955369.22
+    "minutes": 53,
+    "total_seconds": 9957229.3
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "55.2",
+      "cpu": "56.2",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "20.0",
+      "cpu": "21.4",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -57,7 +57,7 @@
     {
       "user": "ubuntu",
       "cpu": "1.7",
-      "mem": "7.2",
+      "mem": "7.3",
       "command": "openclaw-gateway"
     }
   ]
