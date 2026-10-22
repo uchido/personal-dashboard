@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-10-22T07:39:05+0000",
+  "timestamp": "2026-10-22T08:10:06+0000",
   "articles": [
     {
       "title": "What is PHP and why did it spark an international cyber-security alert?",
       "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 06:24:59 GMT",
       "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 08:00:55 GMT",
+      "description": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
-      "link": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 07:17:39 GMT",
-      "description": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
       "link": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 23:02:30 GMT",
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Asian Para Games rasa Paralimpiade",
-      "link": "https://www.antaranews.com/berita/5804317/asian-para-games-rasa-paralimpiade",
-      "published": "Thu, 22 Oct 2026 14:36:35 +0700",
-      "description": "Skor 0-15 terpampang sebagai hasil akhir pertandingan atlet para anggar Indonesia Didit Diantoro melawan wakil Irak ...",
+      "title": "ABP: Dua tahun pemerintahan tunjukkan pertumbuhan ekonomi kerakyatan",
+      "link": "https://www.antaranews.com/berita/5804413/abp-dua-tahun-pemerintahan-tunjukkan-pertumbuhan-ekonomi-kerakyatan",
+      "published": "Thu, 22 Oct 2026 15:07:53 +0700",
+      "description": "Ketua Umum Relawan Arus Bawah Prabowo (ABP) Michael Umbas menilai dua tahun pemerintahan Prabowo-Gibran menunjukkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Legislator sebut mekanisasi atasi krisis tenaga kerja sektor pertanian",
-      "link": "https://www.antaranews.com/berita/5804313/legislator-sebut-mekanisasi-atasi-krisis-tenaga-kerja-sektor-pertanian",
-      "published": "Thu, 22 Oct 2026 14:36:01 +0700",
-      "description": "Wakil Ketua Komisi IV DPR RI Hanan A. Rozak menilai mekanisasi pertanian menjadi solusi pemerintah mengatasi krisis ...",
+      "title": "Super Garuda Shield 2026 (bagian 3)",
+      "link": "https://www.antaranews.com/video/5803409/super-garuda-shield-2026-bagian-3",
+      "published": "Thu, 22 Oct 2026 15:05:14 +0700",
+      "description": "ANTARA - Latihan gabungan bersama Super Garuda Shield 2026 tidak hanya memperkenalkan strategi dan taktik perang, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bogor 11 Km: Istana, sejarah sampai Surken",
-      "link": "https://www.antaranews.com/berita/5804309/bogor-11-km-istana-sejarah-sampai-surken",
-      "published": "Thu, 22 Oct 2026 14:35:14 +0700",
-      "description": "Lima ribu rupiah, segelas cincau hijau, dan sedikit es. Pedagang keliling yang melintas itu memberi jeda menyenangkan ...",
+      "title": "7.000 nakes di Meksiko demo kenaikan upah 10 persen",
+      "link": "https://www.antaranews.com/berita/5804409/7000-nakes-di-meksiko-demo-kenaikan-upah-10-persen",
+      "published": "Thu, 22 Oct 2026 15:04:36 +0700",
+      "description": "Ribuan tenaga kesehatan masyarakat dari Institut Jaminan Sosial Meksiko (IMSS) turun ke jalan di ibu kota pekan ini ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "BCA Digital: Literasi penting untuk memahami risiko keuangan digital",
-      "link": "https://www.antaranews.com/berita/5804305/bca-digital-literasi-penting-untuk-memahami-risiko-keuangan-digital",
-      "published": "Thu, 22 Oct 2026 14:34:30 +0700",
-      "description": "PT Bank Digital BCA (BCA Digital) menyoroti pentingnya literasi keuangan khususnya bagi anak muda untuk memahami dan ...",
+      "title": "Sudin PPAPP Jakpus perluas akses pelayanan KB gratis",
+      "link": "https://www.antaranews.com/berita/5804405/sudin-ppapp-jakpus-perluas-akses-pelayanan-kb-gratis",
+      "published": "Thu, 22 Oct 2026 15:04:16 +0700",
+      "description": "Suku Dinas Pemberdayaan, Perlindungan Anak, dan Pengendalian Penduduk (PPAPP) Jakarta Pusat memperluas akses pelayanan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
