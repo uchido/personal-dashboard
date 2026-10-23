@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-23T16:43:01+0000",
+  "timestamp": "2026-10-23T17:14:02+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 65.0,
+    "percent": 57.9,
     "cores": 2,
     "load_avg": [
-      1.5,
-      1.91,
-      1.92
+      2.13,
+      2.09,
+      2.0
     ]
   },
   "memory": {
@@ -26,19 +26,19 @@
   "uptime": {
     "days": 116,
     "hours": 5,
-    "minutes": 8,
-    "total_seconds": 10040929.16
+    "minutes": 39,
+    "total_seconds": 10042789.66
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "200",
-      "mem": "0.3",
+      "cpu": "100",
+      "mem": "0.4",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
       "user": "ubuntu",
-      "cpu": "57.5",
+      "cpu": "52.3",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
