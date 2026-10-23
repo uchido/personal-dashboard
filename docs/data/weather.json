@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T13:37:03+0000",
+  "timestamp": "2026-10-23T14:08:04+0000",
   "locations": [
     {
       "name": "Palu",
@@ -45,40 +45,40 @@
     },
     {
       "name": "Yogyakarta",
-      "location": "Joho",
+      "location": "Tangkil",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
       "temp_c": "24",
       "feels_like_c": "27",
-      "humidity": "87",
-      "wind_speed_kmh": "7",
-      "wind_dir": "SSW",
+      "humidity": "90",
+      "wind_speed_kmh": "6",
+      "wind_dir": "SE",
       "visibility_km": "10",
-      "pressure_mb": "1012",
+      "pressure_mb": "1013",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
       "uv_index": "0",
       "forecast": [
         {
           "date": "2026-10-23",
-          "max_temp": "34",
-          "min_temp": "22",
-          "condition": "Patchy rain nearby",
+          "max_temp": "31",
+          "min_temp": "23",
+          "condition": "Cloudy ",
           "sunrise": "05:13 AM",
           "sunset": "05:33 PM"
         },
         {
           "date": "2026-10-24",
           "max_temp": "30",
-          "min_temp": "21",
-          "condition": "Clear ",
+          "min_temp": "23",
+          "condition": "Partly Cloudy ",
           "sunrise": "05:13 AM",
           "sunset": "05:33 PM"
         },
         {
           "date": "2026-10-25",
-          "max_temp": "32",
-          "min_temp": "22",
+          "max_temp": "30",
+          "min_temp": "23",
           "condition": "Patchy rain nearby",
           "sunrise": "05:12 AM",
           "sunset": "05:33 PM"
