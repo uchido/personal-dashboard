@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-10-23T09:29:03+0000",
+  "timestamp": "2026-10-23T10:00:18+0000",
   "articles": [
     {
-      "title": "Watch: Presenter battles strong winds as storm hits Newquay",
+      "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
       "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 08:26:47 GMT",
       "description": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Meghan says she was informed by police about 'disturbing allegations' against her father in 2018",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 09:56:51 GMT",
+      "description": "The Duchess of Sussex says she is \"deeply distressed\" following reports about her father.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 09:44:40 GMT",
+      "description": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -16,54 +32,6 @@
       "description": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
-      "link": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 05:00:12 GMT",
-      "description": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 08:36:32 GMT",
-      "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "AirNav Indonesia perkuat koordinasi pelayanan navigasi dengan Malaysia",
-      "link": "https://www.antaranews.com/berita/5807427/airnav-indonesia-perkuat-koordinasi-pelayanan-navigasi-dengan-malaysia",
-      "published": "Fri, 23 Oct 2026 16:27:01 +0700",
-      "description": "AirNav Indonesia memperkuat koordinasi pelayanan navigasi penerbangan dengan Malaysia melalui pembahasan pertukaran ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bupati Kuningan: Penyebab karhutla di Gunung Ciremai masih diselidiki",
-      "link": "https://www.antaranews.com/berita/5807423/bupati-kuningan-penyebab-karhutla-di-gunung-ciremai-masih-diselidiki",
-      "published": "Fri, 23 Oct 2026 16:26:27 +0700",
-      "description": "Bupati Kuningan Dian Rachmat Yanuar menyebutkan penyebab kebakaran hutan dan lahan (karhutla) di kawasan Gunung ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Pegiat ekraf dan pendidikan apresiasi PPG dan revitalisasi sekolah",
-      "link": "https://www.antaranews.com/berita/5807415/pegiat-ekraf-dan-pendidikan-apresiasi-ppg-dan-revitalisasi-sekolah",
-      "published": "Fri, 23 Oct 2026 16:23:50 +0700",
-      "description": "Pegiat ekonomi kreatif (ekraf) dan pendidikan Muflih Dzakwan mengapresiasi program peningkatan kesejahteraan guru dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Korban karhutla Bromo kembali meninggal dunia di RSUD Dr Soetomo",
-      "link": "https://www.antaranews.com/berita/5807411/korban-karhutla-bromo-kembali-meninggal-dunia-di-rsud-dr-soetomo",
-      "published": "Fri, 23 Oct 2026 16:22:38 +0700",
-      "description": "Korban kebakaran saat upaya pemadaman kebakaran hutan dan lahan (karhutla) di kawasan Taman Nasional Bromo Tengger ...",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
