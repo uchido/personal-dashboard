@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-10-23T10:00:18+0000",
+  "timestamp": "2026-10-23T10:31:04+0000",
   "articles": [
+    {
+      "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 10:26:05 GMT",
+      "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
       "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
@@ -10,28 +18,52 @@
       "category": "Global"
     },
     {
-      "title": "Meghan says she was informed by police about 'disturbing allegations' against her father in 2018",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 09:56:51 GMT",
-      "description": "The Duchess of Sussex says she is \"deeply distressed\" following reports about her father.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
       "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 09:44:40 GMT",
+      "published": "Fri, 23 Oct 2026 10:26:06 GMT",
       "description": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 05:00:05 GMT",
-      "description": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.",
+      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 10:14:37 GMT",
+      "description": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "Kemdiktisaintek fasilitasi pengembangan riset material maju di Papua",
+      "link": "https://www.antaranews.com/berita/5807659/kemdiktisaintek-fasilitasi-pengembangan-riset-material-maju-di-papua",
+      "published": "Fri, 23 Oct 2026 17:28:04 +0700",
+      "description": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi (Kemdiktisaintek) akan memfasilitasi kolaborasi antara perguruan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BGN libatkan posyandu turut awasi Program MBG",
+      "link": "https://www.antaranews.com/berita/5807655/bgn-libatkan-posyandu-turut-awasi-program-mbg",
+      "published": "Fri, 23 Oct 2026 17:27:54 +0700",
+      "description": "Kepala Badan Gizi Nasional (BGN) Sudaryono mengatakan pihaknya melibatkan posyandu untuk turut mengawasi Program Makan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pemkot Serang salurkan modal usaha Rp1 juta setiap pelaku UMKM",
+      "link": "https://www.antaranews.com/berita/5807651/pemkot-serang-salurkan-modal-usaha-rp1-juta-setiap-pelaku-umkm",
+      "published": "Fri, 23 Oct 2026 17:27:33 +0700",
+      "description": "Pemerintah Kota (Pemkot) Serang menyalurkan bantuan modal usaha senilai Rp1 juta bagi setiap pelaku UMKM dalam upaya ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Vespa S 150 usung fitur immobilizer dan panel instrumen LCD",
+      "link": "https://otomotif.antaranews.com/berita/5807647/vespa-s-150-usung-fitur-immobilizer-dan-panel-instrumen-lcd",
+      "published": "Fri, 23 Oct 2026 17:26:15 +0700",
+      "description": "Vespa S 150 terbaru mengusung sejumlah fitur, mulai dari lampu depan LED berbentuk persegi hingga sistem ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }

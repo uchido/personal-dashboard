@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-10-23T10:00:01+0000",
+  "timestamp": "2026-10-23T10:31:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 80.0,
     "cores": 2,
     "load_avg": [
-      1.59,
-      1.8,
-      1.89
+      1.47,
+      1.84,
+      1.96
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.2,
+    "free": 1.1,
     "available": 5.8,
     "used": 5.8,
     "percent": 50.0
@@ -26,25 +26,31 @@
   "uptime": {
     "days": 115,
     "hours": 22,
-    "minutes": 25,
-    "total_seconds": 10016748.78
+    "minutes": 56,
+    "total_seconds": 10018609.06
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "120",
-      "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
     },
     {
       "user": "ubuntu",
-      "cpu": "64.5",
+      "cpu": "54.5",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
+      "user": "root",
+      "cpu": "33.3",
+      "mem": "0.0",
+      "command": "redis-cli ping"
+    },
+    {
       "user": "ubuntu",
-      "cpu": "28.5",
+      "cpu": "20.0",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -53,12 +59,6 @@
       "cpu": "6.2",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
-    },
-    {
-      "user": "root",
-      "cpu": "1.8",
-      "mem": "2.0",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
