@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-10-24T05:38:04+0000",
+  "timestamp": "2026-10-24T06:09:05+0000",
   "articles": [
-    {
-      "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
-      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 02:25:54 GMT",
-      "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "France prepares for day of protest a week after nationwide riots",
       "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
@@ -34,34 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Ganda campuran Leani/Hikmat raih medali emas pertama para bulu tangkis",
-      "link": "https://asiangames.antaranews.com/video/5808667/ganda-campuran-leani-hikmat-raih-medali-emas-pertama-para-bulu-tangkis",
-      "published": "Sat, 24 Oct 2026 12:36:50 +0700",
-      "description": "ANTARA - ...",
+      "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+      "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 22:47:07 GMT",
+      "description": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "China targetkan jaringan dasar blockchain nasional rampung 2030",
+      "link": "https://www.antaranews.com/berita/5809127/china-targetkan-jaringan-dasar-blockchain-nasional-rampung-2030",
+      "published": "Sat, 24 Oct 2026 13:07:49 +0700",
+      "description": "China menargetkan pembangunan jaringan blockchain nasional yang tengah mereka kerjakan rampung pada 2030 sekaligus ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Mario Aji start P12 di Moto2 Australia",
-      "link": "https://www.antaranews.com/berita/5809091/mario-aji-start-p12-di-moto2-australia",
-      "published": "Sat, 24 Oct 2026 12:34:44 +0700",
-      "description": "1:30.122\n\n2. Barry Baltus (REDS Fantic Racing.",
+      "title": "NASA targetkan pendaratan manusia ke Bulan di 2028",
+      "link": "https://www.antaranews.com/berita/5809123/nasa-targetkan-pendaratan-manusia-ke-bulan-di-2028",
+      "published": "Sat, 24 Oct 2026 13:03:11 +0700",
+      "description": "Badan Penerbangan dan Antariksa Nasional Amerika Serikat (NASA) mengumumkan rencananya untuk mendaratkan antariksawan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bungkam wakil China, Leli-Barce sabet emas para tenis meja",
-      "link": "https://asiangames.antaranews.com/video/5808655/bungkam-wakil-china-leli-barce-sabet-emas-para-tenis-meja",
-      "published": "Sat, 24 Oct 2026 12:34:00 +0700",
-      "description": "ANTARA -&nbsp;Tim para tenis meja Indonesia membuat kejutan besar di Asian Para Games 2026 setelah berhasil melampaui ...",
+      "title": "DPRD minta Pemprov DKI implementasikan perda soal hak disabilitas",
+      "link": "https://www.antaranews.com/berita/5809119/dprd-minta-pemprov-dki-implementasikan-perda-soal-hak-disabilitas",
+      "published": "Sat, 24 Oct 2026 13:01:13 +0700",
+      "description": "Wakil Ketua DPRD DKI Jakarta Wibi Andrino&nbsp;meminta Pemerintah Provinsi DKI Jakarta mengimplementasikan Perda Nomor ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pertamina hadirkan layanan daycare, wujudkan kerja ramah keluarga",
-      "link": "https://www.antaranews.com/berita/5809087/pertamina-hadirkan-layanan-daycare-wujudkan-kerja-ramah-keluarga",
-      "published": "Sat, 24 Oct 2026 12:32:15 +0700",
-      "description": "Pertamina Foundation menghadirkan layanan pengasuhan anak Daycare Bumi Patra Simprug di Kompleks Pertamina Simprug, ...",
+      "title": "Polda Jateng ungkap judi tebak skor virtual di TikTok",
+      "link": "https://www.antaranews.com/berita/5809115/polda-jateng-ungkap-judi-tebak-skor-virtual-di-tiktok",
+      "published": "Sat, 24 Oct 2026 12:51:59 +0700",
+      "description": "Polda Jawa Tengah mengamankan seorang pemuda berinisial MR (27) di Kabupaten Kudus karena diduga menyiarkan perjudian ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
