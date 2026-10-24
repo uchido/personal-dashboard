@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-10-24T02:01:06+0000",
+  "timestamp": "2026-10-24T02:32:05+0000",
   "articles": [
-    {
-      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-      "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 21:10:47 GMT",
-      "description": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
       "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
@@ -34,34 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Hukum kemarin, tindak 1 ton ketamin hingga KPK sita 4 mobil soal BNPB",
-      "link": "https://www.antaranews.com/berita/5808899/hukum-kemarin-tindak-1-ton-ketamin-hingga-kpk-sita-4-mobil-soal-bnpb",
-      "published": "Sat, 24 Oct 2026 09:00:02 +0700",
-      "description": "Berbagai peristiwa hukum kemarin yang menjadi sorotan, di antaranya polisi dan aparat gabungan menggagalkan ...",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 00:05:45 GMT",
+      "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "BPOM: inovasi kesehatan jawab tantangan penyakit langka global",
+      "link": "https://www.antaranews.com/berita/5808939/bpom-inovasi-kesehatan-jawab-tantangan-penyakit-langka-global",
+      "published": "Sat, 24 Oct 2026 09:29:47 +0700",
+      "description": "Badan Pengawas Obat dan Makanan (BPOM) mengatakan pentingnya inovasi kesehatan guna menjawab berbagai tantangan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Politik kemarin, Prabowo soal 2 tahun hingga UU Peradilan Milier",
-      "link": "https://www.antaranews.com/berita/5808895/politik-kemarin-prabowo-soal-2-tahun-hingga-uu-peradilan-milier",
-      "published": "Sat, 24 Oct 2026 08:55:47 +0700",
-      "description": "Berbagai peristiwa politik kemarin yang menjadi sorotan, di antaranya Presiden Prabowo Subianto menilai dua tahun ...",
+      "title": "PT Timah pertimbangkan opsi buyback saham",
+      "link": "https://www.antaranews.com/berita/5808935/pt-timah-pertimbangkan-opsi-buyback-saham",
+      "published": "Sat, 24 Oct 2026 09:24:48 +0700",
+      "description": "PT Timah (Persero) Tbk&nbsp;(TINS) tengah mempertimbangkan opsi pembelian kembali (share buyback) saham sebagai salah ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "PBB sangat khawatir Israel tingkatkan kekerasan di Tepi Barat",
-      "link": "https://www.antaranews.com/berita/5808891/pbb-sangat-khawatir-israel-tingkatkan-kekerasan-di-tepi-barat",
-      "published": "Sat, 24 Oct 2026 08:38:39 +0700",
-      "description": "PBB merasa &quot;sangat khawatir&quot;&nbsp;atas meningkatnya kekerasan di seluruh wilayah Tepi Barat dipicu oleh ...",
+      "title": "SKK Migas umumkan pengurangan ekspor gas ke Singapura",
+      "link": "https://www.antaranews.com/berita/5808931/skk-migas-umumkan-pengurangan-ekspor-gas-ke-singapura",
+      "published": "Sat, 24 Oct 2026 09:21:06 +0700",
+      "description": "Kepala Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak dan Gas Bumi (SKK Migas) Djoko Siswanto mengumumkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Konsumsi listrik untuk isi daya EV dan layanan data Tiongkok melonjak",
-      "link": "https://otomotif.antaranews.com/berita/5808887/konsumsi-listrik-untuk-isi-daya-ev-dan-layanan-data-tiongkok-melonjak",
-      "published": "Sat, 24 Oct 2026 08:29:27 +0700",
-      "description": "Konsumsi listrik untuk sektor layanan pengisian daya kendaraan listrik (electric vehicle/EV) dan layanan data internet ...",
+      "title": "Karantina Kepri musnahkan 29 ton bawang putih rusak asal China",
+      "link": "https://www.antaranews.com/berita/5808927/karantina-kepri-musnahkan-29-ton-bawang-putih-rusak-asal-china",
+      "published": "Sat, 24 Oct 2026 09:16:28 +0700",
+      "description": "Balai Karantina Kepulauan Riau (Karantina Kepri) Badan Karantina Indonesia (Barantin) memusnahkan 29 ton bawang putih ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
