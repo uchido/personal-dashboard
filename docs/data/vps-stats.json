@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-10-24T10:48:01+0000",
+  "timestamp": "2026-10-24T11:19:01+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 78.9,
+    "percent": 63.2,
     "cores": 2,
     "load_avg": [
-      1.74,
-      1.74,
-      1.88
+      2.23,
+      1.99,
+      1.96
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.2,
+    "free": 1.1,
     "available": 5.9,
     "used": 5.7,
     "percent": 49.1
@@ -20,34 +20,16 @@
   "disk": {
     "total": "193G",
     "used": "186G",
-    "available": "7.5G",
+    "available": "7.4G",
     "percent": "97%"
   },
   "uptime": {
     "days": 116,
     "hours": 23,
-    "minutes": 13,
-    "total_seconds": 10106029.07
+    "minutes": 44,
+    "total_seconds": 10107888.92
   },
   "top_processes": [
-    {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.3",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
-      "user": "opc",
-      "cpu": "80.0",
-      "mem": "0.4",
-      "command": "node healthcheck.mjs"
-    },
     {
       "user": "ubuntu",
       "cpu": "60.6",
@@ -56,9 +38,27 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "18.7",
+      "cpu": "21.4",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "6.2",
+      "mem": "0.8",
+      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "1.8",
+      "mem": "2.0",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "1.7",
+      "mem": "7.5",
+      "command": "openclaw-gateway"
     }
   ]
 }
