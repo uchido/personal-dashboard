@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T00:59:04+0000",
+  "timestamp": "2026-10-24T01:30:15+0000",
   "articles": [
     {
       "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Buah utuh vs jus buah, mana yang lebih sehat? Ini faktanya",
-      "link": "https://www.antaranews.com/berita/5808863/buah-utuh-vs-jus-buah-mana-yang-lebih-sehat-ini-faktanya",
-      "published": "Sat, 24 Oct 2026 07:56:16 +0700",
-      "description": "Mengonsumsi buah memang baik bagi kesehatan. Buah kaya akan vitamin, mineral, dan zat alami yang diperlukan tubuh. ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Gerai Samsat keliling tersedia di 10 wilayah Jadetabek pada Sabtu",
-      "link": "https://www.antaranews.com/berita/5808859/gerai-samsat-keliling-tersedia-di-10-wilayah-jadetabek-pada-sabtu",
-      "published": "Sat, 24 Oct 2026 07:50:14 +0700",
-      "description": "Polda Metro Jaya menyediakan layanan Sistem Administrasi Manunggal Satu Atap (Samsat) Keliling untuk membantu para ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Penyebab rem motor berdecit dan cara mengatasinya",
-      "link": "https://otomotif.antaranews.com/berita/5808855/penyebab-rem-motor-berdecit-dan-cara-mengatasinya",
-      "published": "Sat, 24 Oct 2026 07:49:24 +0700",
-      "description": "Suara berdecit saat mengerem pada sepeda motor kerap mengganggu kenyamanan berkendara. Bunyi tersebut terkadang muncul ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Aksi iklim Tiongkok capai progres signifikan, buka jalur hijau",
-      "link": "https://www.antaranews.com/berita/5808851/aksi-iklim-tiongkok-capai-progres-signifikan-buka-jalur-hijau",
-      "published": "Sat, 24 Oct 2026 07:49:16 +0700",
-      "description": "Upaya Tiongkok untuk merespons perubahan iklim dalam beberapa tahun terakhir ini telah mencapai hasil signifikan, dan ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
