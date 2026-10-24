@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-10-24T09:46:03+0000",
+  "timestamp": "2026-10-24T10:17:03+0000",
   "articles": [
-    {
-      "title": "France prepares for day of protest a week after nationwide riots",
-      "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 09:34:32 GMT",
-      "description": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Met investigates reports of letter detailing claims about Meghan's father",
       "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss",
@@ -29,39 +21,47 @@
       "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
       "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 22:47:07 GMT",
-      "description": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+      "description": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "33 anggota PSSI Aceh minta kejelasan hasil kongres pemilihan",
-      "link": "https://www.antaranews.com/berita/5809407/33-anggota-pssi-aceh-minta-kejelasan-hasil-kongres-pemilihan",
-      "published": "Sat, 24 Oct 2026 16:44:53 +0700",
-      "description": "Sebanyak 33 anggota PSSI Aceh meminta PSSI Pusat menjelaskan status hasil Kongres Pemilihan PSSI Aceh pada 3 Oktober ...",
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 09:03:15 GMT",
+      "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Cedera jari kaki hambat Dhinda ke final Indonesia Masters",
+      "link": "https://www.antaranews.com/berita/5809451/cedera-jari-kaki-hambat-dhinda-ke-final-indonesia-masters",
+      "published": "Sat, 24 Oct 2026 17:15:51 +0700",
+      "description": "Pebulu tangkis tunggal putri Indonesia Dhinda Amartya Pratiwi gagal melaju ke final Indonesia Masters 2026 setelah ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Duet baru Imran/Suryo buktikan kemampuan raih emas Asian Para Games",
-      "link": "https://asiangames.antaranews.com/video/5809195/duet-baru-imran-suryo-buktikan-kemampuan-raih-emas-asian-para-games",
-      "published": "Sat, 24 Oct 2026 16:44:03 +0700",
-      "description": "ANTARA - Pasangan ganda putra para bulu tangkis Indonesia Muhammad Al Imran dan Suryo Nugroho meraih medali emas ganda ...",
+      "title": "Konsumen Eropa melirik mobil listrik bekas dari China",
+      "link": "https://otomotif.antaranews.com/berita/5809447/konsumen-eropa-melirik-mobil-listrik-bekas-dari-china",
+      "published": "Sat, 24 Oct 2026 17:11:02 +0700",
+      "description": "Konsumen Eropa yang ingin mengimpor mobil dari China beralih ke mobil hibrida plug-in (PHEV) baru dan mobil listrik ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Imapa Jadetabek tetapkan 120 mahasiswa penerima beasiswa",
-      "link": "https://www.antaranews.com/berita/5809403/imapa-jadetabek-tetapkan-120-mahasiswa-penerima-beasiswa",
-      "published": "Sat, 24 Oct 2026 16:39:22 +0700",
-      "description": "Ikatan Mahasiswa Papua (Imapa) wilayah Jakarta, Depok, Tangerang, dan Bekasi (Jadetabek) menetapkan 120 mahasiswa Papua ...",
+      "title": "Dua ribu lebih atlet lolos verifikasi Porprov Kepri 2026",
+      "link": "https://www.antaranews.com/berita/5809443/dua-ribu-lebih-atlet-lolos-verifikasi-porprov-kepri-2026",
+      "published": "Sat, 24 Oct 2026 17:09:13 +0700",
+      "description": "Panitia Besar (PB) Pekan Olahraga Provinsi (Porprov) VI Kepulauan Riau 2026 menetapkan sebanyak 2.038 atlet dari tujuh ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menperin yakin produk UMKM ramah lingkungan RI tembus pasar global",
-      "link": "https://www.antaranews.com/berita/5809399/menperin-yakin-produk-umkm-ramah-lingkungan-ri-tembus-pasar-global",
-      "published": "Sat, 24 Oct 2026 16:36:23 +0700",
-      "description": "Menteri Perindustrian Muhammad Sarmuji optimistis produk fesyen dan kerajinan ramah lingkungan buatan pelaku usaha ...",
+      "title": "IBL All Indonesian 2026: Rans Simba Bogor tekuk Pacific Caesar 73-65",
+      "link": "https://www.antaranews.com/foto/5809439/ibl-all-indonesian-2026-rans-simba-bogor-tekuk-pacific-caesar-73-65",
+      "published": "Sat, 24 Oct 2026 17:04:37 +0700",
+      "description": "Pebasket Pasific Caesar Surabaya Azzaryan Pradhitya (ketiga kanan) berusaha memasukkan bola yang diadang pebasket Rans ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
