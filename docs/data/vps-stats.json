@@ -1,33 +1,33 @@
 {
-  "timestamp": "2026-10-24T01:30:01+0000",
+  "timestamp": "2026-10-24T02:01:03+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 60.0,
+    "percent": 65.0,
     "cores": 2,
     "load_avg": [
-      2.17,
-      2.24,
-      2.13
+      2.63,
+      2.29,
+      2.24
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.1,
-    "available": 5.8,
-    "used": 5.8,
-    "percent": 50.0
+    "free": 1.0,
+    "available": 5.6,
+    "used": 6.0,
+    "percent": 51.7
   },
   "disk": {
     "total": "193G",
     "used": "184G",
-    "available": "9.2G",
+    "available": "9.1G",
     "percent": "96%"
   },
   "uptime": {
     "days": 116,
-    "hours": 13,
-    "minutes": 55,
-    "total_seconds": 10072549.11
+    "hours": 14,
+    "minutes": 26,
+    "total_seconds": 10074410.93
   },
   "top_processes": [
     {
@@ -38,13 +38,19 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "59.9",
+      "cpu": "37.0",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "20.0",
+      "cpu": "36.6",
+      "mem": "0.6",
+      "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "18.7",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -53,12 +59,6 @@
       "cpu": "6.2",
       "mem": "0.8",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
-    },
-    {
-      "user": "root",
-      "cpu": "1.8",
-      "mem": "2.0",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
