@@ -1,50 +1,44 @@
 {
-  "timestamp": "2026-10-24T21:08:02+0000",
+  "timestamp": "2026-10-24T21:39:03+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 57.9,
+    "percent": 100.0,
     "cores": 2,
     "load_avg": [
-      1.8,
-      2.01,
-      1.98
+      2.9,
+      1.96,
+      1.87
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.0,
-    "available": 5.8,
-    "used": 5.8,
-    "percent": 50.0
+    "free": 0.7,
+    "available": 5.3,
+    "used": 6.3,
+    "percent": 54.3
   },
   "disk": {
     "total": "193G",
-    "used": "187G",
-    "available": "5.7G",
+    "used": "188G",
+    "available": "5.6G",
     "percent": "98%"
   },
   "uptime": {
     "days": 117,
-    "hours": 9,
-    "minutes": 33,
-    "total_seconds": 10143229.61
+    "hours": 10,
+    "minutes": 4,
+    "total_seconds": 10145090.66
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.3",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "50.0",
+      "cpu": "40.3",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "20.0",
+      "cpu": "14.2",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -59,6 +53,12 @@
       "cpu": "1.8",
       "mem": "2.0",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "1.7",
+      "mem": "11.7",
+      "command": "openclaw-gateway"
     }
   ]
 }
