@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-10-26T00:31:04+0000",
+  "timestamp": "2026-10-26T01:02:04+0000",
   "articles": [
+    {
+      "title": "Lula wins fourth term in Brazil but faces hostile Congress and divided country",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 00:45:10 GMT",
+      "description": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country,",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-      "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 22:37:36 GMT",
-      "description": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
       "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 26 Oct 2026 00:26:49 GMT",
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Baznas RI tegaskan dukungan perkuat ketahanan keluarga Indonesia",
-      "link": "https://www.antaranews.com/berita/5811275/baznas-ri-tegaskan-dukungan-perkuat-ketahanan-keluarga-indonesia",
-      "published": "Mon, 26 Oct 2026 07:29:39 +0700",
-      "description": "Badan Amil Zakat Nasional (Baznas) RI menegaskan komitmennya dalam mendukung penguatan ketahanan keluarga di Indonesia, ...",
+      "title": "Baznas RI kerahkan personel untuk tangani karhutla di Kalimantan",
+      "link": "https://www.antaranews.com/berita/5811299/baznas-ri-kerahkan-personel-untuk-tangani-karhutla-di-kalimantan",
+      "published": "Mon, 26 Oct 2026 07:56:47 +0700",
+      "description": "Badan Amil Zakat Nasional (Baznas) RI mengerahkan tim Baznas Tanggap Bencana (BTB) untuk melakukan berbagai aksi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemnaker ajak perusahaan-instansi pemerintah jadi mitra MagangHub",
-      "link": "https://www.antaranews.com/berita/5811271/kemnaker-ajak-perusahaan-instansi-pemerintah-jadi-mitra-maganghub",
-      "published": "Mon, 26 Oct 2026 07:15:52 +0700",
-      "description": "Kementerian Ketenagakerjaan (Kemnaker) mengajak perusahaan, instansi pemerintah, lembaga negara independen, serta ...",
+      "title": "Petani di Kabupaten Aceh Utara pilih panen lebih awal karena banjir",
+      "link": "https://www.antaranews.com/berita/5811295/petani-di-kabupaten-aceh-utara-pilih-panen-lebih-awal-karena-banjir",
+      "published": "Mon, 26 Oct 2026 07:53:27 +0700",
+      "description": "Ratusan hektare sawah di Desa Krueng Seupeng, Kabupaten Aceh Utara, Provinsi Aceh, terendam banjir akibat hujan lebat ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "DKI kemarin, kualitas udara membaik hingga Jakarta Running Festival",
-      "link": "https://www.antaranews.com/berita/5811267/dki-kemarin-kualitas-udara-membaik-hingga-jakarta-running-festival",
-      "published": "Mon, 26 Oct 2026 07:13:49 +0700",
-      "description": "Sejumlah berita seputar DKI Jakarta yang terjadi pada Minggu (25/10) kemarin, mulai dari kualitas udara yang tercatat ...",
+      "title": "Media: 1.314 orang ditangkap dalam aksi unjuk rasa di Prancis, Sabtu",
+      "link": "https://www.antaranews.com/berita/5811291/media-1314-orang-ditangkap-dalam-aksi-unjuk-rasa-di-prancis-sabtu",
+      "published": "Mon, 26 Oct 2026 07:49:49 +0700",
+      "description": "Sebanyak 1.314 orang ditangkap dan 53 aparat penegak hukum terluka dalam gelombang baru aksi unjuk rasa di seantero ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Senin, BMKG prakirakan hujan guyur mayoritas kota besar di Indonesia",
-      "link": "https://www.antaranews.com/berita/5811263/senin-bmkg-prakirakan-hujan-guyur-mayoritas-kota-besar-di-indonesia",
-      "published": "Mon, 26 Oct 2026 07:03:10 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan cuaca di berbagai wilayah Indonesia pada Senin ...",
+      "title": "Potret peresmian Kampung Silat Betawi Rawa Belong sebagai Kampung Budaya 2026",
+      "link": "https://www.antaranews.com/berita/5811287/potret-peresmian-kampung-silat-betawi-rawa-belong-sebagai-kampung-budaya-2026",
+      "published": "Mon, 26 Oct 2026 07:44:38 +0700",
+      "description": "Acara peresmian Kampung Silat Betawi Rawa Belong sebagai Kampung Budaya 2026 diselenggarakan di Pasar Bunga Rawa ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
