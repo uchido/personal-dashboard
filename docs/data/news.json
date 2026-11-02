@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T06:07:04+0000",
+  "timestamp": "2026-11-02T06:38:05+0000",
   "articles": [
     {
       "title": "Five teenagers stabbed at Halloween party",
@@ -10,10 +10,18 @@
       "category": "Global"
     },
     {
-      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+      "title": "Nine killed as small jet crashes on Florida street",
       "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 02:59:02 GMT",
       "description": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 06:00:54 GMT",
+      "description": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Democrats have high hopes for midterms, but polls have let them down before",
-      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 00:25:12 GMT",
-      "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Polda Jatim ungkap penyalahgunaan BBM dan LPG subsidi Rp35,7 miliar",
-      "link": "https://www.antaranews.com/berita/5826007/polda-jatim-ungkap-penyalahgunaan-bbm-dan-lpg-subsidi-rp357-miliar",
-      "published": "Mon, 02 Nov 2026 13:04:12 +0700",
-      "description": "Kepolisian Daerah Jawa Timur mengungkap penyalahgunaan bahan bakar minyak (BBM) dan liquefied petroleum gas (LPG) ...",
+      "title": "Polisi bongkar pengedaran Rp20 juta uang palsu di Cengkareng",
+      "link": "https://www.antaranews.com/berita/5826075/polisi-bongkar-pengedaran-rp20-juta-uang-palsu-di-cengkareng",
+      "published": "Mon, 02 Nov 2026 13:35:27 +0700",
+      "description": "Polisi membongkar pengedaran uang palsu sebanyak Rp20 juta di kawasan Ruko Mutiara Taman Palem, Cengkareng Timur, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Doncic cetak 45 poin, Lakers tekuk Raptors 131-125",
-      "link": "https://www.antaranews.com/berita/5826003/doncic-cetak-45-poin-lakers-tekuk-raptors-131-125",
-      "published": "Mon, 02 Nov 2026 13:02:29 +0700",
-      "description": "Los Angeles Lakers mengalahkan Toronto Raptors 131-125 berkat penampilan gemilang Luka Doncic yang mencetak 45 poin dan ...",
+      "title": "Kementerian UMKM dampingi 23 UKM untuk persiapan IPO",
+      "link": "https://www.antaranews.com/berita/5826071/kementerian-umkm-dampingi-23-ukm-untuk-persiapan-ipo",
+      "published": "Mon, 02 Nov 2026 13:33:06 +0700",
+      "description": "Sebanyak 23 usaha kecil dan menengah (UKM) telah dikurasi untuk mengikuti pendampingan lanjutan menuju penawaran umum ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pilot jet jatuh di Florida sempat laporkan cuaca buruk",
-      "link": "https://www.antaranews.com/berita/5825999/pilot-jet-jatuh-di-florida-sempat-laporkan-cuaca-buruk",
-      "published": "Mon, 02 Nov 2026 12:58:54 +0700",
-      "description": "Pilot sebuah pesawat jet bisnis, yang jatuh di Florida, sempat melaporkan kondisi hujan dan situasi&nbsp;pembekuan es ...",
+      "title": "Meta kembangkan purwarupa robot humanoid bersama Fourier dari China",
+      "link": "https://www.antaranews.com/berita/5826067/meta-kembangkan-purwarupa-robot-humanoid-bersama-fourier-dari-china",
+      "published": "Mon, 02 Nov 2026 13:32:39 +0700",
+      "description": "Meta dilaporkan mengembangkan sebuah purwarupa robot humanoid bernama &quot;Max&quot; melalui kolaborasi bersama ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Survei: Kesadaran gaya hidup sehat belum diikuti konsistensi",
-      "link": "https://www.antaranews.com/berita/5825995/survei-kesadaran-gaya-hidup-sehat-belum-diikuti-konsistensi",
-      "published": "Mon, 02 Nov 2026 12:58:16 +0700",
-      "description": "Meningkatnya kesadaran masyarakat terhadap gaya hidup sehat belum sepenuhnya diikuti penerapan kebiasaan yang konsisten ...",
+      "title": "Pertamina dorong pertumbuhan ekonomi melalui Desa Energi Berdikari",
+      "link": "https://www.antaranews.com/berita/5826063/pertamina-dorong-pertumbuhan-ekonomi-melalui-desa-energi-berdikari",
+      "published": "Mon, 02 Nov 2026 13:31:41 +0700",
+      "description": "PT Pertamina Persero mengembangkan program Desa Energi Berdikari (BED) untuk mendorong pertumbuhan ekonomi secara ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
