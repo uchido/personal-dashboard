@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-02T08:42:04+0000",
+  "timestamp": "2026-11-02T09:13:04+0000",
   "articles": [
     {
       "title": "Mother told to book appointment to give birth to her dead baby",
       "link": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 06:18:34 GMT",
       "description": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Nine killed as small jet crashes on Florida street",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 09:10:19 GMT",
+      "description": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Five teenagers stabbed at Halloween party",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 07:48:13 GMT",
-      "description": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
+      "title": "Democrats have high hopes for US midterms - but are the polls right?",
+      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 00:25:12 GMT",
+      "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Nine killed as small jet crashes on Florida street",
-      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 07:33:17 GMT",
-      "description": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "BMKG prakirakan hujan di sejumlah wilayah Jabar pada 2-5 November",
-      "link": "https://www.antaranews.com/berita/5826435/bmkg-prakirakan-hujan-di-sejumlah-wilayah-jabar-pada-2-5-november",
-      "published": "Mon, 02 Nov 2026 15:39:56 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Stasiun Geofisika Kelas I Bandung memprakirakan sejumlah wilayah ...",
+      "title": "Rektor: Pertemuan SOM MABIMS perkuat solidaritas-persaudaraan di ASEAN",
+      "link": "https://www.antaranews.com/berita/5826531/rektor-pertemuan-som-mabims-perkuat-solidaritas-persaudaraan-di-asean",
+      "published": "Mon, 02 Nov 2026 16:11:55 +0700",
+      "description": "Rektor Universitas Islam Negeri (UIN) Jakarta Asep Saepudin Jahar mengatakan pertemuan Senior Officials Meeting (SOM) ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Komisi III nilai larangan vape di Polri perlu diikuti institusi lain",
-      "link": "https://www.antaranews.com/berita/5826431/komisi-iii-nilailarangan-vape-di-polri-perlu-diikuti-institusi-lain",
-      "published": "Mon, 02 Nov 2026 15:39:50 +0700",
-      "description": "Wakil Ketua Komisi III DPR Ahmad Sahroni menilai kebijakan Kapolri Jenderal Polisi Suyudi Ario Seto yang melarang ...",
+      "title": "Performa Kimi Antonelli buat semua pembalap F1 tampak konyol",
+      "link": "https://www.antaranews.com/berita/5826527/performa-kimi-antonelli-buat-semua-pembalap-f1-tampak-konyol",
+      "published": "Mon, 02 Nov 2026 16:10:23 +0700",
+      "description": "Pembalap McLaren yang juga juara dunia Formula 1 2025, Lando Norris, mengatakan performa Andrea Kimi Antonelli pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Harga ribuan produk makanan minuman di Jepang naik pada November 2026",
-      "link": "https://www.antaranews.com/berita/5826427/harga-ribuan-produk-makanan-minuman-di-jepang-naik-pada-november-2026",
-      "published": "Mon, 02 Nov 2026 15:39:30 +0700",
-      "description": "Harga 1.477 produk makanan dan minuman dari 195 produsen besar di Jepang diperkirakan akan naik pada bulan November, ...",
+      "title": "Polda Jabar siapkan sanksi tegas bagi anggota yang gunakan vape",
+      "link": "https://www.antaranews.com/berita/5826523/polda-jabar-siapkan-sanksi-tegas-bagi-anggota-yang-gunakan-vape",
+      "published": "Mon, 02 Nov 2026 16:09:34 +0700",
+      "description": "Kepolisian Daerah Jawa Barat menyiapkan sanksi tegas bagi anggota Polri yang melanggar larangan penggunaan rokok ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menjaga beras SPHP sampai ke tangan yang berhak",
-      "link": "https://www.antaranews.com/berita/5826423/menjaga-beras-sphp-sampai-ke-tangan-yang-berhak",
-      "published": "Mon, 02 Nov 2026 15:38:06 +0700",
-      "description": "Celah terbesar program beras Stabilisasi Pasokan dan Harga Pangan (SPHP) berada setelah beras meninggalkan jalur resmi, ...",
+      "title": "Kemdiktisaintek gelar KSTI 2026 untuk perkuat ekosistem sains nasional",
+      "link": "https://www.antaranews.com/berita/5826515/kemdiktisaintek-gelar-ksti-2026-untuk-perkuat-ekosistem-sains-nasional",
+      "published": "Mon, 02 Nov 2026 16:06:11 +0700",
+      "description": "Kementerian Pendidikan Tinggi, Sains dan Teknologi (Kemdiktisaintek) akan menggelar Konvensi Sains, Teknologi dan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
