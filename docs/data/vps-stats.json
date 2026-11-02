@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-02T17:29:01+0000",
+  "timestamp": "2026-11-02T18:00:02+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 65.0,
+    "percent": 60.0,
     "cores": 2,
     "load_avg": [
+      1.5,
       1.82,
-      1.98,
-      1.94
+      1.92
     ]
   },
   "memory": {
@@ -25,20 +25,20 @@
   },
   "uptime": {
     "days": 126,
-    "hours": 5,
-    "minutes": 54,
-    "total_seconds": 10907688.93
+    "hours": 6,
+    "minutes": 25,
+    "total_seconds": 10909550.15
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "60.7",
+      "cpu": "47.1",
       "mem": "0.6",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.7+20260901-"
     },
     {
       "user": "ubuntu",
-      "cpu": "21.4",
+      "cpu": "18.7",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
