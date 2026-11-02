@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-02T11:17:05+0000",
+  "timestamp": "2026-11-02T11:48:05+0000",
   "articles": [
     {
       "title": "Mother told to book appointment to give birth to her dead baby",
       "link": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 06:18:34 GMT",
+      "published": "Mon, 02 Nov 2026 11:31:52 GMT",
       "description": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 11:25:12 GMT",
+      "description": "One store in Sweden says temperatures for its freezers were set to 50 C (122F).",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Democrats have high hopes for US midterms - but are the polls right?",
-      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 00:25:12 GMT",
-      "description": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "595 siswa Sekolah Rakyat se-NTB Ikuti MPLS di Lombok Utara",
-      "link": "https://www.antaranews.com/berita/5826971/595-siswa-sekolah-rakyat-se-ntb-ikuti-mpls-di-lombok-utara",
-      "published": "Mon, 02 Nov 2026 18:15:31 +0700",
-      "description": "Sebanyak 595 siswa Sekolah Rakyat dari berbagai kabupaten/kota di Provinsi Nusa Tenggara Barat (NTB) berkumpul di ...",
+      "title": "China perkuat baterai natrium untuk kendaraan komersial listrik",
+      "link": "https://otomotif.antaranews.com/berita/5827051/china-perkuat-baterai-natrium-untuk-kendaraan-komersial-listrik",
+      "published": "Mon, 02 Nov 2026 18:46:32 +0700",
+      "description": "Teknologi baterai ion natrium mulai diarahkan untuk memperkuat sektor kendaraan komersial listrik di China, setelah ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "AllianzGI nilai reksa dana pasar uang tetap diminati investor di RI",
-      "link": "https://www.antaranews.com/berita/5826967/allianzgi-nilai-reksa-dana-pasar-uang-tetap-diminati-investor-di-ri",
-      "published": "Mon, 02 Nov 2026 18:14:26 +0700",
-      "description": "Perusahaan manajer investasi Allianz Global Investors (AllianzGI) Indonesia menilai reksa dana pasar uang dan reksa ...",
+      "title": "Meniti jalan swasembada garam dari pesisir Rote",
+      "link": "https://www.antaranews.com/berita/5827047/meniti-jalan-swasembada-garam-dari-pesisir-rote",
+      "published": "Mon, 02 Nov 2026 18:45:13 +0700",
+      "description": "Pagi yang baru merekah di pesisir Oetefu&nbsp;menyapa hangat Yuliana Antonia Messa yang sudah berpeluh di antara ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Tindak lanjuti keluhan ponpes, Polri nonaktifkan Kapolres Sukoharjo",
-      "link": "https://www.antaranews.com/berita/5826963/tindak-lanjuti-keluhan-ponpes-polri-nonaktifkan-kapolres-sukoharjo",
-      "published": "Mon, 02 Nov 2026 18:12:41 +0700",
-      "description": "Polri menonaktifkan Kapolres Sukoharjo AKBP Andhika Dharma Sena (ADS) sebagai tindak lanjut penanganan internal atas ...",
+      "title": "Pidie Jaya minta Kemenbud selamatkan situs sejarah terdampak bencana",
+      "link": "https://www.antaranews.com/berita/5827043/pidie-jaya-minta-kemenbud-selamatkan-situs-sejarah-terdampak-bencana",
+      "published": "Mon, 02 Nov 2026 18:42:38 +0700",
+      "description": "Pemerintah Kabupaten (Pemkab) Pidie Jaya, Aceh, memperjuangkan penyelamatan 81 situs warisan sejarah di kabupaten ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Duta Literasi Sekolah penggerak minat baca di kalangan generasi muda",
-      "link": "https://www.antaranews.com/berita/5826959/duta-literasi-sekolah-penggerak-minat-baca-di-kalangan-generasi-muda",
-      "published": "Mon, 02 Nov 2026 18:07:40 +0700",
-      "description": "Kepala Dinas Perpustakaan dan Kearsipan (Dispusip) DKI Jakarta&nbsp;Nasrudin Djoko Surjono mengatakan Duta Literasi ...",
+      "title": "Daun ketapang asal Sidoarjo tembus pasar Australia",
+      "link": "https://www.antaranews.com/berita/5827039/daun-ketapang-asal-sidoarjo-tembus-pasar-australia",
+      "published": "Mon, 02 Nov 2026 18:42:27 +0700",
+      "description": "Daun ketapang asal Sidoarjo, Jawa Timur&nbsp;menembus pasar Australia setelah Ocean Institute of Indonesia (OII) Kampus ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
