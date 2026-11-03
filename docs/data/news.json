@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-03T09:30:14+0000",
+  "timestamp": "2026-11-03T10:01:03+0000",
   "articles": [
     {
       "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
       "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 09:14:07 GMT",
+      "published": "Tue, 03 Nov 2026 09:55:47 GMT",
       "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Spanish footballer dies after collision with goalkeeper during match",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 09:09:18 GMT",
+      "description": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Mahmood refuses to detail cost of revised settlement plans",
-      "link": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 09:10:50 GMT",
-      "description": "The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Isyana suarakan keresahan lini masa di lagu baru Lafa Pratomo",
-      "link": "https://www.antaranews.com/berita/5828999/isyana-suarakan-keresahan-lini-masa-di-lagu-baru-lafa-pratomo",
-      "published": "Tue, 03 Nov 2026 16:25:53 +0700",
-      "description": "Penyanyi dan penulis lagu Isyana Sarasvati menyuarakan keresahan akan lini masanya yang riuh lewat lagu kolaborasi yang ...",
+      "title": "HUT Kepulauan Seribu, Bupati resmikan lapangan bola Pulau Untung Jawa",
+      "link": "https://www.antaranews.com/berita/5829103/hut-kepulauan-seribu-bupati-resmikan-lapangan-bola-pulau-untung-jawa",
+      "published": "Tue, 03 Nov 2026 17:00:00 +0700",
+      "description": "Bupati Kepulauan Seribu Muhammad Fadjar Churniawan meresmikan lapangan sepakbola Pulau Untung Jawa yang baru selesai ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemendikdasmen perkuat pengawasan TKA SMA/SMK gelombang 2",
-      "link": "https://www.antaranews.com/berita/5828995/kemendikdasmen-perkuat-pengawasan-tka-sma-smk-gelombang-2",
-      "published": "Tue, 03 Nov 2026 16:25:42 +0700",
-      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) memperkuat koordinasi dan pengawasan pelaksanaan Tes ...",
+      "title": "TEP ITB hidupkan taman baca di Papua dengan lebih dari 4.000 buku",
+      "link": "https://www.antaranews.com/berita/5829099/tep-itb-hidupkan-taman-baca-di-papua-dengan-lebih-dari-4000-buku",
+      "published": "Tue, 03 Nov 2026 16:58:36 +0700",
+      "description": "Tim Ekspedisi Patriot (TEP) Institut Teknologi Bandung (ITB) dan Kementerian Transmigrasi (Kementrans) menghidupkan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bus terguling di Turkiye, 45 orang dilaporkan terluka",
-      "link": "https://www.antaranews.com/berita/5828991/bus-terguling-di-turkiye-45-orang-dilaporkan-terluka",
-      "published": "Tue, 03 Nov 2026 16:25:20 +0700",
-      "description": "Sebanyak 45 orang mengalami cedera setelah bus antarkota yang mereka tumpangi terguling ke dalam parit di jalan raya ...",
+      "title": "Ditjenpas Sumut dukung proses hukum pegawai lapas diduga kurir vape narkoba",
+      "link": "https://www.antaranews.com/berita/5829095/ditjenpas-sumut-dukung-proses-hukum-pegawai-lapas-diduga-kurir-vape-narkoba",
+      "published": "Tue, 03 Nov 2026 16:58:14 +0700",
+      "description": "Kantor Wilayah Direktorat Jenderal Pemasyarakatan Sumatera Utara mendukung proses hukum terhadap seorang pegawai ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Garudayaksa FC targetkan juara I.League Cup 2026/27",
-      "link": "https://www.antaranews.com/berita/5828987/garudayaksa-fc-targetkan-juara-ileague-cup-2026-27",
-      "published": "Tue, 03 Nov 2026 16:23:28 +0700",
-      "description": "Pembina Garudayaksa FC Danang Wicaksana Sulistya menargetkan timnya menjadi juara pada kompetisi piala liga atau ...",
+      "title": "Iran akan beri respons tegas, sebut \"bola\" ada di Amerika",
+      "link": "https://www.antaranews.com/berita/5829091/iran-akan-beri-respons-tegas-sebut-bola-ada-di-amerika",
+      "published": "Tue, 03 Nov 2026 16:54:58 +0700",
+      "description": "Ketua Parlemen Iran&nbsp;Mohammad Bagher Qalibaf&nbsp;mengatakan Iran&nbsp;telah menyampaikan respons&nbsp;tegas dan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
