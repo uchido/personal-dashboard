@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-11-03T17:15:07+0000",
+  "timestamp": "2026-11-03T17:46:05+0000",
   "articles": [
     {
       "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
       "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 10:32:56 GMT",
       "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Bomb threats target seven flights across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 17:21:26 GMT",
+      "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 17:04:02 GMT",
+      "description": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Spanish footballer dies after collision with goalkeeper during match",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 09:09:18 GMT",
-      "description": "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Watch: Why is 'Mogging' the word of the year?",
-      "link": "https://www.bbc.co.uk/news/videos/cm3wv029jlxyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 14:03:57 GMT",
-      "description": "The slang word has become popular among members of Generations Z and Alpha - both online and in everyday conversation.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "KPK periksa direksi Summarecon soal SDM perusahaan dan anak usaha",
-      "link": "https://www.antaranews.com/berita/5830187/kpk-periksa-direksi-summarecon-soal-sdm-perusahaan-dan-anak-usaha",
-      "published": "Wed, 04 Nov 2026 00:13:27 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) memeriksa Direktur PT Summarecon Agung Tbk berinisial NW sebagai saksi pada Selasa ...",
+      "title": "DPR desak proses hukum profesional dalam kasus penyadapan presiden",
+      "link": "https://www.antaranews.com/video/5830207/dpr-desak-proses-hukum-profesional-dalam-kasus-penyadapan-presiden",
+      "published": "Wed, 04 Nov 2026 00:45:02 +0700",
+      "description": "ANTARA -&nbsp;Ketua Komisi III DPR RI Habiburokhman, Selasa (3/11), menghormati proses penegakan hukum atas kasus ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Indonesia sepakati sejumlah kerja sama hulu migas di ADIPEC 2026",
-      "link": "https://www.antaranews.com/berita/5830175/indonesia-sepakati-sejumlah-kerja-sama-hulu-migas-di-adipec-2026",
-      "published": "Wed, 04 Nov 2026 00:04:57 +0700",
-      "description": "Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak dan Gas Bumi (SKK Migas) menyampaikan terdapat penandatanganan ...",
+      "title": "Searah dukung pemerintah wujudkan ketahanan energi lewat produksi gas",
+      "link": "https://www.antaranews.com/berita/5830211/searah-dukung-pemerintah-wujudkan-ketahanan-energi-lewat-produksi-gas",
+      "published": "Wed, 04 Nov 2026 00:42:57 +0700",
+      "description": "Perusahaan energi, Searah memperkuat pasokan gas nasional serta mendukung upaya pemerintah dalam mewujudkan ketahanan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "KPK dalami arahan Bupati Klaten nonaktif terkait pengadaan di pemkab",
-      "link": "https://www.antaranews.com/berita/5830171/kpk-dalami-arahan-bupati-klaten-nonaktif-terkait-pengadaan-di-pemkab",
-      "published": "Wed, 04 Nov 2026 00:04:11 +0700",
-      "description": "Komisi Pemberantasan Korupsi (KPK) mendalami arahan Bupati Klaten nonaktif Hamenang Wajar Ismoyo terkait pengadaan ...",
+      "title": "Presiden Belarus anjurkan Donald Trump jadi Sekjen PBB",
+      "link": "https://www.antaranews.com/berita/5830203/presiden-belarus-anjurkan-donald-trump-jadi-sekjen-pbb",
+      "published": "Wed, 04 Nov 2026 00:35:42 +0700",
+      "description": "Presiden Belarus Alexander Lukashenko menganjurkan agar Presiden Amerika Serikat Donald Trump menjadi Sekretaris ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Gelombang peretasan incar lemari pendingin di supermarket Eropa",
-      "link": "https://www.antaranews.com/berita/5830163/gelombang-peretasan-incar-lemari-pendingin-di-supermarket-eropa",
-      "published": "Wed, 04 Nov 2026 00:02:53 +0700",
-      "description": "Sistem kendali suhu lemari pendingin di sejumlah pasar swalayan di Jerman menjadi korban terbaru serangan siber ...",
+      "title": "Menkeu: Pertumbuhan ekonomi RI pada triwulan III tetap kuat",
+      "link": "https://www.antaranews.com/video/5830183/menkeu-pertumbuhan-ekonomi-ri-pada-triwulan-iii-tetap-kuat",
+      "published": "Wed, 04 Nov 2026 00:31:52 +0700",
+      "description": "ANTARA -&nbsp;Menteri Keuangan Suahasil Nazara mengatakan pertumbuhan ekonomi Indonesia pada triwulan III tahun 2026 ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
