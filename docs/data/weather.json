@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-11-03T21:23:04+0000",
+  "timestamp": "2026-11-03T21:54:05+0000",
   "locations": [
     {
       "name": "Palu",
       "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
-      "temp_c": "16",
-      "feels_like_c": "16",
-      "humidity": "97",
-      "wind_speed_kmh": "5",
+      "temp_c": "17",
+      "feels_like_c": "18",
+      "humidity": "96",
+      "wind_speed_kmh": "4",
       "wind_dir": "SE",
       "visibility_km": "2",
       "pressure_mb": "1013",
@@ -20,14 +20,14 @@
         {
           "date": "2026-11-04",
           "max_temp": "32",
-          "min_temp": "16",
+          "min_temp": "15",
           "condition": "Fog",
           "sunrise": "05:40 AM",
           "sunset": "05:49 PM"
         },
         {
           "date": "2026-11-05",
-          "max_temp": "31",
+          "max_temp": "32",
           "min_temp": "16",
           "condition": "Fog",
           "sunrise": "05:40 AM",
@@ -36,7 +36,7 @@
         {
           "date": "2026-11-06",
           "max_temp": "32",
-          "min_temp": "16",
+          "min_temp": "15",
           "condition": "Fog",
           "sunrise": "05:40 AM",
           "sunset": "05:49 PM"
@@ -49,10 +49,10 @@
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
       "temp_c": "23",
-      "feels_like_c": "26",
-      "humidity": "92",
-      "wind_speed_kmh": "6",
-      "wind_dir": "WSW",
+      "feels_like_c": "27",
+      "humidity": "93",
+      "wind_speed_kmh": "4",
+      "wind_dir": "SSW",
       "visibility_km": "10",
       "pressure_mb": "1013",
       "condition": "Cloudy ",
@@ -69,7 +69,7 @@
         },
         {
           "date": "2026-11-05",
-          "max_temp": "35",
+          "max_temp": "34",
           "min_temp": "23",
           "condition": "Patchy rain nearby",
           "sunrise": "05:10 AM",
@@ -79,7 +79,7 @@
           "date": "2026-11-06",
           "max_temp": "34",
           "min_temp": "23",
-          "condition": "Overcast ",
+          "condition": "Patchy rain nearby",
           "sunrise": "05:09 AM",
           "sunset": "05:35 PM"
         }
