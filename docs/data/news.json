@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T07:43:30+0000",
+  "timestamp": "2026-11-04T08:14:30+0000",
   "articles": [
     {
       "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
@@ -32,11 +32,6 @@
       "description": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "error": "unclosed token: line 666, column 2",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
