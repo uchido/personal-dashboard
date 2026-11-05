@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-11-05T02:19:29+0000",
+  "timestamp": "2026-11-05T02:50:29+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 95.0,
+    "percent": 100.0,
     "cores": 2,
     "load_avg": [
-      1.77,
-      2.08,
-      2.12
+      1.93,
+      1.85,
+      2.0
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.1,
-    "available": 4.4,
-    "used": 7.2,
-    "percent": 62.1
+    "free": 1.3,
+    "available": 4.7,
+    "used": 6.9,
+    "percent": 59.5
   },
   "disk": {
     "total": "193G",
@@ -25,40 +25,40 @@
   },
   "uptime": {
     "days": 128,
-    "hours": 14,
-    "minutes": 45,
-    "total_seconds": 11112316.57
+    "hours": 15,
+    "minutes": 16,
+    "total_seconds": 11114177.31
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "90.0",
-      "mem": "0.4",
-      "command": "node /home/ubuntu/.npm-global/bin/9router"
+      "cpu": "63.2",
+      "mem": "2.1",
+      "command": "opencode run You are cloning an Awwwards Site of t"
     },
     {
       "user": "ubuntu",
-      "cpu": "30.8",
+      "cpu": "62.5",
+      "mem": "0.3",
+      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "27.1",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
     {
       "user": "ubuntu",
-      "cpu": "27.7",
+      "cpu": "12.5",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "7.6",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "6.0",
-      "mem": "0.8",
-      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "2.1",
-      "mem": "3.4",
-      "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     }
   ]
 }
