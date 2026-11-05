@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T04:23:32+0000",
+  "timestamp": "2026-11-05T04:54:31+0000",
   "articles": [
     {
       "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Penggunaan listrik tekan biaya operasional penggilingan padi",
-      "link": "https://www.antaranews.com/berita/5833203/penggunaan-listrik-tekan-biaya-operasional-penggilingan-padi",
-      "published": "Thu, 05 Nov 2026 11:20:06 +0700",
-      "description": "Kepala Dinas Ketahanan Pangan Provinsi Jawa Tengah Widi Hartanto, menyampaikan, penggunaan listrik tekan biaya ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Inggris siap minta maaf atas perbudakan, tapi tolak ganti rugi",
-      "link": "https://www.antaranews.com/berita/5833199/inggris-siap-minta-maaf-atas-perbudakan-tapi-tolak-ganti-rugi",
-      "published": "Thu, 05 Nov 2026 11:19:31 +0700",
-      "description": "Pemerintah Inggris bersedia menyampaikan permohonan maaf secara resmi atas perannya dalam perdagangan budak ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BRI Bekali Atlet Peraih Medali Asian Games ke-20 dan Asian Para Games ke-5 dengan Literasi Keuangan",
-      "link": "https://www.antaranews.com/berita/5833195/bri-bekali-atlet-peraih-medali-asian-games-ke-20-dan-asian-para-games-ke-5-dengan-literasi-keuangan",
-      "published": "Thu, 05 Nov 2026 11:15:35 +0700",
-      "description": "Prestasi di podium menjadi puncak dari perjalanan panjang seorang atlet. Namun, setelah medali diraih dan apresiasi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DPR: RUU Perampasan Aset atur hasil investasi bodong kembali ke korban",
-      "link": "https://www.antaranews.com/berita/5833191/dpr-ruu-perampasan-aset-atur-hasil-investasi-bodong-kembali-ke-korban",
-      "published": "Thu, 05 Nov 2026 11:12:59 +0700",
-      "description": "Ketua Komisi III DPR RI Habiburokhman menjelaskan salah satu pokok pengaturan dalam Rancangan Undang-Undang (RUU) ...",
+      "error": "unclosed token: line 655, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
