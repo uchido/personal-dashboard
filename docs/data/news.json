@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-05T06:58:30+0000",
+  "timestamp": "2026-11-05T07:29:31+0000",
   "articles": [
     {
       "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
       "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 03:47:56 GMT",
       "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "'Hopefully things get done': Americans react to historic political shift",
+      "link": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 22:34:08 GMT",
+      "description": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,36 @@
       "category": "Global"
     },
     {
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 06:35:25 GMT",
-      "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Perbaikan situs dan cagar budaya pascabencana Sumatra masih dilakukan",
+      "link": "https://www.antaranews.com/berita/5833723/perbaikan-situs-dan-cagar-budaya-pascabencana-sumatra-masih-dilakukan",
+      "published": "Thu, 05 Nov 2026 14:28:43 +0700",
+      "description": "Kementerian Kebudayaan hingga kini masih melakukan upaya rehabilitasi atau perbaikan pada situs dan cagar budaya yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemendikdasmen latih 58 ribu guru SD siap mengajar Bahasa Inggris",
+      "link": "https://www.antaranews.com/berita/5833719/kemendikdasmen-latih-58-ribu-guru-sd-siap-mengajar-bahasa-inggris",
+      "published": "Thu, 05 Nov 2026 14:28:40 +0700",
+      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) melatih sebanyak 58.482 guru SD selama sepuluh hari guna ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Polisi Jepang bagikan data rekening penipuan untuk cegah kerugian",
+      "link": "https://www.antaranews.com/berita/5833715/polisi-jepang-bagikan-data-rekening-penipuan-untuk-cegah-kerugian",
+      "published": "Thu, 05 Nov 2026 14:27:24 +0700",
+      "description": "Badan Kepolisian Nasional Jepang (NPA) pada Kamis mengatakan akan mulai membagikan informasi rekening penipuan kepada ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "KPK panggil Direktur Agung Sedayu Group sebagai saksi kasus Haniv",
+      "link": "https://www.antaranews.com/berita/5833711/kpk-panggil-direktur-agung-sedayu-group-sebagai-saksi-kasus-haniv",
+      "published": "Thu, 05 Nov 2026 14:26:26 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) memanggil Direktur Pemasaran Agung Sedayu Group berinisial VSW untuk diperiksa ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
