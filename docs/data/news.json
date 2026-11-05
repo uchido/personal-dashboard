@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T22:28:31+0000",
+  "timestamp": "2026-11-05T22:59:31+0000",
   "articles": [
     {
       "title": "Russell Brand found guilty of rape and sexual assault",
@@ -18,6 +18,14 @@
       "category": "Global"
     },
     {
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 22:13:38 GMT",
+      "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
       "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
       "link": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 18:53:47 GMT",
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 21:25:48 GMT",
-      "description": "California has historically had the largest population of people on death row in the US.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Juventus curi tiga poin dari kandang AZ Alkmaar",
+      "link": "https://www.antaranews.com/berita/5835547/juventus-curi-tiga-poin-dari-kandang-az-alkmaar",
+      "published": "Fri, 06 Nov 2026 05:59:06 +0700",
+      "description": "Dua gol dari Teun Koopmeiners dan Randal Kolo Muani membawa&nbsp;Juventus menang 2-1 atas AZ Alkmaar di &nbsp;Stadion ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 664, column 6",
+      "title": "Bene Dion dan makna pahlawan yang membuka jalan bagi sesama",
+      "link": "https://www.antaranews.com/berita/5835543/bene-dion-dan-makna-pahlawan-yang-membuka-jalan-bagi-sesama",
+      "published": "Fri, 06 Nov 2026 05:27:43 +0700",
+      "description": "Makna kepahlawanan tidak selalu berkaitan dengan perjuangan mengangkat senjata atau pengorbanan di medan perang.\n\nDi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menperin matangkan insentif mobil hybrid lintas kementerian",
+      "link": "https://www.antaranews.com/berita/5835539/menperin-matangkan-insentif-mobil-hybrid-lintas-kementerian",
+      "published": "Fri, 06 Nov 2026 05:25:12 +0700",
+      "description": "Menteri Perindustrian Muhammad Sarmuji mengatakan pemerintah masih mematangkan usulan insentif mobil hybrid melalui ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Bournemouth jaga catatan sempurna setelah menang 3-1 atas Sparta Praha",
+      "link": "https://www.antaranews.com/berita/5835531/bournemouth-jaga-catatan-sempurna-setelah-menang-3-1-atas-sparta-praha",
+      "published": "Fri, 06 Nov 2026 04:51:55 +0700",
+      "description": "Bournemouth sukses menjaga catatan sempurna dengan menang 3-1 atas Sparta Praha dalam matchday keempat fase liga Liga ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
