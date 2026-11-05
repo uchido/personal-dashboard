@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-11-05T03:52:28+0000",
+  "timestamp": "2026-11-05T04:23:28+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 73.7,
+    "percent": 66.7,
     "cores": 2,
     "load_avg": [
-      2.21,
-      2.06,
-      2.11
+      2.33,
+      2.17,
+      2.14
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.0,
-    "available": 4.4,
-    "used": 7.2,
-    "percent": 62.1
+    "free": 1.1,
+    "available": 4.5,
+    "used": 7.1,
+    "percent": 61.2
   },
   "disk": {
     "total": "193G",
@@ -26,19 +26,19 @@
   "uptime": {
     "days": 128,
     "hours": 16,
-    "minutes": 18,
-    "total_seconds": 11117895.85
+    "minutes": 49,
+    "total_seconds": 11119756.16
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
+      "cpu": "116",
       "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "command": "node /home/ubuntu/.npm-global/bin/9router"
     },
     {
       "user": "ubuntu",
-      "cpu": "36.5",
+      "cpu": "33.3",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
@@ -57,7 +57,7 @@
     {
       "user": "ubuntu",
       "cpu": "2.1",
-      "mem": "3.5",
+      "mem": "3.4",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     }
   ]
