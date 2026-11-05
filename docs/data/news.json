@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-11-05T15:14:31+0000",
+  "timestamp": "2026-11-05T15:45:31+0000",
   "articles": [
     {
-      "title": "More women likely to come forward, says detective who led Russell Brand investigation",
+      "title": "Russell Brand is being investigated over two new rape complaints, police say",
       "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 15:04:43 GMT",
+      "published": "Thu, 05 Nov 2026 15:44:49 GMT",
       "description": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Watch: How rapist Brand was never far from controversy",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 14:28:21 GMT",
+      "description": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 14:36:26 GMT",
+      "description": "Most analysts expected the increase from 3.75% to 4%.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,23 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Watch: Was an Italian chef really fired over refusal to put pineapple on pizza?",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 10:33:21 GMT",
-      "description": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Polda Kaltara bongkar 80 kasus narkoba jaringan internasional Malaysia",
+      "link": "https://www.antaranews.com/video/5835339/polda-kaltara-bongkar-80-kasus-narkoba-jaringan-internasional-malaysia",
+      "published": "Thu, 05 Nov 2026 22:42:24 +0700",
+      "description": "ANTARA -&nbsp;Kepolisian Daerah Kalimantan Utara mengungkap 80 kasus narkotika dengan total 116 tersangka yang ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "title": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 14:29:40 GMT",
-      "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "KPK dalami dokumen jual beli lahan kasus Rorotan",
+      "link": "https://www.antaranews.com/berita/5835363/kpk-dalami-dokumen-jual-beli-lahan-kasus-rorotan",
+      "published": "Thu, 05 Nov 2026 22:38:56 +0700",
+      "description": "Komisi Pemberantasan Korupsi (KPK) mendalami dokumen jual beli lahan untuk kebutuhan penyidikan kasus dugaan korupsi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "no element found: line 659, column 4",
+      "title": "Pesona Festival Lusheng Guizhou: Begini tradisi unik Etnis Miao dan Dong yang hipnotis pengunjung",
+      "link": "https://www.antaranews.com/foto/5835359/pesona-festival-lusheng-guizhou-begini-tradisi-unik-etnis-miao-dan-dong-yang-hipnotis-pengunjung",
+      "published": "Thu, 05 Nov 2026 22:38:36 +0700",
+      "description": "Warga menampilkan tarian Lusheng saat Festival Lusheng di Kabupaten Huangping, Prefektur Otonom Miao dan Dong ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Indonesia perkuat perlindungan pelaut di Sidang Dewan IMO Ke-138",
+      "link": "https://www.antaranews.com/berita/5835355/indonesia-perkuat-perlindungan-pelaut-di-sidang-dewan-imo-ke-138",
+      "published": "Thu, 05 Nov 2026 22:37:59 +0700",
+      "description": "Indonesia menegaskan komitmen memperkuat perlindungan pelaut dan keselamatan jalur pelayaran global dalam Sidang Dewan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
