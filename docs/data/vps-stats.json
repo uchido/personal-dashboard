@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-11-06T01:34:28+0000",
+  "timestamp": "2026-11-06T02:05:27+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 70.0,
+    "percent": 63.6,
     "cores": 2,
     "load_avg": [
-      3.3,
-      2.38,
-      2.06
+      2.06,
+      2.17,
+      2.15
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.0,
-    "available": 4.8,
-    "used": 6.8,
-    "percent": 58.6
+    "free": 0.5,
+    "available": 4.2,
+    "used": 7.4,
+    "percent": 63.8
   },
   "disk": {
     "total": "193G",
@@ -26,25 +26,25 @@
   "uptime": {
     "days": 129,
     "hours": 14,
-    "minutes": 0,
-    "total_seconds": 11196015.53
+    "minutes": 31,
+    "total_seconds": 11197874.84
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "166",
-      "mem": "0.3",
+      "cpu": "120",
+      "mem": "0.4",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
       "user": "ubuntu",
-      "cpu": "39.9",
+      "cpu": "40.8",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
     {
       "user": "ubuntu",
-      "cpu": "17.6",
+      "cpu": "20.0",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -55,10 +55,10 @@
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
     },
     {
-      "user": "root",
-      "cpu": "2.1",
-      "mem": "8.7",
-      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+      "user": "ubuntu",
+      "cpu": "3.4",
+      "mem": "4.1",
+      "command": "opencode run You are cloning an Awwwards Site of t"
     }
   ]
 }
