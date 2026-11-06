@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06T22:14:29+0000",
+  "timestamp": "2026-11-06T22:45:30+0000",
   "articles": [
     {
       "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Nathan Tjoe-A-On main penuh saat Willem II ditahan PEC Zwolle",
-      "link": "https://www.antaranews.com/berita/5837739/nathan-tjoe-a-on-main-penuh-saat-willem-ii-ditahan-pec-zwolle",
-      "published": "Sat, 07 Nov 2026 04:58:19 +0700",
-      "description": "Bek tim nasional Indonesia Nathan Tjoe-A-On bermain penuh selama 90 menit saat Willem II ditahan imbang PEC Zwolle 1-1 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Sabtu, sebagian Jakarta berpotensi hujan ringan pada sore hari",
-      "link": "https://www.antaranews.com/berita/5837735/sabtu-sebagian-jakarta-berpotensi-hujan-ringan-pada-sore-hari",
-      "published": "Sat, 07 Nov 2026 04:23:18 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian wilayah Jakarta pada Sabtu bakal hujan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Buntut kasus kriminal, militer AS di Okinawa tambah jam malam sebulan",
-      "link": "https://www.antaranews.com/berita/5837731/buntut-kasus-kriminal-militer-as-di-okinawa-tambah-jam-malam-sebulan",
-      "published": "Sat, 07 Nov 2026 02:33:21 +0700",
-      "description": "Pasukan Militer Amerika Serikat (AS) di Okinawa, Jepang, memutuskan untuk memperpanjang pemberlakuan jam malam selama ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kaja Kallas: Uni Eropa harus terlibat dalam kesepakatan damai Ukraina",
-      "link": "https://www.antaranews.com/berita/5837727/kaja-kallas-uni-eropa-harus-terlibat-dalam-kesepakatan-damai-ukraina",
-      "published": "Sat, 07 Nov 2026 02:18:25 +0700",
-      "description": "Kepala Kebijakan Luar Negeri Uni Eropa Kaja Kallas, Jumat (6/11) mengatakan bahwa Uni Eropa harus dilibatkan dalam ...",
+      "error": "unclosed token: line 662, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
