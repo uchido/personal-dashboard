@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06T12:25:31+0000",
+  "timestamp": "2026-11-06T12:56:30+0000",
   "articles": [
     {
       "title": "Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction",
@@ -28,40 +28,13 @@
     {
       "title": "Firms should publish salaries in job adverts ahead of new law, says PM",
       "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 07:36:41 GMT",
+      "published": "Fri, 06 Nov 2026 12:42:29 GMT",
       "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Kemenkeu Jabar beri pendampingan nyata UMKM di Trade Expo",
-      "link": "https://www.antaranews.com/video/5837055/kemenkeu-jabar-beri-pendampingan-nyata-umkm-di-trade-expo",
-      "published": "Fri, 06 Nov 2026 19:22:04 +0700",
-      "description": "ANTARA - Kementerian Keuangan Perwakilan Jawa Barat menggelar&nbsp;Roeang Kita UMKM Fest dan Trade Expo 2026 di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "CPI sebut investasi EBT tumbuh akibat fluktuasi harga migas",
-      "link": "https://www.antaranews.com/berita/5837075/cpi-sebut-investasi-ebt-tumbuh-akibat-fluktuasi-harga-migas",
-      "published": "Fri, 06 Nov 2026 19:19:08 +0700",
-      "description": "Director Climate Policy Initiative (CPI) Indonesia Tiza Mafira menyampaikan peningkatan investasi energi baru dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Airlangga: Penyadapan berdampak pada sentimen, bukan fundamental",
-      "link": "https://www.antaranews.com/berita/5837071/airlangga-penyadapan-berdampak-pada-sentimen-bukan-fundamental",
-      "published": "Fri, 06 Nov 2026 19:17:19 +0700",
-      "description": "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto mengatakan dampak kasus penyadapan terhadap Presiden Prabowo ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Rumah maggot di Kemanggisan olah sampah organik hingga 60 kg/hari",
-      "link": "https://www.antaranews.com/berita/5837067/rumah-maggot-di-kemanggisan-olah-sampah-organik-hingga-60-kg-hari",
-      "published": "Fri, 06 Nov 2026 19:15:22 +0700",
-      "description": "Rumah maggot di Jalan Kemanggisan Ilir II RT 006/RW 006 Kemanggisan, Palmerah, Jakarta Barat, mengolah sampah organik ...",
+      "error": "unclosed token: line 663, column 0",
       "source": "Antara News",
       "category": "Indonesia"
     }
