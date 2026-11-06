@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-06T12:56:30+0000",
+  "timestamp": "2026-11-06T13:27:32+0000",
   "articles": [
     {
       "title": "Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction",
       "link": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 11:01:58 GMT",
       "description": "Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to \"victim blaming\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvrr686lzqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 13:12:20 GMT",
+      "description": "The comedian had previously spoken about an unnamed \"predator\" in the entertainment industry.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Firms should publish salaries in job adverts ahead of new law, says PM",
-      "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 12:42:29 GMT",
-      "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Sino-Nusantara Institute jaring masukan jelang APEC di Tiongkok",
+      "link": "https://www.antaranews.com/berita/5837263/sino-nusantara-institute-jaring-masukan-jelang-apec-di-tiongkok",
+      "published": "Fri, 06 Nov 2026 20:25:57 +0700",
+      "description": "Sino-Nusantara Institute bersama The Indonesia Friends of Silk Road Club (IFSRC) menjaring masukan dari para pakar, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "unclosed token: line 663, column 0",
+      "title": "Menpora ajak pemuda perkuat SDM dan ekonomi nasional",
+      "link": "https://www.antaranews.com/berita/5837259/menpora-ajak-pemuda-perkuat-sdm-dan-ekonomi-nasional",
+      "published": "Fri, 06 Nov 2026 20:25:38 +0700",
+      "description": "Menteri Pemuda dan Olahraga (Menpora) Erick Thohir mengajak generasi muda dan organisasi kepemudaan berperan aktif ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Puluhan kapal nelayan meriahkan lomba hias perahu di Pulau Sabira",
+      "link": "https://www.antaranews.com/berita/5837255/puluhankapalnelayan-meriahkan-lomba-hias-perahu-di-pulau-sabira",
+      "published": "Fri, 06 Nov 2026 20:24:51 +0700",
+      "description": "Sebanyak 70 kapal nelayan mengikuti lomba Hias Perahu dalam Pesta Rakyat Pulau Sabira 2026 di Kelurahan Pulau Harapan, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Paviliun Wonderful Indonesia raih penghargaan dalam ajang WTM London",
+      "link": "https://www.antaranews.com/berita/5837251/paviliun-wonderful-indonesia-raih-penghargaan-dalam-ajang-wtm-london",
+      "published": "Fri, 06 Nov 2026 20:24:38 +0700",
+      "description": "Paviliun Wonderful Indonesia meraih penghargaan Best Stand Design in Asia dalam ajang World Travel Market (WTM) London ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
