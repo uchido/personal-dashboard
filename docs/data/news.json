@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T00:18:30+0000",
+  "timestamp": "2026-11-07T00:49:30+0000",
   "articles": [
     {
       "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Politik kemarin, PPPK paruh waktu hingga hak angket DPR",
-      "link": "https://www.antaranews.com/berita/5837819/politik-kemarin-pppk-paruh-waktu-hingga-hak-angket-dpr",
-      "published": "Sat, 07 Nov 2026 07:16:47 +0700",
-      "description": "Beragam peristiwa politik telah terjadi pada Jumat (6/11), mulai dari pemerintah angkat PPPK paruh waktu jadi penuh ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menyulam peluang industri petrokimia sebagai penopang kekuatan hilir",
-      "link": "https://www.antaranews.com/berita/5837815/menyulam-peluang-industri-petrokimia-sebagai-penopang-kekuatan-hilir",
-      "published": "Sat, 07 Nov 2026 07:15:44 +0700",
-      "description": "Industri petrokimia, seperti fondasi yang menopang denyut berbagai sektor manufaktur, mulai dari plastik, tekstil, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Sabtu, BMKG: Mayoritas kota besar alami cuaca berawan-hujan ringan",
-      "link": "https://www.antaranews.com/berita/5837811/sabtu-bmkg-mayoritas-kota-besar-alami-cuaca-berawan-hujan-ringan",
-      "published": "Sat, 07 Nov 2026 07:15:35 +0700",
-      "description": "Badan Meteorologi, Klimatologi dan Geofisika (BMKG) mengeluarkan peringatan dini berupa potensi hujan ringan, sedang ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Lima rekomendasi acara untuk berakhir pekan di Jakarta",
-      "link": "https://www.antaranews.com/berita/5837807/lima-rekomendasi-acara-untuk-berakhir-pekan-di-jakarta",
-      "published": "Sat, 07 Nov 2026 07:07:23 +0700",
-      "description": "Melepas penat di akhir pekan memang selalu menjadi agenda yang ditunggu-tunggu. Rutinitas sepanjang Senin hingga Jumat ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
