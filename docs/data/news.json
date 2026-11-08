@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-11-08T21:15:31+0000",
+  "timestamp": "2026-11-08T21:46:30+0000",
   "articles": [
     {
       "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 21:10:23 GMT",
-      "description": "Jensen Huang also admitted to having been \"unfaithful \"to his wife and apologised for hurting her and their children.",
+      "published": "Sun, 08 Nov 2026 21:40:46 GMT",
+      "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -28,10 +28,18 @@
     {
       "title": "Maya Jama steps down as host of reality TV show Love Island",
       "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 20:51:50 GMT",
+      "published": "Sun, 08 Nov 2026 21:19:48 GMT",
       "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "Hasil Formula 1: Lando Norris juara GP Brasil 2026",
+      "link": "https://www.antaranews.com/berita/5840419/hasil-formula-1-lando-norris-juara-gp-brasil-2026",
+      "published": "Mon, 09 Nov 2026 04:37:37 +0700",
+      "description": "Lando Norris keluar sebagai juara Formula 1 GP Brasil 2026 setelah mengalahkan Max Verstappen dalam balapan dramatis di ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Menang 2-0 atas Como 1907, Inter Milan tempel ketat Lazio",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/berita/5840407/ac-milan-naik-ke-peringkat-empat-setelah-tekuk-genoa-2-1",
       "published": "Mon, 09 Nov 2026 03:08:01 +0700",
       "description": "AC Milan berhasil naik ke peringkat empat setelah menekuk tuan rumah, Genoa dengan skor 2-1 dalam lanjutan pekan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hasil MotoGP Qatar 2026: Bezzecchi juara, Marquez finis kedua",
-      "link": "https://www.antaranews.com/berita/5840403/hasil-motogp-qatar-2026-bezzecchi-juara-marquez-finis-kedua",
-      "published": "Mon, 09 Nov 2026 02:58:04 +0700",
-      "description": "Marco Bezzecchi berhasil keluar sebagai juara MotoGP Qatar 2026 yang berlangsung di Sirkuit Lusail pada Minggu ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
