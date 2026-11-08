@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-11-08T06:16:30+0000",
+  "timestamp": "2026-11-08T06:47:30+0000",
   "articles": [
     {
-      "title": "Briton among six killed in 'far-right' shooting in Krakow",
+      "title": "Briton among six killed in Krakow shooting as three more bodies found at suspect's home",
       "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 08 Nov 2026 00:55:17 GMT",
-      "description": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
+      "description": "Authorities say the attacker, described as being \"fascinated by far-right ideologies\", drove into a popular city centre square and opened fire.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 661, column 4",
+      "title": "Pemerintah siapkan Rp 883 M untuk diskon tiket transportasi Nataru",
+      "link": "https://www.antaranews.com/video/5839599/pemerintah-siapkan-rp-883-m-untuk-diskon-tiket-transportasi-nataru",
+      "published": "Sun, 08 Nov 2026 13:44:56 +0700",
+      "description": "ANTARA - Pemerintah telah menyiapkan anggaran sebesar Rp883 miliar untuk stimulus ekonomi berupa diskon transportasi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "PAM JAYA dan PAL JAYA perkuat sinergi pembangunan infrastruktur",
+      "link": "https://www.antaranews.com/berita/5839655/pam-jaya-dan-pal-jaya-perkuat-sinergi-pembangunan-infrastruktur",
+      "published": "Sun, 08 Nov 2026 13:42:27 +0700",
+      "description": "Perusahaan Umum Daerah Air Minum Jaya (PAM JAYA) dan Perusahaan Umum Daerah Pengolahan Air Limbah Jaya (PAL JAYA) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Konser internasional jadi pendorong kunjungan wisatawan mancanegara",
+      "link": "https://www.antaranews.com/berita/5839651/konser-internasional-jadi-pendorong-kunjungan-wisatawan-mancanegara",
+      "published": "Sun, 08 Nov 2026 13:40:38 +0700",
+      "description": "Wakil Menteri Pariwisata Ni Luh Puspa menyatakan bahwa penyelenggaraan konser musisi internasional di Indonesia menjadi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Bapanas-Satgas Pangan awasi ketat distribusi beras SPHP dan RPK",
+      "link": "https://www.antaranews.com/berita/5839647/bapanas-satgas-pangan-awasi-ketat-distribusi-beras-sphp-dan-rpk",
+      "published": "Sun, 08 Nov 2026 13:40:30 +0700",
+      "description": "Badan Pangan Nasional (Bapanas) bersama Satgas Pangan Polri memperketat pengawasan distribusi beras program Stabilisasi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
