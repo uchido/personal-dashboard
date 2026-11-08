@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-11-08T07:49:30+0000",
+  "timestamp": "2026-11-08T08:20:30+0000",
   "articles": [
-    {
-      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 00:48:59 GMT",
-      "description": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
       "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
@@ -26,42 +18,50 @@
       "category": "Global"
     },
     {
-      "title": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
+      "title": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
       "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 08 Nov 2026 04:09:21 GMT",
-      "description": "Police say more than 30 vehicles were involved in the incident on the M20 around 18:40 on Saturday.",
+      "description": "The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Wagub Giri: Pemprov Bali salurkan bantuan Rp811 juta ke Jembrana",
-      "link": "https://www.antaranews.com/berita/5839731/wagub-giri-pemprov-bali-salurkan-bantuan-rp811-juta-ke-jembrana",
-      "published": "Sun, 08 Nov 2026 14:44:56 +0700",
-      "description": "Wakil Gubernur (Wagub) Bali I Nyoman Giri Prasta menyampaikan Pemerintah Provinsi (Pemprov) Bali telah menyalurkan ...",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 22:19:59 GMT",
+      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "WAML dorong ASEAN Society for Medical Law perkuat hukum medis",
+      "link": "https://www.antaranews.com/berita/5839759/waml-dorong-asean-society-for-medical-law-perkuat-hukum-medis",
+      "published": "Sun, 08 Nov 2026 15:18:31 +0700",
+      "description": "Governor World Association for Medical Law (WAML) M Nasser mendorong penguatan hukum medis di kawasan Asia Tenggara ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Gerindra dorong Polri perluas penyidikan dugaan penyadapan Presiden",
-      "link": "https://www.antaranews.com/berita/5839727/gerindra-dorong-polri-perluas-penyidikan-dugaan-penyadapan-presiden",
-      "published": "Sun, 08 Nov 2026 14:41:40 +0700",
-      "description": "Juru Bicara Partai Gerindra Kamrussamad mendorong Kepolisian Negara Republik Indonesia (Polri) agar memperluas ...",
+      "title": "Banjir rendam 70.000 tenda di Gaza, pengungsi tak bisa berlindung",
+      "link": "https://www.antaranews.com/berita/5839751/banjir-rendam-70000-tenda-di-gaza-pengungsi-tak-bisa-berlindung",
+      "published": "Sun, 08 Nov 2026 15:14:03 +0700",
+      "description": "Ribuan keluarga Palestina yang tengah mengungsi kehilangan tempat berlindung setelah hujan deras dan angin kencang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menlu Moldova sebut negaranya akan bersatu dengan Rumania",
-      "link": "https://www.antaranews.com/berita/5839723/menlu-moldova-sebut-negaranya-akan-bersatu-dengan-rumania",
-      "published": "Sun, 08 Nov 2026 14:40:35 +0700",
-      "description": "Wakil Perdana Menteri sekaligus Menteri Luar Negeri Moldova Mihai Popsoi menyebut penggabungan negaranya ke Rumania ...",
+      "title": "Jalan kaki cepat 150 menit sepekan bantu turunkan tekanan darah",
+      "link": "https://www.antaranews.com/berita/5839747/jalan-kaki-cepat-150-menit-sepekan-bantu-turunkan-tekanan-darah",
+      "published": "Sun, 08 Nov 2026 15:08:48 +0700",
+      "description": "Jalan kaki dengan intensitas sedang selama sedikitnya 150 menit dalam sepekan dapat membantu menurunkan tekanan darah ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "BRI hadirkan solusi pembiayaan rumah dan kendaraan lewat Consumer Expo 2026",
-      "link": "https://www.antaranews.com/berita/5839719/bri-hadirkan-solusi-pembiayaan-rumah-dan-kendaraan-lewat-consumer-expo-2026",
-      "published": "Sun, 08 Nov 2026 14:28:40 +0700",
-      "description": "Merencanakan pembelian rumah atau kendaraan sering kali menjadi salah satu keputusan finansial terbesar dalam hidup ...",
+      "title": "Kuningan catat produksi padi 343 ribu ton per September",
+      "link": "https://www.antaranews.com/berita/5839743/kuningan-catat-produksi-padi-343-ribu-ton-per-september",
+      "published": "Sun, 08 Nov 2026 15:03:30 +0700",
+      "description": "Dinas Ketahanan Pangan dan Pertanian (Diskatan) Kabupaten Kuningan, Jawa Barat, mencatat produksi padi di daerahnya ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
