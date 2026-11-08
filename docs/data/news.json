@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-11-08T09:22:29+0000",
+  "timestamp": "2026-11-08T09:53:30+0000",
   "articles": [
+    {
+      "title": "How the deadly shooting in Krakow unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 09:29:24 GMT",
+      "description": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
       "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
@@ -26,15 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 00:48:59 GMT",
-      "description": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Pengguna WhatsApp bisa sembunyikan nomor telepon dari orang lain",
+      "link": "https://www.antaranews.com/berita/5839907/pengguna-whatsapp-bisa-sembunyikan-nomor-telepon-dari-orang-lain",
+      "published": "Sun, 08 Nov 2026 16:50:48 +0700",
+      "description": "WhatsApp menguji coba fitur baru yang memberikan kendali bagi pengguna untuk mengatur siapa saja yang bisa melihat ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "error": "no element found: line 658, column 201",
+      "title": "Disnaker: PMI asal Cililin diduga korban penyekapan ditemukan selamat",
+      "link": "https://www.antaranews.com/berita/5839903/disnaker-pmi-asal-cililin-diduga-korban-penyekapan-ditemukan-selamat",
+      "published": "Sun, 08 Nov 2026 16:49:41 +0700",
+      "description": "Dinas Ketenagakerjaan dan Transmigrasi (Disnakertrans) Jawa Barat memastikan pekerja migran Indonesia (PMI) berasal ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Jakarta perkuat posisi sebagai episentrum kegiatan ekonomi",
+      "link": "https://www.antaranews.com/berita/5839899/jakarta-perkuat-posisi-sebagai-episentrum-kegiatan-ekonomi",
+      "published": "Sun, 08 Nov 2026 16:47:33 +0700",
+      "description": "Gubernur DKI Pramono Anung menilai Jakarta menjadi episentrum kegiatan penggerak ekonomi melalui kegiatan nasional ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Tiga pesawat tempur F-16 AS kembali tiba di Taiwan",
+      "link": "https://www.antaranews.com/berita/5839895/tiga-pesawat-tempur-f-16-as-kembali-tiba-di-taiwan",
+      "published": "Sun, 08 Nov 2026 16:44:20 +0700",
+      "description": "Taiwan menerima tiga jet tempur F-16 buatan Amerika Serikat (AS) dalam rangkaian pengiriman gelombang kedua pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
