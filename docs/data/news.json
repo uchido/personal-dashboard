@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-08T05:45:30+0000",
+  "timestamp": "2026-11-08T06:16:30+0000",
   "articles": [
     {
       "title": "Briton among six killed in 'far-right' shooting in Krakow",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Serangan drone ke fasilitas militer Kolombia, tiga tentara gugur",
-      "link": "https://www.antaranews.com/berita/5839543/serangan-drone-ke-fasilitas-militer-kolombia-tiga-tentara-gugur",
-      "published": "Sun, 08 Nov 2026 12:35:59 +0700",
-      "description": "Sedikitnya tiga prajurit Angkatan Darat Kolombia meninggal dunia dan delapan lainnya menderita luka parah setelah ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "SUBEC, merawat nyala kreativitas muda",
-      "link": "https://www.antaranews.com/berita/5839539/subec-merawat-nyala-kreativitas-muda",
-      "published": "Sun, 08 Nov 2026 12:35:29 +0700",
-      "description": "Bangunan eks Hi-Tech Mall di kawasan Taman Hiburan Rakyat (THR), Surabaya, Jawa Timur, pernah menjadi tujuan warga ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "PAM JAYA sediakan fasilitas air minum gratis di delapan titik di Jakarta",
-      "link": "https://www.antaranews.com/berita/5839535/pam-jaya-sediakan-fasilitas-air-minum-gratis-di-delapan-titik-di-jakarta",
-      "published": "Sun, 08 Nov 2026 12:35:17 +0700",
-      "description": "Perusahaan Umum Daerah Air Minum Jaya (PAM JAYA) menyediakan fasilitas stasiun air minum gratis (water station) di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "KORMI Kota Tangerang atur lapak UMKM mudah dijangkau di arena Forprov",
-      "link": "https://www.antaranews.com/berita/5839531/kormi-kota-tangerang-atur-lapak-umkm-mudah-dijangkau-di-arena-forprov",
-      "published": "Sun, 08 Nov 2026 12:34:41 +0700",
-      "description": "Komite Olahraga Masyarakat Indonesia (KORMI) Kota Tangerang telah mengatur lapak pelaku UMKM di 24 arena pertandingan ...",
+      "error": "unclosed token: line 661, column 4",
       "source": "Antara News",
       "category": "Indonesia"
     }
