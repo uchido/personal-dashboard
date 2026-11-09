@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-08T23:50:30+0000",
+  "timestamp": "2026-11-09T00:21:30+0000",
   "articles": [
     {
       "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 22:42:41 GMT",
+      "published": "Mon, 09 Nov 2026 00:16:49 GMT",
       "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
       "source": "BBC News",
       "category": "Global"
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Nasionalisme; Memartabatkan sastra, memartabatkan bangsa",
-      "link": "https://www.antaranews.com/berita/5840443/nasionalisme-memartabatkan-sastra-memartabatkan-bangsa",
-      "published": "Mon, 09 Nov 2026 06:44:36 +0700",
-      "description": "Sastra bukan sekadar kumpulan kata, bukan pelajaran di ruang kelas yang hanya dihafal, tetapi sebuah pesan filosofis ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hukum kemarin, kasus penyadapan hingga hoaks SIM seumur hidup",
-      "link": "https://www.antaranews.com/berita/5840439/hukum-kemarin-kasus-penyadapan-hingga-hoaks-sim-seumur-hidup",
-      "published": "Mon, 09 Nov 2026 06:39:48 +0700",
-      "description": "Beragam berita hukum telah diwartakan Kantor Berita Antara. Berikut kami rangkum lima berita hukum terpopuler kemarin ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dua gol Fermin Lopez bawa Barcelona taklukkan Atletico 2-1",
-      "link": "https://www.antaranews.com/berita/5840435/dua-gol-fermin-lopez-bawa-barcelona-taklukkan-atletico-2-1",
-      "published": "Mon, 09 Nov 2026 06:36:07 +0700",
-      "description": "Dua gol Fermin Lopez membawa Barcelona bangkit dari ketertinggalan untuk mengalahkan Atletico Madrid 2-1 pada pekan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "OJK blokir dana Rp967 miliar terkait penipuan",
-      "link": "https://www.antaranews.com/infografik/5840423/ojk-blokir-dana-rp967-miliar-terkait-penipuan",
-      "published": "Mon, 09 Nov 2026 06:00:00 +0700",
-      "description": "Otoritas Jasa Keuangan (OJK) melalui Indonesia Anti-Scam Centre (IASC) memblokir ratusan ribu rekening yang terindikasi ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
