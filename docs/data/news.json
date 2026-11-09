@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-09T00:21:30+0000",
+  "timestamp": "2026-11-09T00:52:30+0000",
   "articles": [
     {
       "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:16:49 GMT",
+      "published": "Mon, 09 Nov 2026 00:50:06 GMT",
       "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
       "source": "BBC News",
       "category": "Global"
@@ -18,14 +18,6 @@
       "category": "Global"
     },
     {
-      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 18:20:53 GMT",
-      "description": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Maya Jama steps down as host of reality TV show Love Island",
       "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 08 Nov 2026 21:19:48 GMT",
@@ -34,7 +26,42 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "title": "Dense fog threatens Monday morning rush-hour disruption",
+      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 20:01:04 GMT",
+      "description": "Fog could disrupt Monday morning’s commute",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Syahganda nilai pengusutan penyadapan tunjukkan komitmen Prabowo",
+      "link": "https://www.antaranews.com/berita/5840499/syahganda-nilai-pengusutan-penyadapan-tunjukkan-komitmen-prabowo",
+      "published": "Mon, 09 Nov 2026 07:46:30 +0700",
+      "description": "Kepala Badan Komunikasi Pemerintah (Bakom) RI Syahganda Nainggolan menilai pengusutan dugaan penyadapan terhadap ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Alcaraz raih gelar perdana Paris Masters usai kalahkan Shelton",
+      "link": "https://www.antaranews.com/berita/5840495/alcaraz-raih-gelar-perdana-paris-masters-usai-kalahkan-shelton",
+      "published": "Mon, 09 Nov 2026 07:35:04 +0700",
+      "description": "Petenis Spanyol Carlos Alcaraz meraih gelar Paris Masters untuk pertama kalinya, setelah mengalahkan petenis ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BMKG: Waspadai cuaca hujan di mayoritas wilayah Indonesia pada Senin",
+      "link": "https://www.antaranews.com/berita/5840491/bmkg-waspadai-cuaca-hujan-di-mayoritas-wilayah-indonesia-pada-senin",
+      "published": "Mon, 09 Nov 2026 07:31:53 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan cuaca di berbagai wilayah Indonesia pada Senin ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kemarin, jadwal rilis Xiaomi 18 hingga Tesla setop produksi Cybertruck",
+      "link": "https://www.antaranews.com/berita/5840487/kemarin-jadwal-rilis-xiaomi-18-hingga-tesla-setop-produksi-cybertruck",
+      "published": "Mon, 09 Nov 2026 07:27:18 +0700",
+      "description": "Sejumlah berita menarik dari kanal lifestyle, tekno, otomotif, dan hiburan pada Minggu (8/11) masih dapat dibaca ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
