@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T03:27:31+0000",
+  "timestamp": "2026-11-09T03:58:30+0000",
   "articles": [
     {
       "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
@@ -28,13 +28,13 @@
     {
       "title": "Dense fog threatens Monday morning rush-hour disruption",
       "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 20:01:04 GMT",
+      "published": "Mon, 09 Nov 2026 03:46:32 GMT",
       "description": "Fog could disrupt Monday morning’s commute",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 658, column 169",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
