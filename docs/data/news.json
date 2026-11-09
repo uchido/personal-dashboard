@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-11-09T10:10:30+0000",
+  "timestamp": "2026-11-09T10:41:31+0000",
   "articles": [
-    {
-      "title": "What do we know about Jensen Huang's affair?",
-      "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 07:10:11 GMT",
-      "description": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Inside the French drug gangs recruiting children to kill",
       "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
@@ -34,34 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "MER-C kembali berangkatkan tim ke Gaza perkuat layanan medis",
-      "link": "https://www.antaranews.com/berita/5841847/mer-c-kembali-berangkatkan-tim-ke-gaza-perkuat-layanan-medis",
-      "published": "Mon, 09 Nov 2026 17:09:02 +0700",
-      "description": "Lembaga sosial kemanusiaan Medical Emergency Rescue Committee (MER-C) memperkuat layanan medis di Jalur Gaza, Palestina ...",
-      "source": "Antara News",
-      "category": "Indonesia"
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 02:50:13 GMT",
+      "description": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "source": "BBC News",
+      "category": "Global"
     },
     {
-      "title": "Kemendikdasmen terbitkan SE perkuat penegakan tata tertib TKA",
-      "link": "https://www.antaranews.com/berita/5841843/kemendikdasmen-terbitkan-se-perkuat-penegakan-tata-tertib-tka",
-      "published": "Mon, 09 Nov 2026 17:06:23 +0700",
-      "description": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) menerbitkan Surat Edaran Nomor 001 Tahun 2026 guna ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Trump desak Netanyahu lanjutkan rencana perdamaian Gaza usai pemilu",
-      "link": "https://www.antaranews.com/berita/5841839/trump-desak-netanyahu-lanjutkan-rencana-perdamaian-gaza-usai-pemilu",
-      "published": "Mon, 09 Nov 2026 17:06:11 +0700",
-      "description": "Presiden Amerika Serikat Donald Trump mendesak Perdana Menteri Israel Benjamin Netanyahu mengambil langkah untuk ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "DKI rampungkan kegiatan Museum Keliling untuk tahun ini",
-      "link": "https://www.antaranews.com/berita/5841835/dki-rampungkan-kegiatan-museum-keliling-untuk-tahun-ini",
-      "published": "Mon, 09 Nov 2026 17:05:09 +0700",
-      "description": "Dinas Kebudayaan DKI Jakarta merampungkan kegiatan Museum Keliling dengan total tiga pergelaran wayang sepanjang 2026, ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
