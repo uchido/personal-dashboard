@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-09T05:00:31+0000",
+  "timestamp": "2026-11-09T05:31:30+0000",
   "articles": [
     {
       "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
       "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 00:57:05 GMT",
       "description": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Dense fog threatens Monday morning rush-hour disruption",
+      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 05:22:03 GMT",
+      "description": "Fog could disrupt Monday morning’s commute",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Dense fog threatens Monday morning rush-hour disruption",
-      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 03:46:32 GMT",
-      "description": "Fog could disrupt Monday morning’s commute",
+      "title": "Government's EV targets expected to be reduced this week",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 05:00:43 GMT",
+      "description": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Maya Jama steps down as host of reality TV show Love Island",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 21:19:48 GMT",
-      "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Polisi tetapkan pelaku penyerangan jamaah di Jaktim jadi tersangka",
-      "link": "https://www.antaranews.com/berita/5840827/polisi-tetapkan-pelaku-penyerangan-jamaah-di-jaktim-jadi-tersangka",
-      "published": "Mon, 09 Nov 2026 11:59:11 +0700",
-      "description": "Polres Metro Jakarta Timur&nbsp;menetapkan pelaku&nbsp;penyerangan terhadap tiga jamaah yang tengah shalat Subuh di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Garuda Muda panggil 23 pemain demi tiket Piala Asia U17",
-      "link": "https://www.antaranews.com/berita/5840823/garuda-muda-panggil-23-pemain-demi-tiket-piala-asia-u17",
-      "published": "Mon, 09 Nov 2026 11:58:50 +0700",
-      "description": "Tim nasional Indonesia U17 memanggil 23 pemain untuk menghadapi Kualifikasi Piala Asia U17 2027 di Myanmar dengan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Abadikan Pesona Anhui Lewat Fotografi, Ajang Anhui Photography Season 2026 Resmi Ditutup",
-      "link": "https://www.antaranews.com/berita/5840819/abadikan-pesona-anhui-lewat-fotografi-ajang-anhui-photography-season-2026-resmi-ditutup",
-      "published": "Mon, 09 Nov 2026 11:57:08 +0700",
-      "description": "Artikel berita dari&nbsp;Crionline.\n\nSetelah berlangsung sepanjang musim panas hingga musim gugur dalam tiga ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BPBD berhasil tembus akses ke lokasi banjir bandang di Gayo Lues",
-      "link": "https://www.antaranews.com/berita/5840815/bpbd-berhasil-tembus-akses-ke-lokasi-banjir-bandang-di-gayo-lues",
-      "published": "Mon, 09 Nov 2026 11:51:10 +0700",
-      "description": "Pemerintah Kabupaten (Pemkab) Gayo Lues, Aceh, berhasil membuka akses transportasi ke lokasi bencana alam banjir ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
