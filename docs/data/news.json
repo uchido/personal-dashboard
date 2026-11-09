@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-09T16:22:30+0000",
+  "timestamp": "2026-11-09T16:53:31+0000",
   "articles": [
     {
       "title": "Watch: Moment judge sentences Brand in court",
       "link": "https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 15:18:04 GMT",
       "description": "Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 16:51:09 GMT",
+      "description": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 06:00:26 GMT",
-      "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Bulog perkuat distribusi beras untuk jaga stabilitas harga",
-      "link": "https://www.antaranews.com/berita/5842811/bulog-perkuat-distribusi-beras-untuk-jaga-stabilitas-harga",
-      "published": "Mon, 09 Nov 2026 23:18:44 +0700",
-      "description": "Direktur Utama Perum Bulog Ahmad Rizal Ramdhani&nbsp;mengatakan pihaknya memperkuat&nbsp;penyaluran beras premium ...",
+      "title": "Dirut Bulog akan cabut izin RPK terbukti curang dalam distribusi beras",
+      "link": "https://www.antaranews.com/berita/5842831/dirut-bulog-akan-cabut-izin-rpk-terbukti-curang-dalam-distribusi-beras",
+      "published": "Mon, 09 Nov 2026 23:49:42 +0700",
+      "description": "Direktur Utama (Dirut) Perum Bulog Ahmad Rizal Ramdhani&nbsp;akan mencabut izin Rumah Pangan Kita (RPK) yang terbukti ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemulihan pertanian dan perikanan pascabencana Sumatera terus berjalan",
-      "link": "https://www.antaranews.com/berita/5842807/pemulihan-pertanian-dan-perikanan-pascabencana-sumatera-terus-berjalan",
-      "published": "Mon, 09 Nov 2026 23:18:22 +0700",
-      "description": "Menteri Dalam Negeri Tito Karnavian mengatakan pemerintah terus melakukan pemulihan sektor pertanian dan perikanan yang ...",
+      "title": "Hashim resmikan paviliun Indonesia di hari pertama COP31",
+      "link": "https://www.antaranews.com/video/5842819/hashim-resmikan-paviliun-indonesia-di-hari-pertama-cop31",
+      "published": "Mon, 09 Nov 2026 23:40:20 +0700",
+      "description": "ANTARA - Pada hari pertama penyelenggaraan Konferensi Perubahan Iklim PBB COP31 di Antalya Turki, Senin (9/11), Utusan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Melly Goeslaw minta pelanggaran hak cipta diubah jadi delik biasa",
-      "link": "https://www.antaranews.com/berita/5842803/melly-goeslaw-minta-pelanggaran-hak-cipta-diubah-jadi-delik-biasa",
-      "published": "Mon, 09 Nov 2026 23:16:53 +0700",
-      "description": "Anggota Komisi X DPR RI yang juga musisi Indonesia Melly Goeslaw meminta agar penegakan hukum dalam revisi ...",
+      "title": "Pelatih Timnas Putri tanggapi popularitas sepak bola di Indonesia",
+      "link": "https://www.antaranews.com/video/5842799/pelatih-timnas-putri-tanggapi-popularitas-sepak-bola-di-indonesia",
+      "published": "Mon, 09 Nov 2026 23:37:44 +0700",
+      "description": "ANTARA - Pelatih Timnas Putri Alen Stajcic menanggapi popularitas sepak bola di Indonesia yang begitu tinggi dan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Aktivitas kegempaan meningkat, status Gunung Lokon di level II",
-      "link": "https://www.antaranews.com/video/5842779/aktivitas-kegempaan-meningkat-status-gunung-lokon-di-level-ii",
-      "published": "Mon, 09 Nov 2026 23:06:29 +0700",
-      "description": "ANTARA - Lonjakan signifikan pada aktivitas seismik dan akumulasi tekanan vulkanik yang terekam sejak awal Agustus 2026 ...",
+      "title": "Legenda Real Madrid Raul Gonzalez resmi latih Real Oviedo",
+      "link": "https://www.antaranews.com/berita/5842823/legenda-real-madrid-raul-gonzalez-resmi-latih-real-oviedo",
+      "published": "Mon, 09 Nov 2026 23:32:49 +0700",
+      "description": "Legenda Real Madrid, Raul Gonzalez Blanco, resmi ditunjuk sebagai pelatih baru Real Oviedo menggantikan Julian Calero ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
