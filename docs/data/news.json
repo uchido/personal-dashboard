@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-11-09T02:56:30+0000",
+  "timestamp": "2026-11-09T03:27:31+0000",
   "articles": [
     {
       "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 08 Nov 2026 22:05:12 GMT",
-      "description": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "description": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -21,20 +21,20 @@
       "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
       "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 00:57:05 GMT",
-      "description": "Jill says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
+      "description": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Maya Jama steps down as host of reality TV show Love Island",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 21:19:48 GMT",
-      "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+      "title": "Dense fog threatens Monday morning rush-hour disruption",
+      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 20:01:04 GMT",
+      "description": "Fog could disrupt Monday morning’s commute",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "no element found: line 662, column 12",
+      "error": "unclosed token: line 658, column 169",
       "source": "Antara News",
       "category": "Indonesia"
     }
