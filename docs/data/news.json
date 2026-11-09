@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T13:16:30+0000",
+  "timestamp": "2026-11-09T13:47:30+0000",
   "articles": [
     {
       "title": "Watch: What do we know about Jensen Huang's affair?",
@@ -32,6 +32,11 @@
       "description": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "error": "unclosed token: line 658, column 195",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
