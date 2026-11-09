@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-11-09T08:37:30+0000",
+  "timestamp": "2026-11-09T09:08:30+0000",
   "articles": [
     {
-      "title": "Will Jensen Huang’s reputation survive after scandal?",
+      "title": "What do we know Jensen Huang's affair?",
       "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 07:10:11 GMT",
       "description": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Megawati resmikan 3.000 teba di seluruh kantor PDIP",
-      "link": "https://www.antaranews.com/berita/5841479/megawati-resmikan-3000-teba-di-seluruh-kantor-pdip",
-      "published": "Mon, 09 Nov 2026 15:35:55 +0700",
-      "description": "Presiden Kelima RI yang juga Ketua Umum DPP PDI Perjuangan (PDIP), Megawati Soekarnoputri meresmikan &quot;Teba Mega ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Jepang sediakan sistem radar, pesawat nirawak untuk militer Filipina",
-      "link": "https://www.antaranews.com/berita/5841475/jepang-sediakan-sistem-radar-pesawat-nirawak-untuk-militer-filipina",
-      "published": "Mon, 09 Nov 2026 15:34:55 +0700",
-      "description": "Pemerintah Jepang, Senin, menyatakan akan menyediakan sistem radar dan pesawat nirawak senilai 4,3 miliar yen (Rp492 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BRI lanjutkan buyback saham tahap dua dengan nilai maksimal Rp1 T",
-      "link": "https://www.antaranews.com/berita/5841471/bri-lanjutkan-buyback-saham-tahap-dua-dengan-nilai-maksimal-rp1-t",
-      "published": "Mon, 09 Nov 2026 15:34:28 +0700",
-      "description": "PT Bank Rakyat Indonesia (Persero) Tbk&nbsp;(BRI) menyampaikan rencana pembelian kembali alias buyback saham tahap ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mensos: Kakek Prabowo diusulkan jadi Pahlawan Nasional",
-      "link": "https://www.antaranews.com/berita/5841463/mensos-kakek-prabowo-diusulkan-jadi-pahlawan-nasional",
-      "published": "Mon, 09 Nov 2026 15:28:25 +0700",
-      "description": "Menteri Sosial Saifullah Yusuf mengatakan nama Margono Djojohadikusumo,&nbsp;kakek dari Presiden Prabowo Subianto, ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
