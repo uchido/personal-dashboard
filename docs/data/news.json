@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-11-10T12:00:32+0000",
+  "timestamp": "2026-11-10T12:31:30+0000",
   "articles": [
     {
       "title": "US military aircraft leave second UK base",
       "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 11:13:19 GMT",
+      "published": "Tue, 10 Nov 2026 12:09:38 GMT",
       "description": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Met Police investigate several new reports on Russell Brand following his conviction",
+      "title": "Met Police investigate several reports on Russell Brand following his conviction",
       "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 11:44:31 GMT",
       "description": "Det Supt Andy Furphy says the force had received \"several reports in during the trial and since the trial\".",
@@ -18,20 +18,52 @@
       "category": "Global"
     },
     {
-      "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 09:25:03 GMT",
-      "description": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 09:40:31 GMT",
+      "description": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Edinburgh Academy pupils suffered decades of 'dreadful abuse'",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7y7pjpy7do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 11:21:19 GMT",
-      "description": "A report from the Scottish Child Abuse Inquiry says the school focused on protecting its reputation and ignored complaints.",
+      "title": "Watch: Meghan's first public appearance since father arrested",
+      "link": "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 11:57:14 GMT",
+      "description": "Meghan arrived at the European Parliament in Brussels with her husband, Prince Harry, who delivered a speech about online child safety.",
       "source": "BBC News",
       "category": "Global"
+    },
+    {
+      "title": "BMKG: Sejumlah wilayah Sumut berpotensi diguyur hujan besok",
+      "link": "https://www.antaranews.com/berita/5844707/bmkg-sejumlah-wilayah-sumut-berpotensi-diguyur-hujan-besok",
+      "published": "Tue, 10 Nov 2026 19:31:12 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sejumlah wilayah di Sumatera Utara (Sumut) ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Polisi bongkar pengoplosan gas nonsubsidi, pelaku raup Rp55,2 Juta",
+      "link": "https://www.antaranews.com/video/5844627/polisi-bongkar-pengoplosan-gas-nonsubsidi-pelaku-raup-rp552-juta",
+      "published": "Tue, 10 Nov 2026 19:29:38 +0700",
+      "description": "ANTARA - Polda Sulsel mengungkap seorang pria di Kota Makassar yang nekat mengoplos gas LPG subsidi 3 kg ke tabung ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "OJK setujui penggabungan BRI Syariah Kotanopan perluas layanan",
+      "link": "https://www.antaranews.com/berita/5844703/ojk-setujui-penggabungan-bri-syariah-kotanopan-perluas-layanan",
+      "published": "Tue, 10 Nov 2026 19:27:00 +0700",
+      "description": "Otoritas Jasa Keuangan (OJK) menyetujui penggabungan PT Bank Perekonomian Rakyat Syariah (BPR Syariah) Sindanglaya ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Timnas Indonesia dijadwalkan uji coba lawan Bali United",
+      "link": "https://www.antaranews.com/berita/5844695/timnas-indonesia-dijadwalkan-uji-coba-lawan-bali-united",
+      "published": "Tue, 10 Nov 2026 19:26:22 +0700",
+      "description": "Tim Nasional (Timnas) Indonesia dijadwalkan melakukan uji coba tanding melawan Bali United di sela pemusatan latihan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     }
   ]
 }
