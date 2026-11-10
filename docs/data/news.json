@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T14:35:30+0000",
+  "timestamp": "2026-11-10T15:06:29+0000",
   "articles": [
     {
       "title": "US military aircraft leave second UK base",
@@ -26,42 +26,15 @@
       "category": "Global"
     },
     {
-      "title": "Watch: Meghan's first public appearance since father arrested",
-      "link": "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 11:57:14 GMT",
-      "description": "Meghan arrived at the European Parliament in Brussels with her husband, Prince Harry, who delivered a speech about online child safety.",
+      "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 11:23:43 GMT",
+      "description": "Manchester United head coach Michael Carrick's future will be discussed at a meeting in Monaco on Wednesday.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "BMKG: Waspadai potensi hujan lebat dan angin kencang di Sulawesi Utara",
-      "link": "https://www.antaranews.com/berita/5845119/bmkg-waspadai-potensi-hujan-lebat-dan-angin-kencang-di-sulawesi-utara",
-      "published": "Tue, 10 Nov 2026 21:34:42 +0700",
-      "description": "Badan Meteorologi, Klimatologi dan Geofisika (BMKG) mengingatkan potensi hujan lebat disertai&nbsp; angin kencang di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Suzuki produksi 15 juta kendaraan, libatkan 900 pemasok lokal",
-      "link": "https://otomotif.antaranews.com/berita/5845115/suzuki-produksi-15-juta-kendaraan-libatkan-900-pemasok-lokal",
-      "published": "Tue, 10 Nov 2026 21:30:21 +0700",
-      "description": "Suzuki Indonesia telah memproduksi lebih dari 15 juta unit kendaraan melalui tiga fasilitas manufaktur di dalam negeri, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hidayat Nur Wahid mundur dari jabatan wakil ketua MPR",
-      "link": "https://www.antaranews.com/berita/5845107/hidayat-nur-wahid-mundur-dari-jabatan-wakil-ketua-mpr",
-      "published": "Tue, 10 Nov 2026 21:27:46 +0700",
-      "description": "Ketua MPR Ahmad Muzani menyampaikan bahwa Hidayat Nur Wahid mundur dari jabatan wakil ketua MPR.\n\n&ldquo;Rapat ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Dirut Bulog dan \"sesepuh\" ikrarkan swasembada pangan RI tanpa impor",
-      "link": "https://www.antaranews.com/berita/5845103/dirut-bulog-dan-sesepuh-ikrarkan-swasembada-pangan-ri-tanpa-impor",
-      "published": "Tue, 10 Nov 2026 21:25:11 +0700",
-      "description": "Direktur Utama (Dirut) Perum Bulog Ahmad Rizal Ramdhani bersama para mantan dirut&nbsp;mengikrarkan komitmen mewujudkan ...",
+      "error": "unclosed token: line 664, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
