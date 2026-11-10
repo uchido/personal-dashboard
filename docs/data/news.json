@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T09:25:30+0000",
+  "timestamp": "2026-11-10T09:56:30+0000",
   "articles": [
     {
       "title": "Jemima Goldsmith accuses Russell Brand of violence and abuse against her",
@@ -28,40 +28,13 @@
     {
       "title": "Trump says more US attacks on Iran 'highly unlikely'",
       "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 05:33:25 GMT",
+      "published": "Tue, 10 Nov 2026 09:40:31 GMT",
       "description": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Telkomsat berikan solusi strategi pengembangan industri satelit Indonesia dalam Forum APSCC 2026",
-      "link": "https://www.antaranews.com/berita/5844183/telkomsat-berikan-solusi-strategi-pengembangan-industri-satelit-indonesia-dalam-forum-apscc-2026",
-      "published": "Tue, 10 Nov 2026 16:24:14 +0700",
-      "description": "Jakarta (ANTARA) &ndash; Dalam upaya memperkuat perannya dalam pengembangan industri satelit nasional serta memperluas ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Ada isu mundur, Wapres hadiri Penganugerahan Gelar Pahlawan di Istana",
-      "link": "https://www.antaranews.com/berita/5844179/ada-isu-mundur-wapres-hadiri-penganugerahan-gelar-pahlawan-di-istana",
-      "published": "Tue, 10 Nov 2026 16:24:10 +0700",
-      "description": "Wakil Presiden Gibran Rakabuming Raka menghadiri Penganugerahan Gelar Pahlawan Nasional di Istana Negara, Jakarta, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Menko Zulhas sebut swasembada pangan dongkrak kesejahteraan petani",
-      "link": "https://www.antaranews.com/video/5844095/menko-zulhas-sebut-swasembada-pangan-dongkrak-kesejahteraan-petani",
-      "published": "Tue, 10 Nov 2026 16:23:06 +0700",
-      "description": "ANTARA -&nbsp;&lrm;Menteri Koordinator Bidang Pangan Zulkifli Hasan menyebut kebijakan swasembada pangan mulai ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hari Pahlawan, pemerintah ajak hormati pahlawan yang tak dikenal",
-      "link": "https://www.antaranews.com/berita/5844175/hari-pahlawan-pemerintah-ajak-hormati-pahlawan-yang-tak-dikenal",
-      "published": "Tue, 10 Nov 2026 16:23:04 +0700",
-      "description": "Pemerintah melalui Menteri Sekretaris Negara Prasetyo Hadi mengucapkan selamat Hari Pahlawan 2026 sekaligus mengajak ...",
+      "error": "unclosed token: line 660, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
