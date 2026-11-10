@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-11-10T11:29:29+0000",
+  "timestamp": "2026-11-10T12:00:32+0000",
   "articles": [
-    {
-      "title": "Jemima Goldsmith accuses Russell Brand of violence and abuse against her",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 02:59:42 GMT",
-      "description": "Goldsmith accuses the disgraced entertainer of \"violence, coercive control and abuse\" while they were in a relationship.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "US military aircraft leave second UK base",
       "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 11:13:19 GMT",
       "description": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Met Police investigate several new reports on Russell Brand following his conviction",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 11:44:31 GMT",
+      "description": "Det Supt Andy Furphy says the force had received \"several reports in during the trial and since the trial\".",
       "source": "BBC News",
       "category": "Global"
     },
@@ -32,38 +32,6 @@
       "description": "A report from the Scottish Child Abuse Inquiry says the school focused on protecting its reputation and ignored complaints.",
       "source": "BBC News",
       "category": "Global"
-    },
-    {
-      "title": "Dispar Kalsel jalin kemitraan agen perjalanan 8 daerah dan mancanegara",
-      "link": "https://www.antaranews.com/berita/5844511/dispar-kalsel-jalin-kemitraan-agen-perjalanan-8-daerah-dan-mancanegara",
-      "published": "Tue, 10 Nov 2026 18:27:19 +0700",
-      "description": "Dinas Pariwisata Provinsi Kalimantan Selatan memperluas pemasaran paket wisata daerah melalui kemitraan bisnis dengan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Golkar ingatkan proses hukum soal ijazah Gibran sudah final",
-      "link": "https://www.antaranews.com/berita/5844507/golkar-ingatkan-proses-hukum-soal-ijazah-gibran-sudah-final",
-      "published": "Tue, 10 Nov 2026 18:26:33 +0700",
-      "description": "Anggota DPR sekaligus Wakil Ketua Umum Partai Golkar Ahmad Doli Kurnia mengingatkan bahwa proses hukum terkait ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BYD optimalkan utilisasi pabrik Subang hingga 90 persen pada 2026",
-      "link": "https://www.antaranews.com/berita/5844503/byd-optimalkan-utilisasi-pabrik-subang-hingga-90-persen-pada-2026",
-      "published": "Tue, 10 Nov 2026 18:26:02 +0700",
-      "description": "PT BYD Motor Indonesia menargetkan tingkat utilisasi fasilitas manufaktur di Subang, Jawa Barat, mencapai 80&ndash;90 ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "AS, Ukraina, Eropa sepakati perluasan dialog akhiri perang",
-      "link": "https://www.antaranews.com/berita/5844499/as-ukraina-eropa-sepakati-perluasan-dialog-akhiri-perang",
-      "published": "Tue, 10 Nov 2026 18:24:11 +0700",
-      "description": "Amerika Serikat (AS), Ukraina, dan mitra-mitra Eropa menyatakan akan mengupayakan perluasan perundingan multilateral ...",
-      "source": "Antara News",
-      "category": "Indonesia"
     }
   ]
 }
