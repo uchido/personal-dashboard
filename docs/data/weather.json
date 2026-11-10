@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-10T09:56:30+0000",
+  "timestamp": "2026-11-10T10:27:30+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Mebere",
+      "location": "Lolu",
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "26",
@@ -15,7 +15,7 @@
       "pressure_mb": "1010",
       "condition": "Light rain shower",
       "condition_code": "353",
-      "uv_index": "2",
+      "uv_index": "1",
       "forecast": [
         {
           "date": "2026-11-10",

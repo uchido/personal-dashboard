@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T09:56:30+0000",
+  "timestamp": "2026-11-10T10:27:30+0000",
   "articles": [
     {
       "title": "Jemima Goldsmith accuses Russell Brand of violence and abuse against her",
@@ -34,7 +34,7 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 660, column 6",
+      "error": "unclosed token: line 666, column 8",
       "source": "Antara News",
       "category": "Indonesia"
     }
