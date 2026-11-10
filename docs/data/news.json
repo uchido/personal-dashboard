@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-10T15:06:29+0000",
+  "timestamp": "2026-11-10T15:37:29+0000",
   "articles": [
     {
       "title": "US military aircraft leave second UK base",
       "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 12:43:59 GMT",
+      "published": "Tue, 10 Nov 2026 15:14:37 GMT",
       "description": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
       "source": "BBC News",
       "category": "Global"
@@ -20,7 +20,7 @@
     {
       "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
       "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 14:15:28 GMT",
+      "published": "Tue, 10 Nov 2026 15:10:20 GMT",
       "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
       "source": "BBC News",
       "category": "Global"
@@ -34,7 +34,34 @@
       "category": "Global"
     },
     {
-      "error": "unclosed token: line 664, column 6",
+      "title": "Dian Sastro kenang momen diterima UI saat syuting \"Pasir Berbisik\"",
+      "link": "https://www.antaranews.com/berita/5845267/dian-sastro-kenang-momen-diterima-ui-saat-syuting-pasir-berbisik",
+      "published": "Tue, 10 Nov 2026 22:36:04 +0700",
+      "description": "Aktris Dian Sastrowardoyo mengenang momen ketika dirinya dinyatakan diterima di Fakultas Hukum Universitas Indonesia ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Kabupaten di Jateng diminta abadikan RM Margono sebagai nama jalan",
+      "link": "https://www.antaranews.com/berita/5845263/kabupaten-di-jateng-diminta-abadikan-rm-margono-sebagai-nama-jalan",
+      "published": "Tue, 10 Nov 2026 22:35:31 +0700",
+      "description": "Paguyuban Serulingmas (Seruan Eling Banyumas) mendorong pemda di sejumlah kabupaten di Jawa Tengah untuk memperbanyak ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Danantara-BP BUMN siapkan skema kredit petani lewat Kopdes Merah Putih",
+      "link": "https://www.antaranews.com/berita/5845259/danantara-bp-bumn-siapkan-skema-kredit-petani-lewat-kopdes-merah-putih",
+      "published": "Tue, 10 Nov 2026 22:31:43 +0700",
+      "description": "Danantara bersama Badan Pengaturan Badan Usaha Milik Negara (BP BUMN) menyiapkan skema kredit bagi petani melalui ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Menilik perjalanan Buya Hamka dalam \"Hamka: Awal Mula (Vol. 3)\"",
+      "link": "https://www.antaranews.com/berita/5845255/menilik-perjalanan-buya-hamka-dalam-hamka-awal-mula-vol-3",
+      "published": "Tue, 10 Nov 2026 22:30:05 +0700",
+      "description": "Film Hamka: Awal Mula (Vol. 3) karya sutradara Fajar Bustomi menyoroti bagaimana moralitas Buya Hamka terbentuk pada ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
