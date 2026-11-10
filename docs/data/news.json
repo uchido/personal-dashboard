@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T16:08:30+0000",
+  "timestamp": "2026-11-10T16:39:31+0000",
   "articles": [
     {
       "title": "US military aircraft leave second UK base",
@@ -34,34 +34,7 @@
       "category": "Global"
     },
     {
-      "title": "Knicks incar kemenangan keempat beruntun saat hadapi Bucks",
-      "link": "https://www.antaranews.com/berita/5845323/knicks-incar-kemenangan-keempat-beruntun-saat-hadapi-bucks",
-      "published": "Tue, 10 Nov 2026 23:04:58 +0700",
-      "description": "New York Knicks membidik kemenangan keempat beruntun saat menjamu Milwaukee Bucks dalam lanjutan NBA 2026/2027 di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Revisi UU Penyiaran ciptakan keadilan media konvensional dan digital",
-      "link": "https://www.antaranews.com/berita/5845319/revisi-uu-penyiaran-ciptakan-keadilan-media-konvensional-dan-digital",
-      "published": "Tue, 10 Nov 2026 23:04:47 +0700",
-      "description": "Pemerintah berkomitmen menciptakan keadilan dan kedudukan proposional antara industri penyiaran konvensional dan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kapolri ajak gerakan pemuda jaga Indonesia dari tindak kejahatan",
-      "link": "https://www.antaranews.com/berita/5845315/kapolri-ajak-gerakan-pemuda-jaga-indonesia-dari-tindak-kejahatan",
-      "published": "Tue, 10 Nov 2026 23:03:44 +0700",
-      "description": "Kapolri Jenderal Polisi Suyudi Ario Seto mengajak seluruh elemen Organisasi Kepemudaan (OKP) di Indonesia untuk terus ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Raih Indonesia Kita Awards, AHY: Infrastruktur harus berdampak nyata",
-      "link": "https://www.antaranews.com/video/5845303/raih-indonesia-kita-awards-ahy-infrastruktur-harus-berdampak-nyata",
-      "published": "Tue, 10 Nov 2026 22:59:02 +0700",
-      "description": "ANTARA - Menteri Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono (AHY) menerima ...",
+      "error": "unclosed token: line 661, column 6",
       "source": "Antara News",
       "category": "Indonesia"
     }
