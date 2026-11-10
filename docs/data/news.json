@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-11-10T19:45:30+0000",
+  "timestamp": "2026-11-10T20:16:30+0000",
   "articles": [
     {
       "title": "Senior US soldier arrested by UK counter-terror police",
       "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 19:34:48 GMT",
       "description": "The 41-year-old was arrested on suspicion of offences under the National Security Act which relate to Russia, police say.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "David Walliams accused of sexual misconduct after losing injunction bid",
+      "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 20:07:39 GMT",
+      "description": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Watch: What we know about the allegations against Walliams",
+      "link": "https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 19:35:17 GMT",
+      "description": "The author and comedian recently lost a court battle trying to block publication of the allegations.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,50 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 16:19:48 GMT",
-      "description": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Menteri LH luncurkan CarbonNex di COP31, wadah kerja sama karbon",
+      "link": "https://www.antaranews.com/berita/5845495/menteri-lh-luncurkan-carbonnex-di-cop31-wadah-kerja-sama-karbon",
+      "published": "Wed, 11 Nov 2026 03:09:53 +0700",
+      "description": "Menteri Lingkungan Hidup Jumhur Hidayat meluncurkan platform Carbon Connection For Climate Next (CarbonNex), sebagai ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
-      "title": "Train attack driver's '10 seconds' to change line",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 18:54:35 GMT",
-      "description": "Andrew Johnson tells jurors he heard over the intercom \"'there's a knifeman stabbing people'\".",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Menteri LH mulai gelar dialog dengan sejumlah negara di COP31",
+      "link": "https://www.antaranews.com/berita/5845491/menteri-lh-mulai-gelar-dialog-dengan-sejumlah-negara-di-cop31",
+      "published": "Wed, 11 Nov 2026 03:07:12 +0700",
+      "description": "Menteri Lingkungan Hidup Jumhur Hidayat mulai menggelar dialog permulaan dengan perwakilan beberapa negara seperti ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Pejuang gerilya Letkol Sroedji dianugerahkan gelar pahlawan nasional",
+      "link": "https://www.antaranews.com/berita/5845487/pejuang-gerilya-letkol-sroedji-dianugerahkan-gelar-pahlawan-nasional",
+      "published": "Wed, 11 Nov 2026 02:52:59 +0700",
+      "description": "Letnan Kolonel Infanteri (Anumerta) Mochamad Sroedji, Komandan Brigade III Damarwulan, menerima anugerah gelar pahlawan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Sassuolo resmi tunjuk Roberto D'Aversa sebagai pelatih baru",
       "link": "https://www.antaranews.com/berita/5845483/sassuolo-resmi-tunjuk-roberto-daversa-sebagai-pelatih-baru",
       "published": "Wed, 11 Nov 2026 02:28:18 +0700",
       "description": "Klub Liga Italia Sassuolo resmi menunjuk Roberto D&#39;Aversa sebagai pelatih kepala baru menggantikan Alberto Aquilani ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Kroupi dipanggil perdana ke timnas Prancis gantikan Thuram",
-      "link": "https://www.antaranews.com/berita/5845479/kroupi-dipanggil-perdana-ke-timnas-prancis-gantikan-thuram",
-      "published": "Wed, 11 Nov 2026 02:16:42 +0700",
-      "description": "Penyerang Bournemouth Eli Junior Kroupi mendapat panggilan perdana ke tim nasional senior Prancis untuk menggantikan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Mensos: Operasional Sekolah Rakyat di Nagan Raya berjalan sangat baik",
-      "link": "https://www.antaranews.com/berita/5845475/mensos-operasional-sekolah-rakyat-di-nagan-raya-berjalan-sangat-baik",
-      "published": "Wed, 11 Nov 2026 02:10:10 +0700",
-      "description": "Menteri Sosial Republik Indonesia, Saifullah Yusuf menyatakan operasional Sekolah Rakyat di Kabupaten Nagan Raya, ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Cassano sebut panggilan timnas senior Italia mimpi jadi nyata",
-      "link": "https://www.antaranews.com/berita/5845471/cassano-sebut-panggilan-timnas-senior-italia-mimpi-jadi-nyata",
-      "published": "Wed, 11 Nov 2026 02:07:59 +0700",
-      "description": "Gelandang muda Como 1907 Riccardo Cassano mengaku pemanggilan perdananya ke tim nasional senior Italia merupakan mimpi ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
