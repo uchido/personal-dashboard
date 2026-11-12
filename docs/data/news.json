@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-11-12T23:25:32+0000",
+  "timestamp": "2026-11-12T23:56:32+0000",
   "articles": [
+    {
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 23:34:05 GMT",
+      "description": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
       "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 20:25:29 GMT",
-      "description": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Politik kemarin, Wapres Gibran berhenti hingga Jokowi dukung Prabowo",
+      "link": "https://www.antaranews.com/berita/5850671/politik-kemarin-wapres-gibran-berhenti-hingga-jokowi-dukung-prabowo",
+      "published": "Fri, 13 Nov 2026 06:32:33 +0700",
+      "description": "Beragam peristiwa politik telah terjadi pada Kamis (12/11), mulai dari Gibran resmi berhenti jadi Wapres hingga Jokowi ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Angel Aligner Umumkan Enam Inovasi untuk Tahun 2027",
+      "link": "https://www.antaranews.com/berita/5850663/angel-aligner-umumkan-enam-inovasi-untuk-tahun-2027",
+      "published": "Fri, 13 Nov 2026 06:29:12 +0700",
+      "description": "- Angelalign Technology Inc. (6699.HK) (&ldquo;Angel&rdquo;), sebuah perusahaan global terdepan di bidang clear aligner ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Spanyol lanjutkan catatan sempurna dengan kalahkan Ceko 2-0",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/infografik/5850655/hasil-pelatihan-vokasi-nasional-2026",
       "published": "Fri, 13 Nov 2026 06:06:00 +0700",
       "description": "Kementerian Ketenagakerjaan (Kemnaker) mencatat Pelatihan Vokasi Nasional 2026 diikuti ratusan ribu pendaftar, dengan ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Italia hajar Prancis 3-1, Zidane telan kekalahan pertama",
-      "link": "https://www.antaranews.com/berita/5850651/italia-hajar-prancis-3-1-zidane-telan-kekalahan-pertama",
-      "published": "Fri, 13 Nov 2026 06:00:00 +0700",
-      "description": "Timnas Italia tampil efisien setelah menghajar Prancis 3-1 dalam matchday kelima UEFA Nations League 2026/2027 di ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Hukum kemarin, Usut Pasal Makar hingga ASN BNPB jadi saksi",
-      "link": "https://www.antaranews.com/berita/5850647/hukum-kemarin-usut-pasal-makar-hingga-asn-bnpb-jadi-saksi",
-      "published": "Fri, 13 Nov 2026 05:58:14 +0700",
-      "description": "Beragam peristiwa hukum telah terjadi pada Kamis (12/11), mulai dari DPR minta kasus penyadapan Presiden diusut pasal ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
