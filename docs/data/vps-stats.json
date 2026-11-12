@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-11-12T03:16:27+0000",
+  "timestamp": "2026-11-12T03:47:28+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 68.4,
+    "percent": 60.0,
     "cores": 2,
     "load_avg": [
-      1.6,
       1.78,
-      1.94
+      2.4,
+      2.34
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.2,
+    "free": 1.1,
     "available": 4.8,
     "used": 6.8,
     "percent": 58.6
@@ -25,26 +25,20 @@
   },
   "uptime": {
     "days": 135,
-    "hours": 15,
-    "minutes": 42,
-    "total_seconds": 11720534.49
+    "hours": 16,
+    "minutes": 13,
+    "total_seconds": 11722395.76
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "160",
+      "cpu": "100",
       "mem": "0.4",
       "command": "node /home/ubuntu/.npm-global/bin/9router"
     },
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "43.7",
+      "cpu": "39.2",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
@@ -59,6 +53,12 @@
       "cpu": "6.1",
       "mem": "0.7",
       "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "2.2",
+      "mem": "8.5",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
