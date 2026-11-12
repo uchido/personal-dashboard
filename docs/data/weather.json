@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T19:17:30+0000",
+  "timestamp": "2026-11-12T19:48:30+0000",
   "locations": [
     {
       "name": "Palu",
@@ -7,8 +7,8 @@
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "26",
-      "feels_like_c": "30",
-      "humidity": "91",
+      "feels_like_c": "29",
+      "humidity": "90",
       "wind_speed_kmh": "5",
       "wind_dir": "SE",
       "visibility_km": "10",
