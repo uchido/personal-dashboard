@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-12T05:51:30+0000",
+  "timestamp": "2026-11-12T06:22:30+0000",
   "articles": [
     {
       "title": "Some under-25s should get fewer benefits, Milburn review to say",
       "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 23:22:04 GMT",
       "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 05:59:18 GMT",
+      "description": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,14 +26,6 @@
       "category": "Global"
     },
     {
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 00:49:05 GMT",
-      "description": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
       "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
       "link": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 00:12:59 GMT",
@@ -34,34 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Analis: Ketidakpastian politik dan isu MSCI picu sikap 'wait and see'",
-      "link": "https://www.antaranews.com/berita/5848731/analis-ketidakpastian-politik-dan-isu-msci-picu-sikap-wait-and-see",
-      "published": "Thu, 12 Nov 2026 12:50:25 +0700",
-      "description": "Analis mata uang sekaligus Direktur PT Traze Andalan Futures Ibrahim Assuabi mengatakan isu politik domestik dan ...",
+      "title": "Leapmotor C10 dilengkapi fitur NFC Pairing dan Nap Mode",
+      "link": "https://otomotif.antaranews.com/berita/5848783/leapmotor-c10-dilengkapi-fitur-nfc-pairing-dan-nap-mode",
+      "published": "Thu, 12 Nov 2026 13:21:20 +0700",
+      "description": "Mobil listrik&nbsp;Leapmotor C10 dilengkapi dengan aneka fitur pendukung kenyamanan dan kemudahan berkendara, antara ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Spurs bangkit dari defisit 22 poin untuk kalahkan Bulls",
-      "link": "https://www.antaranews.com/berita/5848727/spurs-bangkit-dari-defisit-22-poin-untuk-kalahkan-bulls",
-      "published": "Thu, 12 Nov 2026 12:48:53 +0700",
-      "description": "San Antonio Spurs bangkit dari ketertinggalan 22 poin untuk mengalahkan Chicago Bulls 124-119 sekaligus memperpanjang ...",
+      "title": "LPSK telaah delapan permohonan pelindungan saksi kasus penyadapan",
+      "link": "https://www.antaranews.com/berita/5848779/lpsk-telaah-delapan-permohonan-pelindungan-saksi-kasus-penyadapan",
+      "published": "Thu, 12 Nov 2026 13:20:53 +0700",
+      "description": "Lembaga Pelindungan Saksi dan Korban (LPSK) menelaah delapan permohonan pelindungan dari saksi terkait perkara tindak ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ekonomi dinilai tetap terjaga asal mundurnya Gibran berjalan tertib",
-      "link": "https://www.antaranews.com/berita/5848723/ekonomi-dinilai-tetap-terjaga-asal-mundurnya-gibran-berjalan-tertib",
-      "published": "Thu, 12 Nov 2026 12:48:23 +0700",
-      "description": "Ekonom Center of Reform on Economics (CORE) Yusuf Rendy Manilet menilai kestabilan makroekonomi bisa tetap terjaga asal ...",
+      "title": "Ahli gizi sarankan konsumsi salmon untuk atasi kesulitan tidur",
+      "link": "https://www.antaranews.com/berita/5848775/ahli-gizi-sarankan-konsumsi-salmon-untuk-atasi-kesulitan-tidur",
+      "published": "Thu, 12 Nov 2026 13:20:02 +0700",
+      "description": "Ahli gizi terdaftar Erin Palinski-Wade menyarankan pihak-pihak yang kesulitan tidur untuk mengonsumsi salmon sebagai ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kemenperin jadikan pendidikan vokasi strategi penuhi gap industri",
-      "link": "https://www.antaranews.com/berita/5848719/kemenperin-jadikan-pendidikan-vokasi-strategi-penuhi-gap-industri",
-      "published": "Thu, 12 Nov 2026 12:47:32 +0700",
-      "description": "Kementerian Perindustrian (Kemenperin) menempatkan pendidikan vokasi melalui politeknik dan akademi komunitas sebagai ...",
+      "title": "Lakers perpanjang tren kemenangan usai tekuk Bucks 123-112",
+      "link": "https://www.antaranews.com/berita/5848771/lakers-perpanjang-tren-kemenangan-usai-tekuk-bucks-123-112",
+      "published": "Thu, 12 Nov 2026 13:19:05 +0700",
+      "description": "Los Angeles Lakers memperpanjang tren kemenangan menjadi tujuh pertandingan beruntun setelah mengalahkan Milwaukee ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
