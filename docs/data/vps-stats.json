@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-11-12T08:26:27+0000",
+  "timestamp": "2026-11-12T08:57:27+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 55.6,
+    "percent": 70.0,
     "cores": 2,
     "load_avg": [
-      2.15,
-      1.94,
-      1.95
+      1.79,
+      1.96,
+      2.03
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 1.4,
-    "available": 4.8,
-    "used": 6.8,
-    "percent": 58.6
+    "free": 1.3,
+    "available": 4.7,
+    "used": 6.9,
+    "percent": 59.5
   },
   "disk": {
     "total": "193G",
@@ -25,20 +25,14 @@
   },
   "uptime": {
     "days": 135,
-    "hours": 20,
-    "minutes": 52,
-    "total_seconds": 11739134.7
+    "hours": 21,
+    "minutes": 23,
+    "total_seconds": 11740995.11
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "116",
-      "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "41.1",
+      "cpu": "41.7",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
@@ -59,6 +53,12 @@
       "cpu": "2.2",
       "mem": "8.5",
       "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "2.1",
+      "mem": "3.6",
+      "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     }
   ]
 }
