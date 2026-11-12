@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-11-12T04:18:30+0000",
+  "timestamp": "2026-11-12T04:49:30+0000",
   "locations": [
     {
       "name": "Palu",
-      "location": "Lolu",
+      "location": "Boyantanga",
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "31",
-      "feels_like_c": "35",
-      "humidity": "64",
-      "wind_speed_kmh": "6",
-      "wind_dir": "WNW",
+      "feels_like_c": "36",
+      "humidity": "63",
+      "wind_speed_kmh": "13",
+      "wind_dir": "NW",
       "visibility_km": "10",
-      "pressure_mb": "1013",
+      "pressure_mb": "1011",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "9",
+      "uv_index": "13",
       "forecast": [
         {
           "date": "2026-11-12",
