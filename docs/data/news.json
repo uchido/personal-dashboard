@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-13T09:14:30+0000",
+  "timestamp": "2026-11-13T09:45:31+0000",
   "articles": [
     {
       "title": "What we know about the global Microsoft outage",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 09:10:57 GMT",
+      "published": "Fri, 13 Nov 2026 09:34:38 GMT",
       "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Watch: How Microsoft services went down around the world",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 07:18:17 GMT",
+      "description": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Doctor burnout putting maternity patients at risk, says regulator",
-      "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 00:55:31 GMT",
-      "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Jerman siap berbagi teknologi, perkuat investasi energi terbarukan",
-      "link": "https://www.antaranews.com/berita/5851703/jerman-siap-berbagi-teknologi-perkuat-investasi-energi-terbarukan",
-      "published": "Fri, 13 Nov 2026 16:13:43 +0700",
-      "description": "Jerman siap berbagi pengetahuan dan teknologi serta memperkuat investasi di sektor energi terbarukan di Indonesia guna ...",
+      "title": "Paus Leo XIV pimpin doa bersama ribuan kaum muda di Peru",
+      "link": "https://www.antaranews.com/video/5851551/paus-leo-xiv-pimpin-doa-bersama-ribuan-kaum-muda-di-peru",
+      "published": "Fri, 13 Nov 2026 16:43:12 +0700",
+      "description": "ANTARA -&nbsp;Paus Leo XIV memimpin pertemuan doa bersama ribuan kaum muda dan mahasiswa di Stadion Nasional Lima, ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "MPR tegaskan proses pemilihan wapres harus sesuai UUD 1945",
-      "link": "https://www.antaranews.com/berita/5851699/mpr-tegaskan-proses-pemilihan-wapres-harus-sesuai-uud-1945",
-      "published": "Fri, 13 Nov 2026 16:10:54 +0700",
-      "description": "Wakil Ketua MPR RI Eddy Soeparno menegaskan lembaganya akan menjalankan seluruh tahapan proses pemilihan wakil presiden ...",
+      "title": "Pemda se Papua Tengah sepakati lima rekomendasi selaraskan pembangunan",
+      "link": "https://www.antaranews.com/berita/5851791/pemda-se-papua-tengah-sepakati-lima-rekomendasi-selaraskan-pembangunan",
+      "published": "Fri, 13 Nov 2026 16:42:58 +0700",
+      "description": "Pemerintah daerah se Provinsi Papua Tengah menyepakati lima rekomendasi strategis untuk menyelaraskan perencanaan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "KAI Cirebon alihkan pemberhentian enam KA ke Stasiun Cirebonprujakan",
-      "link": "https://www.antaranews.com/berita/5851695/kai-cirebon-alihkan-pemberhentian-enam-ka-ke-stasiun-cirebonprujakan",
-      "published": "Fri, 13 Nov 2026 16:10:11 +0700",
-      "description": "PT Kereta Api Indonesia (KAI) Daerah Operasi (Daop) 3 Cirebon, Jawa Barat, mengalihkan pemberhentian enam kereta api ...",
+      "title": "Zelensky umumkan rencana pertukaran tawanan terbesar dengan Rusia",
+      "link": "https://www.antaranews.com/video/5851631/zelensky-umumkan-rencana-pertukaran-tawanan-terbesar-dengan-rusia",
+      "published": "Fri, 13 Nov 2026 16:41:58 +0700",
+      "description": "ANTARA -&nbsp;Presiden Ukraina Volodymyr Zelensky mengumumkan rencana pertukaran tawanan perang terbesar antara Ukraina ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Petani Melon Bansari Perluas Akses Pasar melalui Program Klasterku Hidupku BRI",
-      "link": "https://www.antaranews.com/berita/5851691/petani-melon-bansari-perluas-akses-pasar-melalui-program-klasterku-hidupku-bri",
-      "published": "Fri, 13 Nov 2026 16:09:42 +0700",
-      "description": "Melon premium hasil budi daya petani Desa Bansari, Kabupaten Temanggung, Jawa Tengah, kini mulai menjangkau pasar yang ...",
+      "title": "TNI AL sita 1,28 juta batang rokok tanpa cukai di Pelabuhan Merak",
+      "link": "https://www.antaranews.com/berita/5851787/tni-al-sita-128-juta-batang-rokok-tanpa-cukai-di-pelabuhan-merak",
+      "published": "Fri, 13 Nov 2026 16:41:56 +0700",
+      "description": "Pangkalan TNI Angkatan Laut (Lanal) Banten menyita 1,28 juta batang rokok ilegal tanpa pita cukai dalam upaya ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
