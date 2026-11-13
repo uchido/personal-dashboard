@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-13T20:36:30+0000",
+  "timestamp": "2026-11-13T21:07:29+0000",
   "articles": [
     {
       "title": "Police investigating David Walliams over reports alleging serious sexual offences",
       "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 16:53:50 GMT",
       "description": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 20:49:52 GMT",
+      "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -18,20 +26,20 @@
       "category": "Global"
     },
     {
-      "title": "Former Hamas bodyguard guilty of UK knife attack",
-      "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 15:51:24 GMT",
-      "description": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
+      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 21:04:42 GMT",
+      "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 16:40:31 GMT",
-      "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Tanjung Verde petik kemenangan perdana pada Kualifikasi Piala Afrika",
+      "link": "https://www.antaranews.com/berita/5853151/tanjung-verde-petik-kemenangan-perdana-pada-kualifikasi-piala-afrika",
+      "published": "Sat, 14 Nov 2026 03:48:59 +0700",
+      "description": "Tanjung Verde memetik kemenangan perdana pada Kualifikasi Piala Afrika 2027 setelah mengalahkan Liberia 4-2 dalam laga ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Askrindo perkuat UMKM Purwokerto lewat penjaminan KUR Rp2,2 triliun",
@@ -54,14 +62,6 @@
       "link": "https://www.antaranews.com/video/5853107/bi-dorong-penguatan-vokasi-sesuai-kebutuhan-industri-kaltara",
       "published": "Sat, 14 Nov 2026 03:14:22 +0700",
       "description": "ANTARA - Kepala Departemen Regional Bank Indonesia menekankan pentingnya sinergi antara pendidikan vokasi dan dunia ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Askrindo Kanwil III catat premi Rp575,62 miliar hingga Oktober 2026",
-      "link": "https://www.antaranews.com/berita/5853135/askrindo-kanwil-iii-catat-premi-rp57562-miliar-hingga-oktober-2026",
-      "published": "Sat, 14 Nov 2026 03:06:27 +0700",
-      "description": "PT Asuransi Kredit Indonesia (Askrindo) Kantor Wilayah (Kanwil) III Semarang mencatat realisasi premi sebesar Rp575,62 ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
