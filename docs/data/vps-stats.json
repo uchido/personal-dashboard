@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-11-14T02:17:31+0000",
+  "timestamp": "2026-11-14T02:48:29+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 100.0,
+    "percent": 63.2,
     "cores": 2,
     "load_avg": [
-      2.93,
-      2.76,
-      2.57
+      3.03,
+      2.97,
+      2.87
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.7,
-    "available": 3.8,
-    "used": 7.8,
-    "percent": 67.2
+    "free": 1.4,
+    "available": 4.1,
+    "used": 7.5,
+    "percent": 64.7
   },
   "disk": {
     "total": "193G",
@@ -25,40 +25,40 @@
   },
   "uptime": {
     "days": 137,
-    "hours": 14,
-    "minutes": 43,
-    "total_seconds": 11889798.62
+    "hours": 15,
+    "minutes": 14,
+    "total_seconds": 11891657.05
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "400",
-      "mem": "0.4",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "21.5",
+      "cpu": "28.1",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
     {
       "user": "ubuntu",
-      "cpu": "16.8",
-      "mem": "8.0",
+      "cpu": "18.0",
+      "mem": "6.0",
       "command": "opencode run You are cloning an Awwwards Site of t"
     },
     {
       "user": "ubuntu",
-      "cpu": "14.2",
+      "cpu": "16.6",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "6.1",
+      "mem": "0.7",
+      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+    },
+    {
+      "user": "root",
+      "cpu": "2.2",
+      "mem": "8.4",
+      "command": "/usr/bin/dockerd -H fd:// --containerd=/run/contai"
     }
   ]
 }
