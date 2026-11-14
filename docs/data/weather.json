@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T21:24:30+0000",
+  "timestamp": "2026-11-14T21:55:30+0000",
   "locations": [
     {
       "name": "Palu",
@@ -8,13 +8,13 @@
       "country": "Indonesia",
       "temp_c": "25",
       "feels_like_c": "29",
-      "humidity": "92",
+      "humidity": "91",
       "wind_speed_kmh": "6",
       "wind_dir": "SE",
       "visibility_km": "10",
       "pressure_mb": "1010",
-      "condition": "Cloudy ",
-      "condition_code": "119",
+      "condition": "Partly Cloudy ",
+      "condition_code": "116",
       "uv_index": "0",
       "forecast": [
         {
