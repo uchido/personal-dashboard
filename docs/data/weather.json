@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T18:35:32+0000",
+  "timestamp": "2026-11-15T19:06:32+0000",
   "locations": [
     {
       "name": "Palu",
@@ -13,8 +13,8 @@
       "wind_dir": "SE",
       "visibility_km": "10",
       "pressure_mb": "1010",
-      "condition": "Cloudy ",
-      "condition_code": "119",
+      "condition": "Overcast ",
+      "condition_code": "122",
       "uv_index": "0",
       "forecast": [
         {
