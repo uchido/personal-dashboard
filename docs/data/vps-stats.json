@@ -1,64 +1,64 @@
 {
-  "timestamp": "2026-11-15T02:03:28+0000",
+  "timestamp": "2026-11-15T02:34:39+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 70.0,
+    "percent": 100.0,
     "cores": 2,
     "load_avg": [
-      2.57,
-      2.37,
-      2.26
+      9.59,
+      6.91,
+      5.11
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.4,
-    "available": 4.2,
-    "used": 7.4,
-    "percent": 63.8
+    "free": 0.2,
+    "available": 3.3,
+    "used": 8.3,
+    "percent": 71.6
   },
   "disk": {
     "total": "193G",
-    "used": "143G",
+    "used": "144G",
     "available": "50G",
     "percent": "75%"
   },
   "uptime": {
     "days": 138,
-    "hours": 14,
-    "minutes": 29,
-    "total_seconds": 11975355.35
+    "hours": 15,
+    "minutes": 0,
+    "total_seconds": 11977227.26
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
+      "cpu": "32.6",
+      "mem": "6.2",
+      "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
     },
     {
       "user": "ubuntu",
-      "cpu": "50.0",
-      "mem": "0.2",
-      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
+      "cpu": "26.5",
+      "mem": "5.5",
+      "command": "opencode run You are cloning an Awwwards Site of t"
     },
     {
       "user": "ubuntu",
-      "cpu": "34.7",
+      "cpu": "11.2",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
     {
       "user": "ubuntu",
-      "cpu": "25.1",
-      "mem": "4.8",
-      "command": "opencode run You are cloning an Awwwards Site of t"
+      "cpu": "7.0",
+      "mem": "0.6",
+      "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
     },
     {
       "user": "ubuntu",
-      "cpu": "18.7",
-      "mem": "0.1",
-      "command": "python3 scripts/collect-vps.py"
+      "cpu": "6.1",
+      "mem": "0.7",
+      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
     }
   ]
 }
