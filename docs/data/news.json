@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-16T19:23:32+0000",
+  "timestamp": "2026-11-16T19:54:32+0000",
   "articles": [
     {
       "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
       "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 18:22:22 GMT",
       "description": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 19:43:58 GMT",
+      "description": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-      "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 17:49:18 GMT",
-      "description": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "ASEAN sepakati kerja sama antariksa untuk ekonomi, mitigasi bencana",
+      "link": "https://www.antaranews.com/berita/5858539/asean-sepakati-kerja-sama-antariksa-untuk-ekonomi-mitigasi-bencana",
+      "published": "Tue, 17 Nov 2026 02:36:44 +0700",
+      "description": "Negara-negara anggota Perhimpunan Bangsa Asia Tenggara (ASEAN) berkomitmen untuk mempercepat pemanfaatan sains, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "ASEAN dukung talenta digital lintas batas perkuat ekonomi kawasan",
+      "link": "https://www.antaranews.com/berita/5858535/asean-dukung-talenta-digital-lintas-batas-perkuat-ekonomi-kawasan",
+      "published": "Tue, 17 Nov 2026 02:29:00 +0700",
+      "description": "Negara-negara anggota Perhimpunan Bangsa&nbsp;Asia Tenggara (ASEAN) mendorong mobilitas talenta digital lintas batas ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "Dubes Ruhaini terima penghargaan terkait toleransi dari Uzbekistan",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/video/5858515/hashim-bicara-pernyataan-ri-di-cop31-hingga-ruu-perubahan-iklim",
       "published": "Tue, 17 Nov 2026 01:53:12 +0700",
       "description": "ANTARA - Konferensi Perubahan Iklim PBB ke-31 atau COP31 berlangsung pada 9&ndash;20 November 2026 di Antalya, Turki. ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "BNPB sinkronisasi mitigasi bencana hidrometeorologi Sumatera",
-      "link": "https://www.antaranews.com/berita/5858527/bnpb-sinkronisasi-mitigasi-bencana-hidrometeorologi-sumatera",
-      "published": "Tue, 17 Nov 2026 00:39:07 +0700",
-      "description": "Kepala Badan Nasional Penanggulangan Bencana (BNPB) Letjen TNI Kristomei Sianturi terus melakukan sinkronisasi mitigasi ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Bappenas nilai capaian kinerja Kemenimipas lampaui transformasi biasa",
-      "link": "https://www.antaranews.com/berita/5858523/bappenas-nilai-capaian-kinerja-kemenimipas-lampaui-transformasi-biasa",
-      "published": "Tue, 17 Nov 2026 00:34:06 +0700",
-      "description": "Direktur Pembangunan Hukum, Hak Asasi Manusia, Imigrasi dan Pemasyarakatan Kementerian PPN/Bappenas Hendra Wahanu ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
