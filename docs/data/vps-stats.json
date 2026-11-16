@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-11-16T02:20:35+0000",
+  "timestamp": "2026-11-16T02:51:32+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 100.0,
+    "percent": 85.0,
     "cores": 2,
     "load_avg": [
-      11.11,
-      9.01,
-      6.86
+      5.12,
+      5.44,
+      7.03
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.1,
-    "available": 1.8,
-    "used": 9.8,
-    "percent": 84.5
+    "free": 0.2,
+    "available": 2.4,
+    "used": 9.2,
+    "percent": 79.3
   },
   "disk": {
     "total": "193G",
@@ -25,40 +25,40 @@
   },
   "uptime": {
     "days": 139,
-    "hours": 14,
-    "minutes": 46,
-    "total_seconds": 12062783.15
+    "hours": 15,
+    "minutes": 17,
+    "total_seconds": 12064639.81
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "59.9",
-      "mem": "4.7",
-      "command": "/home/ubuntu/.cache/ms-playwright/chromium-1217/ch"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "31.1",
-      "mem": "2.9",
+      "cpu": "31.0",
+      "mem": "2.8",
       "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
     },
     {
       "user": "ubuntu",
-      "cpu": "16.4",
+      "cpu": "22.1",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
     {
       "user": "ubuntu",
-      "cpu": "16.0",
+      "cpu": "17.6",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "10.4",
+      "mem": "0.4",
+      "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "6.0",
+      "mem": "0.7",
+      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
     }
   ]
 }
