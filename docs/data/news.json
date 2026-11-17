@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-17T00:02:31+0000",
+  "timestamp": "2026-11-17T00:33:33+0000",
   "articles": [
     {
       "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
       "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 22:32:47 GMT",
       "description": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "The young people caught up in Britain's Neets crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 00:06:34 GMT",
+      "description": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-      "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 18:22:22 GMT",
-      "description": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Samsat Keliling tersedia di 14 wilayah Jadetabek pada Selasa",
-      "link": "https://www.antaranews.com/berita/5858611/samsat-keliling-tersedia-di-14-wilayah-jadetabek-pada-selasa",
-      "published": "Tue, 17 Nov 2026 07:01:28 +0700",
-      "description": "Polda Metro Jaya menyediakan layanan Sistem Administrasi Manunggal Satu Atap (Samsat) Keliling untuk memudahkan ...",
+      "title": "Bebizie dorong investigasi transparan soal bayi meninggal di RSUD Jakut",
+      "link": "https://www.antaranews.com/berita/5858627/bebizie-dorong-investigasi-transparan-soal-bayi-meninggal-di-rsud-jakut",
+      "published": "Tue, 17 Nov 2026 07:17:32 +0700",
+      "description": "Anggota DPRD DKI Jakarta&nbsp;Bebizie Sri Mulyati mendorong investigasi secara transparan terkait kasus bayi bernama ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "SIM Keliling melayani di lima lokasi Jakarta pada Selasa",
-      "link": "https://www.antaranews.com/berita/5858607/sim-keliling-melayani-di-lima-lokasi-jakarta-pada-selasa",
-      "published": "Tue, 17 Nov 2026 06:55:25 +0700",
-      "description": "Direktorat Lalu Lintas Polda Metro Jaya membuka layanan Surat Izin Mengemudi (SIM) Keliling di lima lokasi di Jakarta ...",
+      "title": "Selasa, BMKG ingatkan masyarakat waspadai hujan di berbagai wilayah",
+      "link": "https://www.antaranews.com/berita/5858623/selasa-bmkg-ingatkan-masyarakat-waspadai-hujan-di-berbagai-wilayah",
+      "published": "Tue, 17 Nov 2026 07:16:42 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan cuaca di berbagai wilayah Indonesia pada Selasa ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "DKI kemarin, pembangunan Pasar Senen hingga kegiatan lima abad Jakarta",
-      "link": "https://www.antaranews.com/berita/5858603/dki-kemarin-pembangunan-pasar-senen-hingga-kegiatan-lima-abad-jakarta",
-      "published": "Tue, 17 Nov 2026 06:48:13 +0700",
-      "description": "Sejumlah peristiwa penting dan menarik mewarnai Jakarta pada Senin (16/11), antara lain pembangunan Pasar ...",
+      "title": "Kemarin, mitigasi bencana hidrometeorologi hingga koperasi pesantren",
+      "link": "https://www.antaranews.com/berita/5858619/kemarin-mitigasi-bencana-hidrometeorologi-hingga-koperasi-pesantren",
+      "published": "Tue, 17 Nov 2026 07:05:29 +0700",
+      "description": "Terdapat sejumlah berita humaniora menarik yang terjadi pada Senin (16/11) dan dapat dibaca kembali untuk mengawali ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Ekonom: Keterbukaan China tawarkan peluang pembangunan bagi Asia-Pasifik",
-      "link": "https://www.antaranews.com/berita/5858599/ekonom-keterbukaan-china-tawarkan-peluang-pembangunan-bagi-asia-pasifik",
-      "published": "Tue, 17 Nov 2026 06:45:23 +0700",
-      "description": "Upaya berkelanjutan China untuk memajukan keterbukaan tingkat tinggi dalam beberapa tahun terakhir telah menciptakan ...",
+      "title": "BMKG: Gempa magnitudo 7,1 di Maluku tidak berpotensi tsunami",
+      "link": "https://www.antaranews.com/berita/5858615/bmkg-gempa-magnitudo-71-di-maluku-tidak-berpotensi-tsunami",
+      "published": "Tue, 17 Nov 2026 07:03:00 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) menyatakan gempa bumi tektonik berkekuatan magnitudo 7,1 di ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
