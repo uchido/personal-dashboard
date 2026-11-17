@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-11-17T18:38:33+0000",
+  "timestamp": "2026-11-17T19:09:36+0000",
   "articles": [
+    {
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 18:43:05 GMT",
+      "description": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
       "link": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
@@ -10,7 +18,7 @@
       "category": "Global"
     },
     {
-      "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
       "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 18:24:21 GMT",
       "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "BBC reports from Kyiv bridge hit by Russian attack",
-      "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 15:54:15 GMT",
-      "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Hasil FIFA Matchday: Brasil pesta gol, Jepang dan Vietnam kalah",
+      "link": "https://www.antaranews.com/berita/5861175/hasil-fifa-matchday-brasil-pesta-gol-jepang-dan-vietnam-kalah",
+      "published": "Wed, 18 Nov 2026 01:49:23 +0700",
+      "description": "Brasil menang telak, sementara Jepang dan Vietnam kalah dalam pertandingan persahabatan internasional dalam rangkaian ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Jepang takluk 1-2 kepada Paraguay pada laga terakhir Hajime Moriyasu",
+      "link": "https://www.antaranews.com/berita/5861171/jepang-takluk-1-2-kepada-paraguay-pada-laga-terakhir-hajime-moriyasu",
+      "published": "Wed, 18 Nov 2026 01:40:59 +0700",
+      "description": "Jepang menutup perjalanan Hajime Moriyasu sebagai pelatih dengan kekalahan 1-2 dari Paraguay dalam pertandingan ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "3.500 pelari ditargetkan ikuti Mandiri Bintan Marathon",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5861163/sda-jakbar-larang-warga-bolongi-sheetpile-untuk-kurangi-genangan",
       "published": "Wed, 18 Nov 2026 00:52:42 +0700",
       "description": "Suku Dinas Sumber Daya Air (SDA) Jakarta Barat melarang keras warga melakukan aksi pembolongan atau pelubangan pada ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Sudin SDA Jakbar petakan titik rawan banjir saat musim hujan",
-      "link": "https://www.antaranews.com/berita/5861159/sudin-sda-jakbar-petakan-titik-rawan-banjir-saat-musim-hujan",
-      "published": "Wed, 18 Nov 2026 00:46:51 +0700",
-      "description": "Suku Dinas Sumber Daya Air (SDA) Jakarta Barat memetakan sejumlah wilayah yang menjadi titik rawan genangan dan banjir ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Xi sebut peningkatan hubungan China-Kanada jadi pilihan tepat",
-      "link": "https://www.antaranews.com/berita/5861155/xi-sebut-peningkatan-hubungan-china-kanada-jadi-pilihan-tepat",
-      "published": "Wed, 18 Nov 2026 00:45:48 +0700",
-      "description": "Presiden&nbsp;Xi Jinping pada Selasa (17/11) mengatakan bahwa peningkatan dan pengembangan hubungan China-Kanada ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
