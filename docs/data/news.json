@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-18T12:43:34+0000",
+  "timestamp": "2026-11-18T13:14:33+0000",
   "articles": [
     {
       "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
       "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 10:10:12 GMT",
       "description": "The rise to 3.6% in October is the fourth monthly increase in a row - and most economists expect it to keep going up. The Bank of England's target is 2%.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 12:39:24 GMT",
+      "description": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "What's gone wrong at Britain's worst bathing site?",
-      "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 06:12:44 GMT",
-      "description": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Pertamina Patra Niaga: SPBUN dukung ekonomi masyarakat pesisir",
-      "link": "https://www.antaranews.com/berita/5863255/pertamina-patra-niaga-spbun-dukung-ekonomi-masyarakat-pesisir",
-      "published": "Wed, 18 Nov 2026 19:41:54 +0700",
-      "description": "PT Pertamina Patra Niaga mengatakan, keberadaan stasiun pengisian bahan bakar umum nelayan (SPBUN) turut mendukung ...",
+      "title": "BRIN dorong hilirisasi inovasi pertanian dan pangan",
+      "link": "https://www.antaranews.com/berita/5863375/brin-dorong-hilirisasi-inovasi-pertanian-dan-pangan",
+      "published": "Wed, 18 Nov 2026 20:14:00 +0700",
+      "description": "Badan Riset dan Inovasi Nasional (BRIN) mendorong hilirisasi hasil riset pertanian dan pangan melalui penyelenggaraan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Prabowo saksikan RI-China sepakati kerja sama bernilai Rp1.300 triliun",
-      "link": "https://www.antaranews.com/berita/5863251/prabowo-saksikan-ri-china-sepakati-kerja-sama-bernilai-rp1300-triliun",
-      "published": "Wed, 18 Nov 2026 19:40:50 +0700",
-      "description": "Presiden Prabowo Subianto menyaksikan pertukaran nota kesepahaman (MoU) dan penguatan komitmen kerja sama strategis ...",
+      "title": "Dejan/Felisha bungkam Dechapol/Supissara",
+      "link": "https://www.antaranews.com/berita/5863371/dejan-felisha-bungkam-dechapol-supissara",
+      "published": "Wed, 18 Nov 2026 20:10:50 +0700",
+      "description": "Ganda campuran Indonesia Dejan Ferdinansyah/Felisha Alberta Nathaniel Pasaribu&nbsp;berhasil membungkam ganda Thailand ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Universitas Riau kembangkan teknologi sistem pemantauan karhutla",
-      "link": "https://www.antaranews.com/berita/5863247/universitas-riau-kembangkan-teknologi-sistem-pemantauan-karhutla",
-      "published": "Wed, 18 Nov 2026 19:39:44 +0700",
-      "description": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Riau (LPPM Unri) mengembangkan teknologi sistem ...",
+      "title": "Kemenhut perkuat kemitraan lanskap untuk ekonomi tingkat tapak",
+      "link": "https://www.antaranews.com/berita/5863367/kemenhut-perkuat-kemitraan-lanskap-untuk-ekonomi-tingkat-tapak",
+      "published": "Wed, 18 Nov 2026 20:09:34 +0700",
+      "description": "Kementerian Kehutanan (Kemenhut) menegaskan pentingnya penguatan kemitraan lanskap untuk menghubungkan komitmen ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "IDSurvey-ARPI perkuat rantai dingin nasional untuk jaga mutu produk",
-      "link": "https://www.antaranews.com/berita/5863243/idsurvey-arpi-perkuat-rantai-dingin-nasional-untuk-jaga-mutu-produk",
-      "published": "Wed, 18 Nov 2026 19:38:12 +0700",
-      "description": "PT IDSurvey (Persero) dan Asosiasi Rantai Pendingin Indonesia (ARPI) menjalin kerja sama untuk memperkuat ekosistem ...",
+      "title": "Mentan serahkan bantuan pangan warga Manado",
+      "link": "https://www.antaranews.com/berita/5863363/mentan-serahkan-bantuan-pangan-warga-manado",
+      "published": "Wed, 18 Nov 2026 20:09:27 +0700",
+      "description": "Menteri Pertanian merangkap Kepala Badan Pangan Nasional (Bapanas) Andi Amran Sulaiman menyerahkan Bantuan Pangan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
