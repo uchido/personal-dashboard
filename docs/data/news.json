@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-18T01:52:32+0000",
+  "timestamp": "2026-11-18T02:23:37+0000",
   "articles": [
     {
       "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
       "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 23:02:12 GMT",
       "description": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 22:46:30 GMT",
+      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 22:46:30 GMT",
-      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Jaksel dan Jaktim diperkirakan hujan disertai petir pada Rabu sore",
-      "link": "https://www.antaranews.com/berita/5861319/jaksel-dan-jaktim-diperkirakan-hujan-disertai-petir-pada-rabu-sore",
-      "published": "Wed, 18 Nov 2026 08:50:42 +0700",
-      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian wilayah Jakarta diguyur hujan dengan ...",
+      "title": "Apple dan sejumlah perusahaan laporkan gangguan teknologi di AS",
+      "link": "https://www.antaranews.com/berita/5861363/apple-dan-sejumlah-perusahaan-laporkan-gangguan-teknologi-di-as",
+      "published": "Wed, 18 Nov 2026 09:22:24 +0700",
+      "description": "Apple dan sejumlah perusahaan besar lainnya melaporkan gangguan teknologi di AS. Apple mengonfirmasi bahwa gangguan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Iran bantah laporan rencana gunakan senjata kimia ke Washington",
-      "link": "https://www.antaranews.com/berita/5861315/iran-bantah-laporan-rencana-gunakan-senjata-kimia-ke-washington",
-      "published": "Wed, 18 Nov 2026 08:47:09 +0700",
-      "description": "Menteri Luar Negeri Iran Abbas Araghchi pada Selasa membantah laporan yang menyebut Teheran berencana menggunakan ...",
+      "title": "Pendaftaran Beasiswa Garuda 2027 dibuka, peserta bisa daftar tanpa LoA",
+      "link": "https://www.antaranews.com/berita/5861359/pendaftaran-beasiswa-garuda-2027-dibuka-peserta-bisa-daftar-tanpa-loa",
+      "published": "Wed, 18 Nov 2026 09:21:11 +0700",
+      "description": "Pemerintah membuka pendaftaran Beasiswa Garuda Tahun 2027 bagi siswa kelas 12 untuk menempuh pendidikan sarjana (S1) ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Wamenaker: Pelindungan pekerja dimulai sejak mencari kerja",
-      "link": "https://www.antaranews.com/berita/5861311/wamenaker-pelindungan-pekerja-dimulai-sejak-mencari-kerja",
-      "published": "Wed, 18 Nov 2026 08:38:33 +0700",
-      "description": "Wakil Menteri Ketenagakerjaan (Wamenaker) Afriansyah Noor menegaskan bahwa pelindungan ketenagakerjaan harus mencakup ...",
+      "title": "Pertamina kerahkan kapal tanker angkut BBM dua hari sekali ke Bali",
+      "link": "https://www.antaranews.com/berita/5861355/pertamina-kerahkan-kapal-tanker-angkut-bbm-dua-hari-sekali-ke-bali",
+      "published": "Wed, 18 Nov 2026 09:17:41 +0700",
+      "description": "PT Pertamina Patra Niaga mengerahkan kapal tanker yang mengangkut bahan bakar minyak (BBM) dua hari sekali ke Bali ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Wamenekraf: KIC 2026 jadi peluang kolaborasi kenalkan budaya Indonesia",
-      "link": "https://www.antaranews.com/berita/5861307/wamenekraf-kic-2026-jadi-peluang-kolaborasi-kenalkan-budaya-indonesia",
-      "published": "Wed, 18 Nov 2026 08:33:00 +0700",
-      "description": "Wakil Menteri Ekonomi Kreatif/Wakil Kepala Badan Ekonomi Kreatif (Wamen Ekraf), Irene Umar mengatakan penyelenggaraan ...",
+      "title": "Liga Arab kecam serangan Iran ke Bahrain, sebut langgar piagam PBB",
+      "link": "https://www.antaranews.com/berita/5861351/liga-arab-kecam-serangan-iran-ke-bahrain-sebut-langgar-piagam-pbb",
+      "published": "Wed, 18 Nov 2026 09:16:03 +0700",
+      "description": "Liga Negara-Negara Arab mengecam keras serangan terbaru Iran terhadap&nbsp;Bahrain dan menyebutnya sebagai pelanggaran ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
