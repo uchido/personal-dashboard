@@ -1,22 +1,6 @@
 {
-  "timestamp": "2026-11-18T04:27:33+0000",
+  "timestamp": "2026-11-18T04:58:33+0000",
   "articles": [
-    {
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 23:02:12 GMT",
-      "description": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 22:46:30 GMT",
-      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "Burnham to set out options next month for long-term EU relationship",
       "link": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss",
@@ -34,34 +18,50 @@
       "category": "Global"
     },
     {
-      "title": "Tim produksi \"The Hunger Games\" berburu properti hingga ke pasar loak",
-      "link": "https://www.antaranews.com/berita/5861595/tim-produksi-the-hunger-games-berburu-properti-hingga-ke-pasar-loak",
-      "published": "Wed, 18 Nov 2026 11:26:28 +0700",
-      "description": "Seperti dalam film-film &quot;The&nbsp;Hunger Games&quot;&nbsp;sebelumnya, kamera siaran menjadi properti penting dalam ...",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 03:07:22 GMT",
+      "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 22:46:30 GMT",
+      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Rabu siang, Gempa magnitudo 5,8 guncang Ruteng NTT",
+      "link": "https://www.antaranews.com/berita/5861651/rabu-siang-gempa-magnitudo-58-guncang-ruteng-ntt",
+      "published": "Wed, 18 Nov 2026 11:56:53 +0700",
+      "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mendeteksi gempa bumi berkekuatan magnitudo 5,8 mengguncang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Seorang karyawan di Jaktim rencanakan pencurian mobil pikap",
-      "link": "https://www.antaranews.com/berita/5861591/seorang-karyawan-di-jaktim-rencanakan-pencurian-mobil-pikap",
-      "published": "Wed, 18 Nov 2026 11:24:57 +0700",
-      "description": "Seorang karyawan berinisial DS diduga merencanakan aksi pencurian mobil pikap milik atasannya selama sepekan di Jalan ...",
+      "title": "Presiden Xi Jinping temui para pemimpin ekonomi APEC di Shenzhen",
+      "link": "https://www.antaranews.com/berita/5861647/presiden-xi-jinping-temui-para-pemimpin-ekonomi-apec-di-shenzhen",
+      "published": "Wed, 18 Nov 2026 11:56:50 +0700",
+      "description": "Presiden China Xi Jinping melakukan sejumlah pertemuan bilateral dengan para pemimpin ekonomi APEC sebelum Konferensi ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Cathay United Bank Jalin Kerja Sama Pinjaman Berbasis Kinerja Keberlanjutan dengan Mobile World di Vietnam",
-      "link": "https://www.antaranews.com/berita/5861587/cathay-united-bank-jalin-kerja-sama-pinjaman-berbasis-kinerja-keberlanjutan-dengan-mobile-world-di-vietnam",
-      "published": "Wed, 18 Nov 2026 11:23:43 +0700",
-      "description": "Cathay United Bank Ho Chi Minh City Branch (CUBHCM) menandatangani perjanjian pinjaman berbasis kinerja keberlanjutan ...",
+      "title": "70 personel padamkan kebakaran rumah di Kampung Melayu Jaktim",
+      "link": "https://www.antaranews.com/berita/5861643/70-personel-padamkan-kebakaran-rumah-di-kampung-melayu-jaktim",
+      "published": "Wed, 18 Nov 2026 11:53:04 +0700",
+      "description": "Sebanyak 70 personel Suku Dinas Penanggulangan Kebakaran dan Penyelamatan (Gulkarmat) Jakarta Timur&nbsp;berupaya ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Begini penampakan hujan meteor Leonid, salah satu fenomena meteor tercepat di dunia",
-      "link": "https://www.antaranews.com/foto/5861583/begini-penampakan-hujan-meteor-leonid-salah-satu-fenomena-meteor-tercepat-di-dunia",
-      "published": "Wed, 18 Nov 2026 11:22:01 +0700",
-      "description": "Hujan meteor Leonid terlihat di atas Kota Fujin, Provinsi Heilongjiang, China, Rabu (18/11/2026). Fenomena hujan meteor ...",
+      "title": "Pemerintah terima sepuluh tengkorak leluhur dari Jerman",
+      "link": "https://www.antaranews.com/berita/5861639/pemerintah-terima-sepuluh-tengkorak-leluhur-dari-jerman",
+      "published": "Wed, 18 Nov 2026 11:50:57 +0700",
+      "description": "Pemerintah telah menerima&nbsp;sepuluh tengkorak leluhur dalam repatriasi benda budaya tahap pertama dari ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
