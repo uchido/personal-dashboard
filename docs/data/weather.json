@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-20T14:19:33+0000",
+  "timestamp": "2026-11-20T14:50:32+0000",
   "locations": [
     {
       "name": "Palu",
@@ -37,7 +37,7 @@
           "date": "2026-11-22",
           "max_temp": "30",
           "min_temp": "25",
-          "condition": "Patchy light drizzle",
+          "condition": "Patchy rain nearby",
           "sunrise": "05:42 AM",
           "sunset": "05:52 PM"
         }
