@@ -1,6 +1,14 @@
 {
-  "timestamp": "2026-11-20T18:27:32+0000",
+  "timestamp": "2026-11-20T18:58:32+0000",
   "articles": [
+    {
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+      "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "source": "BBC News",
+      "category": "Global"
+    },
     {
       "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
       "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
@@ -26,12 +34,20 @@
       "category": "Global"
     },
     {
-      "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
-      "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 16:39:49 GMT",
-      "description": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
-      "source": "BBC News",
-      "category": "Global"
+      "title": "Bapanas bantu peternak ayam salurkan hasil ternak ke masyarakat",
+      "link": "https://www.antaranews.com/berita/5868803/bapanas-bantu-peternak-ayam-salurkan-hasil-ternak-ke-masyarakat",
+      "published": "Sat, 21 Nov 2026 01:34:55 +0700",
+      "description": "Badan Pangan Nasional (Bapanas) membantu peternak ayam broiler menyalurkan hasil ternak ke masyarakat melalui berbagai ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Ida Farida dan Putu Wijaya raih penghargaan pengabdian seumur hidup",
+      "link": "https://www.antaranews.com/berita/5868799/ida-farida-dan-putu-wijaya-raih-penghargaan-pengabdian-seumur-hidup",
+      "published": "Sat, 21 Nov 2026 01:28:45 +0700",
+      "description": "Sutradara senior Ida Farida dan Putu Wijaya mendapat&nbsp;penghargaan pengabdian seumur hidup untuk film pada Malam ...",
+      "source": "Antara News",
+      "category": "Indonesia"
     },
     {
       "title": "\"Para Perasuk\" dinobatkan sebagai film cerita panjang terbaik",
@@ -46,22 +62,6 @@
       "link": "https://www.antaranews.com/berita/5868791/antam-tanam-10000-bibit-mangrove-dukung-pelestarian-ekosistem-pesisir",
       "published": "Sat, 21 Nov 2026 00:58:05 +0700",
       "description": "PT ANTAM (Persero) Tbk (ANTM) melakukan penanaman 10.000 bibit mangrove di kawasan Pantai Indah Kapuk (PIK), Jakarta ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Joko Anwar boyong Piala Citra FFI 2026 untuk sutradara terbaik",
-      "link": "https://www.antaranews.com/berita/5868787/joko-anwar-boyong-piala-citra-ffi-2026-untuk-sutradara-terbaik",
-      "published": "Sat, 21 Nov 2026 00:52:08 +0700",
-      "description": "Joko Anwar&nbsp;mendapat Piala Citra Festival Film Indonesia (FFI) 2026 untuk sutradara terbaik berkat film &quot;Ghost ...",
-      "source": "Antara News",
-      "category": "Indonesia"
-    },
-    {
-      "title": "Guangdong perkuat konektivitas perdagangan dengan Asia Tenggara",
-      "link": "https://www.antaranews.com/berita/5868783/guangdong-perkuat-konektivitas-perdagangan-dengan-asia-tenggara",
-      "published": "Sat, 21 Nov 2026 00:43:17 +0700",
-      "description": "Provinsi Guangdong, China, memperkuat konektivitas perdagangan dengan Asia Tenggara melalui pembukaan sejumlah rute ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
