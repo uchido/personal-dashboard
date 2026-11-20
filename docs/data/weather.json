@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-20T03:59:34+0000",
+  "timestamp": "2026-11-20T04:30:33+0000",
   "locations": [
     {
       "name": "Palu",
@@ -7,15 +7,15 @@
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "30",
-      "feels_like_c": "34",
-      "humidity": "65",
-      "wind_speed_kmh": "7",
+      "feels_like_c": "35",
+      "humidity": "67",
+      "wind_speed_kmh": "12",
       "wind_dir": "NW",
-      "visibility_km": "5",
+      "visibility_km": "2",
       "pressure_mb": "1013",
-      "condition": "Patchy light drizzle",
-      "condition_code": "263",
-      "uv_index": "9",
+      "condition": "Light drizzle",
+      "condition_code": "266",
+      "uv_index": "12",
       "forecast": [
         {
           "date": "2026-11-20",
