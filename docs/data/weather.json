@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-23T07:56:32+0000",
+  "timestamp": "2026-11-23T08:27:32+0000",
   "locations": [
     {
       "name": "Palu",
@@ -7,15 +7,15 @@
       "region": "Central Sulawesi",
       "country": "Indonesia",
       "temp_c": "30",
-      "feels_like_c": "36",
+      "feels_like_c": "35",
       "humidity": "70",
       "wind_speed_kmh": "9",
-      "wind_dir": "WNW",
+      "wind_dir": "NW",
       "visibility_km": "10",
       "pressure_mb": "1010",
       "condition": "Patchy rain nearby",
       "condition_code": "176",
-      "uv_index": "9",
+      "uv_index": "5",
       "forecast": [
         {
           "date": "2026-11-23",
@@ -28,8 +28,8 @@
         {
           "date": "2026-11-24",
           "max_temp": "31",
-          "min_temp": "26",
-          "condition": "Partly Cloudy ",
+          "min_temp": "25",
+          "condition": "Cloudy ",
           "sunrise": "05:42 AM",
           "sunset": "05:52 PM"
         },
@@ -48,16 +48,16 @@
       "location": "Joho",
       "region": "Daerah Istimewa Yogyakarta",
       "country": "Indonesia",
-      "temp_c": "29",
-      "feels_like_c": "34",
-      "humidity": "73",
-      "wind_speed_kmh": "13",
+      "temp_c": "27",
+      "feels_like_c": "31",
+      "humidity": "80",
+      "wind_speed_kmh": "11",
       "wind_dir": "SSE",
       "visibility_km": "10",
-      "pressure_mb": "1012",
+      "pressure_mb": "1011",
       "condition": "Light rain shower",
       "condition_code": "353",
-      "uv_index": "11",
+      "uv_index": "4",
       "forecast": [
         {
           "date": "2026-11-23",
@@ -71,7 +71,7 @@
           "date": "2026-11-24",
           "max_temp": "28",
           "min_temp": "24",
-          "condition": "Patchy rain nearby",
+          "condition": "Light drizzle",
           "sunrise": "05:09 AM",
           "sunset": "05:41 PM"
         },
