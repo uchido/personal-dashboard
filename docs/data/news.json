@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-23T11:02:31+0000",
+  "timestamp": "2026-11-23T11:33:34+0000",
   "articles": [
     {
       "title": "Police investigate unknown substance that caused Manchester's Co-Op Live evacuation",
       "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 10:54:04 GMT",
+      "published": "Mon, 23 Nov 2026 11:24:37 GMT",
       "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "What we know about 'unknown substance' let off at Co-op Live",
+      "link": "https://www.bbc.co.uk/news/videos/cmn50yy0ypy3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 10:46:28 GMT",
+      "description": "Thousands evacuated from concert in Manchester after an 'unknown substance' was released into the crowd.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -20,48 +28,40 @@
     {
       "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 08:36:57 GMT",
+      "published": "Mon, 23 Nov 2026 11:25:16 GMT",
       "description": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Tyson Fury reveals schizophrenia diagnosis",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 09:53:52 GMT",
-      "description": "Tyson Fury describes hearing voices in his head when he suffered a breakdown in 2015, and was also diagnosed with bipolar disorder.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Presiden Prabowo serahkan dua nama cawapres ke MPR",
-      "link": "https://www.antaranews.com/foto/5872955/presiden-prabowo-serahkan-dua-nama-cawapres-ke-mpr",
-      "published": "Mon, 23 Nov 2026 18:00:26 +0700",
-      "description": "Presiden Prabowo Subianto (kiri) didampingi Ketua MPR Ahmad Muzani menyapa para wartawan saat tiba di Kompleks ...",
+      "title": "Komnas HAM gelar edukasi dan diskusi publik peringati Hari HAM 2026",
+      "link": "https://www.antaranews.com/berita/5873039/komnas-ham-gelar-edukasi-dan-diskusi-publik-peringati-hari-ham-2026",
+      "published": "Mon, 23 Nov 2026 18:32:59 +0700",
+      "description": "Komisi Nasional Hak Asasi Manusia (Komnas HAM) menggelar rangkaian kegiatan edukasi, diskusi publik, dan ekspresi seni ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Tiga proyek karbon biru Indonesia diluncurkan di COP31",
-      "link": "https://www.antaranews.com/infografik/5872923/tiga-proyek-karbon-biru-indonesia-diluncurkan-di-cop31",
-      "published": "Mon, 23 Nov 2026 18:00:00 +0700",
-      "description": "Pemerintah meluncurkan tiga proyek karbon biru di sela-sela Konferensi Perubahan Iklim PBB ke-31 (COP31) di Antalya, ...",
+      "title": "Tzu Chi Hospital PIK hadirkan beragam paket MCU untuk deteksi dini penyakit",
+      "link": "https://www.antaranews.com/berita/5873035/tzu-chi-hospital-pik-hadirkan-beragam-paket-mcu-untuk-deteksi-dini-penyakit",
+      "published": "Mon, 23 Nov 2026 18:29:07 +0700",
+      "description": "Jakarta (ANTARA) &ndash; Tzu Chi Hospital Pantai Indah Kapuk (PIK), Jakarta Utara, menghadirkan beragam paket medical ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bahlil umumkan empat instansi di bawah Kemenko Hilirisasi dan Energi",
-      "link": "https://www.antaranews.com/video/5872939/bahlil-umumkan-empat-instansi-di-bawah-kemenko-hilirisasi-dan-energi",
-      "published": "Mon, 23 Nov 2026 17:58:44 +0700",
-      "description": "ANTARA - Menteri Koordinator Bidang Hilirisasi dan Energi Bahlil Lahadalia mengumumkan empat kementerian dan lembaga ...",
+      "title": "Danantara bakal rilis laporan keuangan 2025 Rabu ini",
+      "link": "https://www.antaranews.com/berita/5873031/danantara-bakal-rilis-laporan-keuangan-2025-rabu-ini",
+      "published": "Mon, 23 Nov 2026 18:28:59 +0700",
+      "description": "Chief Executive Officer (CEO) BPI Danantara Rosan Roeslani menyatakan laporan keuangan Badan Pengelola Investasi (BPI) ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Akademisi tekankan literasi digital berkelanjutan atasi ancaman siber",
-      "link": "https://www.antaranews.com/berita/5872951/akademisi-tekankan-literasi-digital-berkelanjutan-atasi-ancaman-siber",
-      "published": "Mon, 23 Nov 2026 17:58:05 +0700",
-      "description": "Wakil Rektor bidang penelitian dan alih teknologi Binus University, Prof Juneman Abrahaman&nbsp;menekankan pentingnya ...",
+      "title": "Menko Bahlil hargai kontrak ekspor gas ke Singapura",
+      "link": "https://www.antaranews.com/berita/5873027/menko-bahlil-hargai-kontrak-ekspor-gas-ke-singapura",
+      "published": "Mon, 23 Nov 2026 18:28:51 +0700",
+      "description": "Menteri Koordinator Bidang Hilirisasi dan Energi Bahlil Lahadalia menyampaikan Indonesia menghargai kontrak ekspor gas ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
