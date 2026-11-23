@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-23T07:25:34+0000",
+  "timestamp": "2026-11-23T07:56:33+0000",
   "articles": [
     {
       "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
       "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 04:21:50 GMT",
       "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "NHS launches world's largest AI breast cancer screening trial",
+      "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 00:49:22 GMT",
+      "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -26,42 +34,34 @@
       "category": "Global"
     },
     {
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 07:01:31 GMT",
-      "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Kiat menyiapkan sajian ikan untuk anak-anak",
-      "link": "https://www.antaranews.com/berita/5872211/kiat-menyiapkan-sajian-ikan-untuk-anak-anak",
-      "published": "Mon, 23 Nov 2026 14:21:30 +0700",
-      "description": "Ketua Umum Asosiasi Dietisien Indonesia (Asdi)&nbsp;Fitri Hudayani&nbsp;mengemukakan perlunya kehati-hatian dalam ...",
+      "title": "Sultra salurkan 26 mesin pompa air agar sawah tetap produksi",
+      "link": "https://www.antaranews.com/berita/5872375/sultra-salurkan-26-mesin-pompa-air-agar-sawah-tetap-produksi",
+      "published": "Mon, 23 Nov 2026 14:56:01 +0700",
+      "description": "Pemerintah Provinsi (Pemprov) Sulawesi Tenggara (Sultra) menyalurkan sebanyak 26 unit mesin pompa air bagi para petani ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Bapanas optimalkan cadangan beras pemerintah tekan harga jelang Nataru",
-      "link": "https://www.antaranews.com/berita/5872207/bapanas-optimalkan-cadangan-beras-pemerintah-tekan-harga-jelang-nataru",
-      "published": "Mon, 23 Nov 2026 14:19:50 +0700",
-      "description": "Badan Pangan Nasional (Bapanas) mengoptimalkan cadangan beras pemerintah (CBP) yang dikelola Perum Bulog untuk menjaga ...",
+      "title": "Ford kembali ke Jepang, tapi, tak dijual untuk masyarakat umum",
+      "link": "https://otomotif.antaranews.com/berita/5872371/ford-kembali-ke-jepang-tapi-tak-dijual-untuk-masyarakat-umum",
+      "published": "Mon, 23 Nov 2026 14:55:45 +0700",
+      "description": "Distributor ekspor Ford&nbsp;Global Fleet Sales akan mengimpor sejumlah model mobil asal Amerika Serikat itu ke Jepang ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pemkab Donggala optimalkan 12.000 hektare lahan jagung perkuat pangan",
-      "link": "https://www.antaranews.com/berita/5872203/pemkab-donggala-optimalkan-12000-hektare-lahan-jagung-perkuat-pangan",
-      "published": "Mon, 23 Nov 2026 14:16:02 +0700",
-      "description": "Pemerintah Kabupaten Donggala, Sulawesi Tengah (Sulteng) mengoptimalkan potensi lahan pertanian jagung seluas 12.000 ...",
+      "title": "Kementan targetkan produktivitas kedelai enam ton per hektare",
+      "link": "https://www.antaranews.com/video/5872311/kementan-targetkan-produktivitas-kedelai-enam-ton-per-hektare",
+      "published": "Mon, 23 Nov 2026 14:53:12 +0700",
+      "description": "ANTARA - &nbsp;&lrm;Wakil Menteri Pertanian Alim Setiawan Slamet menargetkan peningkatan produktivitas kedelai nasional ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Pangkalpinang dukung guru lewat seminar dan konseling gratis",
-      "link": "https://www.antaranews.com/video/5872191/pangkalpinang-dukung-guru-lewat-seminar-dan-konseling-gratis",
-      "published": "Mon, 23 Nov 2026 14:13:05 +0700",
-      "description": "ANTARA - Persatuan Guru Republik Indonesia Kota Pangkalpinang menggelar seminar &ldquo;1000 Suara Hati Perempuan ...",
+      "title": "Rano dorong harmonisasi regulasi untuk percepat pembangunan",
+      "link": "https://www.antaranews.com/berita/5872363/rano-dorong-harmonisasi-regulasi-untuk-percepat-pembangunan",
+      "published": "Mon, 23 Nov 2026 14:52:10 +0700",
+      "description": "Wakil Gubernur (Wagub) DKI Jakarta, Rano Karno, mendorong harmonisasi produk hukum daerah dengan kebijakan strategis ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
