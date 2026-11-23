@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-23T04:19:35+0000",
+  "timestamp": "2026-11-23T04:50:34+0000",
   "articles": [
     {
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
@@ -26,15 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
-      "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 00:49:22 GMT",
-      "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+      "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+      "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 04:21:50 GMT",
+      "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "error": "no element found: line 2, column 0",
+      "title": "Apple perkuat posisi di tengah kelesuan pasar ponsel pintar AS",
+      "link": "https://www.antaranews.com/berita/5871843/apple-perkuat-posisi-di-tengah-kelesuan-pasar-ponsel-pintar-as",
+      "published": "Mon, 23 Nov 2026 11:48:32 +0700",
+      "description": "Apple memperkuat posisinya di pasar ponsel pintar Amerika Serikat (AS) yang sedang melesu, pangsa pasarnya pada kuartal ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "TEP Unhas bantu petani cabai hemat 79 persen biaya pengendalian hama",
+      "link": "https://www.antaranews.com/berita/5871839/tep-unhas-bantu-petani-cabai-hemat-79-persen-biaya-pengendalian-hama",
+      "published": "Mon, 23 Nov 2026 11:48:29 +0700",
+      "description": "Tim Ekspedisi Patriot (TEP) Universitas Hasanuddin (Unhas) membantu petani cabai di Kampung Saharey, Kabupaten Fakfak, ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "BPS: Harga bawang merah masih di bawah HAP meski naik",
+      "link": "https://www.antaranews.com/berita/5871835/bps-harga-bawang-merah-masih-di-bawah-hap-meski-naik",
+      "published": "Mon, 23 Nov 2026 11:48:01 +0700",
+      "description": "Badan Pusat Statistik (BPS) mencatat harga bawang merah mengalami kenaikan pada minggu ketiga November 2026, meski ...",
+      "source": "Antara News",
+      "category": "Indonesia"
+    },
+    {
+      "title": "Dirut PLN pimpin langsung penguatan pasokan listrik Sulbagsel",
+      "link": "https://www.antaranews.com/berita/5871831/dirut-pln-pimpin-langsung-penguatan-pasokan-listrik-sulbagsel",
+      "published": "Mon, 23 Nov 2026 11:46:22 +0700",
+      "description": "Direktur Utama PT PLN (Persero)&nbsp;Suroso Isnandar memimpin langsung upaya penguatan pasokan listrik di sistem ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
