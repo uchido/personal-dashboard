@@ -1,11 +1,19 @@
 {
-  "timestamp": "2026-11-24T17:00:33+0000",
+  "timestamp": "2026-11-24T17:31:34+0000",
   "articles": [
     {
       "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
       "link": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 24 Nov 2026 16:19:29 GMT",
       "description": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 17:04:20 GMT",
+      "description": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -20,48 +28,40 @@
     {
       "title": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
       "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 16:11:33 GMT",
+      "published": "Tue, 24 Nov 2026 17:16:09 GMT",
       "description": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Zoe Kleinman: My week with Meta's AI agent Muse ahead of its UK launch",
-      "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 09:33:00 GMT",
-      "description": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Pertamina EP Rantau pulihkan produksi migas pascabencana Aceh",
-      "link": "https://www.antaranews.com/berita/5876163/pertamina-ep-rantau-pulihkan-produksi-migas-pascabencana-aceh",
-      "published": "Tue, 24 Nov 2026 23:42:06 +0700",
-      "description": "Pertamina EP (PEP) Rantau Field memulihkan operasional dan meningkatkan produksi migas hingga mendekati 1.900 barel ...",
+      "title": "BNPPDT evaluasi pembangunan jalan perbatasan Kalimantan hingga Papua",
+      "link": "https://www.antaranews.com/berita/5876183/bnppdt-evaluasi-pembangunan-jalan-perbatasan-kalimantan-hingga-papua",
+      "published": "Wed, 25 Nov 2026 00:29:26 +0700",
+      "description": "Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (BNPPDT) mengevaluasi pembangunan jalan perbatasan di ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Searah: Pemerintah setujui rencana pengembangan lapangan gas Geliga",
-      "link": "https://www.antaranews.com/berita/5876155/searah-pemerintah-setujui-rencana-pengembangan-lapangan-gas-geliga",
-      "published": "Tue, 24 Nov 2026 23:38:28 +0700",
-      "description": "Searah, perusahaan energi hulu kemitraan Eni dan Petronas, mengumumkan Pemerintah Indonesia menyetujui Plan of ...",
+      "title": "Dua petani ditangkap karena diduga jual bantuan alsintan Kementan",
+      "link": "https://www.antaranews.com/berita/5876179/dua-petani-ditangkap-karena-diduga-jual-bantuan-alsintan-kementan",
+      "published": "Wed, 25 Nov 2026 00:22:03 +0700",
+      "description": "Tim Unit Tindak Pidana Korupsi Direktorat Reserse dan Kriminal Khusus Polda Sulawesi Selatan (Sulsel) bersama tim ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "DVI identifikasi satu jenazah korban kebakaran PT FAM",
-      "link": "https://www.antaranews.com/video/5876143/dvi-identifikasi-satu-jenazah-korban-kebakaran-pt-fam",
-      "published": "Tue, 24 Nov 2026 23:34:24 +0700",
-      "description": "ANTARA - Tim DVI Polri dan Polda Banten mengidentifikasi satu jenazah korban kebakaran PT Fonusa Agung Mulia di ...",
+      "title": "Michael dukung audit dana APBN dan non-APBN FFI",
+      "link": "https://www.antaranews.com/video/5876159/michael-dukung-audit-dana-apbn-dan-non-apbn-ffi",
+      "published": "Wed, 25 Nov 2026 00:21:17 +0700",
+      "description": "ANTARA - Mantan Ketua Umum Federasi Futsal Indonesia (FFI)&nbsp;Michael Sianipar menyambut baik rencana PSSI mengaudit ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Senat UPNVJ tunggu kepastian tahapan akhir pemilihan rektor",
-      "link": "https://www.antaranews.com/berita/5876151/senat-upnvj-tunggu-kepastian-tahapan-akhir-pemilihan-rektor",
-      "published": "Tue, 24 Nov 2026 23:33:32 +0700",
-      "description": "Senat Universitas Pembangunan Nasional Veteran Jakarta (UPNVJ) masih menunggu arahan Menteri Pendidikan Tinggi, Sains, ...",
+      "title": "Kao: APG jadi investasi strategis ketahanan energi ASEAN",
+      "link": "https://www.antaranews.com/berita/5876175/kao-apg-jadi-investasi-strategis-ketahanan-energi-asean",
+      "published": "Wed, 25 Nov 2026 00:08:27 +0700",
+      "description": "Sekretaris Jenderal ASEAN Kao Kim Hourn menyatakan bahwa tidak ada negara anggota ASEAN yang dapat mencapai ketahanan ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
