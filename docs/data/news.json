@@ -1,19 +1,11 @@
 {
-  "timestamp": "2026-11-24T14:56:34+0000",
+  "timestamp": "2026-11-24T15:27:33+0000",
   "articles": [
     {
       "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
       "link": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 14:33:50 GMT",
+      "published": "Tue, 24 Nov 2026 15:25:02 GMT",
       "description": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
-      "source": "BBC News",
-      "category": "Global"
-    },
-    {
-      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 01:21:41 GMT",
-      "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
       "source": "BBC News",
       "category": "Global"
     },
@@ -28,40 +20,48 @@
     {
       "title": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
       "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 14:53:10 GMT",
+      "published": "Tue, 24 Nov 2026 15:16:15 GMT",
       "description": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
       "source": "BBC News",
       "category": "Global"
     },
     {
-      "title": "Pemkot Balikpapan usulkan UMK 2027 Rp4,3 juta perkuat daya beli",
-      "link": "https://www.antaranews.com/berita/5876003/pemkot-balikpapan-usulkan-umk-2027-rp43-juta-perkuat-daya-beli",
-      "published": "Tue, 24 Nov 2026 21:55:17 +0700",
-      "description": "Pemerintah Kota Balikpapan, Kalimantan Timur, mengusulkan Upah Minimum Kota (UMK) tahun 2027 sebesar Rp4,3 juta untuk ...",
+      "title": "Zoe Kleinman: My week with Meta's AI agent Muse ahead of its UK launch",
+      "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 09:33:00 GMT",
+      "description": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "El Nino berpotensi tingkatkan risiko data center di Asia Tenggara",
+      "link": "https://www.antaranews.com/berita/5876067/el-nino-berpotensi-tingkatkan-risiko-data-center-di-asia-tenggara",
+      "published": "Tue, 24 Nov 2026 22:24:02 +0700",
+      "description": "Potensi kembalinya El Nino dapat meningkatkan pengawasan terhadap penggunaan air untuk operasional data center, dengan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Tumbuh 9,75 persen, Kemenperin sebut industri alas kaki masih menarik",
-      "link": "https://www.antaranews.com/video/5875979/tumbuh-975-persen-kemenperin-sebut-industri-alas-kaki-masih-menarik",
-      "published": "Tue, 24 Nov 2026 21:54:09 +0700",
-      "description": "ANTARA -&nbsp;Industri alas kaki nasional mencatat pertumbuhan 9,75 persen pada triwulan ketiga 2026, melampaui ...",
+      "title": "Kemenhaj bentuk Satgas Istitaah Kesehatan Haji cegah manipulasi",
+      "link": "https://www.antaranews.com/berita/5876063/kemenhaj-bentuk-satgas-istitaah-kesehatan-haji-cegah-manipulasi",
+      "published": "Tue, 24 Nov 2026 22:23:32 +0700",
+      "description": "Kementerian Haji dan Umrah (Kemenhaj) memperketat pengawasan dan penetapan istitaah&nbsp;kesehatan calon haji ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Menhub: Indonesia raih 110 suara saat terpilih jadi Anggota Dewan ICAO",
-      "link": "https://www.antaranews.com/berita/5875995/menhub-indonesia-raih-110-suara-saat-terpilih-jadi-anggota-dewan-icao",
-      "published": "Tue, 24 Nov 2026 21:53:03 +0700",
-      "description": "Menteri Perhubungan (Menhub) Dudy Purwagandhi mengatakan Indonesia meraih 110 suara saat terpilih sebagai Anggota Dewan ...",
+      "title": "Mentan Amran: Penurunan harga pupuk dongkrak penebusan petani",
+      "link": "https://www.antaranews.com/berita/5876059/mentan-amran-penurunan-harga-pupuk-dongkrak-penebusan-petani",
+      "published": "Tue, 24 Nov 2026 22:23:18 +0700",
+      "description": "Menteri Pertanian Andi Amran Sulaiman mengatakan penurunan harga pupuk bersubsidi mendorong peningkatan penebusan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Astronaut pertama Hong Kong tuntaskan misi Shenzhou-23 dengan baik",
-      "link": "https://www.antaranews.com/berita/5875991/astronaut-pertama-hong-kong-tuntaskan-misi-shenzhou-23-dengan-baik",
-      "published": "Tue, 24 Nov 2026 21:52:14 +0700",
-      "description": "Seorang juru bicara Badan Antariksa Berawak China (CMSA) pada hari Selasa (24/11) memberikan pujian tinggi kepada Li ...",
+      "title": "Prabowo bertemu empat mata dengan Dasco di Istana selama dua jam",
+      "link": "https://www.antaranews.com/berita/5876055/prabowo-bertemu-empat-mata-dengan-dasco-di-istana-selama-dua-jam",
+      "published": "Tue, 24 Nov 2026 22:22:41 +0700",
+      "description": "Presiden Prabowo Subianto menerima Wakil Ketua Dewan Perwakilan Rakyat Republik Indonesia (DPR RI) Sufmi Dasco Ahmad di ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
