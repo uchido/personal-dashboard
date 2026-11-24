@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-24T11:50:30+0000",
+  "timestamp": "2026-11-24T12:21:30+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 95.2,
+    "percent": 75.0,
     "cores": 2,
     "load_avg": [
-      3.53,
-      3.61,
+      3.93,
+      3.66,
       3.67
     ]
   },
@@ -26,8 +26,8 @@
   "uptime": {
     "days": 148,
     "hours": 0,
-    "minutes": 16,
-    "total_seconds": 12788178.09
+    "minutes": 47,
+    "total_seconds": 12790038.19
   },
   "top_processes": [
     {
@@ -38,27 +38,27 @@
     },
     {
       "user": "ubuntu",
+      "cpu": "88.8",
+      "mem": "0.0",
+      "command": "[node /home/ubun] <defunct>"
+    },
+    {
+      "user": "ubuntu",
       "cpu": "30.7",
       "mem": "2.5",
       "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
     },
     {
       "user": "ubuntu",
-      "cpu": "26.8",
+      "cpu": "25.0",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
     {
       "user": "ubuntu",
-      "cpu": "22.2",
+      "cpu": "15.7",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "10.5",
-      "mem": "0.4",
-      "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
     }
   ]
 }
