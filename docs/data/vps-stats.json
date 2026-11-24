@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-24T18:33:30+0000",
+  "timestamp": "2026-11-24T19:04:30+0000",
   "hostname": "aldovnic",
   "cpu": {
     "percent": 80.0,
     "cores": 2,
     "load_avg": [
-      3.92,
-      3.63,
-      3.63
+      3.96,
+      3.41,
+      3.4
     ]
   },
   "memory": {
@@ -20,27 +20,21 @@
   "disk": {
     "total": "193G",
     "used": "184G",
-    "available": "8.9G",
+    "available": "8.8G",
     "percent": "96%"
   },
   "uptime": {
     "days": 148,
-    "hours": 6,
-    "minutes": 59,
-    "total_seconds": 12812357.88
+    "hours": 7,
+    "minutes": 30,
+    "total_seconds": 12814217.7
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "100",
+      "cpu": "85.7",
       "mem": "0.4",
-      "command": "node /home/ubuntu/.npm-global/bin/9router"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
+      "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
       "user": "ubuntu",
@@ -56,9 +50,15 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "13.6",
+      "cpu": "16.6",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "10.5",
+      "mem": "0.4",
+      "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
     }
   ]
 }
