@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-11-24T18:02:34+0000",
+  "timestamp": "2026-11-24T18:33:30+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 75.0,
+    "percent": 80.0,
     "cores": 2,
     "load_avg": [
-      3.35,
-      3.52,
-      3.54
+      3.92,
+      3.63,
+      3.63
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.4,
+    "free": 0.9,
     "available": 3.9,
     "used": 7.7,
     "percent": 66.4
@@ -20,16 +20,28 @@
   "disk": {
     "total": "193G",
     "used": "184G",
-    "available": "9.0G",
+    "available": "8.9G",
     "percent": "96%"
   },
   "uptime": {
     "days": 148,
     "hours": 6,
-    "minutes": 28,
-    "total_seconds": 12810501.82
+    "minutes": 59,
+    "total_seconds": 12812357.88
   },
   "top_processes": [
+    {
+      "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.4",
+      "command": "node /home/ubuntu/.npm-global/bin/9router"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
     {
       "user": "ubuntu",
       "cpu": "30.7",
@@ -38,27 +50,15 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "15.5",
+      "cpu": "26.8",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
     {
       "user": "ubuntu",
-      "cpu": "11.7",
-      "mem": "0.0",
-      "command": "python3 /home/ubuntu/personal-dashboard/scripts/co"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "10.5",
-      "mem": "0.4",
-      "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "5.8",
-      "mem": "0.6",
-      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
+      "cpu": "13.6",
+      "mem": "0.1",
+      "command": "python3 scripts/collect-vps.py"
     }
   ]
 }
