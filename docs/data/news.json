@@ -1,14 +1,6 @@
 {
-  "timestamp": "2026-11-23T23:57:33+0000",
+  "timestamp": "2026-11-24T00:28:33+0000",
   "articles": [
-    {
-      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 23:10:27 GMT",
-      "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "source": "BBC News",
-      "category": "Global"
-    },
     {
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
@@ -34,34 +26,42 @@
       "category": "Global"
     },
     {
-      "title": "Ini lokasi SIM Keliling di Jakarta pada Selasa",
-      "link": "https://www.antaranews.com/berita/5873887/ini-lokasi-sim-keliling-di-jakarta-pada-selasa",
-      "published": "Tue, 24 Nov 2026 06:54:16 +0700",
-      "description": "Direktorat Lalu Lintas (Ditlantas) Polda Metro Jaya membuka layanan Surat Izin Mengemudi (SIM) Keliling di lima lokasi ...",
+      "title": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
+      "link": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 20:49:08 GMT",
+      "description": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
+      "source": "BBC News",
+      "category": "Global"
+    },
+    {
+      "title": "DPD dorong penguatan pengawasan pengelolaan keuangan haji",
+      "link": "https://www.antaranews.com/berita/5873919/dpd-dorong-penguatan-pengawasan-pengelolaan-keuangan-haji",
+      "published": "Tue, 24 Nov 2026 07:26:55 +0700",
+      "description": "Komite III Dewan Perwakilan Daerah Republik Indonesia (DPD RI) mendorong penguatan tata kelola dan pengawasan ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "DKI kemarin, relokasi pedagang Jatinegara hingga PON Pantai",
-      "link": "https://www.antaranews.com/berita/5873883/dki-kemarin-relokasi-pedagang-jatinegara-hingga-pon-pantai",
-      "published": "Tue, 24 Nov 2026 06:48:00 +0700",
-      "description": "Gubernur DKI Jakarta Pramono Anung Wibowo menjajaki dan memperkuat kerja sama di bidang transportasi publik, ...",
+      "title": "PU tangani longsor dan pulihkan akses Jalan Nasional Banjar–Ciamis",
+      "link": "https://www.antaranews.com/berita/5873915/pu-tangani-longsor-dan-pulihkan-akses-jalan-nasional-banjar-ciamis",
+      "published": "Tue, 24 Nov 2026 07:22:47 +0700",
+      "description": "Kementerian Pekerjaan Umum (PU) melalui Balai Besar Pelaksanaan Jalan Nasional (BBPJN) DKI Jakarta&ndash;Jawa Barat ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Kriminal kemarin, polisi dikeroyok hingga sindikat \"love scam\"",
-      "link": "https://www.antaranews.com/berita/5873879/kriminal-kemarin-polisi-dikeroyok-hingga-sindikat-love-scam",
-      "published": "Tue, 24 Nov 2026 06:42:03 +0700",
-      "description": "Dua anggota Satuan Reserse Narkoba (Sat Narkoba) Polres Metro Jakarta Barat menjadi korban pengeroyokan saat melintas ...",
+      "title": "14 perjalanan KA jarak jauh dari Stasiun Karawang berangkat lebih awal",
+      "link": "https://www.antaranews.com/berita/5873911/14-perjalanan-ka-jarak-jauh-dari-stasiun-karawang-berangkat-lebih-awal",
+      "published": "Tue, 24 Nov 2026 07:13:18 +0700",
+      "description": "PT Kereta Api Indonesia (Persero) Daerah Operasi 1 Jakarta menyampaikan sekitar 14 perjalanan kereta api jarak jauh ...",
       "source": "Antara News",
       "category": "Indonesia"
     },
     {
-      "title": "Hukum kemarin, tersangka kasus makar hingga putusan MK soal UU Polri",
-      "link": "https://www.antaranews.com/berita/5873875/hukum-kemarin-tersangka-kasus-makar-hingga-putusan-mk-soal-uu-polri",
-      "published": "Tue, 24 Nov 2026 06:12:43 +0700",
-      "description": "Sejumlah peristiwa hukum telah diwartakan oleh pewarta Kantor Berita ANTARA pada Senin (23/11). Berikut beberapa berita ...",
+      "title": "Kemarin, protein makanan anak hingga deretan mobil baru di GAW 2026",
+      "link": "https://www.antaranews.com/berita/5873907/kemarin-protein-makanan-anak-hingga-deretan-mobil-baru-di-gaw-2026",
+      "published": "Tue, 24 Nov 2026 07:11:19 +0700",
+      "description": "Sejumlah berita menarik dari kanal lifestyle, tekno, otomotif, dan hiburan pada Senin (23/11) masih dapat dibaca ...",
       "source": "Antara News",
       "category": "Indonesia"
     }
