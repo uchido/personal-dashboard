@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T14:42:34+0000",
+  "timestamp": "2026-11-25T15:13:33+0000",
   "locations": [
     {
       "name": "Palu",
@@ -52,7 +52,7 @@
       "feels_like_c": "29",
       "humidity": "92",
       "wind_speed_kmh": "4",
-      "wind_dir": "S",
+      "wind_dir": "SSW",
       "visibility_km": "10",
       "pressure_mb": "1012",
       "condition": "Patchy rain nearby",
@@ -69,7 +69,7 @@
         },
         {
           "date": "2026-11-26",
-          "max_temp": "28",
+          "max_temp": "29",
           "min_temp": "24",
           "condition": "Patchy rain nearby",
           "sunrise": "05:10 AM",
@@ -79,7 +79,7 @@
           "date": "2026-11-27",
           "max_temp": "29",
           "min_temp": "24",
-          "condition": "Mist",
+          "condition": "Light rain shower",
           "sunrise": "05:10 AM",
           "sunset": "05:42 PM"
         }
