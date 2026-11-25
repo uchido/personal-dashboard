@@ -1,45 +1,51 @@
 {
-  "timestamp": "2026-11-25T11:36:31+0000",
+  "timestamp": "2026-11-25T12:07:29+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 76.2,
+    "percent": 75.0,
     "cores": 2,
     "load_avg": [
-      4.4,
-      4.41,
-      4.27
+      2.68,
+      3.12,
+      3.6
     ]
   },
   "memory": {
     "total": 11.6,
-    "free": 0.9,
-    "available": 3.9,
-    "used": 7.7,
-    "percent": 66.4
+    "free": 0.8,
+    "available": 3.8,
+    "used": 7.8,
+    "percent": 67.2
   },
   "disk": {
     "total": "193G",
     "used": "187G",
-    "available": "6.1G",
+    "available": "6.0G",
     "percent": "97%"
   },
   "uptime": {
     "days": 149,
     "hours": 0,
-    "minutes": 2,
-    "total_seconds": 12873738.49
+    "minutes": 33,
+    "total_seconds": 12875597.03
   },
   "top_processes": [
     {
       "user": "ubuntu",
-      "cpu": "300",
+      "cpu": "133",
       "mem": "0.3",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
     },
     {
       "user": "ubuntu",
+      "cpu": "100",
+      "mem": "0.0",
+      "command": "ps aux --sort=-%cpu --no-headers"
+    },
+    {
+      "user": "ubuntu",
       "cpu": "30.6",
-      "mem": "2.3",
+      "mem": "2.4",
       "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
     },
     {
@@ -50,15 +56,9 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "21.0",
+      "cpu": "16.6",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "10.5",
-      "mem": "0.4",
-      "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
     }
   ]
 }
