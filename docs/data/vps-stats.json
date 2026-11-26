@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-26T07:45:30+0000",
+  "timestamp": "2026-11-26T08:16:29+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 90.0,
+    "percent": 78.9,
     "cores": 2,
     "load_avg": [
-      3.56,
-      3.9,
-      3.82
+      4.88,
+      4.55,
+      4.15
     ]
   },
   "memory": {
@@ -20,27 +20,21 @@
   "disk": {
     "total": "193G",
     "used": "191G",
-    "available": "2.4G",
+    "available": "2.3G",
     "percent": "99%"
   },
   "uptime": {
     "days": 149,
     "hours": 20,
-    "minutes": 11,
-    "total_seconds": 12946278.19
+    "minutes": 42,
+    "total_seconds": 12948137.19
   },
   "top_processes": [
     {
       "user": "ubuntu",
       "cpu": "100",
-      "mem": "0.2",
+      "mem": "0.3",
       "command": "/usr/bin/node /home/ubuntu/.npm-global/lib/node_mo"
-    },
-    {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
     },
     {
       "user": "ubuntu",
@@ -50,15 +44,21 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "24.2",
+      "cpu": "28.4",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
     {
       "user": "ubuntu",
-      "cpu": "16.6",
+      "cpu": "15.7",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "10.5",
+      "mem": "0.4",
+      "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
     }
   ]
 }
