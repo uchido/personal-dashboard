@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-26T12:24:29+0000",
+  "timestamp": "2026-11-26T12:55:30+0000",
   "hostname": "aldovnic",
   "cpu": {
-    "percent": 85.0,
+    "percent": 90.0,
     "cores": 2,
     "load_avg": [
-      3.33,
-      3.2,
-      3.41
+      4.0,
+      3.35,
+      3.45
     ]
   },
   "memory": {
@@ -20,22 +20,16 @@
   "disk": {
     "total": "193G",
     "used": "192G",
-    "available": "1.6G",
+    "available": "1.5G",
     "percent": "100%"
   },
   "uptime": {
     "days": 150,
-    "hours": 0,
-    "minutes": 50,
-    "total_seconds": 12963017.25
+    "hours": 1,
+    "minutes": 21,
+    "total_seconds": 12964877.61
   },
   "top_processes": [
-    {
-      "user": "ubuntu",
-      "cpu": "100",
-      "mem": "0.0",
-      "command": "ps aux --sort=-%cpu --no-headers"
-    },
     {
       "user": "ubuntu",
       "cpu": "30.6",
@@ -44,13 +38,13 @@
     },
     {
       "user": "ubuntu",
-      "cpu": "27.3",
+      "cpu": "27.4",
       "mem": "0.7",
       "command": "/home/ubuntu/.hermes/tools/python-3.14.9+20261021-"
     },
     {
       "user": "ubuntu",
-      "cpu": "17.6",
+      "cpu": "15.7",
       "mem": "0.1",
       "command": "python3 scripts/collect-vps.py"
     },
@@ -59,6 +53,12 @@
       "cpu": "10.5",
       "mem": "0.4",
       "command": "/snap/chromium/3572/usr/lib/chromium-browser/chrom"
+    },
+    {
+      "user": "ubuntu",
+      "cpu": "5.8",
+      "mem": "0.7",
+      "command": "PM2 v7.0.1: God Daemon (/home/ubuntu/.pm2)"
     }
   ]
 }
